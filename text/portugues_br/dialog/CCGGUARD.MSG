@@ -1,0 +1,118 @@
+{100}{}{Você vê um guarda.}
+# You see a guard. 
+{101}{}{Você vê o guarda do portão.}
+# You see the gate guard.
+{102}{}{Você vê um guarda usando uma power armor de design diferente. Há uma insígnia no peitoral desconhecida para você.}
+# You see a guard wearing power armor of an unusual design. There is an insignia on the breastplate that you are unfamiliar with.
+
+{103}{gate1}{Parado! Aqui é propriedade federal - não é permitida a entrada, a não ser com a devida autorização.}
+# Halt! This is federal property – no admittance without proper authorization.
+{104}{}{Ahn... pro pi edade}
+# Uh... fed ur al?
+{105}{}{Mim ter passe... onde mim coloca?}
+# Me got pass... where I put?
+{106}{}{Mim novo. Falar mim você esperano.}
+# Me new. Me told you expect.
+{107}{}{Oh. Desculpa, mim vai}
+# Oh. Sorry, me go.
+{108}{}{Eu tenho meu passe... tá logo aqui.}
+# I have my pass... it was right here.
+{109}{}{Sou um novo recruta. Me foi dito que você estaria a minha espera.}
+# I’m a new recruit. I was told you’d be expecting me.
+{110}{}{Oh, desculpa. Vou indo nessa então.}
+# Oh, sorry. I’ll be heading out then.
+
+{111}{gate2}{Você é um pouquinho lento, né?? Bem, vá andando e não volte aqui. Ficará tudo bem. Entendeu?}
+# You’re a little slow, aren'tcha?? Well, just keep moving and don’t come back here. You’ll be fine. Understand?
+{112}{}{Mim quer ir aí.}
+# Me want go inside.
+{113}{}{Ok. Mim vai.}
+# Ok. Me go.
+
+{114}{gate3}{Não é permitida a entr... merda. Ok, vamos lá. (lentamente) Precisa passe pra entrar. Você não ter passe. Você ir embora agora. Você machucado se não ir. Entendeu?}
+# Nobody gets... Damn. (slowly) Need pass get inside. You no got pass. You go away. You no go away, you get hurt. Understand?
+{115}{}{E se machucado ser você?}
+# How bout me hurt you instead?
+{116}{}{Ok. Mim ir.}
+# Ok. Me go.
+
+{117}{gate14}{(armas em punho) Não quero suas desculpas! Você precisa de um dos dois: me mostrar o seu passe, ou me dizer a senha!}
+# (places hand on weapon) Don’t give me any excuses! You need to either show me your pass or give me the password!
+{118}{}{Não achar passe, não lembrar senha!}
+# No can find pass, no remember password!
+{119}{}{Foda-se. Mim matar.}
+# Screw this. Me kill.
+{120}{}{Me desculpe, eu perdi o meu passe, e não lembro nada sobre uma senha.}
+# I’m sorry, I lost my pass and I don’t know anything about a password.
+{121}{}{Foda-se você e todos que pareçam com você!}
+# Screw you and everyone who looks like you!
+
+{122}{gate5}{Eu sugiro que você deixe este local imediatamente e não retorne aqui sem a devida autorização. Fui claro?}
+# I suggest you leave this installation immediately and do not return here without proper authorization.  Do I make myself clear?
+{123}{}{Sim.}
+
+{124}{gate6a}{Entendo. Pode me dizer sua senha?}
+# I see. May I have your password?
+{125}{gate6b}{Entendo. (armas em punho) Todos os novos recrutas devem apresentar-se para o dever sozinhos. Sugiro que você deixe este local imediatamente e não retorne com esta companhia. Fui claro?}
+# I see. (places hand on weapon) All new recruits are to report for duty alone. I suggest you leave this installation immediately and do not return here with your entourage. Do I make myself clear?
+{126}{}{Cabeça de bagre.}
+# Sheepshead.
+{127}{}{Sim.}
+
+{128}{gate7a}{Um momento. (pausa) Okay, pode ir. Reporte-se com o comandante em exercício. Vá através do portão, passe o canil. É a primeira porta à direita.}
+# One moment. (pause) Okay, you check out. Report to the drill chief. Go through the gate, past the kennel, and it’s the first door on the right.
+{129}{gate7b}{(resmunga) Esses cabeções estão ficando mais estúpidos a cada hora.}
+# (mumbles) Damn jarheads are getting dumber by the hour.
+{130}{}{Ok.}
+
+{131}{gate8a}{Parado! - Oh. Vejo que retornou e está sozinho desta vez. Ok, recruta, me diga a senha.}
+# Halt! – Oh. I see you’ve returned and you’re alone this time. All right, recruit, what’s the password?
+{132}{gate8b}{Parado! - Você de novo. Vejo que você ainda está com o seu grupo. (armas em punho) Eu sugiro que você deixe esta instalação e não volte aqui. Fui claro?}
+# Halt! – You again. I see you’ve still got your group with you. (places hand on weapon) I suggest you leave this installation immediately and do not return here. Do I make myself clear?
+{133}{}{Cabeça de bagre.}
+# Sheepshead.
+{134}{}{Sim.}
+
+{135}{gate9}{Parado! - Voltou hein! É melhor que você tenha seu passe ou saiba a senha dessa vez. Bem, está me fazendo esperar?}
+# Halt! – Back again, huh? You’d better have your pass or know your password this time. Well, I’m waiting?
+{136}{}{Ahn... mim não saber. Mim voltar.}
+# Uh... me not know. Me come back.
+{137}{}{Foda-se. Mim pisar no seu corpo morto.}
+# Screw this. Me walk in over you dead body.
+{138}{}{Entenda, eu perdi o meu passe...}
+# Look, I lost my pass...
+{139}{}{Ah, pro inferno com isso. Coma minhas balas, idiota!}
+# Oh to hell with it. Bite the bullet, asshole!
+
+{140}{gate10}{É a última vez que aviso. Eu sugiro que você deixe este local imediatamente e não retorne. Fui claro?}
+# This is your final warning. I suggest you leave this installation immediately and do not return here. Do I make myself clear?
+{141}{}{Ok, mim ir de novo...}
+# Ok, me go again...
+{142}{}{Já dizia o sábio... Vá se foder!}
+# In words of ancients... Fuck you!
+{143}{}{Certo, estou indo.}
+# All right, I’m going.
+{144}{}{Já dizia o sábio... Vá se foder!}
+# In the words of the ancients... Fuck you!
+
+{145}{gate11a}{Parado! - Você de novo? Você foi avisado. Alarme! Intruso no portão!}
+# Halt! – You again? You were warned. Alarm! Intruder at the gate!
+{146}{}{Merda!}
+# Damn!
+
+# Floats
+{147}{}{Intruso no portão!}
+# Intruder at the gate!
+{148}{}{Entrada principal sob ataque!}
+# Main entrance under attack!
+{149}{}{Para o portão! Intruso no portão!}
+# To the gate! Intruder at the gate!
+
+{200}{}{...imbecil...}
+# ...asshole...
+{201}{}{...sim, era MELHOR você ter ido...}
+# ...yeah, you'd BETTER walk away...
+{202}{}{...mas que cachorrinho...}
+# ...what a brownie hound...
+{203}{}{...sim, senhor! fudido, senhor...}
+# ...yes, sir! fuckin' sir!...
