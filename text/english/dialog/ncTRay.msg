@@ -211,8 +211,7 @@
 {559}{}{I don't want you touching my car anymore. I'm outta here.}
 
 # 25. END OF ADDITIONS DEAL (24, 26, 30)
-{575}{}{Done. (Takes money) Give me some time, and it'll be out in fronta town for you. Don't worry...no one'll stake a
- claim on it while you're away. An' look: you ever need batteries, come talk to me, and I'll hook you up.}
+{575}{}{Done. (Takes money) It's all taken care of. An' look: you ever need batteries, come talk to me, and I'll hook you up.}
 {576}{}{Can I see what you have in stock now?}
 {577}{}{All right, then, thanks. Catch you later, T-Ray.}
 
@@ -220,8 +219,7 @@
 {590}{}{(Shakes his head.) Naw, that ain't gonna cut it. 500 or nothing.}
 
 # 27. CAN I COME BACK (24, 26, 30)
-{615}{}{Course you can. I'll leave your car out in fronta town for you. But don't worry...no one'll stake a claim on it while
- you're gone. An' look: you ever need any batteries for it, come talk to me, and I'll hook you up.}
+{615}{}{Course you can. It's all good. An' look: you ever need any batteries for it, come talk to me, and I'll hook you up.}
 {616}{}{Actually, I need some batteries right now.}
 {617}{}{I could use some batteries, but you know what? I don't feel like paying with chips…would you be interested in something…ELSE?}
 {619}{}{All right, then. Catch you later.}
@@ -335,6 +333,7 @@
 {811}{}{Nine hun…woman, are you joking?! }
 {812}{}{Cut the bull-shit! This is a HIGHWAYMAN. They don't make them ANYWHERE anymore, see? There's OTHER families that'll be
  willin' to pay for it if that cheap bastard Bishop won't…}
+{814}{}{Mr. Bishop has made a GENEROUS offer of 900 chips. You won't like the next offer.}
 {816}{}{So you are dealing with other families? Mr. Bishop will be interested to hear that.}
 {817}{}{I'm sorry? What did you just call Mr. Bishop?}
 {818}{}{I tire of this. We'll talk again later.}

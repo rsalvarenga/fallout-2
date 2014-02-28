@@ -206,7 +206,7 @@
 
 # 31. RICHARD WRIGHT: JET 2? (30)
 {405}{}{I don't know! (Hands clench into fists.) They sell that poison on every corner here in New Reno! EVERYWHERE you go, they're
- peddling it…!}
+ peddling it…}
 {406}{}{Do you know any specific dealers?}
 {407}{}{Look, forget I brought it up. I had some other questions…}
 

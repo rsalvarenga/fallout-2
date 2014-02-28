@@ -46,10 +46,10 @@
 
 # 6. WHAT'S WITH McGEE? (5)
 {250}{}{Oh, you mean old man McGee? He's mostly harmless. Spent near a fortune on
- that old slot machine and hasn't seen a return in years. Anyways... can I get you
- something, friend?}
+ that old slot machine and hasn't seen a return in years. I think it's busted. 
+ Anyways... can I get you something, friend?}
 
 # 7.  WHAT'S WITH LIL' JESUS? (5)
-{260}{}{That's Jesus's little boy, Lil' Jesus. Him and that knife are like close
+{260}{}{That's Jesus' little boy, Lil' Jesus. Him and that knife are like close
  friends… I've seen him do some wicked things with it. Anyways, can I get
  you something, friend?}

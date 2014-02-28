@@ -94,7 +94,7 @@
 {402}{}{I'm ready, I'm available, you put me in a movie, okay? We're talking box office, }
 {403}{}{I am the ultimate Latin lover. There is no Latin lover like me.}
 {404}{}{Talk to the Brothers about me, }
-{405}{}{Give a good word to the brothers for me, allright?}
+{405}{}{Give a good word to the brothers for me, alright?}
 {406}{}{You are doin' the right thing, brushing up with the Mordinos. We're going places.}
 {407}{}{Need some drugs? Hootch? Some chips? I can set you up. I'm co-nnected, see?}
 {408}{}{So how about you and me doing a film? I'll treat you right, chica. I show you what a Latin lover can do.}
@@ -210,7 +210,7 @@
 {648}{}{Nevermind. Catch you later.}
 
 # 38. WHO ARE YOU? (30, 31, 32, 33, 34, 36, 63, 64, 65)
-{660}{}{Me? If you gotta ask…heh. Name's Jesus. Jesus Mordino. Same as my Dad, he's the BIG Jesus, head of WHOLE Mordino family
+{660}{}{Me? If you gotta ask…heh. Name's Jesus. Jesus Mordino. Same as my Dad, he's the BIG Jesus, head of the WHOLE Mordino family
  here in Reno. So most call me Lil' Jesus. Prevents confusion, y'know?}
 {661}{}{Family Mordino? Who are they?}
 {662}{}{I've heard about your family. I hear you guys are a force to be reckoned with.}

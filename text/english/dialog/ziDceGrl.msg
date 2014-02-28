@@ -142,9 +142,9 @@
 {401}{}{Sorry, sir. Better luck next time.}
 {402}{}{Sorry, ma'am. Better luck next time.}
 
-{410}{}{Winner!}
-{411}{}{Winner! Well done, sir!}
-{412}{}{Winner! Well done, ma'am!}
+{410}{}{Match.}
+{411}{}{Match. Try again sir?}
+{412}{}{Match. Try again ma'am?}
 
 {420}{}{Winner! You've doubled your money!}
 {421}{}{Winner! You've doubled your money! Well done, sir!}
@@ -152,7 +152,7 @@
 
 {430}{}{Winner! You've tripled your money!}
 {431}{}{Winner! You've tripled your money! Luck is in the house tonight! Well done, sir!}
-{432}{}{Winner! You've tripled your money! Luck is in the house tonight! Well done, sir!}
+{432}{}{Winner! You've tripled your money! Luck is in the house tonight! Well done, ma'am!}
 
 {440}{}{Call it a day.}
 {441}{}{Call it a night.}

@@ -28,7 +28,7 @@
 {173}{}{You see a drugged slave. He has a faint smile on his face, but his eyes are glazed and vacant.}
 {174}{}{You see a drugged slave. He is gazing vacantly out into space, drool coming from his lips.}
 {175}{}{You see a drugged slave. As he sees you, he winces and gives a painful smile, as if you are too bright to look at.}
-4. [DRUGGED FEMALE SLAVE]
+# 4. [DRUGGED FEMALE SLAVE]
 {180}{}{You see a shivering woman. She is staring at the ground, as if afraid it will go away if she stops looking at it.}
 {181}{}{You see a drugged slave. She is giggling to herself, and there are traces of blood on the corners of her mouth.}
 {182}{}{You see a drugged slave. There are track marks on her arm intermixed with bruises and lash marks.}

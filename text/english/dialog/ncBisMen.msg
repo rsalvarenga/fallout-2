@@ -196,7 +196,7 @@
 {422}{}{I thought about becoming a slaver, but I hate all the traveling.}
 {423}{}{You looking for the stables? That's where they keep most of the slaves.}
 {424}{}{Being in the Bishop Family's a good gig.}
-{425}{}{You bring a new crop of slaves in, or are you caravaning some out?}
+{425}{}{You bring a new crop of slaves in, or are you caravanning some out?}
 {426}{}{You guys need to find some new stock… that last batch of slaves was piss-poor.}
 {427}{}{You guys catch any more tribal slaves?}
 {428}{}{What's the going rate for slaves nowadays?}

@@ -358,7 +358,7 @@
 # 49. I HAVE A HEART CONDITION . . . (7, 11)
 {760}{}{The temperature does not… agree with me. My breathing is… sometimes difficult. In times of stress or other physical
  activity, I tire quickly. Sometimes, I have chest pains.}
-{761}{}{Really. Well, it's good you don't take any metamphetamines or stimulants, then. I had some other questions...}
+{761}{}{Really. Well, it's good you don't take any methamphetamines or stimulants, then. I had some other questions...}
 {762}{}{I see. I better be going now.}
 
 # 50. I HAVE A HEART CONDITION . . . (7)
