@@ -1,4 +1,4 @@
-{100}{}{Você vê seu sobrinho, Feargus, chorando sobre alguma  como sempre.} # You see your nephew, Feargus, crying about something as usual.
+{100}{}{Você vê seu sobrinho, Feargus, sempre chorando por alguma coisa.} # You see your nephew, Feargus, crying about something as usual.
 {101}{}{Wahh!!! Por favor conserte o poço. } # Wahh!!! Please fix the well.
 {102}{}{Wahh!!! Eu tô com muita sede, mas o poço tá quebrado!} # Wahh!!! I'm really thirsty but the well's broken!
 {103}{}{Wahh!!! O poço precisa muito de um conserto.} # Wahh!!! The well really needs fixing.
