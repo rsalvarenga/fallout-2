@@ -131,7 +131,7 @@
 {343}{}{Damn hot…}
 {344}{}{Ain't seen Mom for a while. If you see her, don't mention nothin' about the stills, 'kay?}
 {345}{}{Keith took apart the piano last week and put it back together. Smart kid.}
-{346}{}{We're going huntin' for radscoroions again in a few days.}
+{346}{}{We're going huntin' for radscorpions again in a few days.}
 {347}{}{If you're lookin' for alcohol, head on over to the train station in the north part of town…we don't sell it here.}
 {348}{}{Watch out for the kids around here, they're always underfoot.}
 {349}{}{Can you teach me to fight, too?}
@@ -158,7 +158,7 @@
 {370}{}{Chris's gonna get a whippin' if he keeps sneakin' inta the whorehouse.}
 {371}{}{Damn hot…}
 {372}{}{Keith took apart the piano last week and put it back together. Smart kid.}
-{373}{}{We're going huntin' for radscoroions again in a few days.}
+{373}{}{We're going huntin' for radscorpions again in a few days.}
 {374}{}{Are you REALLY talkin' to God when you're havin' sex on stage?}
 {375}{}{Mom says yer a tool of the devil.}
 {376}{}{Mom says yer a harlot. A brazen strumpet. I have no idea what's she goin' on about.}

@@ -1,5 +1,5 @@
-{100}{}{You see Dumar, a fellow tribesman.}
-{101}{}{You see Dumar.}
+{100}{}{You see Cameron, a fellow tribesman.}
+{101}{}{You see Cameron.}
 {102}{}{You see a young man with bulging muscles and a very confident air about him.}
 {103}{}{Greetings, }
 {104}{}{. I have the honor of being your final challenge. To continue in your quest you must defeat
@@ -58,7 +58,7 @@
 {149}{}{Want fight again?}
 {150}{}{Just say hello. Me go now.}
 {151}{}{I'd like to visit the temple again.}
-{152}{}{Hello, Dumar. Ready for another fight?}
+{152}{}{Hello, Cameron. Ready for another fight?}
 {153}{}{Just thought I'd say hi. See you later.}
 {154}{}{Take the path to my left, Chosen One. It leads to the temple proper.
  The cave entrance behind me will return you to the last chamber.}
@@ -66,15 +66,15 @@
 {156}{}{All right. Thanks}
 {157}{}{No thank you, Chosen One. I still carry the bruises from our last encounter and will need
  years to recover!}
-{158}{}{Go bye, Dumar.}
-{159}{}{Ha! Good day to you, Dumar.}
+{158}{}{Go bye, Cameron.}
+{159}{}{Ha! Good day to you, Cameron.}
 {160}{}{Chosen One, my ass. I am going to make you the dead one!}
 {161}{}{You have defeated me. You are worthy, Chosen One.}
 {165}{}{I disagree with you. I think that a peaceful solution to any problem is possible.}
 {166}{}{You may be correct, }
 {167}{}{, but not in our current situation. You must defeat me to succeed in your trial.}
 {168}{}{Look, I don't know all of your strengths and weaknesses, and you don't know mine.
- Accidents do happen, so what if one of us inadvertently kills the other other? Let's just
+ Accidents do happen, so what if one of us inadvertently kills the other? Let's just
  end this now rather than take that chance, okay?}
 {169}{}{Hmm... I see your point. I wouldn't want to be responsible for
  killing you when all I meant to do was test your mettle. Very well -- you may
@@ -89,17 +89,17 @@
 {201}{}{You have a tongue of purest silver, Chosen One. Your skill with words will open many doors
  for you.}
 
-{300}{}{And to you as well, Chosen One. May the spirits guid you on your quest.}
-{301}{}{Thanks, Dumar.}
+{300}{}{And to you as well, Chosen One. May the spirits guide you on your quest.}
+{301}{}{Thanks, Cameron.}
 
-{302}{}{Chosen One, I could not help but notice that you lack strong combat skills. It has been my experience that you can not always rely on your wits or words for protection. With your permission I will teach you a few things that I think you will find most useful.}
+{302}{}{Chosen One, I could not help but notice that you lack strong combat skills. It has been my experience that you cannot always rely on your wits or words for protection. With your permission I will teach you a few things that I think you will find most useful.}
 {303}{}{Yes, you teach.}
 {304}{}{No, me not need.}
 {305}{}{Yes, please teach me all that you can.}
 {306}{}{Thanks, but I think I can handle myself just fine.}
 {307}{}{You learn well, Chosen One. I think you will be able to handle yourself in a fight now. However, remember that even the strongest of warriors must sometimes retreat. There is no shame in living to fight another day.}
-{308}{}{Me thank you, Dumar.}
-{309}{}{Thanks, Dumar. I will remember your words.}
+{308}{}{Me thank you, Cameron.}
+{309}{}{Thanks, Cameron. I will remember your words.}
 {310}{}{Very well. Return to me if you change your mind.}
-{311}{}{Me thank you, Dumar.}
-{312}{}{Thanks, Dumar. I will remember your offer.}
+{311}{}{Me thank you, Cameron.}
+{312}{}{Thanks, Cameron. I will remember your offer.}

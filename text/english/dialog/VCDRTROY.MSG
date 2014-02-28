@@ -18,7 +18,7 @@
 {117}{}{Hello, I'm Dr. Troy. How may I be of assistance?}
 {118}{}{Me got ouchie}
 {119}{}{Ass-is-tense?}
-{120}{}{Shamble off}
+{120}{}{(Shamble off)}
 {121}{}{I'm looking for the main computer. Can you tell me where it is?}
 {122}{}{What is it you do here?}
 {123}{}{Just passing through, thanks.}
@@ -106,12 +106,12 @@
 {189}{}{Well, they make that stuff from brahmin shit.}
 {190}{}{Those are brahmin shit fumes in that Jet canister. Gross, huh?}
 {191}{}{Those are brahmin shit fumes in that Jet canister. Gross, huh? Hey, by the way... I've been
- looking for some endorphine blockers. Do you have any?}
+ looking for some endorphin blockers. Do you have any?}
 {192}{}{Well, according to the boy genius here, they make that stuff from brahmin shit.}
 {193}{}{Well, according to the boy genius here, those are brahmin shit fumes in that Jet canister.
  Gross, huh?}
 {194}{}{Well, according to the boy genius here, those are brahmin shit fumes in that Jet canister.
- Gross, huh? Hey, by the way... we've been looking for some endorphine blockers. Do you have any?}
+ Gross, huh? Hey, by the way... we've been looking for some endorphin blockers. Do you have any?}
 {195}{}{Uh... nevermind. Maybe it's better you don't know.}
 {196}{}{I think you must be... mistaken.}
 {197}{}{Well, it's pretty hard to swallow. I had some other questions...}
@@ -130,15 +130,15 @@
  manufacturing process.}
 {206}{}{No problem. Be careful with that stuff, all right?}
 {207}{}{Hey, aren't we all? See you later, Doctor.}
-{208}{}{Endorphine blockers? Whatever for?}
-{209}{}{I think endorphine blockers could be used to neutralize Jet once it's in someone's system. I
- can't test it without some endorphine blockers, though.}
+{208}{}{Endorphin blockers? Whatever for?}
+{209}{}{I think endorphin blockers could be used to neutralize Jet once it's in someone's system. I
+ can't test it without some endorphin blockers, though.}
 {210}{}{Never mind. I had something else I wanted to ask you...}
 {211}{}{Nothing. I have to be going.}
-{212}{}{We don't have endorphine blockers here, but I could program the Autodoc to manufacture some.
+{212}{}{We don't have endorphin blockers here, but I could program the Autodoc to manufacture some.
  Would you care to explain to me your theory?}
 {213}{}{Well, you see Jet's chemical addiction is probably the hardest thing to shake, so I was thinking
- that if we introduced endorphine blockers into the body we could...}
+ that if we introduced endorphin blockers into the body we could...}
 {215}{}{I'm... speechless. That's simply the most brilliant solution I have ever heard. I've been
  experimenting with methods of curing Jet addiction for months, and came up with nothing.}
 {216}{}{You've been working on an antidote, too?}
@@ -225,10 +225,10 @@
 {285}{}{Yes?}
 {286}{}{Me got ouchie}
 {287}{}{Ass-is-tense?}
-{288}{}{Shamble off}
+{288}{}{(Shamble off)}
 {289}{}{I'm in need of your medical expertise.}
 {290}{}{You mentioned before you were a doctor... I'm something of a doctor myself.}
-{291}{}{Do you have any endorphine blockers?}
+{291}{}{Do you have any endorphin blockers?}
 {292}{}{I got that Jet you wanted.}
 {293}{}{I'm interested in that job, if it's still available.}
 {294}{}{About that Jet you wanted... I think the other Citizens might like to know about it, too.}
@@ -251,16 +251,16 @@
 {309}{}{Hold on... I want some healing, too.}
 {310}{}{Hold on... I've been poisoned. I need you to cure it.}
 {311}{}{Hold on... I've been irradiated. I need you to cure it.}
-{312}{}{Pleasure doing business with you.  See you soon, Doc.}
+{312}{}{Pleasure doing business with you. See you soon, Doc.}
 {313}{}{I haven't forgotten. You'll get your money. Now leave.}
 {314}{}{Hold on... I want some healing, too.}
 {315}{}{Hold on... I've been poisoned. I need you to cure it.}
 {316}{}{Hold on... I've been irradiated. I need you to cure it.}
-{317}{}{That's all I want to here. See you soon, Doc.}
+{317}{}{That's all I want to hear. See you soon, Doc.}
 {318}{}{I see. First, I'll need to check your vital signs... lean back and we'll hook you up to the
  Autodoc here...}
 {320}{}{Hmmmm. It seems that during the start-up procedure, an operator priority override has caused the
- Autodoc to accidentally inject you with Sodium Tri-Ethalene.}
+ Autodoc to accidentally inject you with Sodium Tri-Ethylene.}
 {321}{}{What? What's that mean?}
 {322}{}{It means you have less than ten seconds to live. Your stupidity is really quite staggering.
  Blackmail someone, then put your life in their hands? Simply amazing. Goodbye... and good riddance.}
@@ -270,7 +270,7 @@
 {326}{}{How did you get down here? I'm afraid you'll have to leave. Hold a moment while I summon some
  guards to escort you out.}
 {327}{}{ME NO GOH!}
-{328}{}{Stand around for a moment}
+{328}{}{(Stand around for a moment)}
 {329}{}{I have some good news. I was able to make an antidote from that sample of Jet you gave me.}
 {330}{}{Good news... I was able to use the information you gave me to make an antidote.}
 {331}{}{Once taken, it nullifies Jet's withdrawal symptoms and also... removes the euphoria associated
@@ -289,7 +289,7 @@
 {339}{}{Deal. I had some other questions...}
 {340}{}{I'll be back with the Jet.}
 {341}{}{Yes, I'm familiar with them. It's an invasive procedure, where impact plates and thermal
- dissipator membranes are grafted to the skeleton to help protect against physical trauma and heat. Why
+ dissipater membranes are grafted to the skeleton to help protect against physical trauma and heat. Why
  do you ask?}
 {342}{}{Yes, you mentioned the implants before. I will not perform the operation, I'm sorry. The
  procedure is irreversible, and the implants do more harm than good.}
@@ -357,3 +357,4 @@
 {396}{}{Great. Thanks, Doctor.}
 {397}{}{Guards!}
 {398}{}{Zzzzzzz.}
+{399}{}{You explain to Dr. Troy about the manufacturing process of Jet.}

@@ -6,7 +6,7 @@
 {105}{}{You answer questions?}
 {106}{}{Nothing. Me come back later.}
 {107}{}{You can start by answering some questions.}
-{108}{}{Nothing for now. I'll come back later}
+{108}{}{Nothing for now. I'll come back later.}
 {109}{}{I think you deserve to have answers to your questions.}
 {110}{}{What can I help you with?}
 {111}{}{Who you guys?}

@@ -194,6 +194,7 @@
 {369}{}{I'm about due for some crutches and a wheelchair over here.}
 {370}{}{Cassidy dies of a heart attack.}
 {371}{}{You have convinced Cassidy to join your party.}
+{372}{}{Just let me pop a heart pill first...} # Seraph's Code
 
 {1000}{}{Well...all right, then. I'll wait here 'til you get back. }
 {1100}{}{Sure. Can't promise I won't pull it out again if there's trouble, though.}

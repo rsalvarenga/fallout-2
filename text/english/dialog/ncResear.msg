@@ -153,7 +153,7 @@
 {437}{}{Well, I had to ask. Thanks anyway.}
 
 # 22. DO YOU MIND IF I PICKED YOU UP AFTER WORK . . .? (21)
-{445}{}{Oh, not THAT busy…heh…well, no, pretty busy. I mean, mostly its routine drug testing, and occasionally we have
+{445}{}{Oh, not THAT busy…heh…well, no, pretty busy. I mean, mostly it's routine drug testing, and occasionally we have
  a slave go over the edge…}
 {446}{}{Doesn't purposely injecting experimental metamphetamines into enslaved humans make you question your basic humanity?}
 {447}{}{Wow. That sounds dangerous. You ever get hurt? Do you have many patient fatalities?}
@@ -178,7 +178,7 @@
 {477}{}{I bet. Well, thanks for the information. You've been very helpful.}
 
 # 26. ACTUALLY, I WAS LOOKING FOR MYRON (6)
-{485}{}{Try downstairs in the lab. The guarded door. If you see him, tell him to  come up here when he has the
+{485}{}{Try downstairs in the lab. The guarded door. If you see him, tell him to come up here when he has the
  chance. IF he's not too busy.}
 
 # GET BADGE MESSAGE

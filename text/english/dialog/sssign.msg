@@ -9,21 +9,23 @@
 {108}{}{If you can't live by these laws - then get the hell out!}
 {109}{}{You better put your weapons away. We mean it.}
 {110}{}{Obeying the law is good citizenship.}
-{111}{}{Back}
+{111}{}{(Back)}
 {112}{}{I've read enough of this.}
 {113}{}{This does not bode well for your recreational habits.}
 {114}{}{Good, there won't be any drunks or junkies pestering you for fix money.}
-{115}{}{Back}
+{115}{}{(Back)}
 {116}{}{I've read enough of this.}
 {117}{}{Well, there goes a few profitable sidelines right down the porcelain pony!}
 {118}{}{Looks like they're trying to create a respectable, decent community for people to live in.}
-{119}{}{Back}
+{119}{}{(Back)}
 {120}{}{I've read enough of this.}
 {121}{}{Pretty tough words. You may just have to see if you can get them to eat them.}
 {122}{}{Equality before the law is a good thing.}
-{123}{}{Back}
+{123}{}{(Back)}
 {124}{}{I've read enough of this.}
-{125}{}{Teaching these guys some respect is gaining priority on you list of things to do.}
+{125}{}{Teaching these guys some respect is gaining priority on your list of things to do.}
 {126}{}{It's a little blunt, but it does get the point across.}
-{127}{}{Back}
+{127}{}{(Back)}
 {128}{}{I've read enough of this.}
+
+{130}{}{My head hurt. Too much readie.}

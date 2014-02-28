@@ -1,4 +1,4 @@
-{100}{}{A traveler.}
+{100}{}{You see a traveler.}
 {101}{}{Hail! Fellow traveler.}
 {102}{}{I'm in need of directions. Can you help me out?}
 {103}{}{Where are you headed?}
@@ -54,3 +54,5 @@
 {144}{}{Time to go.}
 {145}{}{I've overstayed my welcome.}
 {146}{}{I must depart.}
+
+{150}{}{Thanks. I need directions to some other places.}

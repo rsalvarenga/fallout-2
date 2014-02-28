@@ -1,7 +1,7 @@
 {100}{}{You see a rather worn-looking woman.}
 {101}{}{You see Fannie Mae, one of the hostesses at the Malamute Saloon.}
 {102}{}{You see a woman who shows more wear from mileage than from years.}
-{103}{}{(Fannie looks distinctly unhealthy as she wobbles towards you) Hey there, lover. I'm feeling a
+{103}{}{[Fannie looks distinctly unhealthy as she wobbles towards you] Hey there, lover. I'm feeling a
  little under the weather lately. Want to give me some money for a quick boost? I can make it worth your
  while. (grins)}
 {104}{}{(Fannie looks distinctly unhealthy as she wobbles towards you) Hey there, sister. Can you spare
@@ -53,7 +53,7 @@
  sure wish it was like that all the time.}
 {140}{}{Well, when you're with me, it is.}
 {141}{}{You sure know how to talk the talk.}
-{142}{}{I don't want to do this anymore. Me an my fella' are going to get away from here and live life
+{142}{}{I don't want to do this anymore. Me and my fella' are going to get away from here and live life
  straight. Just as soon as I can pay off Lou.}
 {143}{}{Pay off Lou?}
 {144}{}{Hey, I gave you money already. What are you talking about?}
@@ -68,7 +68,7 @@
  more strange, grubby, people pawing at me all day and night. Uh, I didn't mean no offense.}
 {150}{}{None taken. I don't really paw, do I? Anyhow, I could pay your way out of here. Here's $200.}
 {151}{}{Sounds sad, alright. Well, I guess you'd better get busy then. Goodbye.}
-{152}{}{Oh thank you,thank you. I didn't think that there was anyone this kind outside of my
+{152}{}{Oh thank you, thank you. I didn't think that there was anyone this kind outside of my
  dreams. You're the best. Thanks again. Hey, want a freebie? On the house?}
 {153}{}{Why sure, Fannie. I think I'll take you up on that offer.}
 {154}{}{That's not really necessary, Fannie. Just use the money to get yourself out of this life. Goodbye.}
@@ -110,3 +110,18 @@
 {183}{}{Well it shore helps if'n your nose ain't to keen. Those miners ain't too fond of soap and water.}
 {184}{}{Really? Maybe this isn't for me after all. Thanks for the offer, though. Goodbye.}
 {185}{}{I don't know how you can stand it, but then I guess you don't. Stand, that is. Goodbye.}
+# Begin Seraph's Code
+{186}{}{[Fannie looks like a great weight has been lifted from her shoulders] Hey, it's you! Lou told
+ me what you did. That stuff she slipped me sure made me sick, but I haven't felt a need fer jet since
+ then. (She kisses you on the cheek) I don't know how I can ever thank you...well, I do know *one* way.
+ Whenever you're in the mood, just come on by; free of charge. (wink)}
+{187}{}{I'll keep that in mind. Thanks, Fannie.}
+{188}{}{Thanks again. (smooch) Remember, it's always on the house for you. (wink)}
+{189}{}{Hey there! Lookin' to spend some time with Fannie? On the house, of course. (grin)}
+{190}{}{Sorry honey...I'm not feelin' too good right now. Check back later.}
+{191}{}{Got a little free time right now?}
+{192}{}{Come back anytime! Always nice to get some repeat business.}
+{193}{}{[DONE]}
+
+{200}{}{You slipped the Jet antidote into Fannie's Mae's drink.}
+# End Seraph's Code

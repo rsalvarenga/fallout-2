@@ -87,21 +87,21 @@
 {186}{}{"Trying times?" What do you mean?}
 {187}{}{What is it you do?}
 {188}{}{Can I ask you another question?}
-{189}{}{Thanks for you time. Goodbye.}
+{189}{}{Thanks for your time. Goodbye.}
 {190}{}{Gecko? What do you want to know?}
 {191}{}{Where is Gecko?}
 {192}{}{What is Gecko?}
 {193}{}{Can I ask you another question?}
-{194}{}{Thanks for you time. Goodbye.}
+{194}{}{Thanks for your time. Goodbye.}
 {195}{}{Not much to tell, other than the fact that our ore shipments have become few and far between.}
 {196}{}{Any idea why?}
 {197}{}{Where is Redding?}
 {198}{}{Can I ask you another question?}
-{199}{}{Thanks for you time. Goodbye.}
+{199}{}{Thanks for your time. Goodbye.}
 {200}{}{I am the Senior Council Member. I oversee the council meetings.}
 {201}{}{Then what does the First Citizen do?}
 {202}{}{Can I ask you another question?}
-{203}{}{Thank you for you time. Goodbye.}
+{203}{}{Thank you for your time. Goodbye.}
 {204}{}{Well, Citizenship isn't for everyone, you understand. You seem more like an adventurer to me... I really don't think that Citizenship is for you.}
 {205}{}{Aw, c'mon... just tell me what I need to do to become a Citizen.}
 {206}{}{I'd still like to become a Citizen anyway.}
@@ -117,7 +117,7 @@
 {216}{}{All right. I'll go speak to the Proconsul now.}
 {217}{}{You'll find him in the East Wing. His office is across from the First Citizen's.}
 {218}{}{Can I ask you another question?}
-{219}{}{Thanks for you time. Goodbye.}
+{219}{}{Thanks for your time. Goodbye.}
 {220}{}{Things have been tough these last two years. The NCR has been getting more aggressive in their attempts to get Vault City to join the Republic.}
 {221}{}{They tell us that if we were to join, they would be able to defend us from the raider attacks on our city. As of late, these raider attacks have become more brutal.}
 {222}{}{On top of all of this, we have ghouls in Gecko contaminating our groundwater.}
@@ -132,11 +132,11 @@
 {231}{}{It is a forsaken place, a shantytown built around the remnants of an old atomic power plant.}
 {232}{}{Where is Gecko located?}
 {233}{}{Can I ask you another question?}
-{234}{}{Thanks for you time. Goodbye.}
+{234}{}{Thanks for your time. Goodbye.}
 {235}{}{No. I don't understand it at all. We are willing to pay top dollar for their ore, but whenever we try to talk to them about it, they become evasive. If only I knew what was going on...}
 {236}{}{I could go check it out for you.}
 {237}{}{Where is Redding?}
-{238}{}{Thanks for you time. Goodbye.}
+{238}{}{Thanks for your time. Goodbye.}
 {239}{}{You will? It is not in my power to pay you, but your aid will be much appreciated.}
 {240}{}{Where is Redding?}
 {241}{}{No problem. I'll check it out and return when I find out what's wrong.}
@@ -243,3 +243,5 @@
 {341}{}{Perhaps. I had some other questions...}
 {342}{}{Maybe so. I'll go see.}
 {343}{}{You told McClure about the Jet antidote delivery.}
+{344}{}{The disk shows that since the plant is now fully functional and optimized, it can now produce a great deal of energy. Far more than Gecko needs. Vault City could use that energy. I feel that the council should consider what this disk has to offer.}
+{345}{}{This is quite interesting.}
