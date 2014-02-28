@@ -1,8 +1,8 @@
-1:Chosen?
-2:Chosen?
-3:Do you hear me?
-4:[The] village [dies].
-5:[All of our] futures die, too.
-6:We have little [left in both time and] essence.
-7:Hurry.
-8:Hur-...
+1: Escolhido? 
+2: Escolhido? 
+3: Você está me ouvindo? 
+4: A aldeia esta morrendo. 
+5: O futuro de todos nos também. 
+6: Temos pouco tempo. 
+7: Depressa. 
+8: Depressa.
