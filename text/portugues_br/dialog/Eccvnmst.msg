@@ -32,10 +32,10 @@
 {150}{}{produtos medicinais.}
 {151}{}{minério de ouro.}
 {152}{}{minério de urânio.}
-{153}{}{produtos de fazenda.}#farm goods. ah, mudae, nao veio nada melhor na cabeca agora
+{153}{}{produtos agrícolas/fazenda.}
 {154}{}{drogas.}
 {155}{}{escravos.}
-{156}{}{coisas.}#stuff
+{156}{}{coisas.}
 
 {113}{}{Será que eu poderia trocar algo com você?}
 {114}{}{Pra onde você está indo?}
@@ -75,4 +75,4 @@
 {138}{}{Ug.}
 {139}{}{Isso é... legal. Tenha um bom dia. }
 
-{300}{}{Ogradeço pelo serviço.}
+{300}{}{Agradeço pelo serviço.}

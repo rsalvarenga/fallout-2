@@ -24,8 +24,6 @@
 
 {119}{}{Tudo bem. Você pode acessar o sistema por aquele terminal bem ali. Só tome cuidado, por favor. Eles atiram em nós dois se você danificar aquela máquina. Ah, a senha para visitantes é 'Snookie'.}#troca esse visitantes, tá tosco. originalmente: GUEST
 {120}{}{Sinto muito, mas está fora de questão. Eu nem poderia deixar os alistados ficarem na sala, muito menos permitir que usem o equipamento.}
-#I’m sorry but it’s out of the question. I’m not even supposed to allow enlisted personnel in the room let alone allow them to use the equipment.
-# Desculpe, eu nem tenho permissão pra deixar o pessoal alistado usar o equipamento sozinho.
 {121}{}{Snookie? O que é snookie?}
 {122}{}{Certo. Mim enteder.}
 {123}{}{Snookie? Que diabos é snookie?}

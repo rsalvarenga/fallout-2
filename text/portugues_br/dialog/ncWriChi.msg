@@ -1,16 +1,13 @@
 # QUICK LOOK
 {100}{}{Você vê uma das crianças Wright. }
-
 # LOOK (IF MALE) (WTG)
 {150}{}{Você vê um pequeno garoto de cabelos escuros.}
 {151}{}{Você vê uma pequena garota de cabelos escuros. Seu cabelo é tão curto que você quase a confunde como um garoto.}
-
 {155}{}{Ele te mostra a língua.}
 {156}{}{Ele está olhando para você tristemente.}
 {157}{}{Ela te mostra a língua.}
 {158}{}{O cabelo dela está cortado tão curto que ela pode convenientemente usar o desenho de personagem infantil masculino.}
 {159}{}{Ela está olhando para você tristemente.}
-
 # 2. FLOAT [ENCLAVE_DESTROYED = TRUE] (WTG)
 {175}{}{Fallout 2 foi trazido para você pela letra Z.}
 {176}{}{Ei! }
@@ -19,22 +16,18 @@
 {179}{}{Quando eu crescer eu quero salvar o mundo que nem você.}
 {180}{}{Eu posso ser um herói que nem você quando eu crescer?}
 {181}{}{Eu quero ser}
-
 # 3. FLOAT [POWER ARMOR] (WTG)
 {190}{}{Você é um ROBÔ?}
 {191}{}{Como você consegue mijar com essa coisa?}
 {192}{}{Você pode me levar pra passear em cima dos seus ombros? Por favoooor.}
 {193}{}{Você vai brincar com a gente? Por favoooor.}
-
 # 4. FLOAT AND CLICK [SLAVER OR BAD REP] (WTG)
 {200}{}{Melhor você fugir antes que o meu papai te veja.}
 {201}{}{Melhor você fugir antes que os meus irmãos te vejam.}
 {202}{}{Você é uma pessoa má. Melhor sair daqui antes que eu conte sobre você.}
-
 # 5. FLOAT AND CLICK [SNEAKING] (WTG)
 {210}{}{Tô te vendo! Tô te vendo!}
 {211}{}{Você tá brincando de esconde-esconde? Eu posso brincar também?}
-
 # 6. FLOAT COMMENTS [ROBOBRAIN + MARCUS] (WTG)
 {215}{}{Olha o robô! Olha o robô!}
 {216}{}{Tem um cerébro de verdaaaaade aí dentro desse robô?}
@@ -44,7 +37,6 @@
 {220}{}{É um mutante de verdaaaade? Ele é feio de mais.}
 {221}{}{Oooooooh. Olha o mutante!}
 {222}{}{Esse mutante é GRANDE. Maior que o papai.}
-
 # 7. FLOAT COMMENTS [LENNY + DOG] (WTG)
 {230}{}{Ghoul! Olha, é um ghoul!}
 {231}{}{Ewwwwwww! Ghoul! Ghoul!}
@@ -52,8 +44,6 @@
 {233}{}{Olha o cachorro de metal!}
 {234}{}{Cachorrinho! Aqui, cachorrinho!}
 {235}{}{Eu também quero um cachorro!}
-
-
 # 10. FLOAT [ENCLAVE_DESTROYED = TRUE] (WTG)
 {290}{}{Quando eu crescer eu quero salvar o mundo que nem você.}
 {291}{}{Eu posso ser um herói que nem você quando eu crescer?}
@@ -67,33 +57,27 @@
 {299}{}{Uma vez eu dirigi por 3 estados usando essa cabeça de menina como chapéu.}
 {300}{}{(Deixe ele voltar pra brincadeira.)}
 {301}{}{(Deixe ela voltar pra brincadeira.)}
-
 # 11. WHY YOU WANNA BE ME? ME DUMB. (10)
 {310}{}{Ahan! Você é ESPERTO! Você é um HERÓI e VALENTE e eu quero ser VOCÊ quando eu crescer. Obrigado por salvar a gente. }
 {311}{}{Orbigado peçoazinha. Você fez }
-
 # 12. FOLLOW YOUR DREAMS. (10)
 {315}{}{Ok.}
 {316}{}{Tome cuidado agora, ouviu, pequenino? Eu tenho mais coisas de herói para fazer.}
-
 # 13. I'VE GOT SOME THINGS TO DO. (12)
 {320}{}{(O garoto para você.) Hum… }
 {321}{}{Ahn…não. Eu prometo.}
 {322}{}{Ahn…não tanto quanto você sabe.}
 {323}{}{Não se preocupe, pequenino. Eu voltarei e te visito como um novo personagem.}
 {324}{}{Não se preocupe, pequenino. Você não vai sentir nada.}
-
 # 14. UH, HARD DRIVE (13)
 {330}{}{Nós vamos sonhar?}
 {331}{}{Oh…claro. Claro que você vai.}
 {332}{}{Sei lá. Eu não pareço estar sonhando, então é provável que você também não. A vida é uma merda, né?}
-
 # 15. POWER ARMOR 1 (WTG)
 {341}{}{Que é um robote?}
 {344}{}{He he. Que gracinha. Não, eu não sou um robô, pequenino.}
 {345}{}{Não, não, eu sou uma pessoa normal dentr desta armadura. A propósito, fiquei triste pelo seu irmão, Richie.
  Você sabe o que aconteceu com ele?}
-
 # 16. WATZ A ROBOT?/YER DUMB, PEE-FACE/MOOTANT? (15, 25, 27, 29, 41)
 {355}{}{Seu idiota.}
 {356}{}{QUE NEM VOCÊ}
@@ -102,64 +86,51 @@
 {359}{}{Ele que cheira isso se ferra com isso}
 {360}{}{Pega um pra conhecer!}
 {361}{}{Fuja chorando}
-
 # 17. YER DUMBERR (16)
 {370}{}{Você é o mais idiota. Seu mais idiota!}
-
 # 18. POOR RESPONSE (16, 17)
 {395}{}{Nã-não, cabeça oca! (O garoto sai correndo, com a sua risada zunindo cruelmente nos seus ouvidos.)}
 {396}{}{Mim não querer conversar com você de qualquer jeito... *snfff*... mim... *snfff*... tem uma FESTA...
  com *snfff* BOLO e SORVETE... e VOCÊ não pode ir [Vai embora.]}
-
 # 19. YER DUMB-ESSTT-ERR (17)
 {405}{}{(A criança pisca os olhos, abre a boca, e então a fecha. Uma lágrima escorre e se transforma numa verdadeira choradeira.)}
-{406}{}{He he MIM vencer}
-
+{406}{}{He he EU VENCI}
 # 20. I'M NOT A ROBOT (15, 28)
-{410}{}{Oh. (Pensa por um momento então olha rápido pra você.) Poruqe você NÃO É um robô?}
+{410}{}{Oh. (Pensa por um momento então olha rápido pra você.) Porque você NÃO É um robô?}
 {411}{}{Anh… porque… bem, robôs e pessoas possuem diferentes… ahn, partes.}
 {412}{}{Tenho que ir.}
-
 # 21. ROBOTS AND PEOPLE HAVE DIFFERENT PARTS (20)
 {425}{}{Ah, é? (Parece duvidar.) Tipo o quê?}
 {426}{}{Ahn…bem…diz uma coisa, garoto, a sua mãe e seu pai não explicaram isso para você?}
 {427}{}{Ahn…bem! Olha a hora! Tenho que ir.}
-
 # 22. DIDN'T MOMMY AND DADDY EXPLAIN THIS TO YOU? (21)
 {435}{}{Explicaram o quê?}
 {436}{}{Ahn…bem…robôs…tem óleo dentro. Humanos…bem, humanos…sangram.}
-
 # 23. HUMANS BLEED (22)
 {445}{}{A mamãe e as minhas irmãs mais velhas sangram todo mês mais ou menos. Aí ela ficam realmente malvadas. Eu queria que elas fossem robôs.}
 {446}{}{Ah…sim. Boa, garoto. Olha, eu tenho que ir - não conte pra sua mãe que eu tava falando com você.}
-
 # 24. POWER ARMOR 2 (WTG)
 {456}{}{Eu apenas mijo, mas é preciso se acostumar com o cheiro}
 {459}{}{He he. Na verdade, eu mijo na própria armadura, e ela recicla tudo. Isso não é interessante? Você sabe o que significa "reciclagem", pequenino?}
 {460}{}{Não é confortável, isso eu te garanto. Viu, sinto pelo que houve com o seu irmão, Richie. Você sabe o que aconteceu com ele?}
-
 # 25. I PEE IN ARMOR (24)
 {475}{}{Isso é nojento.}
 {476}{}{Sim! Reciclagem significa que você bebe mijo!}
 {477}{}{Sua nojeiro, seu cara de mijo}
 {479}{}{Anh, he…he. Não, na verdade isso significa…}
-
 # 26. NO, ACTUALLY, IT MEANS . . . (25, 26)
 {485}{}{Você bebe mijo! Você bebe mijo!}
 {486}{}{Ahn, he…he…fale mais baixo, pequenino…reciclagem não significa que eu bebo mi…bem, não EXATAMENTE…veja…}
 {487}{}{Deixe esse bostinha voltar pras brincadeiras.}
 {488}{}{(Vai embora.)}
-
 # 27. CLICK [ROBOBRAIN] (WTG)
 {495}{}{Esso é um robô DE VERDADE?}
 {499}{}{O Robobrain? Sim, ele é.}
 {500}{}{Isso PENSA que é. Nem me deixe começar.}
 {501}{}{É, mas não o perturbe. Eu acho que ele quer destruir a raça humana.}
 {502}{}{Sim, ele é. Viu, sinto pelo que houve com o seu irmão, Richie. Você sabe o que aconteceu com ele?}
-
 # 28. CLICK [ROBOBRAIN] (27)
 {515}{}{VOCÊ é um robô, também?}
-
 # 29. CLICK [MARCUS] (WTG)
 {525}{}{Isso é um mutante DE VERDADE?}
 {526}{}{Muuutante?}
@@ -167,26 +138,21 @@
 {530}{}{Ué, ele É SIM um mutante. Deus, eu torço para que ele não esteja faminto por pequenas crianças.}
 {531}{}{Ué, sim. Um mutante bem FAMINTO. E está na hora do lanche. Que conveniente.}
 {532}{}{Sim, ele é. Viu, sinto pelo que houve com o seu irmão, Richie. Você sabe o que aconteceu com ele?}
-
 # 30. INTRO (WTG)
 {540}{}{A criança pára e olha pra você.}
 {541}{}{Olaaaaaa}
 {544}{}{Ola, homenzinho.}
 {545}{}{Oi pra você, garotinha.}
 {546}{}{Sinto pelo que houve com o seu irmão, Richie. Você sabe o que aconteceu com ele?}
-
 # 31. I DROVE THROUGH 3 STATES . . . (10, 15, 24, 27, 29 30, 41)
 {555}{}{Você está doente?}
 {556}{}{Porque a pergunta?}
-
 # 32. WHY DO YOU ASK? (31)
 {560}{}{Você PARECE doente.}
 {561}{}{Eu tô doente.}
-
 # 33. I AM SICK. (32)
 {565}{}{Você tomou algum remédio?}
 {566}{}{Não existe remédio para o que eu tenho.}
-
 # 34. THERE IS NO MEDICINE FOR WHAT I HAVE. (33)
 {570}{}{Quer cantar?}
 {571}{}{Cantar?}

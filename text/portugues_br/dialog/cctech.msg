@@ -1,6 +1,5 @@
 {100}{}{Um soldado vestindo uma farda militar.}
 {101}{}{Alguns Pfc-Tech, tipo X.}
-#Some Pfc-Tech, grade X.
 
 {102}{}{Ele está vestindo uma farda, mas está claro que esse cara é mais um técnico do que um soldado.}
 

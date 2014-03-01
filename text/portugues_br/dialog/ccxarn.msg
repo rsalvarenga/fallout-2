@@ -1,6 +1,3 @@
-# Nota do Screamer: IDV, o texto 122 e 302 está muito estranho, seria bom verificar os originais e ver se não mudou o sentido da frase.
-# Tinha muitos erros de português, passei no corretor ortográfico para quebrar o galho.
-
 {100}{}{Saudações, humano. Eu sou o guerreiro Xarn. Você será meu executor?}
 {101}{}{Sim.}
 {102}{}{Não, mim aqui pra salvar você.}

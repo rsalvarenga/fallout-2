@@ -18,9 +18,7 @@
 {162}{}{Au! Au! Au! [Laddie pula em cima de você e começa a lamber seu rosto.]} 
 {163}{}{[Que lindo cãozinho.]} 
 {164}{}{Au? [Você quase consegue escutar o cão rindo de você.]} 
-{165}{}{[Ninguém gosta de espertinhos.]} 
-#[Nobody likes a smart ass.]
-# Ninguém gosta de metidos a intelectual.
+{165}{}{[Ninguém gosta de metidos a intelectual..]} 
 {167}{}{Jonny está em algum lugar perto de Modoc?} 
 {168}{}{Jonny saiu de Modoc?} 
 {169}{}{Jonny foi levado por alienígenas?} 

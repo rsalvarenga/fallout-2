@@ -2,20 +2,15 @@
 {101}{}{Você vê Davin.}
 {102}{}{Um homem jovem na casa dos 20 anos. Ele é muito parecido com Grisham.}
 
-{150}{}{Se perguntasse, você poderia me ter.}
-# If you asked, you could have me.
-# Se você pedir eu te dou.
+{150}{}{Se você pedir eu te dou.}
 {151}{}{Hmpf! Miria não é tão boa de cama.}
 {152}{}{Não acredito que você me comeu.}
-# I don’t believe you pimped me.
 {153}{}{Vamos tentar de três da próxima vez.}
 {154}{}{Ooo… ele é uma graça.}
 {155}{}{Pergunte a ela.}
 {156}{}{Foi ótimo, quem é o próximo?}
 {157}{}{Oi! Meu nome é Davin. Ajudo meu pai a controlar o abatedouro em Modoc.}
 {158}{}{Estou procurando pelo relógio de ouro de Cornelius. Você não o viu por aí?}
-# I’m looking for Cornelius’s gold watch. Have you seen it anywhere?
-# Estou procurando pelo relógio de ouro de Cornelius. Por acaso não o viu em algum canto?
 {159}{}{O que você faz no abatedouro?}
 {160}{}{Ouvi boatos sobre você e os brahmin.}
 {161}{}{Me fale sobre seu pai.}
@@ -26,22 +21,19 @@
 {172}{}{Tudo bem, não estou ocupado, pergunte.}
 {178}{}{Não vi em lugar algum.}
 {179}{}{Posso te fazer mais algumas perguntas?}
-{180}{}{Bem, eu.. é... quero dizer eu… eu… eu supervisiono e cuido das coisas. Afinal sou o filho do dono de tudo aqui. Vou herdar esse lugar quando meu pai morrer.}
+{180}{}{Bem, eu.. é... quero dizer eu… eu… eu supervisiono e cuido das coisas. Afinal sou o filho do dono de tudo aqui. 
+ Vou herdar esse lugar quando meu pai morrer.}
 {182}{}{Mentira, só vou no celeiro à noite pra... pra confirmar se está tudo trancado. Sabe como é... com todos esses animais selvagens.}
-{184}{}{Papai controla o abatedouro. Ele é legal, considerando que é meu pai. Um conselho se fizer algum negócio com ele. Geralmente tem algo a mais em seus acordos do que está explícito.}
-# Dad runs the slaughterhouse. He’s OK as far as fathers go. A word of advice if you do any
-# business with him. There’s usually more to his business deals than he lets on.
-# Papai controla o abatedouro. Enquanto ele estiver vivo, vai tudo bem. Se você tiver qualquer negócio com ele, um aviso: papai nem sempre divulga todos os "termos".
+{184}{}{Papai controla o abatedouro. Ele é legal, considerando que é meu pai. Um conselho se fizer algum negócio com ele.
+ Geralmente tem algo a mais em seus acordos do que está explícito.}
 {186}{}{Se quiser conversar de novo, pode voltar.}
-# Come back and see me if you want to… talk again.
-{187}{}{Uooou! Nunca pensei que uma mulher tão bonita tentaria me seduzir. Mas o que? Você não é uma mulher!!! Não se preocupe, você é dez. Se você não quiser que ninguém saiba, fico de boca fechada.}
+{187}{}{Uooou! Nunca pensei que uma mulher tão bonita tentaria me seduzir. Mas o que? Você não é uma mulher!!! 
+ Não se preocupe, você é dez. Se você não quiser que ninguém saiba, fico de boca fechada.}
 {188}{}{Devo estar sonhando. Nunca pensei que uma mulher tão bonita tentaria me seduzir. Você esta tentando me seduzir, né?}
-{189}{}{Olhar dentro dos seus olhos é como tocar o céu. Não vamos quebrar o encanto desse momento precioso com palavras. Deixe nossas ações falarem por si mesmas.}
-# To look into your eyes is sheer heaven. Let us not break the spell of this precious moment with
-# words. Let our actions speak for themselves.
+{189}{}{Olhar dentro dos seus olhos é como tocar o céu. Não vamos quebrar o encanto desse momento precioso com palavras. 
+ Deixe nossas ações falarem por si mesmas.}
 {190}{}{Pare de falar! Vai estragar tudo. Apenas relaxe e goze.}
 {191}{}{Tá rolando algum mal-entendido. Só quero te fazer algumas perguntas.}
-# There must be some mistake; I just wanted to ask you some questions.
 {192}{}{Obrigado pela oferta, mas não. Uhhh... Tô saindo fora.}
 {193}{}{Oh Deus! Me possua! Me possua agora! [ele rasga as roupas dele e as suas... ai então você... ah! Use sua imaginação]}
 {194}{}{[hehehe] Estou a todo vapor! Pode ser você da próxima vez.}
@@ -50,10 +42,8 @@
 {197}{}{[Meia hora depois, você se deita exausto.]}
 {198}{}{[Quize minutos depois e um casal ronca.]}
 {199}{}{[Fez tão rápido quanto um galo.]}
-# You made it as far as removing your shirt before you no longer felt the need.
 {200}{}{Tenho que ir, tchau.}
 
-# dialogo do casamento
 {400}{}{Papai!}
 {401}{}{Uh-oh!}
 {402}{}{Claro que sim!}
@@ -61,13 +51,11 @@
 {410}{}{Uhh...}
 {411}{}{Uhhh... Continue, por favor...}
 {412}{}{Vá pro inferno…}
-# I sure the hell…
 {413}{}{Hum… Aceito.}
 
 {450}{}{Uhhh, Eu não sou o único que nem você falou.}
 
 {500}{}{Sou quem manda aqui.}
-# Oh boy, I get to be the one that's in charge here.
 
 {1000}{}{Sim, meu doce.}
 {1001}{}{O que posso fazer por você, amante?}
@@ -80,11 +68,12 @@
 {1700}{}{Tá certo, estarei atras de você todo o caminho.}
 {1800}{}{Então eu estaria apto a te proteger. Não, é melhor eu ficar por perto.}
 {1900}{}{É? Sem chance! Não o deixarei sair da minha vista, meu brinquedinho sexual.}
-# É? Sem chance! Não o deixarei sair da minha vista, pequena pistola sexual.
 {1005}{}{Você não entende, eu apenas não o quero te prender muito a mim enquanto estamos andando por aí.}
 {1006}{}{O que você esta fazendo de errado é que eu preciso de você bem longe para poder andar.}
 {1007}{}{Mas... mas o que eu fiz de errado?}
 {1008}{}{O que você quer de mim querido?}
 {1009}{}{Obrigado, estava começando a arrumar de qualquer jeito. Então, o que foi agora, amante?}
-{1010}{}{Eu comecei a matar Bahmin no abatedor, então estou quase preparado com a faca. Meu pai me fez matar um Brahmin com uma barra, de uma só vez. Eu acho que eu poderia usar um lugar para lutar (clube) se eu precisar. Papai me pegou para atirar uma vez, mas eu fiquei assustado e quase atirei nele por acidente.}
+{1010}{}{Eu comecei a matar Bahmin no abatedor, então estou quase preparado com a faca. Meu pai me fez matar um Brahmin com uma barra, 
+ de uma só vez. Eu acho que eu poderia usar um lugar para lutar (clube) se eu precisar. 
+ Papai me pegou para atirar uma vez, mas eu fiquei assustado e quase atirei nele por acidente.}
 {1020}{}{Eu preciso relaxar um pouco, Davin.}

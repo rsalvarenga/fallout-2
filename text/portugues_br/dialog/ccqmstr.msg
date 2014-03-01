@@ -1,6 +1,5 @@
 {100}{}{Você vê alguém em uma power armor.}
 {101}{}{Você vê o oficial de suprimentos.}
-# You see the Quartermaster.
 {102}{}{Você vê alguém vestindo uma power armor com um design diferente. Há uma insígnia no peito que não é familiar pra você.}
 {103}{}{Quem diabos são você... Alerta! Intrusos na base!}
 {104}{}{O quê... Acho que sei porque está aqui. Obviamente você quer se livrar desse modelo antigo que está vestindo.}

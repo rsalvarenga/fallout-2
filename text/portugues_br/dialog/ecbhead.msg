@@ -28,14 +28,14 @@
 {123}{}{Zzsssccs... hein?}
 {124}{}{O qu--?}
 {125}{}{TIRE SUAS MALDITAS MÃOS DE CIMA DE MIM!}
-{126}{}{Player should turn around, take a few steps back, then turn back around and face the monument.}#acho que isso não entra... ver 156
+{126}{}{Jogador deve virar, dar alguns passos para trás, em seguida, voltar-se e enfrentar o monumento.}
 {127}{}{*Ahem*}
 {128}{}{QUEM SE ATREVE A APROXIMAR DA SAGRADA CABEÇA DO VAULT DWELLER?!}
-{129}{}{Sou eu, Chosen One.}
+{129}{}{Sou eu, o Escolhido.}
 {130}{}{HA HA HA HA HA HA!}
-{131}{}{*VOCÊ*?! CHOSEN ONE?!}
+{131}{}{*VOCÊ*?! O ESCOLHIDO?!}
 {132}{}{VOCÊ NÃO É MAIOR QUE O MEU DEDO!}
-{133}{}{VOCÊ *NÃO* É CHOSEN ONE.}#complicou. voce não é O/A chosen one...
+{133}{}{VOCÊ *NÃO* É O ESCOLHIDO.}
 {134}{}{Sim, eu sou.}
 {135}{}{NÃO, VOCÊ NÃO É.}
 {136}{}{Sim, eu sou.}
@@ -58,6 +58,5 @@
 {153}{}{Idiota.}
 {154}{}{O QUÊ?! VOCÊ VAI ME ROUBAR?!}
 {155}{}{MORRA!}
-{156}{}{Disintegrate the player with plasma death animation.}# acho que nao entra.
-
-{200}{}{(12 Hours Later)}
+{156}{}{Desintegrar-se com animação de morte plasma.}# acho que nao entra.
+{200}{}{(12 horas depois)}
