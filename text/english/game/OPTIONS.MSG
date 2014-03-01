@@ -10,49 +10,49 @@
 # ° Main option panel °
 #
 # Buttons
-{0}{}{SAVE GAME}
-{1}{}{LOAD GAME}
-{2}{}{PREFERENCES}
-{3}{}{EXIT GAME}
-{4}{}{DONE}
+{0}{}{SALVAR}
+{1}{}{CARREGAR}
+{2}{}{CONFIGURAÇÕES}
+{3}{}{SAIR}
+{4}{}{OK}
 #
 # Preferences
 #
-{100}{}{GAME PREFERENCES}
-{101}{}{GAME DIFFICULTY}
-{102}{}{COMBAT DIFFICULTY}
-{103}{}{VIOLENCE LEVEL}
-{104}{}{TARGET HIGHLIGHT}
-{105}{}{COMBAT LOOKS}  # Was: BURNING GUYS
-{106}{}{COMBAT MESSAGES}
-{107}{}{COMBAT TAUNTS}
-{108}{}{LANGUAGE FILTER}
-{109}{}{RUNNING}
-{110}{}{SUBTITLES}
-{111}{}{ITEM HIGHLIGHT}
-{112}{}{COMBAT SPEED}
-{113}{}{TEXT DELAY}
-{114}{}{MASTER AUDIO VOLUME}
-{115}{}{MUSIC/MOVIE VOLUME}
-{116}{}{SOUND EFFECTS VOLUME}
-{117}{}{SPEECH VOLUME}
-{118}{}{BRIGHTNESS LEVEL}
-{119}{}{MOUSE SENSITIVITY}
-{120}{}{DEFAULT}
-{121}{}{CANCEL}
-{122}{}{Affect player speed}
-{123}{}{Pipboy speech}
+{100}{}{CONFIGURAÇÕES}
+{101}{}{DIFICULDADE DO JOGO}
+{102}{}{DIFICULDADE DO COMBATE}
+{103}{}{NIVEL DE VIOLÊNCIA}
+{104}{}{ALVO EM DESTAQUE}
+{105}{}{VISAO DE COMBATE}  # Was: BURNING GUYS
+{106}{}{MENSSAGENS DE COMBATE}
+{107}{}{PROVOCAÇÕES NO COMBATE}
+{108}{}{FILTRAR LINGUAGEM}
+{109}{}{CORRER}
+{110}{}{SUBTITULOS}
+{111}{}{DESTACAR ITEM}
+{112}{}{VELOCIDADE DO COMBATE}
+{113}{}{VELOCIDADE DO TEXTO}
+{114}{}{VOL. AUDIO GERAL}
+{115}{}{VOL. MUSIC/FILME}
+{116}{}{VOL. EFEITOS SOM}
+{117}{}{VOL. VOZ}
+{118}{}{NIVEL DE LUZ}
+{119}{}{SENSIBILIDADE MOUSE}
+{120}{}{CONFIG. PADRÃO}
+{121}{}{CANCELAR}
+{122}{}{Afetam a velocidade jogador}
+{123}{}{Discurso Pipboy}
 #
 # Label text
 #
 {201}{}{On}             # 1
 {202}{}{Off}            # 2
-{203}{}{Easy}           #  1
+{203}{}{Facil}           #  1
 {204}{}{Normal}         #  2
-{205}{}{Hard}           #  3
+{205}{}{Dificil}           #  3
 {206}{}{Wimpy}          # 1
 {207}{}{Normal}         # 2
-{208}{}{Rough}          # 3
+{208}{}{Áspero}          # 3
 {209}{}{Normal}         #  1
 {210}{}{Fastest}        #  2
 {211}{}{Verbose}        # 1
@@ -74,8 +74,8 @@
 #
 # Pause window
 #
-{300}{}{DONE}
-{301}{}{PAUSED}
+{300}{}{OK}
+{301}{}{PAUSAR}
 #
 # Demo versions only
 #
