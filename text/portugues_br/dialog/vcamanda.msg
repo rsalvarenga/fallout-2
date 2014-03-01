@@ -15,7 +15,7 @@
 {114}{}{O que você quer?}
 {115}{}{Você está bem? Você parece preocupada.}
 {116}{}{Nada. SMe desculpe por perturbar você.}
-{117}{}{Eu...bem, eu...é o meu marido Joshua. Ele...se meteu em encrenca no... no bar. Ele acidentalmente atacou um Cidadão e foi preso. Ele não tinha a intenção de fazer isso, mas ele estava bebendo, e...}
+{117}{}{Eu...bem, eu...é o meu marido Joshua. Ele...se meteu em encrenca no... no bar. Ele acidentalmente atacou um cidadão e foi preso. Ele não tinha a intenção de fazer isso, mas ele estava bebendo, e...}
 {118}{}{Preso? Onde ele está agora?}
 {119}{}{Se ele estava bêbado e atacou alguém, então ele deveria ser preso mesmo.}
 {120}{}{Sinto por ter de ouvir isso. Espero que o soltem.}

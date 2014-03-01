@@ -2,9 +2,9 @@
 {101}{}{Arthur, filho de Uther Pendragon.}
 {102}{}{A braguilha dele está aberta.}
 {103}{}{Saudações, viajantes. Meu nome é Arthur, filho de Uther Pendragon, da Brotherhood of Steel. Nós
- estamos em uma expedição em busca da Holy Hand Grenade of Antioch. Vistes a granada?}#vou deixar o nome da granada original.
+ estamos em uma expedição em busca da Holy Hand Grenade of Antioch. Vistes a granada?}
 {104}{}{Holy o quê de quem?}
-{105}{}{Player Response}#?
+{105}{}{Resposta do jogador}
 {106}{}{Unga.}
 {107}{}{Não há tempo para conversas. Nós estamos em uma expedição.}
 {108}{}{Nós procuramos a Hand Grenade of Antioch.}
@@ -35,16 +35,14 @@
 {128}{}{Espere! Eu também estou em uma busca. Eu procuro pelo sagrado GECK. Você o viu?}
 {129}{}{Bem, então não faz sentido continuar com essa conversa. Nós já vamos.}
 {130}{}{[FIM]}
-{131}{}{Bloody peasant!}#Bloody peasant! essa é uma fala que teve no filme. não sei a tradução exata... aliás, faz muito tempo que eu vi o filme.
+{131}{}{Sangrento camponês!}
 {132}{}{[FIM]}
-{133}{}{GECK, tu dizes? Oh sim, nós temos dois deles. Não precisamos de mais um. Mas obrigado assim
- mesmo.}
+{133}{}{GECK, você quiz dizer? Oh sim, nós temos dois deles. Não precisamos de mais um. Mas obrigado assim mesmo.}
 {134}{}{Já que vocês tem dois dele, talvez pudessem me dar um.}
 {135}{}{Não. Não. Não podemos. Não seria correto terminar a sua busca tão facilmente. Há mais deles
  naquela direção. Pega-os por ti mesmo. [Ele aponta para uma direção da mesma maneira que você, quando
  contou para ele onde estava a Holy Hand Grenade of Antioch]}
 {136}{}{[FIM]}
-
 {200}{}{Tu falas a língua do rei?}
 {201}{}{Oláaaa!.}
 {202}{}{Ei, estou bem aqui.}

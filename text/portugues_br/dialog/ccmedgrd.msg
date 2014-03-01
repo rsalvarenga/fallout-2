@@ -1,4 +1,4 @@
-{100}{}{Você vê um guarda.}#acho que essa é a snookie. Mas como em assunto militar até as mulheres sao tratadas como homem...
+{100}{}{Você vê um guarda.}
 {101}{}{Você vê um guarda em uma combat armor.}
 {102}{}{Você vê alguém vestindo uma combat armor. Há uma insígnea no peito que não é familiar pra você.}
 

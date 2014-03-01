@@ -1,8 +1,8 @@
-{100}{}{Você vê seu sobrinho, Feargus, sempre chorando por alguma coisa.} # You see your nephew, Feargus, crying about something as usual.
-{101}{}{Wahh!!! Por favor conserte o poço. } # Wahh!!! Please fix the well.
-{102}{}{Wahh!!! Eu tô com muita sede, mas o poço tá quebrado!} # Wahh!!! I'm really thirsty but the well's broken!
-{103}{}{Wahh!!! O poço precisa muito de um conserto.} # Wahh!!! The well really needs fixing.
-{104}{}{Ei, obrigado por consertar o poço!} # Hey, thanks for fixing the well!
-{105}{}{Se cuida.} # Be careful.
-{106}{}{O poço tá funcionando. Você é o cara!} # The well's fixed. You the one!
-{200}{}{Você vê seu sobrinho, Feargus.} # You see your nephew, Feargus.
+{100}{}{Você vê seu sobrinho, Feargus, sempre chorando por alguma coisa.}
+{101}{}{Wahh!!! Por favor conserte o poço.}
+{102}{}{Wahh!!! Eu tô com muita sede, mas o poço tá quebrado!}
+{103}{}{Wahh!!! O poço precisa muito de um conserto.}
+{104}{}{Ei, obrigado por consertar o poço!}
+{105}{}{Tenha cuidado.}
+{106}{}{O poço tá funcionando. Você é o cara!}
+{200}{}{Você vê seu sobrinho, Feargus.}
