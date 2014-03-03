@@ -1,203 +1,203 @@
-{100}{}{Burning Metal Barrel}
-{101}{}{The barrel contains burning paper and other flaming refuse.}
-{200}{}{Wooden Door}
-{201}{}{A door, made from wood.}
-{300}{}{Wooden Table}
-{301}{}{A table, made from wood.}
-{400}{}{Wooden Table}
-{401}{}{A table, made from wood.}
-{500}{}{Metal Barrel}
-{501}{}{An old barrel, made from steel.}
-{600}{}{Metal Barrel}
-{601}{}{An old barrel, made from steel.}
-{700}{}{Stack of Tires}
-{701}{}{A stack of ancient rubber tires. They have vulcanized and hardened, probably due to the heat.}
-{800}{}{Security Door}
-{801}{}{This door looks very secure. It provides protection from the outside world elements and dangerous creatures.}
-{900}{}{Computer}
-{901}{}{A computer terminal, hooked into a mainframe computer.}
-{1000}{}{Column}
-{1001}{}{A support column, providing stress relief for the entire complex.}
-{1100}{}{Computer}
-{1101}{}{A computer terminal, hooked into a mainframe computer.}
-{1200}{}{Computer}
-{1201}{}{A computer terminal, hooked into a mainframe computer.}
+{100}{}{Barril de metal com fogo}
+{101}{}{O barril contém papel e outros resíduos de fogo ardente.}
+{200}{}{Porta de Madeira.}
+{201}{}{Uma porta, feita de madeira.}
+{300}{}{Mesa de Madeira.}
+{301}{}{Uma mesa, feita de madeira.}
+{400}{}{Mesa de Madeira}
+{401}{}{Uma mesa, feita de madeira.}
+{500}{}{Barril de Metal.}
+{501}{}{Um barril vélho, feitos de aÃ§o.}
+{600}{}{Barril de Metal}
+{601}{}{Um barril vélho, feitos de aÃ§o.}
+{700}{}{Pilha de pneus}
+{701}{}{Uma pilha de pneus antigos. Eles estÃ£o vulcanizados e endurecido, provavelmente devido ao calor.}
+{800}{}{Porta de Segurança.}
+{801}{}{Esta porta parece muito segura. Ele fornece proteÃ§Ã£o contra os elementos do mundo exterior e criaturas perigosas.}
+{900}{}{Computador}
+{901}{}{Um terminal de computador, conectado a um computador central.}
+{1000}{}{Coluna}
+{1001}{}{Um coluna de suporte, sustenta todo o complexo.}
+{1100}{}{Computador}
+{1101}{}{Um terminal de computador, conectado a um computador central.}
+{1200}{}{Computador}
+{1201}{}{Um terminal de computador, conectado a um computador central.}
 {1300}{}{Monitor}
-{1301}{}{A green-screen display monitor, showing various bits of data. A few bytes occasionally show up.}
+{1301}{}{Um monitor de tela verde, exibindo vários bits de dados. Alguns bytes aparecem ocasionalmente.}
 {1400}{}{Monitor}
-{1401}{}{A green-screen display monitor, showing various bits of data.}
+{1401}{}{Um monitor de tela verde, exibindo vários bits de dados.}
 {1500}{}{Holo Generator}
-{1501}{}{A large-scale THT entertainment tape player. No new movies have been made in 80 years.}
-{1600}{}{Screens}
-{1601}{}{A series of three display monitors, showing various bits of data.}
-{1700}{}{Screens}
-{1701}{}{A set of three display monitors, showing various bits of data from around the Vault.}
-{1800}{}{Door}
-{1801}{}{It's still a door after closer examination.}
-{1900}{}{Door}
-{1901}{}{It's still a door after closer examination.}
-{2000}{}{Vent}
-{2001}{}{An air vent, supplying processed and cleaned air to the entire complex.}
-{2100}{}{Vent}
-{2101}{}{An air vent, supplying processed and cleaned air to the entire complex.}
-{2200}{}{Vault 13 Door}
-{2201}{}{A heavy door, constructed to survive all sorts of damage and trauma.}
-{2300}{}{Vault 13 Door}
-{2301}{}{A heavy door, constructed to survive all sorts of damage and trauma.}
+{1501}{}{Um reprodutor de fitas THT de grande escala. A julgar pela película deve ter pelo menos uns 80 anos.}
+{1600}{}{Telas}
+{1601}{}{Um conjunto de três monitores, mostrando diversos bits de datos.}
+{1700}{}{Telas}
+{1701}{}{Um conjunto de três monitores, mostrando vários bits de dados de todo o Vault.}
+{1800}{}{Porta}
+{1801}{}{Ainda é uma Porta, após um exame mais detalhado.}
+{1900}{}{Porta}
+{1901}{}{Ainda é uma Porta, após um exame mais detalhado.}
+{2000}{}{Duto de ventilação}
+{2001}{}{Duto de ventilação. Todo o processo de tratamento do ar de todo o complexo.}
+{2100}{}{Duto de ventilação}
+{2101}{}{Duto de ventilação. Todo o processo de tratamento do ar de todo o complexo.}
+{2200}{}{Porta de Vault 13}
+{2201}{}{Uma porta pesada, construída para resistir a qualquer tipo de dano.}
+{2300}{}{Porta de Vault 13}
+{2301}{}{Uma porta pesada, construída para resistir a qualquer tipo de dano.}
 {2400}{}{Pedestal}
-{2401}{}{A hydraulic lift, designed to help provide support, power and communication lines to the platform.}
+{2401}{}{Um elevador hidráulico, projetado para ajudar na comunicação da plataforma.}
 {2500}{}{Monitor}
-{2501}{}{If you've seen one monitor, you've seen them all.}
+{2501}{}{Se você já viu um monitor, você já viu todos eles.}
 {2600}{}{Monitor}
-{2601}{}{A computer monitor, displaying various bits of data.}
-{2700}{}{Grating}
-{2701}{}{A floor grating.}
-{2800}{}{Pipes}
-{2801}{}{Some pipes. After closer examination, they are still pipes.}
-{2900}{}{Vent}
-{2901}{}{Standard Vault-Tec ventilation system.}
-{3000}{}{Column}
-{3001}{}{A standard Vault-Tec column support system.}
-{3100}{}{Column}
-{3101}{}{A standard Vault-Tec column support system.}
-{3200}{}{Vent}
-{3201}{}{Standard Vault-Tec ventilation system.}
-{3300}{}{Vent}
-{3301}{}{Standard Vault-Tec ventilation system.}
-{3400}{}{Bed}
-{3401}{}{A bed, it looks pretty comfortable after what you have been sleeping on.}
-{3500}{}{Bed}
-{3501}{}{A standard bed. Looks comfy.}
-{3600}{}{Bed}
-{3601}{}{A standard bed. Looks comfy.}
-{3700}{}{Bed}
-{3701}{}{A standard bed. Looks comfy.}
-{3800}{}{Elevator}
-{3801}{}{This is a maintenance elevator.}
-{3900}{}{Chair}
-{3901}{}{It's a chair. Too bad you don't have time to sit down and relax.}
-{4000}{}{Chair}
-{4001}{}{It's a chair. Too bad you don't have time to sit down and relax.}
-{4100}{}{Chair}
-{4101}{}{It's a chair. Too bad you don't have time to sit down and relax.}
-{4200}{}{Chair}
-{4201}{}{It's a chair. Too bad you don't have time to sit down and relax.}
+{2601}{}{Um Monitor de Computador, exibindo vários bits de dados.}
+{2700}{}{Grade}
+{2701}{}{Um piso de grade.}
+{2800}{}{Canos}
+{2801}{}{Alguns Canos. Após um exame mais detalhado, eles ainda são Canos.}
+{2900}{}{Duto de ventilação}
+{2901}{}{Sistema de ventilação padrão de Vault-Tec.}
+{3000}{}{Coluna}
+{3001}{}{Colunas de apoio padrão de Vault-Tec.}
+{3100}{}{Coluna}
+{3101}{}{Colunas de apoio padrão de Vault-Tec.}
+{3200}{}{Duto de ventilação}
+{3201}{}{Sistema de ventilação padrão de Vault-Tec.}
+{3300}{}{Duto de ventilação}
+{3301}{}{Sistema de ventilação padrão de Vault-Tec.}
+{3400}{}{Cama}
+{3401}{}{Uma cama, parece muito confortável depois que você foi dormir.}
+{3500}{}{Cama}
+{3501}{}{Uma cama normal. Parece confortável.}
+{3600}{}{Cama}
+{3601}{}{Uma cama normal. Parece confortável.}
+{3700}{}{Cama}
+{3701}{}{Uma cama normal. Parece confortável.}
+{3800}{}{Elevador}
+{3801}{}{Este é um Elevador de manutenção.}
+{3900}{}{Cadeira}
+{3901}{}{É uma Cadeira. Pena que você não tem tempo para sentar e relaxar.}
+{4000}{}{Cadeira}
+{4001}{}{É uma Cadeira. Pena que você não tem tempo para sentar e relaxar.}
+{4100}{}{Cadeira}
+{4101}{}{É uma Cadeira. Pena que você não tem tempo para sentar e relaxar.}
+{4200}{}{Cadeira}
+{4201}{}{É uma Cadeira. Pena que você não tem tempo para sentar e relaxar.}
 {4300}{}{Monitor}
-{4301}{}{A computer monitor, displaying various bits of data.}
+{4301}{}{Um Monitor de Computador, exibindo vários bits de dados.}
 {4400}{}{Monitor}
-{4401}{}{A computer monitor, displaying various bits of data.}
+{4401}{}{Um Monitor de Computador, exibindo vários bits de dados.}
 {4500}{}{Monitor}
-{4501}{}{A computer monitor, displaying various bits of data.}
+{4501}{}{Um Monitor de Computador, exibindo vários bits de dados.}
 {4600}{}{Monitor}
-{4601}{}{A computer monitor, displaying various bits of data.}
+{4601}{}{Um Monitor de Computador, exibindo vários bits de dados.}
 {4700}{}{Monitor}
-{4701}{}{A computer monitor, displaying various bits of data.}
+{4701}{}{Um Monitor de Computador, exibindo vários bits de dados.}
 {4800}{}{Monitor}
-{4801}{}{A computer monitor, displaying various bits of data.}
-{4900}{}{Exit Grid Map Marker}
-{4901}{}{Exit Grid Map Marker}
-{5000}{}{Air Processing Unit}
-{5001}{}{An APU cleans the old air to provide new air for the complex. This one is broken.}
-{5100}{}{Chair}
-{5101}{}{It's a chair. Too bad you don't have time to sit down and relax.}
-{5200}{}{Chair}
-{5201}{}{It's a chair. Too bad you don't have time to sit down and relax.}
-{5300}{}{Chair}
-{5301}{}{It's a chair. Too bad you don't have time to sit down and relax.}
-{5400}{}{Chair}
-{5401}{}{It's a chair. Too bad you don't have time to sit down and relax.}
-{5500}{}{VDU}
-{5501}{}{This Video Display Unit has a variety of computer monitors and other screens. It looks very, very busy.}
-{5600}{}{VDU}
-{5601}{}{This Video Display Unit has a variety of computer monitors and other screens. It looks very, very busy.}
-{5700}{}{Chair}
-{5701}{}{It's a chair. It looks mighty comfortable.}
-{5800}{}{Chair}
-{5801}{}{It's a chair. It looks mighty comfortable.}
-{5900}{}{Chair}
-{5901}{}{It's a chair. It looks mighty comfortable.}
-{6000}{}{Chair}
-{6001}{}{It's a chair. It looks mighty comfortable.}
-{6100}{}{Table}
-{6101}{}{It's a table. Before tables, people had to keep their stuff on the floor.}
-{6200}{}{Table}
-{6201}{}{It's definitely a table.}
+{4801}{}{Um Monitor de Computador, exibindo vários bits de dados.}
+{4900}{}{Marcador de zona de saída}
+{4901}{}{Marcador de zona de saída}
+{5000}{}{Unidade de Tratamento de ar}
+{5001}{}{Um UTA para limpar o ar para o abastecimento de todo o complexo. Isto está quebrado.}
+{5100}{}{Cadeira}
+{5101}{}{É uma Cadeira. Pena que você não tem tempo para sentar e relaxar.}
+{5200}{}{Cadeira}
+{5201}{}{É uma Cadeira. Pena que você não tem tempo para sentar e relaxar.}
+{5300}{}{Cadeira}
+{5301}{}{É uma Cadeira. Pena que você não tem tempo para sentar e relaxar.}
+{5400}{}{Cadeira}
+{5401}{}{É uma Cadeira. Pena que você não tem tempo para sentar e relaxar.}
+{5500}{}{VDU (Tela de video)}
+{5501}{}{Esta VDU-Unidade de exibição de vídeo tem uma variedade de monitores e outros Computador Telas. Parece muito, muito ocupado.}
+{5600}{}{VDU (Tela de video)}
+{5601}{}{Esta VDU-Unidade de exibição de vídeo tem uma variedade de monitores e outros Computador Telas. Parece muito, muito ocupado.}
+{5700}{}{Cadeira}
+{5701}{}{É uma Cadeira. Parece muito confortável.}
+{5800}{}{Cadeira}
+{5801}{}{É uma Cadeira. Parece muito confortável.}
+{5900}{}{Cadeira}
+{5901}{}{É uma Cadeira. Parece muito confortável.}
+{6000}{}{Cadeira}
+{6001}{}{É uma Cadeira. Parece muito confortável.}
+{6100}{}{Mesa}
+{6101}{}{É uma Mesa. Antes de Mesas, as pessoas tinham que manter as suas coisas no chão.}
+{6200}{}{Mesa}
+{6201}{}{É definitivamente uma Mesa.}
 {6300}{}{Tumbleweed}
-{6301}{}{It's a tumbleweed. Of course, you've never seen a real live tumbleweed before. You'd better keep a close eye on it.}
-{6400}{}{Cactus}
-{6401}{}{You see nothing special about this cactus.}
-{6500}{}{Cactus}
-{6501}{}{You see nothing important about this cactus.}
-{6600}{}{Tree}
-{6601}{}{A dead tree. Nothing grows well here.}
-{6700}{}{Secret Blocking Hex}
-{6701}{}{If you can see this, blame the technical designer.}
-{6800}{}{Stairs}
-{6801}{}{A set of stairs.}
-{6900}{}{Stalagmite}
-{6901}{}{A natural extension of the rock floor.}
-{7000}{}{Stalagmite}
-{7001}{}{A natural extension of the rock floor.}
-{7100}{}{Blood Stain}
-{7101}{}{There is nothing out of the ordinary with this bloody stain. Except, of course, that someone or something died here.}
-{7200}{}{Rock Column}
-{7201}{}{This thick column of rock extends from floor to ceiling.}
-{7300}{}{Rock Column}
-{7301}{}{This thin column of rock extends from floor to ceiling.}
-{7400}{}{Rocks}
-{7401}{}{You study the rocks for a while, but they never move.}
-{7500}{}{Rocks}
-{7501}{}{You keep a close eye on these rocks, in case they move to attack you.}
-{7600}{}{Car Wall Floor}
-{7601}{}{REMOVED}
-{7700}{}{Gate}
-{7701}{}{A wooden gate.}
-{7800}{}{Rocks}
-{7801}{}{A large pile of rocks. They look indigenous to this region.}
-{7900}{}{Rocks}
-{7901}{}{A small pile of rocks.}
-{8000}{}{Rocks}
-{8001}{}{A small pile of rocks.}
-{8100}{}{Rocks}
-{8101}{}{A large pile of rocks.}
-{8200}{}{Bones}
-{8201}{}{A large pile of bleached animal bones. At least, you think all the bones are animal...}
-{8300}{}{Bones}
-{8301}{}{A large pile of bleached animal bones. At least, you think all the bones are animal...}
-{8400}{}{Bones}
-{8401}{}{A very large pile of bleached bones. You cannot determine the species of the dead critters.}
-{8500}{}{Bones}
-{8501}{}{You think these might be Horned Kangaroo bones, but you cannot be sure. They are too weathered to make a final determination.}
-{8600}{}{Bones}
-{8601}{}{You see the bones of a large, two-headed cow.}
-{8700}{}{Gate}
-{8701}{}{A wooden gate. It opens, and closes, and opens, and closes, and...}
-{8800}{}{Gate}
-{8801}{}{A wooden gate.}
-{8900}{}{Gate}
-{8901}{}{A wooden gate.}
-{9000}{}{Rocks}
-{9001}{}{A very large pile of rocks. They look dangerous just sitting there.}
-{9100}{}{Rocks}
-{9101}{}{A large pile of rocks. If you look closely, you can see the faces of little old men in the sides of the stones.}
-{9200}{}{Rocks}
-{9201}{}{Rocks, rocks, rocks! Everywhere you look, rocks!}
-{9300}{}{Rocks}
-{9301}{}{A small pile of rocks.}
+{6301}{}{É um tumbleweed. É claro que você nunca viu um tumbleweed de verdade antes. É melhor ficar de olho nele.}
+{6400}{}{Cacto}
+{6401}{}{Você não vê nada de especial sobre este Cacto.}
+{6500}{}{Cacto}
+{6501}{}{Você não vê nada importante sobre este Cacto.}
+{6600}{}{Árvore}
+{6601}{}{Uma Árvore morta. Nada cresce aqui.}
+{6700}{}{Um bloqueio de criptógráfica seguro}
+{6701}{}{Se você pode ver isso, culpar do designer técnico.}
+{6800}{}{Escada}
+{6801}{}{Um conjunto de Escada.}
+{6900}{}{Estalagmite}
+{6901}{}{Uma extensão natural do chão de pedra.}
+{7000}{}{Estalagmite}
+{7001}{}{Uma extensão natural do chão de pedra.}
+{7100}{}{Mancha de Sangue}
+{7101}{}{Não há nada fora do comum com essa mancha de sangue. Exceto, é claro, que alguém ou alguma coisa morreu aqui.}
+{7200}{}{Coluna de pedra}
+{7201}{}{Esta coluna de espessura de rochosa estende do chão ao teto.}
+{7300}{}{Coluna de pedra}
+{7301}{}{Esta fina coluna de rocha se estende do chão ao teto.}
+{7400}{}{Rochas}
+{7401}{}{Você estuda as rochas por um tempo, mas eles nunca se movem.}
+{7500}{}{Rochas}
+{7501}{}{Você mantém um olhar atento sobre estas pedras, no caso de elas se moverem para atacá-lo.}
+{7600}{}{Parede alta e plana}
+{7601}{}{REMOVIDO}
+{7700}{}{Portão}
+{7701}{}{Um Portão de madeira.}
+{7800}{}{Rochas}
+{7801}{}{Uma grande pilha de Rochas. They look indigenous to this region.}
+{7900}{}{Rochas}
+{7901}{}{Uma pequena pilha de Rochas.}
+{8000}{}{Rochas}
+{8001}{}{Uma pequena pilha de Rochas.}
+{8100}{}{Rochas}
+{8101}{}{Uma grande pilha de Rochas.}
+{8200}{}{Ossos}
+{8201}{}{Uma grande pilha de ossos esbranquiçados. Pelo menos, você acha que todos os ossos são animais...}
+{8300}{}{Ossos}
+{8301}{}{Uma grande pilha de ossos esbranquiçados. Pelo menos, você acha que todos os ossos são animais...}
+{8400}{}{Ossos}
+{8401}{}{Uma grande pilha de ossos esbranquiçados. Você não pode determinar as espécies de criaturas mortas.}
+{8500}{}{Ossos}
+{8501}{}{Você acha podem ser ossos de um Canguro carnudo, mas você não pode ter certeza. Estão muitos deteriorados muy deteriorados para fazer uma determinação final.}
+{8600}{}{Ossos}
+{8601}{}{Você vê o ossos de uma vaca grande, com duas cabeças.}
+{8700}{}{Portão}
+{8701}{}{Um Portão de madeira. Ele abre e fecha, abre e fecha, e...}
+{8800}{}{Portão}
+{8801}{}{Um Portão de madeira.}
+{8900}{}{Portão}
+{8901}{}{Um Portão de madeira.}
+{9000}{}{Rochas}
+{9001}{}{Uma grande pilha de pedras. Parece perigoso para se sentar lá.}
+{9100}{}{Rochas}
+{9101}{}{Uma grande pilha de Rochas. Se você olhar de perto, você pode ver os rostos dos velhinhos nas laterais das pedras.}
+{9200}{}{Rochas}
+{9201}{}{Rochas, Rochas, Rochas! Onde quer que você olhe, Rochas!}
+{9300}{}{Rochas}
+{9301}{}{Uma pequena pilha de Rochas.}
 {9400}{}{Bar}
-{9401}{}{This bar has a collection of brewed beverages ready to pour.}
-{9500}{}{Chair}
-{9501}{}{A rotting old chair made out of an ancient car seat.}
-{9600}{}{Chair}
-{9601}{}{A smelly old chair that used be to a car seat. The springs have lost their spring.}
-{9700}{}{Chair}
-{9701}{}{A rotting, smelly old chair sitting on bricks for support. Looks pretty uncomfortable.}
-{9800}{}{Chair}
-{9801}{}{A rotting, smelly old chair sitting on bricks for support. Looks pretty uncomfortable.}
-{9900}{}{Couch}
-{9901}{}{A very uncomfortable looking sitting device, sometimes known as a couch.}
-{10000}{}{Couch}
-{10001}{}{A very uncomfortable looking sitting device, sometimes known as a couch.}
+{9401}{}{Este bar tem uma coleção de cervejas pronto para servir.}
+{9500}{}{Cadeira}
+{9501}{}{A rotting old Cadeira made out of an ancient car seat.}
+{9600}{}{Cadeira}
+{9601}{}{Uma cadeira velha fedida que costumava ser um banco de carro. As molas estão um lixo.}
+{9700}{}{Cadeira}
+{9701}{}{Uma cadeira velha podre e fedorenta empoleirado em tijolos para segurá-la. Parece muito desconfortável.}
+{9800}{}{Cadeira}
+{9801}{}{Uma cadeira velha podre e fedorenta empoleirado em tijolos para segurá-la. Parece muito desconfortável.}
+{9900}{}{Sofá}
+{9901}{}{Um dispositivo de estar costumava ser um sofá muito desconfortável..}
+{10000}{}{Sofá}
+{10001}{}{Um dispositivo de estar costumava ser um sofá muito desconfortável..}
 {10100}{}{Tire}
 {10101}{}{An old rubber tire sitting in the middle of some weeds.}
 {10200}{}{Scrub}
@@ -209,14 +209,14 @@
 {10500}{}{Scrub}
 {10501}{}{Some sort of desert weed.}
 {10600}{}{Junk}
-{10601}{}{It's a rusted car door leaning on a rusted metal barrel. A whole lot of rust is going on.}
+{10601}{}{It's a rusted car Porta leaning on a rusted Barril de Metal. A whole lot of rust is going on.}
 {10700}{}{Junk}
 {10701}{}{A broken toilet, half-buried in the sand. Life's a pisser, then you die.}
 {10800}{}{Weeds}
 {10801}{}{Some sort of desert scrub. If it was growing in the recent past, it isn't now.}
 {10900}{}{Junk}
 {10901}{}{A car tire, buried in the sand. Some small pieces of wood are piled up around it.}
-{11000}{}{Rocks}
+{11000}{}{Rochas}
 {11001}{}{On closer examination, you think these might actually be pieces of petrified wood.}
 {11100}{}{Dirt}
 {11101}{}{A small pile of dirt, with a dead weed sticking out of it.}
@@ -272,16 +272,16 @@
 {14000}{}{Sewer Hole}
 {14001}{}{It looks like an access hole for the sewer system.}
 {14100}{}{Light Source}
-{14200}{}{Door}
-{14201}{}{This looks like a standard Vault door that has been damaged, perhaps burned. It is still functional, however.}
-{14300}{}{Door}
-{14301}{}{This looks like a standard Vault door that has been damaged, perhaps burned. It is still functional, however.}
+{14200}{}{Porta}
+{14201}{}{This looks like a standard Vault Porta that has been damaged, perhaps burned. It is still functional, however.}
+{14300}{}{Porta}
+{14301}{}{This looks like a standard Vault Porta that has been damaged, perhaps burned. It is still functional, however.}
 {14400}{}{Cover}
 {14401}{}{A heavy man-hole cover. It looks like it is in good shape, and that it was recently moved.}
 {14500}{}{Hole}
-{14501}{}{A large hole has been blasted through this door.}
+{14501}{}{A large hole has been blasted through this Porta.}
 {14600}{}{Hole}
-{14601}{}{A large hole has been blasted through this door.}
+{14601}{}{A large hole has been blasted through this Porta.}
 {14700}{}{Bullet Proof Glass}
 {14701}{}{Completely unbreakable glass. Don't even try.}
 {14800}{}{Bullet Proof Glass}
@@ -290,54 +290,54 @@
 {14901}{}{Completely unbreakable glass. Don't even try.}
 {15000}{}{Bullet Proof Glass}
 {15001}{}{Completely unbreakable glass. Don't even try.}
-{15100}{}{Door}
-{15101}{}{This door is a piece of high-technology construction. It opens by dilating as it rotates the three pieces that make up the door.}
-{15200}{}{Door}
-{15201}{}{This door is a piece of high-technology construction. It opens by dilating as it rotates the three pieces that make up the door.}
-{15300}{}{Door}
-{15301}{}{This door is emblazoned with the Brotherhood of Steel symbol.}
-{15400}{}{Door}
-{15401}{}{This door is emblazoned with the Brotherhood of Steel symbol.}
-{15500}{}{Elevator}
-{15501}{}{This is the interior of a Brotherhood elevator. It is squeaky clean!}
-{15600}{}{Elevator}
-{15601}{}{This is the interior of a Brotherhood elevator. It is squeaky clean!}
+{15100}{}{Porta}
+{15101}{}{This Porta is a piece of high-technology construction. It opens by dilating as it rotates the three pieces that make up the Porta.}
+{15200}{}{Porta}
+{15201}{}{This Porta is a piece of high-technology construction. It opens by dilating as it rotates the three pieces that make up the Porta.}
+{15300}{}{Porta}
+{15301}{}{This Porta is emblazoned with the Brotherhood of Steel symbol.}
+{15400}{}{Porta}
+{15401}{}{This Porta is emblazoned with the Brotherhood of Steel symbol.}
+{15500}{}{Elevador}
+{15501}{}{This is the interior of a Brotherhood Elevador. It is squeaky clean!}
+{15600}{}{Elevador}
+{15601}{}{This is the interior of a Brotherhood Elevador. It is squeaky clean!}
 {15700}{}{Marker}
 {15701}{}{This is the symbol of the Brotherhood of Steel. This marker tells the wasteland that this is their area, and to leave immediately.}
 {15800}{}{Monitor}
-{15801}{}{You see a computer monitor.}
+{15801}{}{You see a Computador Monitor.}
 {15900}{}{Monitor}
-{15901}{}{You see a computer monitor.}
-{16000}{}{Computer}
-{16001}{}{This is a computer memory databank.}
-{16100}{}{Computer}
-{16101}{}{This is a computer memory databank.}
-{16200}{}{Computer}
-{16201}{}{A high-tech computer, using modern reel-to-reel storage devices instead of the antiquated punch cards.}
-{16300}{}{Computer}
-{16301}{}{A high-tech computer, using modern reel-to-reel storage devices instead of the antiquated punch cards.}
+{15901}{}{You see a Computador Monitor.}
+{16000}{}{Computador}
+{16001}{}{This is a Computador memory databank.}
+{16100}{}{Computador}
+{16101}{}{This is a Computador memory databank.}
+{16200}{}{Computador}
+{16201}{}{A high-tech Computador, using modern reel-to-reel storage devices instead of the antiquated punch cards.}
+{16300}{}{Computador}
+{16301}{}{A high-tech Computador, using modern reel-to-reel storage devices instead of the antiquated punch cards.}
 {16400}{}{Monitor}
-{16401}{}{You see a computer monitor.}
+{16401}{}{You see a Computador Monitor.}
 {16500}{}{Monitor}
-{16501}{}{You see a computer monitor.}
+{16501}{}{You see a Computador Monitor.}
 {16600}{}{Wire}
-{16601}{}{Some sort of computer wiring.}
+{16601}{}{Some sort of Computador wiring.}
 {16700}{}{Wire}
-{16701}{}{Some sort of computer wiring.}
+{16701}{}{Some sort of Computador wiring.}
 {16800}{}{Wire}
-{16801}{}{Some sort of computer wiring.}
-{16900}{}{Column}
-{16901}{}{A support column.}
-{17000}{}{Column}
-{17001}{}{A support column.}
-{17100}{}{Door Entry Computer}
-{17101}{}{This computer controls the large vault door. You have to enter a specific access code for the computer to work.}
+{16801}{}{Some sort of Computador wiring.}
+{16900}{}{Coluna}
+{16901}{}{A support Coluna.}
+{17000}{}{Coluna}
+{17001}{}{A support Coluna.}
+{17100}{}{Porta Entry Computador}
+{17101}{}{This Computador controls the large vault Porta. You have to enter a specific access code for the Computador to work.}
 {17200}{}{Casino Sign}
 {17201}{}{It looks like an advertisement for Gizmo's Casino.}
-{17300}{}{Vault 13 Outer Door}
-{17301}{}{This large door is the link between the vault and the outside world.}
-{17400}{}{Vault 13 Outer Door}
-{17401}{}{This large door is the link between the vault and the outside world.}
+{17300}{}{Vault 13 Outer Porta}
+{17301}{}{This large Porta is the link between the vault and the outside world.}
+{17400}{}{Vault 13 Outer Porta}
+{17401}{}{This large Porta is the link between the vault and the outside world.}
 {17500}{}{Casino Sign}
 {17501}{}{This part of the sign contains an electric motor that is slowly spinning the attached neon sign.}
 {17600}{}{Down Arrow}
@@ -345,12 +345,12 @@
 {17800}{}{Crate}
 {17900}{}{Crate}
 {18000}{}{Crate}
-{18100}{}{Elevator Top}
-{18101}{}{You are looking at a portion of an elevator.}
-{18200}{}{Computer Console}
-{18201}{}{This is a dumb terminal, hooked up by cable to a large computer. It is Brotherhood technology.}
-{18300}{}{Computer Console}
-{18301}{}{This is a dumb terminal, hooked up by cable to a large computer. It is Brotherhood technology.}
+{18100}{}{Elevador Top}
+{18101}{}{You are looking at a portion of an Elevador.}
+{18200}{}{Computador Console}
+{18201}{}{This is a dumb terminal, hooked up by cable to a large Computador. It is Brotherhood technology.}
+{18300}{}{Computador Console}
+{18301}{}{This is a dumb terminal, hooked up by cable to a large Computador. It is Brotherhood technology.}
 {18400}{}{Emblem}
 {18401}{}{The symbol of the Brotherhood. The gears represent their engineering knowledge, the sword is their will to defend themselves and the wings are the uplifting hope.}
 {18500}{}{Emblem}
@@ -363,18 +363,18 @@
 {18801}{}{This must mean that you are on level three of the Brotherhood.}
 {18900}{}{Level 'Four' Sign}
 {18901}{}{You must be on level four of the Brotherhood.}
-{19000}{}{Bunk Bed}
-{19001}{}{A military-style bunk bed. Looks very uncomfortable. Also looks like you could bounce a quarter off of these sheets.}
-{19100}{}{Bunk Bed}
-{19101}{}{A military-style bunk bed. Looks very uncomfortable. Also looks like you could bounce a quarter off of these sheets.}
-{19200}{}{Bunk Bed}
-{19201}{}{A military-style bunk bed. Looks very uncomfortable. Also looks like you could bounce a quarter off of these sheets.}
+{19000}{}{Bunk Cama}
+{19001}{}{A military-style bunk Cama. Looks very uncomforMesa. Also looks like you could bounce a quarter off of these sheets.}
+{19100}{}{Bunk Cama}
+{19101}{}{A military-style bunk Cama. Looks very uncomforMesa. Also looks like you could bounce a quarter off of these sheets.}
+{19200}{}{Bunk Cama}
+{19201}{}{A military-style bunk Cama. Looks very uncomforMesa. Also looks like you could bounce a quarter off of these sheets.}
 {19300}{}{Crate}
 {19400}{}{Nuka-Cola Machine}
 {19401}{}{The advertising on the side of this machine promotes their popular soda.}
 {19500}{}{Wall}
-{19600}{}{Trapdoor}
-{19601}{}{It looks like a perfectly good trapdoor.}
+{19600}{}{TrapPorta}
+{19601}{}{It looks like a perfectly good trapPorta.}
 {19700}{}{Manhole}
 {19701}{}{The ladder in this manhole leads down into the darkness below. Ohhh, scary.}
 {19800}{}{Altar}
@@ -397,18 +397,18 @@
 {20601}{}{An old, beat-up mattress. You think you see some sort of small bug-like critter infesting it.}
 {20700}{}{Old Mattress}
 {20701}{}{Even if you were to sleep by yourself on this thing, you would not be sleeping alone.}
-{20800}{}{Bed}
-{20801}{}{A make-shift bed. The material was scavenged from some other source.}
-{20900}{}{Bed}
-{20901}{}{A make-shift bed. The material was scavenged from some other source.}
-{21000}{}{Bed}
-{21001}{}{This bed has seen better days (and probably nights, too.)}
-{21100}{}{Bed}
+{20800}{}{Cama}
+{20801}{}{A make-shift Cama. The material was scavenged from some other source.}
+{20900}{}{Cama}
+{20901}{}{A make-shift Cama. The material was scavenged from some other source.}
+{21000}{}{Cama}
+{21001}{}{This Cama has seen better days (and probably nights, too.)}
+{21100}{}{Cama}
 {21101}{}{On closer examination, you determine that the sheets have not been changed in a very, very long time.}
-{21200}{}{Bed}
+{21200}{}{Cama}
 {21201}{}{There are a couple of stains of dubious origin on this well-worn sleeping device.}
-{21300}{}{Bed}
-{21301}{}{This bed has seen a lot of use and wear. Something must have crawled between the mattresses and died, too.}
+{21300}{}{Cama}
+{21301}{}{This Cama has seen a lot of use and wear. Something must have crawled between the mattresses and died, too.}
 {21400}{}{Bookcase}
 {21500}{}{Bookcase}
 {21600}{}{Bookcase}
@@ -433,24 +433,24 @@
 {22701}{}{There is no way that this junkyard wannabe will ever drive again.}
 {22800}{}{Car}
 {22801}{}{If the Mechanic of the Year suddenly appeared next to you, both of you could not fix this rusty heap.}
-{22900}{}{Chair}
-{22901}{}{A comfy chair.}
-{23000}{}{Chair}
-{23001}{}{This chair looks like it has seen better years.}
-{23100}{}{Chair}
-{23101}{}{This chair is moldy and gross. As you can guess, it stinks, too.}
-{23200}{}{Chair}
-{23201}{}{This chair is falling apart. Quickly.}
-{23300}{}{Chair}
-{23301}{}{If someone paid you a lot of money, and you could use steel britches, you might consider sitting in this chair.}
-{23400}{}{Chair}
-{23401}{}{This looks like an old office chair, still in pretty good shape after all these years.}
-{23500}{}{Chair}
-{23501}{}{This is an old office chair. It might even support the weight of a person.}
-{23600}{}{Chair}
-{23601}{}{This office chair has seen better days. It's pretty much trash, now.}
-{23700}{}{Chair}
-{23701}{}{This looks like a chair you would see in a mortician's office - dead.}
+{22900}{}{Cadeira}
+{22901}{}{A comfy Cadeira.}
+{23000}{}{Cadeira}
+{23001}{}{This Cadeira looks like it has seen better years.}
+{23100}{}{Cadeira}
+{23101}{}{This Cadeira is moldy and gross. As you can guess, it stinks, too.}
+{23200}{}{Cadeira}
+{23201}{}{This Cadeira is falling apart. Quickly.}
+{23300}{}{Cadeira}
+{23301}{}{If someone paid you a lot of money, and you could use steel britches, you might consider sitting in this Cadeira.}
+{23400}{}{Cadeira}
+{23401}{}{This looks like an old office Cadeira, still in pretty good shape after all these years.}
+{23500}{}{Cadeira}
+{23501}{}{This is an old office Cadeira. It might even support the weight of a person.}
+{23600}{}{Cadeira}
+{23601}{}{This office Cadeira has seen better days. It's pretty much trash, now.}
+{23700}{}{Cadeira}
+{23701}{}{This looks like a Cadeira you would see in a mortician's office - dead.}
 {23800}{}{Desk}
 {23900}{}{Desk}
 {24000}{}{Dresser}
@@ -472,8 +472,8 @@
 {24901}{}{The light in this lamp post is shattered beyond repair.}
 {25000}{}{Lamp Post}
 {25001}{}{This is a functional lamp post.}
-{25100}{}{Gate}
-{25101}{}{The lock on this gate has been jammed shut and the bars look very sturdy.}
+{25100}{}{Portão}
+{25101}{}{The lock on this Portão has been jammed shut and the bars look very sturdy.}
 {25200}{}{Junk}
 {25201}{}{Definitely useless junk, no doubt about it.}
 {25300}{}{Junk}
@@ -486,20 +486,20 @@
 {25601}{}{Definitely useless junk, no doubt about it.}
 {25700}{}{Mailbox}
 {25701}{}{The mailbox is empty. You get the feeling it's been that way for a while.}
-{25800}{}{Door}
-{25801}{}{A nicely crafted wooden door, in good condition.}
-{25900}{}{Door}
-{25901}{}{A nicely crafted wooden door, in good condition.}
-{26000}{}{Door}
-{26001}{}{A nicely crafted wooden door, in good condition.}
-{26100}{}{Door}
-{26101}{}{A nicely crafted wooden door, in good condition.}
+{25800}{}{Porta}
+{25801}{}{A nicely crafted Porta de Madeira, in good condition.}
+{25900}{}{Porta}
+{25901}{}{A nicely crafted Porta de Madeira, in good condition.}
+{26000}{}{Porta}
+{26001}{}{A nicely crafted Porta de Madeira, in good condition.}
+{26100}{}{Porta}
+{26101}{}{A nicely crafted Porta de Madeira, in good condition.}
 {26200}{}{Pew}
 {26201}{}{This wooden pew is slowly falling apart.}
 {26300}{}{Pew}
 {26301}{}{This pew has been neglected, and is showing signs of wear and tear.}
 {26400}{}{Pew}
-{26401}{}{A wooden pew that has succumbed to the effects of age and abuse.}
+{26401}{}{A wooden pew that has succumCama to the effects of age and abuse.}
 {26500}{}{Newspaper Machine}
 {26501}{}{The newspaper machine is empty.}
 {26600}{}{Newspaper Machine}
@@ -513,24 +513,24 @@
 {27000}{}{Newspaper Machine}
 {27001}{}{The newspaper machine is empty. It looks like it once held adult magazines.}
 {27100}{}{Junk}
-{27101}{}{A bed mattress in terrible condition. Even the rats won't sleep in or on it.}
+{27101}{}{A Cama mattress in terrible condition. Even the rats won't sleep in or on it.}
 {27200}{}{Junk}
-{27201}{}{A twin bed mattress that has seen many better days than this one.}
+{27201}{}{A twin Cama mattress that has seen many better days than this one.}
 {27300}{}{Junk}
 {27301}{}{A pile of rotted and weathered wood. Not worth it's weight in, well, anything.}
 {27400}{}{Junk}
-{27401}{}{A pile of wood, with some rusty useless nails imbedded deeply.}
+{27401}{}{A pile of wood, with some rusty useless nails imCamaded deeply.}
 {27500}{}{Boxes}
 {27501}{}{A pile of old, cardboard boxes. You cannot believe that they have survived for this long.}
 {27600}{}{Boxes}
 {27601}{}{A pile of old, cardboard boxes.}
 {27700}{}{Junk}
-{27701}{}{Some junk that you think might have been a bed mattress before it was destroyed by the environment.}
-{27800}{}{Rocks}
-{27900}{}{Rocks}
-{28000}{}{Rocks}
+{27701}{}{Some junk that you think might have been a Cama mattress before it was destroyed by the environment.}
+{27800}{}{Rochas}
+{27900}{}{Rochas}
+{28000}{}{Rochas}
 {28100}{}{Rubble}
-{28101}{}{A small pile of rubbled stones and rocks. Watch your step!}
+{28101}{}{A small pile of rubbled stones and Rochas. Watch your step!}
 {28200}{}{Sink}
 {28201}{}{A porcelain sink that has long lost the ability to function.}
 {28300}{}{Sink}
@@ -549,40 +549,40 @@
 {28901}{}{This is an ancient automobile traffic control device.}
 {29000}{}{Stop Light}
 {29001}{}{This is an ancient automobile traffic control device.}
-{29100}{}{Street Light}
-{29101}{}{This street light provides illumination after night falls, or in darkened areas.}
-{29200}{}{Street Light}
-{29201}{}{This street light provides illumination after night falls, or in darkened areas.}
-{29300}{}{Street Light}
-{29301}{}{This street light provides illumination after night falls, or in darkened areas.}
-{29400}{}{Street Light}
-{29401}{}{This street light provides illumination after night falls, or in darkened areas.}
-{29500}{}{Street Light}
-{29501}{}{This street light could provide illumination in darkened areas, if it wasn't completely broken.}
-{29600}{}{Street Light}
-{29601}{}{This street light could provide illumination in darkened areas, if it wasn't completely broken.}
-{29700}{}{Street Light}
-{29701}{}{This street light could provide illumination in darkened areas, if it wasn't completely broken.}
+{29100}{}{SÁrvoret Light}
+{29101}{}{This sÁrvoret light provides illumination after night falls, or in darkened areas.}
+{29200}{}{SÁrvoret Light}
+{29201}{}{This sÁrvoret light provides illumination after night falls, or in darkened areas.}
+{29300}{}{SÁrvoret Light}
+{29301}{}{This sÁrvoret light provides illumination after night falls, or in darkened areas.}
+{29400}{}{SÁrvoret Light}
+{29401}{}{This sÁrvoret light provides illumination after night falls, or in darkened areas.}
+{29500}{}{SÁrvoret Light}
+{29501}{}{This sÁrvoret light could provide illumination in darkened areas, if it wasn't completely broken.}
+{29600}{}{SÁrvoret Light}
+{29601}{}{This sÁrvoret light could provide illumination in darkened areas, if it wasn't completely broken.}
+{29700}{}{SÁrvoret Light}
+{29701}{}{This sÁrvoret light could provide illumination in darkened areas, if it wasn't completely broken.}
 {29800}{}{Signpost}
-{29801}{}{This sign should mark what street it is on, but the letters have faded into obscurity.}
+{29801}{}{This sign should mark what sÁrvoret it is on, but the letters have faded into obscurity.}
 {29900}{}{Signpost}
-{29901}{}{This sign should mark what street it is on, but the letters have faded into obscurity.}
-{30000}{}{Table}
-{30001}{}{A wooden table, in fair to middling condition.}
-{30100}{}{Table}
-{30101}{}{A wooden table, in fair to middling condition.}
-{30200}{}{Table}
-{30201}{}{A wooden table, in middling to poor condition.}
-{30300}{}{Table}
-{30301}{}{A wooden table, with plastic surface, that has been broken for a while.}
-{30400}{}{Table}
-{30401}{}{A wooden table, painted a puke green color, that is beyond repair.}
-{30500}{}{Table}
-{30501}{}{This looks like an old coffee table, low to the ground for those really short mutants.}
-{30600}{}{Table}
-{30601}{}{This looks like an old coffee table, low to the ground for those really short mutants.}
+{29901}{}{This sign should mark what sÁrvoret it is on, but the letters have faded into obscurity.}
+{30000}{}{Mesa}
+{30001}{}{A Mesa de Madeira, in fair to middling condition.}
+{30100}{}{Mesa}
+{30101}{}{A Mesa de Madeira, in fair to middling condition.}
+{30200}{}{Mesa}
+{30201}{}{A Mesa de Madeira, in middling to poor condition.}
+{30300}{}{Mesa}
+{30301}{}{A Mesa de Madeira, with plastic surface, that has been broken for a while.}
+{30400}{}{Mesa}
+{30401}{}{A Mesa de Madeira, painted a puke green color, that is beyond repair.}
+{30500}{}{Mesa}
+{30501}{}{This looks like an old coffee Mesa, low to the ground for those really short mutants.}
+{30600}{}{Mesa}
+{30601}{}{This looks like an old coffee Mesa, low to the ground for those really short mutants.}
 {30700}{}{Toilet}
-{30701}{}{The sharpened edges around the seat make this a very uncomfortable place to sit.}
+{30701}{}{The sharpened edges around the seat make this a very uncomforMesa place to sit.}
 {30800}{}{Toilet}
 {30801}{}{This toilet is broken.}
 {30900}{}{Toilet}
@@ -590,7 +590,7 @@
 {31000}{}{Toilet}
 {31001}{}{This toilet is broken and definitely not useable if you're a woman.}
 {31100}{}{Trash}
-{31101}{}{Some busted pipes half-buried in the dirt. Nothing important to see here. Move along.}
+{31101}{}{Some busted Canos half-buried in the dirt. Nothing important to see here. Move along.}
 {31200}{}{Trash}
 {31201}{}{Some broken pieces of glass and other ruined pieces of junk.}
 {31300}{}{Trash}
@@ -598,16 +598,16 @@
 {31400}{}{Trash}
 {31401}{}{A pipe that has been snapped in half. It looks like it rusted until it collapsed under it's own weight.}
 {31500}{}{Trash Can}
-{31501}{}{A trash can. You can barely read the label: Keep your city streets clean!}
-{31600}{}{Tree}
-{31601}{}{It's a dead tree.}
-{31700}{}{Tree}
+{31501}{}{A trash can. You can barely read the label: Keep your city sÁrvorets clean!}
+{31600}{}{Árvore}
+{31601}{}{It's a dead Árvore.}
+{31700}{}{Árvore}
 {31701}{}{A stump. Nothing really exciting. In fact, this might be the least exciting thing you have ever laid your eyes on.}
-{31800}{}{Tree}
-{31801}{}{It's a dead tree.}
-{31900}{}{Tree}
-{32000}{}{Tree}
-{32100}{}{Tree}
+{31800}{}{Árvore}
+{31801}{}{It's a dead Árvore.}
+{31900}{}{Árvore}
+{32000}{}{Árvore}
+{32100}{}{Árvore}
 {32200}{}{Truck}
 {32300}{}{Truck}
 {32301}{}{The ruined remains of a diesel truck. This hunk of metal will never move again.}
@@ -627,10 +627,10 @@
 {33001}{}{It's just a urinal. Nothing special.}
 {33100}{}{Water Tank}
 {33101}{}{A large tank that holds liquids. In this case, you believe that it was designed to store water.}
-{33200}{}{Door}
-{33201}{}{A wooden door. Nothing extremely interesting about it.}
-{33300}{}{Door}
-{33301}{}{A wooden door. It provides an entrance and egress from this building.}
+{33200}{}{Porta}
+{33201}{}{A Porta de Madeira. Nothing extremely interesting about it.}
+{33300}{}{Porta}
+{33301}{}{A Porta de Madeira. It provides an entrance and egress from this building.}
 {33400}{}{Wall Lamp}
 {33401}{}{This lamp looks it is in good working condition.}
 {33500}{}{Wall Lamp}
@@ -652,10 +652,10 @@
 {34300}{}{Yield Sign}
 {34301}{}{The sign is faded, but you can make out the world YIELD.}
 {34400}{}{Block Hex Auto Inviso}
-{34401}{}{If you can see this, blame the technical designer.}
+{34401}{}{Se você pode ver isso, culpar o designer técnico.}
 {34500}{}{Floor}
-{34600}{}{Door}
-{34601}{}{An ornate wooden door. It is obviously made from fine workmanship.}
+{34600}{}{Porta}
+{34601}{}{An ornate Porta de Madeira. It is obviously made from fine workmanship.}
 {34700}{}{Pew}
 {34701}{}{This seat is supported by large concrete bricks. That's not important, but you're the one who looked.}
 {34800}{}{Staircase}
@@ -742,10 +742,10 @@
 {38801}{}{This pole helps to support the yurt.}
 {38900}{}{Pole}
 {38901}{}{This pole helps to support the yurt.}
-{39000}{}{Vault Door}
-{39001}{}{This vault door is now just a heavy piece of scrap-metal.}
+{39000}{}{Vault Porta}
+{39001}{}{This vault Porta is now just a heavy piece of scrap-metal.}
 {39100}{}{Wall}
-{39101}{}{The mechanism to open and close the heavy vault door has been damaged beyond repair.}
+{39101}{}{The mechanism to open and close the heavy vault Porta has been damaged beyond repair.}
 {39200}{}{Brace}
 {39201}{}{This brace helps to support the defensive wall.}
 {39300}{}{Brace}
@@ -754,16 +754,16 @@
 {39401}{}{This brace helps to support the defensive wall.}
 {39500}{}{Brace}
 {39501}{}{This brace helps to support the defensive wall.}
-{39600}{}{Metal Barrel}
-{39601}{}{A rusty metal barrel. It is empty.}
-{39700}{}{Metal Barrel}
+{39600}{}{Barril de Metal}
+{39601}{}{A rusty Barril de Metal. It is empty.}
+{39700}{}{Barril de Metal}
 {39701}{}{This barrel is probably empty from the hollow sound.}
-{39800}{}{Metal Barrels}
+{39800}{}{Barril de Metals}
 {39801}{}{These barrels are probably empty from their hollow sound.}
-{39900}{}{Metal Barrels}
+{39900}{}{Barril de Metals}
 {39901}{}{These barrels are probably empty from their hollow sound.}
-{40000}{}{Air Vent}
-{40001}{}{This air vent appears to be for an underground structure.}
+{40000}{}{Air Duto de ventilação}
+{40001}{}{This air Duto de ventilação appears to be for an underground structure.}
 {40100}{}{Crate}
 {40101}{}{A wooden crate. It doesn't look in that bad of shape.}
 {40200}{}{Crate}
@@ -771,11 +771,11 @@
 {40300}{}{Crate}
 {40301}{}{This simple wooden crate has collapsed under it's own weight.}
 {40400}{}{Desk}
-{40401}{}{A simple desk with a computer.}
+{40401}{}{A simple desk with a Computador.}
 {40500}{}{Desk}
-{40501}{}{A simple desk with a computer.}
-{40600}{}{Door}
-{40601}{}{A wooden door, in fair shape.}
+{40501}{}{A simple desk with a Computador.}
+{40600}{}{Porta}
+{40601}{}{A Porta de Madeira, in fair shape.}
 {40700}{}{Cave In}
 {40701}{}{A large amount of rock, far more than could ever be moved easily.}
 {40800}{}{Car}
@@ -790,22 +790,22 @@
 {41201}{}{This junk has almost washed away.}
 {41300}{}{Junk}
 {41301}{}{A choice selection of useless junk.}
-{41400}{}{Pipes}
-{41401}{}{These pipes used to transfer fuel from an underground tank to the garage. They haven't been used in a long time.}
+{41400}{}{Canos}
+{41401}{}{These Canos used to transfer fuel from an underground tank to the garage. They haven't been used in a long time.}
 {41500}{}{Pipe}
-{41501}{}{These pipes used to transfer fuel from an underground tank to the garage. They haven't been used in a long time.}
-{41600}{}{Pipes}
-{41601}{}{These pipes used to transfer fuel from an underground tank to the garage. They haven't been used in a long time.}
-{41700}{}{Elevator Shaft}
-{41701}{}{Part of an elevator system.}
-{41800}{}{Elevator Shaft}
-{41801}{}{An elevator shaft that stretches deep into the ground. It has been damaged.}
-{41900}{}{Elevator}
-{41901}{}{An elevator. Use it to go up and down between levels.}
-{42000}{}{Elevator Shaft}
-{42001}{}{An elevator shaft that stretches deep into the ground. It has been damaged.}
-{42100}{}{Elevator Door}
-{42101}{}{This door leads to the elevator car. If you want to use the elevator, you must first open this door.}
+{41501}{}{These Canos used to transfer fuel from an underground tank to the garage. They haven't been used in a long time.}
+{41600}{}{Canos}
+{41601}{}{These Canos used to transfer fuel from an underground tank to the garage. They haven't been used in a long time.}
+{41700}{}{Elevador Shaft}
+{41701}{}{Part of an Elevador system.}
+{41800}{}{Elevador Shaft}
+{41801}{}{An Elevador shaft that stretches deep into the ground. It has been damaged.}
+{41900}{}{Elevador}
+{41901}{}{An Elevador. Use it to go up and down between levels.}
+{42000}{}{Elevador Shaft}
+{42001}{}{An Elevador shaft that stretches deep into the ground. It has been damaged.}
+{42100}{}{Elevador Porta}
+{42101}{}{This Porta leads to the Elevador car. If you want to use the Elevador, you must first open this Porta.}
 {42200}{}{Pipe}
 {42201}{}{A metal pipe. Further details are not important.}
 {42300}{}{Dirt}
@@ -813,28 +813,28 @@
 {42500}{}{Box}
 {42600}{}{Box}
 {42700}{}{Box}
-{42800}{}{Rocks}
-{42801}{}{A pile of rocks. Not very interesting.}
-{42900}{}{Rocks}
-{42901}{}{A pile of rocks. Not very interesting.}
-{43000}{}{Rocks}
-{43001}{}{A small pile of rocks. Not in the least bit interesting to you.}
-{43100}{}{Rocks}
-{43101}{}{A very small pile of rocks.}
-{43200}{}{Rocks}
-{43201}{}{A very small pile of rocks.}
-{43300}{}{Rocks}
-{43301}{}{A very small pile of rocks.}
-{43400}{}{Rocks}
-{43401}{}{A very small pile of rocks.}
-{43500}{}{Rocks}
-{43501}{}{A very small pile of rocks.}
-{43600}{}{Vault Door}
-{43601}{}{This vault door is very similar to the one at Vault-13. The door mechanism has been disabled.}
-{43700}{}{Door}
-{43701}{}{A finely constructed wooden door, reinforced with ornate metal braces of an almost hypnotic design.}
-{43800}{}{Door}
-{43801}{}{A finely constructed wooden door, reinforced with ornate metal braces of an almost hypnotic design.}
+{42800}{}{Rochas}
+{42801}{}{A pile of Rochas. Not very interesting.}
+{42900}{}{Rochas}
+{42901}{}{A pile of Rochas. Not very interesting.}
+{43000}{}{Rochas}
+{43001}{}{Uma pequena pilha de Rochas. Not in the least bit interesting to you.}
+{43100}{}{Rochas}
+{43101}{}{A very small pile of Rochas.}
+{43200}{}{Rochas}
+{43201}{}{A very small pile of Rochas.}
+{43300}{}{Rochas}
+{43301}{}{A very small pile of Rochas.}
+{43400}{}{Rochas}
+{43401}{}{A very small pile of Rochas.}
+{43500}{}{Rochas}
+{43501}{}{A very small pile of Rochas.}
+{43600}{}{Vault Porta}
+{43601}{}{This vault Porta is very similar to the one at Vault-13. The Porta mechanism has been disabled.}
+{43700}{}{Porta}
+{43701}{}{A finely constructed Porta de Madeira, reinforced with ornate metal braces of an almost hypnotic design.}
+{43800}{}{Porta}
+{43801}{}{A finely constructed Porta de Madeira, reinforced with ornate metal braces of an almost hypnotic design.}
 {43900}{}{Vats}
 {43901}{}{A complex of some sort. You are not sure, but you can see large vats of a greenish goo that looks vaguely important.}
 {44000}{}{Vats}
@@ -852,31 +852,31 @@
 {44600}{}{Vats}
 {44601}{}{A complex of some sort. You are not sure, but you can see large vats of a greenish goo that looks vaguely important.}
 {44700}{}{Wall}
-{44800}{}{Door}
-{44801}{}{A security door. Looks heavily armored.}
+{44800}{}{Porta}
+{44801}{}{A Porta de Segurança. Looks heavily armored.}
 {44900}{}{Nuclear Warhead}
 {45000}{}{Well}
 {45001}{}{A typical well found in the wasteland.}
-{45100}{}{Craps Table}
-{45101}{}{This is a gambling table.}
-{45200}{}{Craps Table}
-{45201}{}{This is a gambling table.}
-{45300}{}{Craps Table}
-{45301}{}{This is a gambling table.}
-{45400}{}{Craps Table}
-{45401}{}{This is a gambling table.}
-{45500}{}{Craps Table}
-{45501}{}{This is a gambling table.}
-{45600}{}{Craps Table}
-{45601}{}{This is a gambling table.}
-{45700}{}{Craps Table}
-{45701}{}{This is a gambling table.}
-{45800}{}{Craps Table}
-{45801}{}{This is a gambling table.}
-{45900}{}{Craps Table}
-{45901}{}{This is a gambling table.}
-{46000}{}{Craps Table}
-{46001}{}{This is a gambling table.}
+{45100}{}{Craps Mesa}
+{45101}{}{This is a gambling Mesa.}
+{45200}{}{Craps Mesa}
+{45201}{}{This is a gambling Mesa.}
+{45300}{}{Craps Mesa}
+{45301}{}{This is a gambling Mesa.}
+{45400}{}{Craps Mesa}
+{45401}{}{This is a gambling Mesa.}
+{45500}{}{Craps Mesa}
+{45501}{}{This is a gambling Mesa.}
+{45600}{}{Craps Mesa}
+{45601}{}{This is a gambling Mesa.}
+{45700}{}{Craps Mesa}
+{45701}{}{This is a gambling Mesa.}
+{45800}{}{Craps Mesa}
+{45801}{}{This is a gambling Mesa.}
+{45900}{}{Craps Mesa}
+{45901}{}{This is a gambling Mesa.}
+{46000}{}{Craps Mesa}
+{46001}{}{This is a gambling Mesa.}
 {46100}{}{Rock}
 {46101}{}{A small rock, completely uninteresting in the context of this story.}
 {46200}{}{Rock}
@@ -886,10 +886,10 @@
 {46501}{}{This is a gambling machine.}
 {46600}{}{Slot Machine}
 {46601}{}{This is a gambling machine.}
-{46700}{}{Doorway}
-{46800}{}{Elevator}
-{46900}{}{Elevator}
-{47000}{}{Elevator Door}
+{46700}{}{Portaway}
+{46800}{}{Elevador}
+{46900}{}{Elevador}
+{47000}{}{Elevador Porta}
 {47100}{}{Window}
 {47101}{}{Instead of glass, this window is using wax paper.}
 {47200}{}{Window}
@@ -898,22 +898,22 @@
 {47301}{}{Instead of glass, this window is using wax paper.}
 {47400}{}{Window}
 {47401}{}{Instead of glass, this window is using wax paper.}
-{47500}{}{Door}
-{47501}{}{This large metal roll-door has been jammed shut from the inside.}
-{47600}{}{Door}
-{47601}{}{This large metal roll-door has been jammed shut from the inside.}
-{47700}{}{Door}
-{47701}{}{This large metal roll-door has been jammed shut from the inside. It reads LOADING ONLY.}
-{47800}{}{Door}
-{47801}{}{This large metal roll-door has been jammed shut from the inside.}
-{47900}{}{Door}
-{47901}{}{This large metal roll-door has been jammed shut from the inside.}
-{48000}{}{Door}
-{48001}{}{This large metal roll-door has been jammed shut from the inside. It reads LOADING ONLY.}
-{48100}{}{Door}
-{48101}{}{This door looks suspiciously like the door you would find in a warehouse.}
-{48200}{}{Door}
-{48201}{}{This door looks suspiciously like the door you would find in a warehouse.}
+{47500}{}{Porta}
+{47501}{}{This large metal roll-Porta has been jammed shut from the inside.}
+{47600}{}{Porta}
+{47601}{}{This large metal roll-Porta has been jammed shut from the inside.}
+{47700}{}{Porta}
+{47701}{}{This large metal roll-Porta has been jammed shut from the inside. It reads LOADING ONLY.}
+{47800}{}{Porta}
+{47801}{}{This large metal roll-Porta has been jammed shut from the inside.}
+{47900}{}{Porta}
+{47901}{}{This large metal roll-Porta has been jammed shut from the inside.}
+{48000}{}{Porta}
+{48001}{}{This large metal roll-Porta has been jammed shut from the inside. It reads LOADING ONLY.}
+{48100}{}{Porta}
+{48101}{}{This Porta looks suspiciously like the Porta you would find in a warehouse.}
+{48200}{}{Porta}
+{48201}{}{This Porta looks suspiciously like the Porta you would find in a warehouse.}
 {48300}{}{Weather Vane}
 {48301}{}{This simple weather vane helps the people of Shady Sands study the weather.}
 {48400}{}{Altar}
@@ -922,9 +922,9 @@
 {48501}{}{This is a normal podium for public speaking.}
 {48600}{}{Altar}
 {48700}{}{Monitor}
-{48701}{}{A large monitor, black and white only. The reception is pretty good for being indoors without an antenna.}
+{48701}{}{A large Monitor, black and white only. The reception is pretty good for being inPortas without an antenna.}
 {48800}{}{Monitor}
-{48801}{}{A large monitor, black and white only. The robed figure is reciting religious dogma at a feverish pace.}
+{48801}{}{A large Monitor, black and white only. The roCama figure is reciting religious dogma at a feverish pace.}
 {48900}{}{Forcefield}
 {48901}{}{This is a powerful field of energy.}
 {49000}{}{Forcefield}
@@ -933,18 +933,18 @@
 {49101}{}{This is a powerful field of energy.}
 {49200}{}{Forcefield}
 {49201}{}{This is a powerful field of energy.}
-{49300}{}{Table}
-{49301}{}{A fairly ordinary wooden table.}
-{49400}{}{Table}
-{49401}{}{A fairly ordinary wooden table.}
-{49500}{}{Table}
-{49501}{}{A fairly ordinary wooden table.}
-{49600}{}{Table}
-{49601}{}{A fairly ordinary wooden table.}
-{49700}{}{Table}
-{49701}{}{A fairly ordinary wooden table.}
-{49800}{}{Table}
-{49801}{}{A fairly ordinary wooden table.}
+{49300}{}{Mesa}
+{49301}{}{A fairly ordinary Mesa de Madeira.}
+{49400}{}{Mesa}
+{49401}{}{A fairly ordinary Mesa de Madeira.}
+{49500}{}{Mesa}
+{49501}{}{A fairly ordinary Mesa de Madeira.}
+{49600}{}{Mesa}
+{49601}{}{A fairly ordinary Mesa de Madeira.}
+{49700}{}{Mesa}
+{49701}{}{A fairly ordinary Mesa de Madeira.}
+{49800}{}{Mesa}
+{49801}{}{A fairly ordinary Mesa de Madeira.}
 {49900}{}{Shelf}
 {50000}{}{Shelf}
 {50100}{}{Shelf}
@@ -967,18 +967,18 @@
 {51300}{}{Bookshelf}
 {51400}{}{Bookshelf}
 {51500}{}{Bookshelf}
-{51600}{}{Table}
-{51601}{}{This large table looks important. Perhaps they hold meetings here?}
-{51700}{}{Table}
-{51701}{}{This large table looks important. Perhaps they hold meetings here?}
-{51800}{}{Table}
-{51801}{}{This large table looks important. Perhaps they hold meetings here?}
-{51900}{}{Table}
-{51901}{}{This large table looks important. Perhaps they hold meetings here?}
-{52000}{}{Table}
-{52001}{}{This large table looks important. Perhaps they hold meetings here?}
-{52100}{}{Table}
-{52101}{}{This large table looks important. Perhaps they hold meetings here?}
+{51600}{}{Mesa}
+{51601}{}{This large Mesa looks important. Perhaps they hold meetings here?}
+{51700}{}{Mesa}
+{51701}{}{This large Mesa looks important. Perhaps they hold meetings here?}
+{51800}{}{Mesa}
+{51801}{}{This large Mesa looks important. Perhaps they hold meetings here?}
+{51900}{}{Mesa}
+{51901}{}{This large Mesa looks important. Perhaps they hold meetings here?}
+{52000}{}{Mesa}
+{52001}{}{This large Mesa looks important. Perhaps they hold meetings here?}
+{52100}{}{Mesa}
+{52101}{}{This large Mesa looks important. Perhaps they hold meetings here?}
 {52200}{}{Altar}
 {52201}{}{An altar designed and used by the Brotherhood of Steel. Their symbol is brazenly shown.}
 {52300}{}{Altar}
@@ -986,7 +986,7 @@
 {52400}{}{Altar}
 {52401}{}{An altar designed and used by the Brotherhood of Steel. Their symbol is brazenly shown.}
 {52500}{}{Pew}
-{52501}{}{A nicely fashioned, and mighty uncomfortable looking, pew.}
+{52501}{}{A nicely fashioned, and mighty uncomforMesa looking, pew.}
 {52600}{}{Podium}
 {52601}{}{A nice wooden podium. There is a tele-prompter screen built into it, facing the speaker.}
 {52700}{}{Wagon}
@@ -1026,40 +1026,40 @@
 {54401}{}{These sturdy wooden planks have been firmly bound together.}
 {54500}{}{Wood Planks}
 {54501}{}{These sturdy wooden planks have been firmly bound together.}
-{54600}{}{Roulette Table}
-{54601}{}{This is a gambling table.}
-{54700}{}{Roulette Table}
-{54701}{}{This is a gambling table.}
-{54800}{}{Roulette Table}
-{54801}{}{This is a gambling table.}
-{54900}{}{Roulette Table}
-{54901}{}{This is a gambling table.}
-{55000}{}{Roulette Table}
-{55001}{}{This is a gambling table.}
+{54600}{}{Roulette Mesa}
+{54601}{}{This is a gambling Mesa.}
+{54700}{}{Roulette Mesa}
+{54701}{}{This is a gambling Mesa.}
+{54800}{}{Roulette Mesa}
+{54801}{}{This is a gambling Mesa.}
+{54900}{}{Roulette Mesa}
+{54901}{}{This is a gambling Mesa.}
+{55000}{}{Roulette Mesa}
+{55001}{}{This is a gambling Mesa.}
 {55100}{}{Barrel}
-{55101}{}{This empty metal barrel has the nuclear trefoil symbol painted on the side in bright yellow paint.}
+{55101}{}{This empty Barril de Metal has the nuclear trefoil symbol painted on the side in bright yellow paint.}
 {55200}{}{Barrel}
 {55201}{}{This barrel contains some green glowing goo. The nuclear trefoil symbol gives a clue to what the goo might be.}
-{55300}{}{Computer}
-{55301}{}{A very modern looking computer.}
-{55400}{}{Computer}
-{55401}{}{A very modern looking computer.}
+{55300}{}{Computador}
+{55301}{}{A very modern looking Computador.}
+{55400}{}{Computador}
+{55401}{}{A very modern looking Computador.}
 {55500}{}{Suspension Tank}
 {55501}{}{Some sort of medical or experimental apparatus, it looks as if it could contain a human or larger sized body.}
 {55600}{}{Broken Suspension Tank}
 {55601}{}{A broken piece of equipment. It is beyond repair.}
 {55700}{}{Mainframe}
-{55701}{}{A large super computer. Probably the fastest looking computer you've ever seen.}
+{55701}{}{A large super Computador. Probably the fastest looking Computador you've ever seen.}
 {55800}{}{Support Platform}
-{55801}{}{This platform supports the large super computer over the cooling tanks.}
+{55801}{}{This platform supports the large super Computador over the cooling tanks.}
 {55900}{}{Don't use}
 {56000}{}{Don't use}
-{56100}{}{Bed}
-{56101}{}{A military-style bunk bed. Looks very uncomfortable. Also looks like you could bounce a quarter off of these sheets.}
-{56200}{}{Bed}
-{56201}{}{A military-style bunk bed. Looks very uncomfortable. Also looks like you could bounce a quarter off of these sheets.}
-{56300}{}{Bed}
-{56301}{}{A military-style bunk bed. Looks very uncomfortable. Also looks like you could bounce a quarter off of these sheets.}
+{56100}{}{Cama}
+{56101}{}{A military-style bunk Cama. Looks very uncomforMesa. Also looks like you could bounce a quarter off of these sheets.}
+{56200}{}{Cama}
+{56201}{}{A military-style bunk Cama. Looks very uncomforMesa. Also looks like you could bounce a quarter off of these sheets.}
+{56300}{}{Cama}
+{56301}{}{A military-style bunk Cama. Looks very uncomforMesa. Also looks like you could bounce a quarter off of these sheets.}
 {56400}{}{Wire}
 {56401}{}{It looks like a serial cable of some sort.}
 {56500}{}{Wire}
@@ -1094,8 +1094,8 @@
 {57901}{}{A good view of the outside of the Cathedral.}
 {58000}{}{Wall}
 {58001}{}{A good view of the outside of the Cathedral.}
-{58100}{}{Door}
-{58101}{}{A door that looks perfectly at home in a cell.}
+{58100}{}{Porta}
+{58101}{}{A Porta that looks perfectly at home in a cell.}
 {58200}{}{Sign}
 {58201}{}{This sign says this store is called Darkwater's.}
 {58300}{}{Ladder}
@@ -1114,16 +1114,16 @@
 {58901}{}{It looks like an old printing press or manufacturing doohickey.}
 {59000}{}{Machinery}
 {59001}{}{It looks like an old printing press or manufacturing doohickey.}
-{59100}{}{Table}
-{59101}{}{This metal table looks in good condition. There is a drain in the center of it.}
-{59200}{}{Table}
-{59201}{}{This metal table looks in good condition. There is a drain in the center of it.}
-{59300}{}{Table}
-{59301}{}{The metal table is covered by some kind of biomass.}
-{59400}{}{Table}
-{59401}{}{The metal table is covered by some kind of biomass.}
-{59500}{}{Table}
-{59501}{}{The metal table is covered by some kind of biomass.}
+{59100}{}{Mesa}
+{59101}{}{This metal Mesa looks in good condition. There is a drain in the center of it.}
+{59200}{}{Mesa}
+{59201}{}{This metal Mesa looks in good condition. There is a drain in the center of it.}
+{59300}{}{Mesa}
+{59301}{}{The metal Mesa is covered by some kind of biomass.}
+{59400}{}{Mesa}
+{59401}{}{The metal Mesa is covered by some kind of biomass.}
+{59500}{}{Mesa}
+{59501}{}{The metal Mesa is covered by some kind of biomass.}
 {59600}{}{Bulletin Board}
 {59601}{}{Notices for employment are stapled to the board. It looks well used.}
 {59700}{}{Guard Shack}
@@ -1140,22 +1140,22 @@
 {60201}{}{It looks very unhealthy. You might want to wear armored swim trunks before taking a dip.}
 {60300}{}{Slime Pool}
 {60301}{}{It looks very unhealthy. You might want to wear armored swim trunks before taking a dip.}
-{60400}{}{Table}
-{60401}{}{A nice looking metal table.}
-{60500}{}{Table}
-{60501}{}{A nice looking metal table.}
-{60600}{}{Table}
-{60601}{}{A nice looking metal table.}
-{60700}{}{Table}
-{60701}{}{A nice looking metal table.}
-{60800}{}{Table}
-{60801}{}{This metal table has not been treated well. The rust is very pervasive.}
-{60900}{}{Table}
-{60901}{}{A good looking metal table, except for the rust.}
-{61000}{}{Table}
-{61001}{}{A good looking metal table, except for the rust.}
-{61100}{}{Table}
-{61101}{}{A good looking metal table, except for the rust.}
+{60400}{}{Mesa}
+{60401}{}{A nice looking metal Mesa.}
+{60500}{}{Mesa}
+{60501}{}{A nice looking metal Mesa.}
+{60600}{}{Mesa}
+{60601}{}{A nice looking metal Mesa.}
+{60700}{}{Mesa}
+{60701}{}{A nice looking metal Mesa.}
+{60800}{}{Mesa}
+{60801}{}{This metal Mesa has not been treated well. The rust is very pervasive.}
+{60900}{}{Mesa}
+{60901}{}{A good looking metal Mesa, except for the rust.}
+{61000}{}{Mesa}
+{61001}{}{A good looking metal Mesa, except for the rust.}
+{61100}{}{Mesa}
+{61101}{}{A good looking metal Mesa, except for the rust.}
 {61200}{}{Fire Pit}
 {61201}{}{The fire is burning.}
 {61300}{}{Mirror}
@@ -1186,16 +1186,16 @@
 {62501}{}{A military-style shower. Not to be used by modest people.}
 {62600}{}{Shower}
 {62601}{}{A military-style shower. Not to be used by modest people.}
-{62700}{}{Bed}
-{62701}{}{A very comfortable looking bed.}
-{62800}{}{Bed}
-{62801}{}{A very comfortable looking bed.}
-{62900}{}{Bed}
-{62901}{}{A structurally-enhanced bunk bed.}
-{63000}{}{Bed}
-{63001}{}{A structurally-enhanced bunk bed.}
-{63100}{}{Bed}
-{63101}{}{A structurally-enhanced bunk bed.}
+{62700}{}{Cama}
+{62701}{}{A very comforMesa looking Cama.}
+{62800}{}{Cama}
+{62801}{}{A very comforMesa looking Cama.}
+{62900}{}{Cama}
+{62901}{}{A structurally-enhanced bunk Cama.}
+{63000}{}{Cama}
+{63001}{}{A structurally-enhanced bunk Cama.}
+{63100}{}{Cama}
+{63101}{}{A structurally-enhanced bunk Cama.}
 {63200}{}{Terminal}
 {63300}{}{Terminal}
 {63400}{}{Flag}
@@ -1204,14 +1204,14 @@
 {63501}{}{This flag is the symbol of the Children of the Cathedral.}
 {63600}{}{Flag}
 {63601}{}{This flag is the symbol of the Children of the Cathedral.}
-{63700}{}{Computer}
-{63701}{}{A large computer.}
-{63800}{}{Computer}
-{63801}{}{A large computer.}
-{63900}{}{Computer}
-{63901}{}{A large computer.}
+{63700}{}{Computador}
+{63701}{}{A large Computador.}
+{63800}{}{Computador}
+{63801}{}{A large Computador.}
+{63900}{}{Computador}
+{63901}{}{A large Computador.}
 {64000}{}{Terminal}
-{64001}{}{The terminal to a large computer.}
+{64001}{}{The terminal to a large Computador.}
 {64100}{}{Dead Body}
 {64101}{}{It looks as if this person died very painfully.}
 {64200}{}{Dead Body}
@@ -1220,8 +1220,8 @@
 {64301}{}{It looks as if this person died very painfully.}
 {64400}{}{Dead Body}
 {64401}{}{It looks as if this person died very painfully.}
-{64500}{}{Door}
-{64501}{}{This barred door works well as the door to a jail cell.}
+{64500}{}{Porta}
+{64501}{}{This barred Porta works well as the Porta to a jail cell.}
 {64600}{}{Terminal}
 {64700}{}{Terminal}
 {64800}{}{Forklift}
@@ -1229,12 +1229,12 @@
 {64900}{}{Forklift}
 {64901}{}{The forklift is inoperable.}
 {65000}{}{Equipment}
-{65100}{}{Medical Table}
-{65101}{}{This table is very rusty. The drain in the center of the table is clogged.}
-{65200}{}{Medical Table}
-{65201}{}{This table is very rusty.}
-{65300}{}{Gate}
-{65301}{}{This gate has a bar that raises and lowers.}
+{65100}{}{Medical Mesa}
+{65101}{}{This Mesa is very rusty. The drain in the center of the Mesa is clogged.}
+{65200}{}{Medical Mesa}
+{65201}{}{This Mesa is very rusty.}
+{65300}{}{Portão}
+{65301}{}{This Portão has a bar that raises and lowers.}
 {65400}{}{Pipe}
 {65500}{}{Pipe}
 {65600}{}{Power Generator}
@@ -1243,52 +1243,52 @@
 {65701}{}{A large water-tank. Looks well-maintained, which is probably a good thing.}
 {65800}{}{Police Box}
 {65801}{}{A police box from the UK, circa 1960.}
-{65900}{}{Table}
-{65901}{}{A nicely made table. Hand-made, but it looks much nicer than any table you've seen before.}
-{66000}{}{Table}
-{66001}{}{A nicely made table. Hand-made, but it looks much nicer than any table you've seen before.}
-{66100}{}{Table}
-{66101}{}{A nicely made table. Hand-made, but it looks much nicer than any table you've seen before.}
-{66200}{}{Chair}
-{66201}{}{A very nice looking chair.}
-{66300}{}{Chair}
-{66301}{}{A very nice looking chair.}
-{66400}{}{Chair}
-{66401}{}{A very nice looking chair.}
-{66500}{}{Chair}
-{66501}{}{A very nice looking chair.}
-{66600}{}{Chair}
-{66601}{}{A very nice looking chair.}
-{66700}{}{Chair}
-{66701}{}{A very nice looking chair.}
-{66800}{}{Chair}
-{66801}{}{A very nice looking chair.}
-{66900}{}{Chair}
-{66901}{}{A very nice looking chair.}
-{67000}{}{Chair}
-{67001}{}{A very nice looking chair.}
-{67100}{}{Chair}
-{67101}{}{A very nice looking chair.}
-{67200}{}{Chair}
-{67201}{}{A very nice looking chair.}
-{67300}{}{Chair}
-{67301}{}{A very nice looking chair.}
-{67400}{}{Chair}
-{67401}{}{A very nice looking chair.}
-{67500}{}{Chair}
-{67501}{}{A very nice looking chair.}
-{67600}{}{Chair}
-{67601}{}{A very nice looking chair.}
-{67700}{}{Chair}
-{67701}{}{A very nice looking chair.}
-{67800}{}{Bed}
-{67801}{}{A very nice looking bed.}
-{67900}{}{Bed}
-{67901}{}{A very nice looking bed.}
-{68000}{}{Bed}
-{68001}{}{A very nice looking bed.}
-{68100}{}{Bed}
-{68101}{}{A very nice looking bed.}
+{65900}{}{Mesa}
+{65901}{}{A nicely made Mesa. Hand-made, but it looks much nicer than any Mesa you've seen before.}
+{66000}{}{Mesa}
+{66001}{}{A nicely made Mesa. Hand-made, but it looks much nicer than any Mesa you've seen before.}
+{66100}{}{Mesa}
+{66101}{}{A nicely made Mesa. Hand-made, but it looks much nicer than any Mesa you've seen before.}
+{66200}{}{Cadeira}
+{66201}{}{A very nice looking Cadeira.}
+{66300}{}{Cadeira}
+{66301}{}{A very nice looking Cadeira.}
+{66400}{}{Cadeira}
+{66401}{}{A very nice looking Cadeira.}
+{66500}{}{Cadeira}
+{66501}{}{A very nice looking Cadeira.}
+{66600}{}{Cadeira}
+{66601}{}{A very nice looking Cadeira.}
+{66700}{}{Cadeira}
+{66701}{}{A very nice looking Cadeira.}
+{66800}{}{Cadeira}
+{66801}{}{A very nice looking Cadeira.}
+{66900}{}{Cadeira}
+{66901}{}{A very nice looking Cadeira.}
+{67000}{}{Cadeira}
+{67001}{}{A very nice looking Cadeira.}
+{67100}{}{Cadeira}
+{67101}{}{A very nice looking Cadeira.}
+{67200}{}{Cadeira}
+{67201}{}{A very nice looking Cadeira.}
+{67300}{}{Cadeira}
+{67301}{}{A very nice looking Cadeira.}
+{67400}{}{Cadeira}
+{67401}{}{A very nice looking Cadeira.}
+{67500}{}{Cadeira}
+{67501}{}{A very nice looking Cadeira.}
+{67600}{}{Cadeira}
+{67601}{}{A very nice looking Cadeira.}
+{67700}{}{Cadeira}
+{67701}{}{A very nice looking Cadeira.}
+{67800}{}{Cama}
+{67801}{}{A very nice looking Cama.}
+{67900}{}{Cama}
+{67901}{}{A very nice looking Cama.}
+{68000}{}{Cama}
+{68001}{}{A very nice looking Cama.}
+{68100}{}{Cama}
+{68101}{}{A very nice looking Cama.}
 {68200}{}{Stove}
 {68201}{}{A functional wood-burning stove.}
 {68300}{}{Stove}
@@ -1299,10 +1299,10 @@
 {68501}{}{A functional wood-burning stove.}
 {68600}{}{Broken Post}
 {68700}{}{Destroyed Entrance}
-{68800}{}{Rocks}
-{68801}{}{A large formation of rocks. This was not a natural occurrence.}
-{68900}{}{Rocks}
-{68901}{}{A large formation of rocks. This was not a natural occurrence.}
+{68800}{}{Rochas}
+{68801}{}{A large formation of Rochas. This was not a natural occurrence.}
+{68900}{}{Rochas}
+{68901}{}{A large formation of Rochas. This was not a natural occurrence.}
 {69000}{}{Toilet}
 {69001}{}{A crude, but effective, toilet. There are some leaves dropped into the hole to manage the odor.}
 {69100}{}{Mountain}
@@ -1421,38 +1421,38 @@
 {74701}{}{You see some strange noxious biological goo.}
 {74800}{}{Goo}
 {74801}{}{You see some strange noxious biological goo.}
-{74900}{}{Computer}
-{74901}{}{The amount of goo on this computer makes it very difficult to access.}
-{75000}{}{Computer}
-{75001}{}{The amount of goo on this computer makes it very difficult to access.}
-{75100}{}{Computer}
-{75101}{}{The amount of goo on this computer makes it very difficult to access.}
-{75200}{}{Computer}
-{75201}{}{The amount of goo on this computer makes it very difficult to access.}
-{75300}{}{Computer}
-{75301}{}{The amount of goo on this computer makes it very difficult to access.}
-{75400}{}{Computer}
-{75401}{}{The amount of goo on this computer makes it very difficult to access.}
-{75500}{}{Computer}
-{75501}{}{The amount of goo on this computer makes it very difficult to access.}
-{75600}{}{Computer}
-{75601}{}{The amount of goo on this computer makes it very difficult to access.}
-{75700}{}{Computer}
-{75701}{}{The amount of goo on this computer makes it very difficult to access.}
-{75800}{}{Computer}
-{75801}{}{The amount of goo on this computer makes it very difficult to access.}
-{75900}{}{Computer}
-{75901}{}{The amount of goo on this computer makes it very difficult to access.}
-{76000}{}{Computer}
-{76001}{}{The amount of goo on this computer makes it very difficult to access.}
+{74900}{}{Computador}
+{74901}{}{The amount of goo on this Computador makes it very difficult to access.}
+{75000}{}{Computador}
+{75001}{}{The amount of goo on this Computador makes it very difficult to access.}
+{75100}{}{Computador}
+{75101}{}{The amount of goo on this Computador makes it very difficult to access.}
+{75200}{}{Computador}
+{75201}{}{The amount of goo on this Computador makes it very difficult to access.}
+{75300}{}{Computador}
+{75301}{}{The amount of goo on this Computador makes it very difficult to access.}
+{75400}{}{Computador}
+{75401}{}{The amount of goo on this Computador makes it very difficult to access.}
+{75500}{}{Computador}
+{75501}{}{The amount of goo on this Computador makes it very difficult to access.}
+{75600}{}{Computador}
+{75601}{}{The amount of goo on this Computador makes it very difficult to access.}
+{75700}{}{Computador}
+{75701}{}{The amount of goo on this Computador makes it very difficult to access.}
+{75800}{}{Computador}
+{75801}{}{The amount of goo on this Computador makes it very difficult to access.}
+{75900}{}{Computador}
+{75901}{}{The amount of goo on this Computador makes it very difficult to access.}
+{76000}{}{Computador}
+{76001}{}{The amount of goo on this Computador makes it very difficult to access.}
 {76100}{}{Monitors}
-{76101}{}{You cannot read anything on the monitor due to the amount of goo splashed across the screens.}
+{76101}{}{You cannot read anything on the Monitor due to the amount of goo splashed across the Telas.}
 {76200}{}{Monitors}
-{76201}{}{You cannot read anything on the monitor due to the amount of goo splashed across the screens.}
+{76201}{}{You cannot read anything on the Monitor due to the amount of goo splashed across the Telas.}
 {76300}{}{Monitors}
-{76301}{}{You cannot read anything on the monitor due to the amount of goo splashed across the screens.}
+{76301}{}{You cannot read anything on the Monitor due to the amount of goo splashed across the Telas.}
 {76400}{}{Monitors}
-{76401}{}{You cannot read anything on the monitor due to the amount of goo splashed across the screens.}
+{76401}{}{You cannot read anything on the Monitor due to the amount of goo splashed across the Telas.}
 {76500}{}{Floor}
 {76501}{}{You would swear that there is something moving on the floor.}
 {76600}{}{Pedestal}
@@ -1462,26 +1462,26 @@
 {76801}{}{This is a nuclear bomb. It looks very dangerous just sitting there.}
 {76900}{}{Support Base}
 {76901}{}{This base cradles the nuclear bomb that is sitting on it.}
-{77000}{}{Computer Console}
-{77001}{}{This is a nuclear access computer. The computer looks very secure. There is a slot for a strangely shaped key.}
+{77000}{}{Computador Console}
+{77001}{}{This is a nuclear access Computador. The Computador looks very secure. There is a slot for a strangely shaped key.}
 {77100}{}{Wires}
-{77101}{}{These wires are connecting the bomb to the computer.}
-{77200}{}{Chair}
-{77201}{}{There is nothing unusual about this chair.}
-{77300}{}{Chair}
-{77301}{}{There is nothing unusual about this chair.}
-{77400}{}{Chair}
-{77401}{}{There is nothing unusual about this chair.}
-{77500}{}{Chair}
-{77501}{}{There is nothing unusual about this chair.}
-{77600}{}{Chair}
-{77601}{}{There is nothing unusual about this chair.}
-{77700}{}{Chair}
-{77701}{}{There is nothing unusual about this chair.}
-{77800}{}{Chair}
-{77801}{}{There is nothing unusual about this chair.}
-{77900}{}{Chair}
-{77901}{}{There is nothing unusual about this chair.}
+{77101}{}{These wires are connecting the bomb to the Computador.}
+{77200}{}{Cadeira}
+{77201}{}{There is nothing unusual about this Cadeira.}
+{77300}{}{Cadeira}
+{77301}{}{There is nothing unusual about this Cadeira.}
+{77400}{}{Cadeira}
+{77401}{}{There is nothing unusual about this Cadeira.}
+{77500}{}{Cadeira}
+{77501}{}{There is nothing unusual about this Cadeira.}
+{77600}{}{Cadeira}
+{77601}{}{There is nothing unusual about this Cadeira.}
+{77700}{}{Cadeira}
+{77701}{}{There is nothing unusual about this Cadeira.}
+{77800}{}{Cadeira}
+{77801}{}{There is nothing unusual about this Cadeira.}
+{77900}{}{Cadeira}
+{77901}{}{There is nothing unusual about this Cadeira.}
 {78000}{}{Pillar}
 {78001}{}{A support pillar.}
 {78100}{}{Pillar}
@@ -1490,91 +1490,91 @@
 {78201}{}{A support pillar.}
 {78300}{}{Pillar}
 {78301}{}{A support pillar.}
-{78400}{}{Bed}
-{78401}{}{This bed is in wretched condition.}
-{78500}{}{Bed}
-{78501}{}{This bed is in very poor condition.}
-{78600}{}{Bed}
-{78601}{}{This bed is in poor condition.}
-{78700}{}{Bed}
-{78701}{}{This bed is in pretty bad condition.}
+{78400}{}{Cama}
+{78401}{}{This Cama is in wretched condition.}
+{78500}{}{Cama}
+{78501}{}{This Cama is in very poor condition.}
+{78600}{}{Cama}
+{78601}{}{This Cama is in poor condition.}
+{78700}{}{Cama}
+{78701}{}{This Cama is in pretty bad condition.}
 {78800}{}{Monitors}
-{78801}{}{These monitors are broken and cannot function.}
+{78801}{}{These Monitors are broken and cannot function.}
 {78900}{}{Monitors}
-{78901}{}{These monitors are broken and cannot function.}
+{78901}{}{These Monitors are broken and cannot function.}
 {79000}{}{Monitors}
-{79001}{}{These monitors are broken and cannot function.}
+{79001}{}{These Monitors are broken and cannot function.}
 {79100}{}{Monitors}
-{79101}{}{These monitors are broken and cannot function.}
-{79200}{}{Vent}
-{79201}{}{Very little fresh air is coming from this vent.}
-{79300}{}{Vent}
-{79301}{}{Almost no fresh air is coming from this vent.}
-{79400}{}{Vent}
-{79401}{}{No fresh air is coming from this vent.}
-{79500}{}{Vent}
-{79501}{}{Just a tiny amount of fresh air is coming from this vent.}
-{79600}{}{Table}
-{79601}{}{There is nothing unusual about this table, except that it is almost destroyed.}
-{79700}{}{Table}
-{79701}{}{This table was badly damaged.}
-{79800}{}{Table}
-{79801}{}{This table is in very poor condition.}
-{79900}{}{Table}
-{79901}{}{There is no reason to search this table.}
+{79101}{}{These Monitors are broken and cannot function.}
+{79200}{}{Duto de ventilação}
+{79201}{}{Very little fresh air is coming from this Duto de ventilação.}
+{79300}{}{Duto de ventilação}
+{79301}{}{Almost no fresh air is coming from this Duto de ventilação.}
+{79400}{}{Duto de ventilação}
+{79401}{}{No fresh air is coming from this Duto de ventilação.}
+{79500}{}{Duto de ventilação}
+{79501}{}{Just a tiny amount of fresh air is coming from this Duto de ventilação.}
+{79600}{}{Mesa}
+{79601}{}{There is nothing unusual about this Mesa, except that it is almost destroyed.}
+{79700}{}{Mesa}
+{79701}{}{This Mesa was badly damaged.}
+{79800}{}{Mesa}
+{79801}{}{This Mesa is in very poor condition.}
+{79900}{}{Mesa}
+{79901}{}{There is no reason to search this Mesa.}
 {80000}{}{Monitors}
-{80001}{}{The display screens in this bank of monitors have been destroyed.}
+{80001}{}{The display Telas in this bank of Monitors have been destroyed.}
 {80100}{}{Monitors}
-{80101}{}{The display screens in this bank of monitors have been damaged beyond repair.}
+{80101}{}{The display Telas in this bank of Monitors have been damaged beyond repair.}
 {80200}{}{Monitor}
-{80201}{}{The monitor screen is cracked and destroyed.}
+{80201}{}{The Monitor screen is cracked and destroyed.}
 {80300}{}{Monitor}
-{80301}{}{This monitor is worthless with a broken display screen.}
-{80400}{}{Computer}
-{80401}{}{This computer is broken.}
-{80500}{}{Computer}
-{80501}{}{This computer is broken.}
-{80600}{}{Computer}
-{80601}{}{This computer is broken.}
-{80700}{}{Chair}
-{80701}{}{This chair is ruined.}
-{80800}{}{Chair}
-{80801}{}{This chair is ruined.}
-{80900}{}{Chair}
-{80901}{}{This chair is ruined.}
-{81000}{}{Chair}
-{81001}{}{This chair is ruined.}
-{81100}{}{Vent}
-{81101}{}{This vent has been damaged beyond repair.}
-{81200}{}{Vent}
-{81201}{}{This vent is very damaged, and cannot be repaired.}
-{81300}{}{Vent}
-{81301}{}{This vent is not functioning at all.}
-{81400}{}{Computer}
-{81401}{}{This computer looks like it is barely functional.}
-{81500}{}{Computer}
-{81501}{}{This computer looks like it is barely functional.}
+{80301}{}{This Monitor is worthless with a broken display screen.}
+{80400}{}{Computador}
+{80401}{}{This Computador is broken.}
+{80500}{}{Computador}
+{80501}{}{This Computador is broken.}
+{80600}{}{Computador}
+{80601}{}{This Computador is broken.}
+{80700}{}{Cadeira}
+{80701}{}{This Cadeira is ruined.}
+{80800}{}{Cadeira}
+{80801}{}{This Cadeira is ruined.}
+{80900}{}{Cadeira}
+{80901}{}{This Cadeira is ruined.}
+{81000}{}{Cadeira}
+{81001}{}{This Cadeira is ruined.}
+{81100}{}{Duto de ventilação}
+{81101}{}{This Duto de ventilação has been damaged beyond repair.}
+{81200}{}{Duto de ventilação}
+{81201}{}{This Duto de ventilação is very damaged, and cannot be repaired.}
+{81300}{}{Duto de ventilação}
+{81301}{}{This Duto de ventilação is not functioning at all.}
+{81400}{}{Computador}
+{81401}{}{This Computador looks like it is barely functional.}
+{81500}{}{Computador}
+{81501}{}{This Computador looks like it is barely functional.}
 {81600}{}{Monitor}
-{81601}{}{The monitor is barely working.}
+{81601}{}{The Monitor is barely working.}
 {81700}{}{Monitor}
-{81701}{}{The monitor is barely working.}
-{81800}{}{Computer}
-{81801}{}{The computer is not functioning.}
-{81900}{}{Computer}
-{81901}{}{The computer is not functioning.}
+{81701}{}{The Monitor is barely working.}
+{81800}{}{Computador}
+{81801}{}{The Computador is not functioning.}
+{81900}{}{Computador}
+{81901}{}{The Computador is not functioning.}
 {82000}{}{Monitor}
-{82001}{}{The monitor is not functioning.}
+{82001}{}{The Monitor is not functioning.}
 {82100}{}{Monitor}
-{82101}{}{The monitor is not functioning.}
-{82200}{}{Doorway}
-{82201}{}{It looks like a very nice doorway. It does the job of holding up a door very well.}
+{82101}{}{The Monitor is not functioning.}
+{82200}{}{Portaway}
+{82201}{}{It looks like a very nice Portaway. It does the job of holding up a Porta very well.}
 {82300}{}{Monitors}
-{82301}{}{The monitors are in good condition.}
+{82301}{}{The Monitors are in good condition.}
 {82400}{}{Monitors}
-{82401}{}{The monitors are in good condition.}
+{82401}{}{The Monitors are in good condition.}
 {82500}{}{Wall}
-{82600}{}{Bank Door}
-{82601}{}{A very sturdy bank vault door. The door looks very secure.}
+{82600}{}{Bank Porta}
+{82601}{}{A very sturdy bank vault Porta. The Porta looks very secure.}
 {82700}{}{Light}
 {82701}{}{A security light.}
 {82800}{}{Light}
@@ -1606,18 +1606,18 @@
 {84500}{}{Stripe}
 {84600}{}{Stripe}
 {84700}{}{Stripe}
-{84800}{}{Door}
-{84801}{}{A very normal wooden door.}
-{84900}{}{Door}
-{84901}{}{A very normal wooden door.}
-{85000}{}{Door}
-{85001}{}{A very normal wooden door.}
+{84800}{}{Porta}
+{84801}{}{A very normal Porta de Madeira.}
+{84900}{}{Porta}
+{84901}{}{A very normal Porta de Madeira.}
+{85000}{}{Porta}
+{85001}{}{A very normal Porta de Madeira.}
 {85100}{}{Sign}
 {85101}{}{This sign stands for Friendly Lending Company.}
 {85200}{}{Emblem}
 {85201}{}{This appears to be a religious emblem.}
-{85300}{}{Medical Table}
-{85301}{}{This looks like a medical examination table.}
+{85300}{}{Medical Mesa}
+{85301}{}{This looks like a medical examination Mesa.}
 {85400}{}{Sign}
 {85401}{}{This is a neon sign for the Maltese Falcon.}
 {85500}{}{Graffiti}
@@ -1673,9 +1673,9 @@
 {88700}{}{Sign}
 {88701}{}{The sign reads: Motel.}
 {88800}{}{Mushrooms}
-{88801}{}{This table planter has been filled with dung, and mushrooms are happily growing in it.}
+{88801}{}{This Mesa planter has been filled with dung, and mushrooms are happily growing in it.}
 {88900}{}{Mushrooms}
-{88901}{}{This table planter has been filled with dung, and mushrooms are happily growing in it.}
+{88901}{}{This Mesa planter has been filled with dung, and mushrooms are happily growing in it.}
 {89000}{}{Skeleton}
 {89100}{}{Sign}
 {89101}{}{This sign reads: Jail.}
@@ -1697,16 +1697,16 @@
 {89901}{}{This is a movie poster for a horror film from pre-War days.}
 {90000}{}{Bar}
 {90001}{}{There is an urn sitting on this bar. The urn looks a little beat up, but might be valuable.}
-{90100}{}{Elevator Shaft}
+{90100}{}{Elevador Shaft}
 {90101}{}{The shaft has a rope hanging from above.}
-{90200}{}{Elevator Shaft}
+{90200}{}{Elevador Shaft}
 {90201}{}{The shaft has a rope hanging down from the edge.}
-{90300}{}{Medical Bed}
-{90301}{}{This bed has a built-in display for monitoring the patients progress.}
+{90300}{}{Medical Cama}
+{90301}{}{This Cama has a built-in display for Monitoring the patients progress.}
 {90400}{}{Water Pump}
 {90401}{}{This is a piece of machinery that pumps water up from below.}
-{90500}{}{Medical Bed}
-{90501}{}{This bed has a built-in display for monitoring the patients progress.}
+{90500}{}{Medical Cama}
+{90501}{}{This Cama has a built-in display for Monitoring the patients progress.}
 {90600}{}{Power Armor Parts}
 {90601}{}{These are parts to a suit of Power Armor.}
 {90700}{}{Light}
@@ -1736,12 +1736,12 @@
 {92900}{}{Canyon}
 {93000}{}{Canyon}
 {93100}{}{Cave Floor}
-{93200}{}{Impenetrable Door}
-{93201}{}{This door appears to have no opening mechanism.}
-{93300}{}{Destroyed Door}
-{93301}{}{The door has been blown open.}
-{93400}{}{Door}
-{93401}{}{A door with an intricate lock.}
+{93200}{}{Impenetrable Porta}
+{93201}{}{This Porta appears to have no opening mechanism.}
+{93300}{}{Destroyed Porta}
+{93301}{}{The Porta has been blown open.}
+{93400}{}{Porta}
+{93401}{}{A Porta with an intricate lock.}
 {93500}{}{Torch}
 {93501}{}{A lit torch in a wall sconce.}
 {93600}{}{Torch}
@@ -1758,11 +1758,11 @@
 {94300}{}{Plant}
 {94301}{}{}
 {94400}{}{Plant}
-{94500}{}{Tree}
-{94600}{}{Tree}
-{94700}{}{Tree}
-{94800}{}{Bed}
-{94900}{}{Bed}
+{94500}{}{Árvore}
+{94600}{}{Árvore}
+{94700}{}{Árvore}
+{94800}{}{Cama}
+{94900}{}{Cama}
 {95000}{}{Hole}
 {95001}{}{A suspicious hole in the wall.}
 {95100}{}{Raised Stone Plate}
@@ -1771,15 +1771,15 @@
 {95201}{}{A disabled stone plate.}
 {95300}{}{Triggered Stone Plate}
 {95301}{}{A triggered stone plate.}
-{95400}{}{Door}
-{95500}{}{Door}
-{95600}{}{Door}
-{95700}{}{Door}
-{95800}{}{Door}
-{95900}{}{Door}
-{96000}{}{Door}
-{96100}{}{Door}
-{96200}{}{Door}
+{95400}{}{Porta}
+{95500}{}{Porta}
+{95600}{}{Porta}
+{95700}{}{Porta}
+{95800}{}{Porta}
+{95900}{}{Porta}
+{96000}{}{Porta}
+{96100}{}{Porta}
+{96200}{}{Porta}
 {96300}{}{Plant}
 {96301}{}{A mutated cornstalk.}
 {96400}{}{Plant}
@@ -1804,19 +1804,19 @@
 {97601}{}{The stone floor has collapsed here into the lower level.}
 {97700}{}{Ladder Down}
 {97701}{}{A manmade hole with a ladder leading down.}
-{97800}{}{Door}
+{97800}{}{Porta}
 {97900}{}{Wall}
 {98000}{}{Reactor 5 Sign}
-{98100}{}{Door}
-{98200}{}{Door}
-{98300}{}{Door}
-{98400}{}{Door}
+{98100}{}{Porta}
+{98200}{}{Porta}
+{98300}{}{Porta}
+{98400}{}{Porta}
 {98500}{}{Radioactive Goo}
 {98600}{}{Radioactive Goo}
 {98700}{}{Radioactive Goo}
 {98800}{}{Radioactive Goo}
-{98900}{}{Security Door}
-{99000}{}{Vault Door}
+{98900}{}{Porta de Segurança}
+{99000}{}{Vault Porta}
 {99100}{}{Utility Crane}
 {99200}{}{Utility Crane}
 {99300}{}{Well}
@@ -2024,22 +2024,22 @@
 {116701}{}{A non-functional machine.}
 {116800}{}{Machine}
 {116801}{}{A non-functional machine.}
-{116900}{}{Door}
-{117000}{}{Door}
-{117100}{}{Pipes}
-{117101}{}{A set of pipes going into the reactor.}
+{116900}{}{Porta}
+{117000}{}{Porta}
+{117100}{}{Canos}
+{117101}{}{A set of Canos going into the reactor.}
 {117200}{}{Tank}
 {117300}{}{Tanks}
 {117400}{}{Tanks}
 {117500}{}{Tanks}
-{117600}{}{Vent}
-{117700}{}{Vent}
+{117600}{}{Duto de ventilação}
+{117700}{}{Duto de ventilação}
 {117800}{}{Harp Sign}
 {117900}{}{Sawhorse}
 {118000}{}{Sawhorse}
 {118100}{}{Sawhorse}
-{118200}{}{Vent}
-{118300}{}{Vent}
+{118200}{}{Duto de ventilação}
+{118300}{}{Duto de ventilação}
 {118400}{}{Machine Shop Sign}
 {118500}{}{Manager's Office Sign}
 {118600}{}{Supply Room Sign}
@@ -2120,21 +2120,21 @@
 {124500}{}{Gas Pump}
 {124600}{}{Pep Gas Sign}
 {124700}{}{Sign Shadow}
-{124800}{}{Haybed}
-{124900}{}{Haybed}
-{125000}{}{Haybed}
-{125100}{}{Haybed}
-{125200}{}{Haybed}
-{125300}{}{Haybed}
+{124800}{}{HayCama}
+{124900}{}{HayCama}
+{125000}{}{HayCama}
+{125100}{}{HayCama}
+{125200}{}{HayCama}
+{125300}{}{HayCama}
 {125400}{}{Dusty's Cantina Sign}
 {125500}{}{Son of Bob's Store}
-{125501}{}{A street vendor's stand.}
+{125501}{}{A sÁrvoret vendor's stand.}
 {125600}{}{Son of Bob's Store}
-{125601}{}{A street vendor's stand.}
+{125601}{}{A sÁrvoret vendor's stand.}
 {125700}{}{Son of Bob's Store}
-{125701}{}{A street vendor's stand.}
+{125701}{}{A sÁrvoret vendor's stand.}
 {125800}{}{Son of Bob's Store}
-{125801}{}{A street vendor's stand.}
+{125801}{}{A sÁrvoret vendor's stand.}
 {125900}{}{NCR Sign}
 {126000}{}{Hall of Congress Sign}
 {126100}{}{Hall of Congress Sign}
@@ -2149,8 +2149,8 @@
 {127000}{}{Casino Sign}
 {127100}{}{Casino Sign}
 {127200}{}{Casino Sign}
-{127300}{}{Pile of Rocks}
-{127301}{}{These rocks appear to be keeping something in.}
+{127300}{}{Pile of Rochas}
+{127301}{}{These Rochas appear to be keeping something in.}
 {127400}{}{Beam}
 {127500}{}{Beam}
 {127600}{}{Beam}
@@ -2170,7 +2170,7 @@
 {129000}{}{Shadow}
 {129100}{}{Shadow}
 {129200}{}{Shadow}
-{129300}{}{Elevator Stub}
+{129300}{}{Elevador Stub}
 {129400}{}{Gas Pump}
 {129500}{}{Gas Pump}
 {129600}{}{Gas Pump}
@@ -2204,20 +2204,20 @@
 {132400}{}{Blood}
 {132500}{}{Blood}
 {132600}{}{Blood}
-{132700}{}{Blood with Bones}
-{132800}{}{Blood with Bones}
-{132900}{}{Blood with Bones}
+{132700}{}{Blood with Ossos}
+{132800}{}{Blood with Ossos}
+{132900}{}{Blood with Ossos}
 {133000}{}{Cave Mouth}
 {133100}{}{Equipment Access}
 {133200}{}{Equipment Access}
 {133300}{}{Equipment Access}
 {133400}{}{Equipment Access}
-{133500}{}{Computer}
-{133501}{}{A Vault computer terminal, hooked into the main Vault computer.}
-{133600}{}{Computer}
-{133601}{}{A Vault computer terminal, hooked into the main Vault computer.}
-{133700}{}{Vault City Gate}
-{133800}{}{Vault City Gate}
+{133500}{}{Computador}
+{133501}{}{A Vault Computador terminal, hooked into the main Vault Computador.}
+{133600}{}{Computador}
+{133601}{}{A Vault Computador terminal, hooked into the main Vault Computador.}
+{133700}{}{Vault City Portão}
+{133800}{}{Vault City Portão}
 {133900}{}{Wall}
 {134000}{}{Wall}
 {134100}{}{Wall}
@@ -2226,9 +2226,9 @@
 {134400}{}{Wall}
 {134500}{}{Wall}
 {134600}{}{Wall}
-{134700}{}{Door}
-{134800}{}{Blown Open Door}
-{134900}{}{Door Debris}
+{134700}{}{Porta}
+{134800}{}{Blown Open Porta}
+{134900}{}{Porta Debris}
 {135000}{}{Building}
 {135100}{}{Building}
 {135200}{}{Building}
@@ -2237,7 +2237,7 @@
 {135500}{}{Building}
 {135600}{}{Building}
 {135700}{}{Building}
-{135800}{}{Door}
+{135800}{}{Porta}
 {135900}{}{Temple}
 {136000}{}{Temple}
 {136100}{}{Temple}
@@ -2252,7 +2252,7 @@
 {136900}{}{Temple}
 {137000}{}{Mountain}
 {137100}{}{Cavern}
-{137200}{}{Door Track}
+{137200}{}{Porta Track}
 {137300}{}{Torch}
 {137301}{}{A lit torch in a wall sconce.}
 {137400}{}{Torch}
@@ -2263,10 +2263,10 @@
 {137601}{}{A lit torch in a wall sconce.}
 {137700}{}{Vertibird}
 {137701}{}{NEED LONG DESCRIPTION.}
-{137800}{}{Destroyed Door}
-{137801}{}{The power station door is destroyed.}
-{137900}{}{Destroyed Door}
-{137901}{}{The power station door is destroyed.}
+{137800}{}{Destroyed Porta}
+{137801}{}{The power station Porta is destroyed.}
+{137900}{}{Destroyed Porta}
+{137901}{}{The power station Porta is destroyed.}
 {138000}{}{Wall}
 {138100}{}{Wall}
 {138200}{}{Wall}
@@ -2274,12 +2274,12 @@
 {138400}{}{Wall}
 {138500}{}{Wall}
 {138600}{}{Light}
-{138700}{}{Door}
-{138800}{}{Door}
-{138900}{}{Door}
-{139000}{}{Door}
-{139100}{}{Door}
-{139200}{}{Door}
+{138700}{}{Porta}
+{138800}{}{Porta}
+{138900}{}{Porta}
+{139000}{}{Porta}
+{139100}{}{Porta}
+{139200}{}{Porta}
 {139300}{}{Banner}
 {139400}{}{Post}
 {139500}{}{Post}
@@ -2304,8 +2304,8 @@
 {141400}{}{New Reno Arms Sign}
 {141500}{}{Salvatore's Bar Sign}
 {141600}{}{Statue}
-{141700}{}{Warehouse Door}
-{141800}{}{Warehouse Door}
+{141700}{}{Warehouse Porta}
+{141800}{}{Warehouse Porta}
 {141900}{}{Doc Johnson Sign}
 {142000}{}{Sheriff Sign}
 {142100}{}{Malamute Saloon Sign}
@@ -2323,8 +2323,8 @@
 {143200}{}{Number 6 Sign}
 {143300}{}{Rope}
 {143301}{}{You can climb over the wall with this rope.}
-{143400}{}{Door}
-{143500}{}{Door}
+{143400}{}{Porta}
+{143500}{}{Porta}
 {143600}{}{Window}
 {143700}{}{Window}
 {143800}{}{Window}
@@ -2338,7 +2338,7 @@
 {144600}{}{Window}
 {144700}{}{Window}
 {144800}{}{Pool Ladder}
-{144900}{}{Door}
+{144900}{}{Porta}
 {145000}{}{Arch}
 {145100}{}{Arch}
 {145200}{}{Arch}
@@ -2355,8 +2355,8 @@
 {146300}{}{Arch}
 {146400}{}{Shadow}
 {146500}{}{Shadow}
-{146600}{}{Fence Door}
-{146700}{}{Fence Door}
+{146600}{}{Fence Porta}
+{146700}{}{Fence Porta}
 {146800}{}{Command Seat}
 {146801}{}{This is where the Overseer normally sits.}
 {146900}{}{Chasm}
@@ -2369,8 +2369,8 @@
 {147600}{}{Casino Entrance}
 {147700}{}{Casino Entrance}
 {147800}{}{Casino Entrance}
-{147900}{}{Casino Door}
-{148000}{}{Casino Door}
+{147900}{}{Casino Porta}
+{148000}{}{Casino Porta}
 {148100}{}{Casino Entrance}
 {148200}{}{Casino Entrance}
 {148300}{}{Casino Entrance}
@@ -2381,8 +2381,8 @@
 {148800}{}{Casino Entrance}
 {148900}{}{Casino Entrance}
 {149000}{}{Casino Entrance}
-{149100}{}{Casino Door}
-{149200}{}{Casino Door}
+{149100}{}{Casino Porta}
+{149200}{}{Casino Porta}
 {149300}{}{Wall Light}
 {149400}{}{Wall Light}
 {149500}{}{Wall Light}
@@ -2419,14 +2419,14 @@
 {152600}{}{Pipe}
 {152700}{}{Pipe}
 {152800}{}{Pipe}
-{152900}{}{Air Vent}
-{153000}{}{Air Vent}
-{153100}{}{Door}
-{153200}{}{Door}
-{153300}{}{Door}
-{153400}{}{Door}
-{153500}{}{Door}
-{153600}{}{Door}
+{152900}{}{Air Duto de ventilação}
+{153000}{}{Air Duto de ventilação}
+{153100}{}{Porta}
+{153200}{}{Porta}
+{153300}{}{Porta}
+{153400}{}{Porta}
+{153500}{}{Porta}
+{153600}{}{Porta}
 {153700}{}{Shower}
 {153800}{}{Shuttle Wall}
 {153900}{}{Shuttle Wall}
@@ -2464,16 +2464,16 @@
 {157000}{}{Shadow}
 {157100}{}{Shadow}
 {157200}{}{Throne}
-{157300}{}{Door}
-{157400}{}{Door}
-{157500}{}{Door}
-{157600}{}{Door}
-{157700}{}{Air Vent}
+{157300}{}{Porta}
+{157400}{}{Porta}
+{157500}{}{Porta}
+{157600}{}{Porta}
+{157700}{}{Air Duto de ventilação}
 {157800}{}{Auto-Doc}
 {157801}{}{This Auto-Doc is designed to heal illnesses and administer various drugs.}
 {157900}{}{Statue}
 {157901}{}{A small statue of the famous Vault Dweller.}
-{158000}{}{Pile of Rocks}
+{158000}{}{Pile of Rochas}
 {158100}{}{Forcefield}
 {158101}{}{An energy field is blocking your path.}
 {158200}{}{Forcefield}
@@ -2516,7 +2516,7 @@
 {161600}{}{Dock Shadow}
 {161700}{}{Dock Shadow}
 {161800}{}{Dock Shadow}
-{161900}{}{Stairs}
+{161900}{}{Escada}
 {162000}{}{Deactivated Cyberdog}
 {162001}{}{You see a deactivated Cyberdog.}
 {162100}{}{Destroyed Power Generator}
@@ -2529,12 +2529,12 @@
 {162700}{}{Mine Cart with Dynamite}
 {162800}{}{Destroyed Mine Cart}
 {162900}{}{Mine Cart}
-{163000}{}{Pool Table}
-{163100}{}{Pool Table}
-{163200}{}{Pool Table}
-{163300}{}{Pool Table}
-{163400}{}{Pool Table}
-{163500}{}{Pool Table}
+{163000}{}{Pool Mesa}
+{163100}{}{Pool Mesa}
+{163200}{}{Pool Mesa}
+{163300}{}{Pool Mesa}
+{163400}{}{Pool Mesa}
+{163500}{}{Pool Mesa}
 {163600}{}{Desk}
 {163700}{}{Flag}
 {163800}{}{Wall}
@@ -2544,22 +2544,22 @@
 {164200}{}{Exhaust Port}
 {164300}{}{Desk}
 {164400}{}{Desk}
-{164500}{}{Stairs Down}
-{164600}{}{Stairs Up}
-{164700}{}{Stairs Up}
-{164800}{}{Stairs Up}
+{164500}{}{Escada Down}
+{164600}{}{Escada Up}
+{164700}{}{Escada Up}
+{164800}{}{Escada Up}
 {164900}{}{Reactor Core}
 {165000}{}{Reactor Core}
 {165100}{}{Reactor Core}
 {165200}{}{Caravan Office Sign}
-{165300}{}{Coffin Table}
-{165400}{}{Coffin Table}
-{165500}{}{Mine Elevator}
-{165600}{}{Mine Elevator}
+{165300}{}{Coffin Mesa}
+{165400}{}{Coffin Mesa}
+{165500}{}{Mine Elevador}
+{165600}{}{Mine Elevador}
 {165700}{}{Flagpole}
 {165800}{}{NCR Flag}
 {165900}{}{Poseidon Gasoline Sign}
-{166000}{}{Stairs Down}
+{166000}{}{Escada Down}
 {166100}{}{Clinic Sign}
 {166200}{}{Corrections Center Sign}
 {166300}{}{Customs Sign}
@@ -2583,10 +2583,10 @@
 {168100}{}{Servant Allocation Center}
 {168200}{}{Amenities Office Sign}
 {168300}{}{Amenities Office Sign}
-{168400}{}{Mine Elevator}
-{168500}{}{Mine Elevator}
-{168600}{}{Mine Elevator}
-{168700}{}{Mine Elevator}
+{168400}{}{Mine Elevador}
+{168500}{}{Mine Elevador}
+{168600}{}{Mine Elevador}
+{168700}{}{Mine Elevador}
 {168800}{}{Vertibird}
 {168900}{}{Vertibird}
 {169000}{}{Vertibird}
@@ -2610,8 +2610,8 @@
 {170700}{}{Destroyed Bridge}
 {170701}{}{You see what's left of the Arroyo bridge. There's no way back to the village now.}
 {170800}{}{Canyon}
-{170900}{}{Door}
-{171000}{}{Door}
+{170900}{}{Porta}
+{171000}{}{Porta}
 {171100}{}{Wall}
 {171200}{}{Wall}
 {171300}{}{Wall}
@@ -2620,24 +2620,24 @@
 {171600}{}{Wall}
 {171700}{}{Wall}
 {171800}{}{Wall}
-{171900}{}{Air Vent}
-{172000}{}{Air Vent}
+{171900}{}{Air Duto de ventilação}
+{172000}{}{Air Duto de ventilação}
 {172100}{}{Bullet Proof Glass}
 {172200}{}{Bullet Proof Glass}
 {172300}{}{Bullet Proof Glass}
 {172400}{}{Heavy Laser Turret}
 {172500}{}{Heavy Laser Turret}
-{172600}{}{Rocks}
-{172700}{}{Rocks}
-{172800}{}{Rocks}
-{172900}{}{Rocks}
-{173000}{}{Rocks}
-{173100}{}{Rocks}
-{173200}{}{Rocks}
-{173300}{}{Rocks}
-{173400}{}{Rocks}
-{173500}{}{Rocks}
-{173600}{}{Rocks}
+{172600}{}{Rochas}
+{172700}{}{Rochas}
+{172800}{}{Rochas}
+{172900}{}{Rochas}
+{173000}{}{Rochas}
+{173100}{}{Rochas}
+{173200}{}{Rochas}
+{173300}{}{Rochas}
+{173400}{}{Rochas}
+{173500}{}{Rochas}
+{173600}{}{Rochas}
 {173700}{}{Becky's Casino Sign}
 {173800}{}{Becky's Sign}
 {173900}{}{Last Gasp Saloon Sign}
@@ -2646,10 +2646,10 @@
 {174200}{}{Survival/Gear Locker Sign}
 {174300}{}{Tubby's Sign}
 {174400}{}{Tubby's Sign}
-{174500}{}{Mine Elevator Gate}
+{174500}{}{Mine Elevador Portão}
 {174600}{}{Fan}
 {174700}{}{Fan}
-{174800}{}{President's Office Door}
+{174800}{}{President's Office Porta}
 {174900}{}{Eye Chart}
 {175000}{}{Ruins}
 {175100}{}{Guardian of Forever}
@@ -2713,10 +2713,10 @@
 {180100}{}{Whale Chunk}
 {180101}{}{A chunk of whale!}
 {180200}{}{Boss Legs}
-{180300}{}{Rocks}
-{180400}{}{Rocks}
-{180500}{}{Rocks}
-{180600}{}{Rocks}
+{180300}{}{Rochas}
+{180400}{}{Rochas}
+{180500}{}{Rochas}
+{180600}{}{Rochas}
 {180700}{}{Tannery Sign}
 {180800}{}{Rose's B&B Sign}
 {180900}{}{Vortis Holding Sign}
@@ -2729,8 +2729,8 @@
 {181500}{}{Stockman's Assoc. Sign}
 {181600}{}{Slaughter-House Sign}
 {181700}{}{Plank}
-{181800}{}{Wood Door}
-{181900}{}{Wood Door}
+{181800}{}{Wood Porta}
+{181900}{}{Wood Porta}
 {182000}{}{Cola Fridge}
 {182100}{}{Cola Fridge}
 {182200}{}{Stove}
@@ -2745,21 +2745,21 @@
 {183100}{}{Stuff}
 {183200}{}{Stuff}
 {183300}{}{Stuff}
-{183400}{}{President's Chair}
-{183500}{}{Stairs}
+{183400}{}{President's Cadeira}
+{183500}{}{Escada}
 {183600}{}{World Map}
 {183700}{}{Situation Map}
-{183800}{}{War Room Table}
-{183900}{}{Council Room Table}
-{184000}{}{Council Room Table}
-{184100}{}{War Room Table}
-{184200}{}{Tree}
-{184300}{}{Tree}
+{183800}{}{War Room Mesa}
+{183900}{}{Council Room Mesa}
+{184000}{}{Council Room Mesa}
+{184100}{}{War Room Mesa}
+{184200}{}{Árvore}
+{184300}{}{Árvore}
 {184400}{}{Ramp}
 {184500}{}{Golden Globes Porn Sign}
 {184600}{}{Ship Wheel}
 {184700}{}{Ship Speed Control}
 {184800}{}{Comm Station}
-{184900}{}{Computer Console}
+{184900}{}{Computador Console}
 {185000}{}{Viewport Shutters}
 {185100}{}{Steam}
