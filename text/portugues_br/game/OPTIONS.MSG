@@ -12,62 +12,62 @@
 # Buttons
 {0}{}{SALVAR}
 {1}{}{CARREGAR}
-{2}{}{CONFIG}
+{2}{}{OPÇÕES}
 {3}{}{SAIR}
 {4}{}{OK}
 #
 # Preferences
 #
-{100}{}{CONFIG}
-{101}{}{DIFICULDADE}
-{102}{}{COMBATE}
-{103}{}{VIOLÊNCIA}
-{104}{}{ALVO EM DESTAQUE}
+{100}{}{PREFERÊNCIAS}
+{101}{}{DIFICULDADE DO JOGO}
+{102}{}{DIFICULDADE DE LUTA}
+{103}{}{NÍVEL DE VIOLÊNCIA}
+{104}{}{DESTAQUE DO ALVO}
 {105}{}{VISAO DE COMBATE}  # Was: BURNING GUYS
-{106}{}{TEXTO COMBATE}
-{107}{}{PROVOCAÇÕES NO COMBATE}
-{108}{}{FILTRAR LINGUAGEM}
+{106}{}{MENSAGENS}
+{107}{}{COMBAT TAUNTS}
+{108}{}{FILTRO DE TEXTO}
 {109}{}{CORRER}
-{110}{}{SUBTITULOS}
-{111}{}{DESTACAR ITEM}
-{112}{}{VEL. COMBATE}
-{113}{}{VEL. TEXTO}
-{114}{}{VOL. AUDIO GERAL}
-{115}{}{VOL. MUSIC/FILME}
-{116}{}{VOL. EFEITOS SOM}
-{117}{}{VOL. VOZ}
-{118}{}{NIVEL DE LUZ}
-{119}{}{SENSIBILIDADE MOUSE}
-{120}{}{DEFAULT}
+{110}{}{LEGENDAS}
+{111}{}{DESTAQUE DO ITEM}
+{112}{}{VELOCIDADE DE LUTA}
+{113}{}{ATRASO DO TEXTO}
+{114}{}{VOLUME DO JOGO}
+{115}{}{VOLUME DA MÚSICA}
+{116}{}{VOLUME DE EFEITOS}
+{117}{}{VOLUME DE FALA}
+{118}{}{NÍVEL DO BRILHO}
+{119}{}{SENSIBILIDADE}
+{120}{}{PADRÃO}
 {121}{}{CANCEL}
-{122}{}{Afetam a velocidade jogador}
+{122}{}{Afetar a velocidade do jogador}
 {123}{}{Discurso Pipboy}
 #
 # Label text
 #
-{201}{}{On}             # 1
-{202}{}{Off}            # 2
-{203}{}{Facil}           #  1
+{201}{}{Ligado}             # 1
+{202}{}{Desligado}            # 2
+{203}{}{Fácil}           #  1
 {204}{}{Normal}         #  2
-{205}{}{Dificil}           #  3
-{206}{}{Wimpy}          # 1
+{205}{}{Difício}           #  3
+{206}{}{Fácil}          # 1
 {207}{}{Normal}         # 2
-{208}{}{Áspero}          # 3
+{208}{}{Brutal}          # 3
 {209}{}{Normal}         #  1
-{210}{}{Fastest}        #  2
-{211}{}{Verbose}        # 1
-{212}{}{Brief}          # 2
-{213}{}{Targeting Only}
-{214}{}{None}           # 1
-{215}{}{Minimal}        # 2
-{216}{}{Maximum Blood}  # 3
-{217}{}{Slow}           #  1
-{218}{}{Faster}         #  2
-{219}{}{Always}
+{210}{}{Rápido}        #  2
+{211}{}{Raro}        # 1
+{212}{}{Sempre}          # 2
+{213}{}{Apenas alvo}
+{214}{}{Nenhum}           # 1
+{215}{}{Mínimo}        # 2
+{216}{}{Sanguinário}  # 3
+{217}{}{Lento}           #  1
+{218}{}{Rápido}         #  2
+{219}{}{Sempre}
 {220}{}{Lots}
-{221}{}{Quiet}          # 1
-{222}{}{Loud}           # 2
-{223}{}{Brighter}
+{221}{}{Baixo}          # 1
+{222}{}{Alto}           # 2
+{223}{}{Alto}
 {224}{}{Wide}
 
 
