@@ -49,58 +49,58 @@
 #
 # target hit in head
 #
-{1000}{}{My face! My face!}
-{1001}{}{Ow! That hurt!}
-{1002}{}{Ouch! I need some ice for my head.}
+{1000}{}{A minha cara! A minha cara!}
+{1001}{}{Ow! Isso dói!}
+{1002}{}{Ouch! Preciso de um pouco de gelo para a minha cabeça.}
 #
 # target hit in left arm
 #
-{1010}{}{Ow, my arm!}
+{1010}{}{Ow, o meu braço!}
 {1011}{}{Ow!}
-{1012}{}{You broke my arm!}
+{1012}{}{Você quebrou o meu braço!}
 #
 # target hit in right arm
 #
-{1020}{}{Ow, my arm!}
+{1020}{}{Ow, o meu braço!}
 {1021}{}{Wahhhh!}
-{1022}{}{My God! My arm!}
+{1022}{}{Meu Deus! Meu braço!}
 #
 # target hit in torso
 #
-{1030}{}{Ow! That really hurt!}
+{1030}{}{Ow! Isso realmente dói!}
 {1031}{}{I think I'm gonna faint}
 {1032}{}{Ouch!}
-{1033}{}{Oooof!}
-{1034}{}{That hurt!}
-{1035}{}{Just leave me alone!}
-{1036}{}{Ohhh, pain!}
+{1033}{}{Uuuuf!}
+{1034}{}{Isso dói!}
+{1035}{}{Me deixe em paz!}
+{1036}{}{Ohhh, dor!}
 #
 # target hit in right leg
 #
-{1060}{}{Ow, my leg!}
-{1061}{}{My knee!}
+{1060}{}{Ow, minha perna!}
+{1061}{}{Meu joelho!}
 {1062}{}{Ow!}
 #
 # target hit in left leg
 #
-{1070}{}{Ow, my leg!}
-{1071}{}{My knee!}
+{1070}{}{Ow, minha perna!}
+{1071}{}{Meu joelho!}
 {1072}{}{Aaaarrrrggghhh!}
 #
 # target hit in eyes
 #
-{1080}{}{Ow!! My eyes!}
-{1081}{}{My face! My eyes! Arrrrgh!}
-{1082}{}{My eyes!}
+{1080}{}{Ow! Meus olhos!}
+{1081}{}{Minha cara! Meus olhos! Arrrrgh!}
+{1082}{}{Meus olhos!}
 #
 # target hit in groin
 #
-{1090}{}{Ooooooooo, my groin! Ooooooo...}
-{1091}{}{Oww...It burns!}
+{1090}{}{Ooooooooo, minha virilha! Ooooooo ...}
+{1091}{}{Oww ... Queima!}
 {1092}{}{Urp!}
 {1093}{}{Ooorp! aoooww...}
-{1094}{}{I...can't...breathe...}
-{1095}{}{The pain, the pain...}
+{1094}{}{Eu. .. não posso ... respirar ...}
+{1095}{}{A dor, a dor ...}
 #
 ############################################
 # 1100 Normal Person
@@ -108,20 +108,20 @@
 #
 # target hit in head
 #
-{1100}{}{Damn!}
-{1101}{}{My aching skull!}
-{1102}{}{My face! My face!}
+{1100}{}{Maldição!}
+{1101}{}{Meu crânio doendo!}
+{1102}{}{A minha cara! A minha cara!}
 #
 # target hit in left arm
 #
-{1110}{}{Aggghhh! My arm!}
-{1111}{}{My arm!}
-{1112}{}{Oh man, that hurts!}
+{1110}{}{Aggghhh! Meu braço!}
+{1111}{}{Meu braço!}
+{1112}{}{Oh cara, isso dói!}
 #
 # target hit in right arm
 #
-{1120}{}{Aggghhh! My arm!}
-{1121}{}{My arm!}
+{1120}{}{Aggghhh! Meu braço!}
+{1121}{}{Meu braço!}
 {1122}{}{}
 #
 # target hit in torso
@@ -129,40 +129,40 @@
 {1130}{}{}
 {1131}{}{Oof!}
 {1132}{}{Ouch!}
-{1133}{}{Oof! My ribs hurt}
-{1134}{}{Ugh! That hurt!}
-{1135}{}{Damn! I spit on you!}
+{1133}{}{Ufa! Minha costela doí}
+{1134}{}{Ugh! Isso dói!}
+{1135}{}{Maldição! Eu cuspo em você!}
 {1136}{}{Argh!}
-{1138}{}{Oh, my ribs!}
+{1138}{}{Oh, minhas costelas!}
 {1139}{}{Ow!!!}
 {1140}{}{Oof!}
 #
 # target hit in right leg
 #
-{1160}{}{Aggghhh! My leg!}
-{1161}{}{My leg!}
-{1162}{}{There goes my knee}
+{1160}{}{Aggghhh! Minha perna!}
+{1161}{}{Minha perna!}
+{1162}{}{Lá se vai o meu joelho}
 #
 # target hit in left leg
 #
-{1170}{}{Aggghhh! My leg!}
-{1171}{}{My leg!}
-{1172}{}{There goes my knee}
+{1170}{}{Aggghhh! Minha perna!}
+{1171}{}{Minha perna!}
+{1172}{}{Lá se vai o meu joelho}
 #
 # target hit in eyes
 #
 {1180}{}{Aggghhh! I'm blind!}
-{1181}{}{My eyes! My eyes!}
-{1182}{}{My eye! You'll pay for that one!}
+{1181}{}{Meus olhos! Meus olhos!}
+{1182}{}{O meu olho! Você vai pagar por isso!}
 #
 # target hit in groin
 #
-{1190}{}{Oooooo, my groin!}
+{1190}{}{Oooooo, minha virilha!}
 {1191}{}{Oooooooooo!}
-{1192}{}{I...can't...breathe...}
-{1193}{}{Erg! Right in the jewels!}
-{1194}{}{The pain, the pain...}
-{1195}{}{Damn, that hurts!}
+{1192}{}{Eu. .. não posso ... respirar ...}
+{1193}{}{Erg! Direito nas jóias!}
+{1194}{}{A dor, a dor ...}
+{1195}{}{Maldição, isso dói!}
 #
 ############################################
 # 1200 Tough Person
@@ -170,21 +170,21 @@
 #
 # target hit in head
 #
-{1200}{}{Ow! You son of a...}
-{1201}{}{You broke my nose!}
-{1202}{}{I'll take your head off!}
+{1200}{}{Ow! Seu filho da ...}
+{1201}{}{Você quebrou meu nariz!}
+{1202}{}{Eu vou arrancar sua cabeça!}
 #
 # target hit in left arm
 #
-{1210}{}{Ow, my arm.}
-{1211}{}{You just made the biggest mistake of your life.}
-{1212}{}{My arm!}
+{1210}{}{Ow, meu braço.}
+{1211}{}{Você acabou de fazer o maior erro de sua vida.}
+{1212}{}{Meu braço!}
 #
 # target hit in right arm
 #
-{1220}{}{Ow, my arm.}
-{1221}{}{You just made the biggest mistake of your life.}
-{1222}{}{My arm!}
+{1220}{}{Ow, meu braço.}
+{1221}{}{Você acabou de fazer o maior erro de sua vida.}
+{1222}{}{Meu braço!}
 #
 # target hit in torso
 #
@@ -192,35 +192,35 @@
 {1231}{}{Oof!}
 {1232}{}{Ouch!}
 {1233}{}{}
-{1234}{}{Ugh! That hurt!}
+{1234}{}{Ugh! Isso dói!}
 {1235}{}{Ouch!}
 {1236}{}{Argh!}
-{1237}{}{Oh, I think you broke a rib!}
-{1238}{}{Ow!!! My spleen!}
+{1237}{}{Oh, eu acho que você quebrou uma costela!}
+{1238}{}{Ow! Meu baço!}
 {1239}{}{Oof!}
 #
 # target hit in right leg
 #
-{1260}{}{Ow, my leg.}
-{1261}{}{I don't need to stand to kill you!}
-{1262}{}{My knee!}
+{1260}{}{Ow, minha perna.}
+{1261}{}{Eu não preciso ficar de pé para te matar!}
+{1262}{}{Meu joelho!}
 #
 # target hit in left leg
 #
-{1270}{}{Ow, my leg.}
-{1271}{}{I don't need to stand to kill you!}
-{1272}{}{My knee!}
+{1270}{}{Ow, minha perna.}
+{1271}{}{Eu não preciso ficar de pé para te matar!}
+{1272}{}{Meu joelho!}
 #
 # target hit in eyes
 #
-{1280}{}{I can't see!}
-{1281}{}{This fight is getting worse by the second.}
-{1282}{}{That was a real cheap shot!}
+{1280}{}{Eu não posso ver!}
+{1281}{}{Esta luta está ficando pior a cada segundo.}
+{1282}{}{Isso foi um verdadeiro golpe baixo!}
 #
 # target hit in groin
 #
-{1290}{}{Oooooo, my groin!}
-{1291}{}{I'll feel that in the morning.}
+{1290}{}{Oooooo, minha virilha!}
+{1291}{}{Eu vou sentir isso pela manhã.}
 {1292}{}{}
 {1293}{}{Urp!}
 {1294}{}{}
@@ -232,15 +232,15 @@
 #
 # target hit in head
 #
-{1300}{}{That'll be a cool scar!}
-{1301}{}{I'm starting to get annoyed.}
-{1302}{}{Do that again, pig.}
+{1300}{}{Isso vai ser uma cicatriz legal!}
+{1301}{}{eu estou começando a ficar irritado.}
+{1302}{}{Faça isso de novo, porco.}
 #
 # target hit in left arm
 #
-{1310}{}{You winged me!}
+{1310}{}{Eu voltei!}
 {1311}{}{}
-{1312}{}{You broke my arm, but I'll break your neck!}
+{1312}{}{Você quebrou meu braço, mas eu vou quebrar seu pescoço!}
 #
 # target hit in right arm
 #
@@ -268,7 +268,7 @@
 #
 {1370}{}{I love the sound of bones crunching.}
 {1371}{}{}
-{1372}{}{You broke my arm, but I'll break your neck!}
+{1372}{}{Você quebrou meu braço, mas eu vou quebrar seu pescoço!}
 #
 # target hit in eyes
 #
@@ -417,7 +417,7 @@
 {1554}{}{I am killed.}
 {1555}{}{My guts are loosened from my spine!} 
 {1556}{}{Do not let me shame myself in death.} 
-{1557}{}{Damn these pesky intestines.} 
+{1557}{}{Maldição these pesky intestines.} 
 {1558}{}{Hey, look here, I can see my lunch.} 
 {1559}{}{Where has all the air gone?}
 #
@@ -483,7 +483,7 @@
 {1600}{}{Oh, my pretty face}
 {1601}{}{My brains hurt.}
 {1602}{}{Now I look like Van Gogh.}
-{1603}{}{Damn, there goes my nose.}
+{1603}{}{Maldição, there goes my nose.}
 {1604}{}{Hey, that's my last tooth.} 
 {1605}{}{I've been scalped!}
 {1606}{}{I'd rather have a bottle in front-of-me...} 
@@ -507,7 +507,7 @@
 # target hit in right arm
 #
 {1620}{}{I shoulda used right-guard.} 
-{1621}{}{You broke my arm!}
+{1621}{}{Você quebrou o meu braço!}
 {1622}{}{You're gonna regret that!}
 {1623}{}{I'm being moyderd heya.}
 {1624}{}{There goes Wimbledon.}
@@ -536,11 +536,11 @@
 #
 # target hit in right leg
 #
-{1660}{}{Ow, my leg!}
+{1660}{}{Ow, minha perna!}
 {1661}{}{You're gonna pay for that!}
 {1662}{}{Argh! You break my leg, I break your neck!} 
-{1663}{}{Damn, there goes my Tango.}
-{1664}{}{Damn, there go my toes.}
+{1663}{}{Maldição, there goes my Tango.}
+{1664}{}{Maldição, there go my toes.}
 {1665}{}{I guess I need a leg up.}
 {1666}{}{You scuffed my blue suede shoes!} 
 {1667}{}{You whacked my wingtips!}
@@ -549,7 +549,7 @@
 #
 # target hit in left leg
 #
-{1670}{}{My leg!}
+{1670}{}{Minha perna!}
 {1671}{}{You gored my Gucci's!}
 {1672}{}{Ouch! Hey! That's below the belt!} 
 {1673}{}{You can raise welts like nobody else.} 
@@ -562,8 +562,8 @@
 #
 # target hit in eyes
 #
-{1680}{}{Damn blood in my eyes!}
-{1681}{}{My eye! You'll pay for that one!} 
+{1680}{}{Maldição blood in Meus olhos!}
+{1681}{}{O meu olho! Você vai pagar por isso!} 
 {1682}{}{Bastard!}
 {1683}{}{Who turned out the lights?} 
 {1684}{}{Hah, that was my glass eye!} 
@@ -608,7 +608,7 @@
 #
 # target hit in right arm
 #
-{1720}{}{You broke my arm! Now the fight is fair!}
+{1720}{}{Você quebrou o meu braço! Now the fight is fair!}
 {1721}{}{Medic! My arm's fucked!}
 {1722}{}{You'll need to remove more than my arm to save your ass!}
 #
@@ -623,14 +623,14 @@
 #
 # target hit in right leg
 #
-{1760}{}{Dammit! My leg!}
+{1760}{}{Dammit! Minha perna!}
 {1761}{}{I don't need two legs to kick your ass.}
 {1762}{}{Gonna need a stimpack for my leg...}
 {1763}{}{Urggg...leg's...screwed...}
 #
 # target hit in left leg
 #
-{1770}{}{Dammit! My leg!}
+{1770}{}{Dammit! Minha perna!}
 {1771}{}{*Ergg* Gonna have a limp after that one...}
 {1772}{}{Gonna need a stimpack for my leg...}
 {1773}{}{Urggg...leg's...screwed...}
@@ -666,14 +666,14 @@
 #
 # target hit in left arm
 #
-{1810}{}{Hey! Somebody just hit my arm!}
+{1810}{}{Hey! Somebody just hit Meu braço!}
 {1811}{}{Look, my arm is for needles only. Stop attacking it.}
 {1812}{}{Nggggg}
 {1813}{}{Owwwww! Somebody get me a stimpack! Or some Jet!}
 #
 # target hit in right arm
 #
-{1820}{}{Hey! Somebody just hit my arm!}
+{1820}{}{Hey! Somebody just hit Meu braço!}
 {1821}{}{Look, my arm is for needles only. Stop attacking it.}
 {1822}{}{Nggggg}
 {1823}{}{Owwwww! Somebody get me a stimpack! Or some Jet!}
@@ -691,13 +691,13 @@
 #
 # target hit in right leg
 #
-{1860}{}{Hey! Somebody just hit my leg!}
+{1860}{}{Hey! Somebody just hit Minha perna!}
 {1861}{}{Hey! I walk with that leg!}
 {1862}{}{Owwwww! Somebody get me a stimpack! Or some Jet!}
 #
 # target hit in left leg
 #
-{1870}{}{Hey! Somebody just hit my leg!}
+{1870}{}{Hey! Somebody just hit Minha perna!}
 {1871}{}{Hey! I walk with that leg!}
 {1872}{}{Owwwww! Somebody get me a stimpack! Or some Jet!}
 #
@@ -705,7 +705,7 @@
 #
 {1880}{}{That didn't FEEL like a needle in my eye...}
 {1881}{}{Hey! I see with that eye!}
-{1882}{}{My eyes! My eyes! My eyes hurt!}
+{1882}{}{Meus olhos! Meus olhos! My eyes hurt!}
 #
 # target hit in groin
 #
@@ -1627,14 +1627,14 @@
 #
 # target hit in right leg
 #
-{12360}{}{Dammit! My leg!}
+{12360}{}{Dammit! Minha perna!}
 {12361}{}{*Ergg*}
 {12362}{}{Gonna need a stimpack for my leg...}
 {12363}{}{Urggg...leg's...screwed...}
 #
 # target hit in left leg
 #
-{12370}{}{Dammit! My leg!}
+{12370}{}{Dammit! Minha perna!}
 {12371}{}{*Ergg*}
 {12372}{}{Gonna need a stimpack for my leg...}
 {12373}{}{Urggg...leg's...screwed...}
@@ -1771,36 +1771,36 @@
 #
 # target hit in head
 #
-{32000}{}{My face! My face!}
+{32000}{}{A minha cara! A minha cara!}
 {32001}{}{My scalp!}
 {32002}{}{oooh... my ears...}
 #
 # target hit in left arm
 #
-{32010}{}{Ow, my arm!}
+{32010}{}{Ow, o meu braço!}
 {32011}{}{Ow!}
-{32012}{}{You broke my arm!}
+{32012}{}{Você quebrou o meu braço!}
 #
 # target hit in right arm
 #
-{32020}{}{Ow, my arm!}
+{32020}{}{Ow, o meu braço!}
 {32021}{}{Wahhhh!}
-{32022}{}{My God! My arm!}
+{32022}{}{Meu Deus! Meu braço!}
 #
 # target hit in torso
 #
 {32030}{}{OUCH!}
 {32031}{}{I think I'm gonna faint...}
 {32032}{}{Hey! My spleen!}
-{32033}{}{Oooof!}
-{32034}{}{That hurt!}
+{32033}{}{Uuuuf!}
+{32034}{}{Isso dói!}
 {32035}{}{I think you hit my liver!}
-{32036}{}{Ohhh, pain!}
+{32036}{}{Ohhh, dor!}
 #
 # target hit in right leg
 #
 {32060}{}{Ow, my leg}
-{32061}{}{My knee!}
+{32061}{}{Meu joelho!}
 {32062}{}{Right in the artery!}
 #
 # target hit in left leg
@@ -1811,18 +1811,18 @@
 #
 # target hit in eyes
 #
-{32080}{}{I can't see! You bastard!}
-{32081}{}{My face! My eyes! Arrrrgh!}
+{32080}{}{Eu não posso ver! You bastard!}
+{32081}{}{Minha cara! Meus olhos! Arrrrgh!}
 {32082}{}{Where are you? Help!}
 #
 # target hit in groin
 #
-{32090}{}{Ooooooooo, my groin! Ooooooo...}
+{32090}{}{Ooooooooo, minha virilha! Ooooooo ...}
 {32091}{}{I... I... ouch...}
 {32092}{}{::whimper::}
 {32093}{}{::vomit::}
-{32094}{}{I...can't...breathe...}
-{32095}{}{The pain, the pain...}
+{32094}{}{Eu. .. não posso ... respirar ...}
+{32095}{}{A dor, a dor ...}
 #
 ############################################
 # 32100 The Dragon
@@ -1986,7 +1986,7 @@
 # attacking
 #
 {32440}{}{Hope you won't need that arm...}
-{32441}{}{Damn, that's gotta hurt, huh?}
+{32441}{}{Maldição, that's gotta hurt, huh?}
 {32442}{}{Uf-da!}
 {32443}{}{I love the smell of blood in the morning...}
 {32444}{}{Boy, you are a bleeder, aren't ya?}
@@ -1998,7 +1998,7 @@
 # target being missed
 #
 {32460}{}{You shoot worse than my mom!}
-{32461}{}{Damn, you suck!}
+{32461}{}{Maldição, you suck!}
 {32462}{}{Go back to L.A., ya puss!} 
 {32463}{}{Want me to stand still for you?} 
 {32464}{}{:::brapp:::}
@@ -2099,57 +2099,57 @@
 #
 # target hit in head
 #
-{32700}{}{My face! My face!}
+{32700}{}{A minha cara! A minha cara!}
 {32701}{}{Star Father! Heal me!}
-{32702}{}{Ouch! I need some ice for my head.}
+{32702}{}{Ouch! Preciso de um pouco de gelo para a minha cabeça.}
 #
 # target hit in left arm
 #
-{32710}{}{Ow, my arm!}
+{32710}{}{Ow, o meu braço!}
 {32711}{}{Ow!}
-{32712}{}{You broke my arm!}
+{32712}{}{Você quebrou o meu braço!}
 #
 # target hit in right arm
 #
-{32720}{}{Ow, my arm!}
+{32720}{}{Ow, o meu braço!}
 {32721}{}{Wahhhh!}
-{32722}{}{By Elron! My arm!}
+{32722}{}{By Elron! Meu braço!}
 #
 # target hit in torso
 #
-{32730}{}{Ow! That really hurt!}
+{32730}{}{Ow! Isso realmente dói!}
 {32731}{}{I think I'm gonna faint}
 {32732}{}{Ouch!}
 {32733}{}{Star Father! Help me!}
-{32734}{}{That hurt!}
-{32735}{}{Just leave me alone!}
-{32736}{}{Ohhh, pain!}
+{32734}{}{Isso dói!}
+{32735}{}{Me deixe em paz!}
+{32736}{}{Ohhh, dor!}
 #
 # target hit in right leg
 #
-{32760}{}{Ow, my leg!}
-{32761}{}{My knee!}
+{32760}{}{Ow, minha perna!}
+{32761}{}{Meu joelho!}
 {32762}{}{Ow!}
 #
 # target hit in left leg
 #
 {32770}{}{Ow, my tibia!}
-{32771}{}{My knee!}
+{32771}{}{Meu joelho!}
 {32772}{}{Aaaarrrrggghhh!}
 #
 # target hit in eyes
 #
-{32780}{}{Ow!! My eyes!}
-{32781}{}{My face! My eyes! Arrrrgh!}
-{32782}{}{My eyes!}
+{32780}{}{Ow! Meus olhos!}
+{32781}{}{Minha cara! Meus olhos! Arrrrgh!}
+{32782}{}{Meus olhos!}
 #
 # target hit in groin
 #
-{32790}{}{Ooooooooo, my groin! Ooooooo...}
-{32791}{}{Oww...It burns!}
+{32790}{}{Ooooooooo, minha virilha! Ooooooo ...}
+{32791}{}{Oww ... Queima!}
 {32792}{}{Urp!}
 {32793}{}{::gasp::}
-{32794}{}{I...can't...breathe...}
+{32794}{}{Eu. .. não posso ... respirar ...}
 {32795}{}{good thing... I'm already... sterile...}
 #
 ############################################
@@ -2322,7 +2322,7 @@
 {33230}{}{I think you got my kidney!}
 {33231}{}{My solar plexus!}
 {33232}{}{::panting::}
-{33233}{}{Oooof!}
+{33233}{}{Uuuuf!}
 {33234}{}{You don't have to do this...}
 {33235}{}{Okay, that hurt.}
 {33236}{}{Ohhh... owwww}
@@ -2330,13 +2330,13 @@
 # target hit in right leg
 #
 {33260}{}{My fibia!}
-{33261}{}{My knee!}
+{33261}{}{Meu joelho!}
 {33262}{}{Ow!}
 #
 # target hit in left leg
 #
 {33270}{}{Oooh, my femur!}
-{33271}{}{My knee!}
+{33271}{}{Meu joelho!}
 {33272}{}{That'll be a limper..}
 #
 # target hit in eyes
@@ -2389,7 +2389,7 @@
 # target hit in right arm
 #
 {36020}{}{Ow, my arm}
-{36021}{}{You broke my arm!}
+{36021}{}{Você quebrou o meu braço!}
 {36022}{}{You're gonna regret that!}
 #
 # target hit in torso
@@ -2405,18 +2405,18 @@
 #
 {36060}{}{Ow, my leg}
 {36061}{}{You're gonna pay for that!}
-{36062}{}{Ah! MY LEG!}
+{36062}{}{Ah! Minha perna!}
 #
 # target hit in left leg
 #
-{36070}{}{My leg!}
+{36070}{}{Minha perna!}
 {36071}{}{Unh! Aiming a little low aren't you?}
 {36072}{}{You weren't trying to hit my leg were you!?!}
 #
 # target hit in eyes
 #
-{36080}{}{Damn blood in my eyes!}
-{36081}{}{My eye! You'll pay for that one!}
+{36080}{}{Maldição blood in Meus olhos!}
+{36081}{}{O meu olho! Você vai pagar por isso!}
 {36082}{}{Bastard!}
 #
 # target hit in groin
@@ -2685,13 +2685,13 @@
 #
 # target hit in right leg
 #
-{36660}{}{Ahhhgh! My leg!}
+{36660}{}{Ahhhgh! Minha perna!}
 {36661}{}{You call that pain? I laugh!}
 {36662}{}{Ahhhgh! I snap your neck for that!}
 #
 # target hit in left leg
 #
-{36670}{}{Ahhhgh! My leg!}
+{36670}{}{Ahhhgh! Minha perna!}
 {36671}{}{You call that pain? I laugh!}
 {36672}{}{Ahhhgh! I shall snap your neck for that!}
 #
@@ -2816,7 +2816,7 @@
 # target hit in right arm
 #
 {44820}{}{Hey, that's my fighting arm!} 
-{44821}{}{Damn that arm hurts!}
+{44821}{}{Maldição that arm hurts!}
 {44822}{}{I can take the likes of you with only one arm.} 
 {44823}{}{Right arm... arrgh!} 
 {44824}{}{You hit my arm. I tear off your arm!}
@@ -2855,7 +2855,7 @@
 # target hit in left leg
 #
 {44870}{}{Great. A bum leg.}
-{44871}{}{Damn it! The leg...} 
+{44871}{}{Maldição it! The leg...} 
 {44872}{}{Not the leg... can't walk right as it is.} 
 {44873}{}{You cripple my leg, I cripple your leg.} 
 {44874}{}{Arrggh! That knee hurts!}
