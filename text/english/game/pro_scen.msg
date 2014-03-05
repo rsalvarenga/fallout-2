@@ -7,13 +7,13 @@
 {400}{}{Mesa de Madeira}
 {401}{}{Uma mesa, feita de madeira.}
 {500}{}{Barril de Metal.}
-{501}{}{Um barril vélho, feitos de aÃ§o.}
+{501}{}{Um barril vélho, feitos de aço.}
 {600}{}{Barril de Metal}
-{601}{}{Um barril vélho, feitos de aÃ§o.}
+{601}{}{Um barril vélho, feitos de aço.}
 {700}{}{Pilha de pneus}
-{701}{}{Uma pilha de pneus antigos. Eles estÃ£o vulcanizados e endurecido, provavelmente devido ao calor.}
+{701}{}{Uma pilha de pneus antigos. Eles estão vulcanizados e endurecido, provavelmente devido ao calor.}
 {800}{}{Porta de Segurança.}
-{801}{}{Esta porta parece muito segura. Ele fornece proteÃ§Ã£o contra os elementos do mundo exterior e criaturas perigosas.}
+{801}{}{Esta porta parece muito segura. Ele fornece proteção contra os elementos do mundo exterior e criaturas perigosas.}
 {900}{}{Computador}
 {901}{}{Um terminal de computador, conectado a um computador central.}
 {1000}{}{Coluna}
@@ -153,7 +153,7 @@
 {7700}{}{Portão}
 {7701}{}{Um Portão de madeira.}
 {7800}{}{Rochas}
-{7801}{}{Uma grande pilha de Rochas. They look indigenous to this region.}
+{7801}{}{Uma grande pilha de Rochas. Olhar indígena desta região.}
 {7900}{}{Rochas}
 {7901}{}{Uma pequena pilha de Rochas.}
 {8000}{}{Rochas}
@@ -424,7 +424,7 @@
 {22300}{}{Caixas}
 {22301}{}{Estas caxias de madeira estão caindo aos pedaços por muito tempo.}
 {22400}{}{Carro}
-{22401}{}{This automobile is in terrible shape. You cannot think of a way to restore it.}
+{22401}{}{Este automóvel está em péssimas condições. Você não pode pensar em uma maneira de restaurá-lo.}
 {22500}{}{Carro}
 {22501}{}{Esta peça enferrujada de ferro-velho não pode ser restaurado.}
 {22600}{}{Carro}
@@ -515,7 +515,7 @@
 {27100}{}{Sucata}
 {27101}{}{Um colchão em condições terríveis. Nem mesmo ratos iria dormir com ela.}
 {27200}{}{Sucata}
-{27201}{}{Uma cama que parece que teve muitos dias melhores do que estes.
+{27201}{}{Uma cama que parece que teve muitos dias melhores do que estes.}
 {27300}{}{Sucata}
 {27301}{}{Uma pilha de madeira podre e desgastado. Sem valor algum.}
 {27400}{}{Sucata}
@@ -576,7 +576,7 @@
 {30300}{}{Mesa}
 {30301}{}{Uma mesa de madeira com uma superfície de plástico quebrado por um longo tempo.}
 {30400}{}{Mesa}
-{30401}{}{Uma mesa de madeira com um vômito verde.
+{30401}{}{Uma mesa de madeira com um vômito verde.}
 {30500}{}{Mesa}
 {30501}{}{Parece uma mesa de café velho.}
 {30600}{}{Mesa}
