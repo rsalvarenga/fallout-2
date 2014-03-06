@@ -584,19 +584,19 @@
 #
 {1590}{}{Agora eu tenho muitos filhos.} 
 
-{1591}{}{You fight without honor.}
-{1592}{}{I'm married, didn't use it anyway.} 
-{1593}{}{Holy spirits, the world just exploded.} 
+{1591}{}{Você luta sem honra.}
+{1592}{}{Estou casado, não uso de qualquer maneira.} 
+{1593}{}{Espíritos santos, o mundo explodiu.} 
 
 
-{1594}{}{Gasp...can't breath....}
-{1595}{}{In high, squeaky, voice--Ouch!} 
+{1594}{}{Gasp ... não consigo respirar ....}
+{1595}{}{Ouch! (Em voz alta e estridente)} 
 
-{1596}{}{Unnhhh. I need to sit down for a bit.} 
-{1597}{}{You bastard--I kill you slow for that.} 
+{1596}{}{Unnhhh. Eu preciso sentar um pouco.} 
+{1597}{}{Seu filho da puta - eu mato você lentamente por isso.} 
 
-{1598}{}{You know nothing of honor.}
-{1599}{}{I butcher you like animal for that.}
+{1598}{}{Você não sabe nada de honra.}
+{1599}{}{Eu farei você em pedaços como se fosse um animal pronto para o abáte.}
 #
 #
 ############################################
@@ -605,71 +605,50 @@
 #
 # target hit in head
 #
-{1600}{}{Oh, my pretty face}
-{1601}{}{My brains hurt.}
-{1602}{}{Now I look like Van Gogh.}
-{1603}{}{Maldição, there goes my nose.}
-{1604}{}{Hey, that's my last tooth.} 
-{1605}{}{I've been scalped!}
-{1606}{}{I'd rather have a bottle in front-of-me...} 
-{1607}{}{Let me give you a piece of my mind.} 
-
-
-
-
-
-{1608}{}{That's me one good eye, Arrr.} 
-{1609}{}{Brings a tear to me one good eye.}
+{1600}{}{Oh, meu rosto bonito}
+{1601}{}{O meu cérebro dói.}
+{1602}{}{Agora eu Pareço o Van Gogh.}
+{1603}{}{Maldição, lá se vai o meu nariz.}
+{1604}{}{Ei, esse é o meu último dente.} 
+{1605}{}{Ai, Meu couro capeludo!} 
+{1606}{}{Gostaria de ficar na frente de uma garrafa ...} 
+{1607}{}{Me deixe compartilhar minhas idéias.}
+{1608}{}{Ahhh, esse era meu olho bom.} 
+{1609}{}{Meu olho bom sai lágrimas.}
 
 #
 # target hit in left arm
 #
-{1610}{}{You've disarmed me!}
+{1610}{}{Você me desarmou!}
 
-{1611}{}{Ooohh, da pain, da pain.}
-{1612}{}{I've still got a couple fingers left.} 
-{1613}{}{I only need one finger for *you* bub.} 
-{1614}{}{I guess I'll give you a hand then.} 
-{1615}{}{That's worse than a hangnail.} 
-{1616}{}{That's just gonna kill my backswing.} 
-{1617}{}{I'll stab you with my stump!} 
-
-
-
-
-
-
-{1618}{}{Hey, where'd my fingers go?} 
-{1619}{}{This'll be great for that Capt. Hook look.} 
+{1611}{}{Ooohh, que dor, que dor.}
+{1612}{}{Eu ainda tenho alguns dedos da mão esquerda.} 
+{1613}{}{Eu só precisa de um dedo para * você *, covarde.} 
+{1614}{}{Então acho que vou te dar uma mão.} 
+{1615}{}{Isso é pior do que uma unha encravada.} 
+{1616}{}{Isso acabou com meu swing.} 
+{1617}{}{Vou esfaqueá-lo com meu coto!}
+{1618}{}{Ei, para onde foram meus?} 
+{1619}{}{Isso vai ser ótimo. Me pareco com Capitão Gancho.} 
 
 #
 # target hit in right arm
 #
-{1620}{}{I shoulda used right-guard.} 
+{1620}{}{Deveria ter usado a direita.} 
 {1621}{}{Você quebrou o meu braço!}
-{1622}{}{You're gonna regret that!}
-{1623}{}{I'm being moyderd heya.}
-
-
-
-
-{1624}{}{There goes Wimbledon.}
+{1622}{}{Você vai se arrepender disso!}
+{1623}{}{Aarrrggg!}
+{1624}{}{Acabou o Wimbledon.}
 {1625}{}{Sieg...oh, never mind.}
-{1626}{}{You've disarmed me!}
-{1627}{}{I only need one finger for *you* bub.} 
-{1628}{}{I'll kick you to death then.} 
-{1629}{}{There goes my silver-sequined glove!} 
-
-
-
-
+{1626}{}{Você me desarmou!}
+{1627}{}{Eu só preciso de um dedo para * você *, covarde.} 
+{1628}{}{Te chutarei até a morte.} 
+{1629}{}{Lá se vai minha grande luva de Michael Jackson!} 
 #
 # target hit in torso
 #
 {1630}{}{That's *my* liver, give it back!} 
 {1631}{}{Just a little more to the right, ahhh, that's better.} 
-
-
 {1632}{}{Gerrk!}
 {1633}{}{What's that musty smell? Oh, it's my innards.} 
 {1634}{}{Now that you've eviscerated me, I'm sooo svelte! Thanks!} 
@@ -3257,7 +3236,7 @@
 #
 {36020}{}{Ow, my arm}
 {36021}{}{Você quebrou o meu braço!}
-{36022}{}{You're gonna regret that!}
+{36022}{}{Você vai se arrepender disso!}
 
 
 #
@@ -3267,7 +3246,7 @@
 {36031}{}{It's only a flesh wound!}
 
 {36032}{}{Grrr!}
-{36033}{}{You're gonna regret that!}
+{36033}{}{Você vai se arrepender disso!}
 {36034}{}{You should stop while you're ahead!}
 
 
