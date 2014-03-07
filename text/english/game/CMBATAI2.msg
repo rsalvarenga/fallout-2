@@ -1229,18 +1229,18 @@
 {2645}{}{Eu não tenho medo de você!}
 {2646}{}{Trago à paz perdida.}
 {2647}{}{Glória na batalha compra a vida eterna! Obrigado estrangeiro.}
-{2648}{}{The mists beckon to you.}
-{2649}{}{Our ancestors thirst for your soul.}
-{2650}{}{My blade grows thirsty!}
-{2651}{}{Let us drink from the cup of battle!}
+{2648}{}{A escuridão te rodeia.}
+{2649}{}{Nossos ancestrais estão sedentos por sua alma.}
+{2650}{}{Minha espada está sedenta!}
+{2651}{}{Vamos beber do cálice da batalha!}
 #
 # target being missed
 #
-{2660}{}{ Your eyes are clouded with hatred.}
-{2661}{}{ Your spirits have abandoned you.}
-{2662}{}{ Our magic is working!}
-{2663}{}{ My magic makes me invincible!}
-{2664}{}{ Your life-force is weakening!}
+{2660}{}{Seus olhos estão pretos de ódio.}
+{2661}{}{Os espíritos abandonaram você.}
+{2662}{}{Nossa magia está funcionando!}
+{2663}{}{Minha magia me faz invencível!}
+{2664}{}{Sua força de vida está enfraquecendo!}
 {2665}{}{ Fear is the mind-killer }
 {2666}{}{ My battle-song is working!}
 {2667}{}{ Our children know more of battle!}
