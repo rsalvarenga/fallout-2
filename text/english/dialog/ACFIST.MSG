@@ -1,3 +1,4 @@
+#Rafael esta traduzindo este
 {100}{}{You see Lucas.}
 {101}{}{Lucas is the chief warrior of your tribe.}
 {102}{}{So there you are, Chosen One. Hmmmph! How goes your quest?}
