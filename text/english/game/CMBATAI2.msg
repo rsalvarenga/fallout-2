@@ -1223,12 +1223,12 @@
 #
 {2640}{}{Seus antepassados abandonaram você.}
 {2641}{}{Sua derrota vai me trazer grande honra. Minha magia não conhece derrota!}
-{2642}{}{Give up now and we will not eat your heart.}
-{2643}{}{You fight bravely--I will eat your courage. The Shamans will sing of my victory.}
-{2644}{}{I will bathe in your blood!}
-{2645}{}{I do not fear you!}
-{2646}{}{I bring you peace, lost one.}
-{2647}{}{Glory in battle buys life everlasting! I honor you, strange one.}
+{2642}{}{Renda-se agora e não vamos comer seu coração.}
+{2643}{}{Você luta bem. Vou acabar com sua coragem. Os espíritos vão gostar da minha vitória.}
+{2644}{}{Vou tomar banho em seu sangue!}
+{2645}{}{Eu não tenho medo de você!}
+{2646}{}{Trago à paz perdida.}
+{2647}{}{Glória na batalha compra a vida eterna! Obrigado estrangeiro.}
 {2648}{}{The mists beckon to you.}
 {2649}{}{Our ancestors thirst for your soul.}
 {2650}{}{My blade grows thirsty!}
