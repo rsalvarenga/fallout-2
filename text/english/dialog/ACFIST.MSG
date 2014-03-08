@@ -6,11 +6,11 @@
 {105}{}{Uh?!}
 {106}{}{Eu devo retornar por isso.} 
 {107}{}{Talvez você precisa da ajuda de um guerreiro.} 
-{108}{}{Claro. Você precisa de ajuda no que?} 
+{108}{}{Claro. Você precisa de ajuda em que?} 
 {109}{}{Não. Eu estou bem.} 
 {110}{}{Boa resposta, seu burro. Agora fique calado enquanto eu treino.} 
 {111}{}{O-k}
-{112}{}{Eu sei como lutar com minhas próprias mãoes e pernas. Você acha que pode aprender isso?} 
+{112}{}{Eu sei como lutar com minhas próprias mãos e pernas. Você acha que pode aprender isso?} 
 {113}{}{O que você pode me ensinar?} 
 {114}{}{Que o vento lhe acompanhe, Escolhido.} 
 {115}{}{Adeus.}
