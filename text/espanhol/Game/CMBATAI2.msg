@@ -1299,7 +1299,7 @@
 {3128}{}{¡Envíen más paramédicos!}
 {3129}{}{Podría usar algunas extremidades frescas.}
 {3130}{}{Un emparedado de nudillos saliendo...}
-{3131}{}{¡Ven a por él!}
+{3131}{}{¡La vem de novo!}
 {3132}{}{¿Ya está la sopa?}
 {3133}{}{¿Dónde está la carne?}
 {3134}{}{Muchos más cerebros...}
@@ -1996,7 +1996,7 @@
 {32442}{}{¡Uf-da!}
 {32443}{}{Me encanta el olor a sangre por la mañana...}
 {32444}{}{Chico, eres de esos que sangran mucho, ¿no es así?}
- {32445}{}{::::eructa:::::}
+{32445}{}{::::eructa:::::}
 {32446}{}{¡¡¡¡Amigo, me has roto la camisa!!!!}
 {32447}{}{¡¡¡Enema caliente a punto de llegar!!}
 {32448}{}{¡¡Trágate esto!!}
