@@ -2436,22 +2436,22 @@
 #  running away
 #
 {33100}{}{Oh Deus! Ajude-me!}
-{33101}{}{I'd rather be on Quetzel!}
-{33102}{}{Not me! Don't kill me!}
-{33103}{}{I'm just a lackey!}
-{33104}{}{I don't make the decisions!}
-{33105}{}{I'm not the one you want!}
+{33101}{}{Eu prefiro estar em Quetzel!}
+{33102}{}{Eu não! Não me mate!}
+{33103}{}{Eu sou apenas um protestante!}
+{33104}{}{Não sou eu quem tomo as decisões!}
+{33105}{}{Não sou a pessoa que procura!}
 #
 # moving in to Ataque
 #
-{33120}{}{I'd rather not do this...}
-{33121}{}{Are you sure you wouldn't rather give up?}
-{33122}{}{We can work this out, can't we?}
-{33123}{}{If OZ-9 says you're bad, you must be bad.}
-{33124}{}{For ... um... the glory of Elron!}
-{33125}{}{Fighting is bad for your anodynes...}
-{33126}{}{I'm no good at this threatening stuff.}
-{33128}{}{My apologies if I'm about to hurt you.}
+{33120}{}{Eu prefiro não ter que fazer isso ...}
+{33121}{}{Tem certeza de que não prefere desistir?}
+{33122}{}{Podemos resolver isso, não podemos?}
+{33123}{}{Se OZ-9 diz que você é ruim, você deve ser ruim.}
+{33124}{}{Pela ... glória de Elron!}
+{33125}{}{Lutar é ruim para os anódinos ...}
+{33126}{}{Eu não sou bom nessa coisa de ameaçador.}
+{33128}{}{Minhas desculpas se eu estou a ponto de te machucar.}
 #
 # Ataqueing
 #
@@ -2474,13 +2474,6 @@
 {33163}{}{I don't want to hurt you!}
 {33164}{}{I don't want you to hurt me!}
 {33165}{}{Can we settle this like adults?}
-
-
-
-
-
-
-
 ############################################
 # 33200 Bastardo Hit Locations
 ############################################
@@ -2490,9 +2483,6 @@
 {33200}{}{I think you broke my jaw!}
 {33201}{}{My cheekbone!}
 {33202}{}{That'll leave an unpleasant scar.}
-
-
-
 #
 # target hit in left arm
 #
