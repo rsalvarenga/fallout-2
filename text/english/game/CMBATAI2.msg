@@ -2882,22 +2882,15 @@
 {36680}{}{Ahhhgh! Humano miserável! Estou cego!}
 {36681}{}{Ahhhgh! Dor! O que você fez!}
 {36682}{}{Ahhhgh! Eu vou te torturar por muitos dias!}
-
 #
 # target hit in groin
 #
-{36690}{}{That is human weakness!}
+{36690}{}{Essa é a fraqueza humana!}
 {36691}{}{Você chama isso de dor? Eu brinco!}
-{36692}{}{You are stupid, human!}
-{36693}{}{Why you Ataque me there?}
-{36694}{}{I will hurt you for many hours}
-{36695}{}{Why you Ataque me there?}
-
-
-
-
-
-
+{36692}{}{Você é estúpido, humano!}
+{36693}{}{Por que esta me atacando?}
+{36694}{}{Eu vou te machucar por muitas horas}
+{36695}{}{Por que esta me atacando?}
 #
 ############################################
 # 36600 Super Mutant (Master Army) - Combat Messages
@@ -2905,70 +2898,45 @@
 #
 #  running away
 #
-{36700}{}{Run!}
-{36701}{}{You will not kill me!}
-{36702}{}{I will be back!}
-{36703}{}{My friends get you for me!}
-{36704}{}{You pay for this -- later!}
-{36705}{}{We are Chosen! You die later!}
-
-
-
-
-
+{36700}{}{Corra!}
+{36701}{}{Você não vai me matar!}
+{36702}{}{Eu voltarei!}
+{36703}{}{Meus amigos vão te pegar por mim!}
+{36704}{}{Você vai pagar por isso - depois!}
+{36705}{}{Somos os Escolhidos! Vai morrer daqui a pouco!}
 #
 # moving in to Ataque
 #
-{36720}{}{Your Morte comes!}
-{36721}{}{Those who bother Chosen, bother no one again!}
-{36722}{}{Human weapons cannot harm me!}
-{36723}{}{You will suffer, suffer great!}
-{36724}{}{When I fight, I kill!}
-{36725}{}{Who is stupid enough to anger us?}
-{36726}{}{I see enemies to destroy!}
-{36727}{}{You will suffer, suffer great!}
-
-
-
-
-
-
-
-
+{36720}{}{Sua morte esta próxima!}
+{36721}{}{Aqueles que atrapalham os Escolhidos, não voltaram a atrapalhar mais ninguém de novo!}
+{36722}{}{Armas humanas não podem me prejudicar!}
+{36723}{}{Você vai sofrer, vai sofrer muito!}
+{36724}{}{Quando eu luto, eu mato!}
+{36725}{}{Quem é suficientemente burro para nos irritar?}
+{36726}{}{Eu vejo inimigos para destruir!}
+{36727}{}{Você vai sofrer, vai sofrer muito!}
 #
 # Ataqueing
 #
-{36740}{}{Now you die}
-{36741}{}{Nobody save you nAi!}
-{36742}{}{Let me see your pain!}
-{36743}{}{Now you die burning Morte!}
-{36744}{}{Die Human Fool!}
-{36745}{}{Now you die a screaming Morte}
-
-
-
-
-
-{36746}{}{Suffer!}
-{36747}{}{Now I crush you!}
-{36748}{}{You cannot fight the Chosen!}
-
-{36749}{}{Suffer, human!}
+{36740}{}{Agora você vai morrer}
+{36741}{}{Ninguém vai te salvar agora!}
+{36742}{}{Deixe-me ver a sua dor!}
+{36743}{}{Agora você vai morrer com muito sofrimento!}
+{36744}{}{Morra seu tolo humano!}
+{36745}{}{Agora você vai morrer dolorosamente.}
+{36746}{}{Sofra!}
+{36747}{}{Vou esmagá-lo}
+{36748}{}{Não pode lutar contra os Escolhidos!}
+{36749}{}{Sofra, humano!}
 #
 # target being missed
 #
-{36760}{}{Why do you struggle?}
-{36761}{}{Is that best humans can do!}
-{36762}{}{You have no power!}
-{36763}{}{You make me laugh hard!}
-{36764}{}{Was that an Ataque?}
-{36765}{}{We are the Chosen!}
-
-
-
-
-
-
+{36760}{}{Por que você luta?}
+{36761}{}{Isso é o melhor que os humanos podem fazer?}
+{36762}{}{Você não tem o poder!}
+{36763}{}{Você me faz rir muito!}
+{36764}{}{Isso foi um ataque?}
+{36765}{}{Nos somos os Escolhidos!}
 #
 ####################################################################################
 #
@@ -3015,262 +2983,163 @@
 #
 # target hit in head
 #
-{44800}{}{I'm thick skulled but that still hurt.} 
-{44801}{}{I've got one hell of a headache.} 
-
-
-{44802}{}{Umph. Not the head!}
-{44803}{}{I can do head shots too you knAi!}
-
-{44804}{}{Arrrgh! Dizzy...}
+{44800}{}{Tenho a cabeça dura, mas isso dói.} 
+{44801}{}{Agora tenho uma maldita dor de cabeça.} 
+{44802}{}{Umph. Na cabeça não!}
+{44803}{}{Eu também posso machucar sua cabeça!}
+{44804}{}{Arrrgh! Tonnnto...}
 #
 # target hit in left arm
 #
-{44810}{}{I'll kill you with my other arm.} 
-{44811}{}{I don't need both arms to ruin your day!} 
-{44812}{}{I don't use that arm anyway.} 
-{44813}{}{Ouch! I can use a sling over here.} 
-{44814}{}{One arm down, one to go!} 
-
-
-
-
-
- #
+{44810}{}{Vou te matar com meu outro braço.} 
+{44811}{}{Não preciso dos meus dois braços para acabar com seu dia!} 
+{44812}{}{De qualquer maneira eu não usava este braço.} 
+{44813}{}{Ouch! Vai ter que usar um cabestro.} 
+{44814}{}{Um braço a menos, ainda tennho outro!} 
+#
 # target hit in right arm
 #
-{44820}{}{Hey, that's my fighting arm!} 
-{44821}{}{Maldição that arm hurts!}
-{44822}{}{I can take the likes of you with only one arm.} 
-
-
-
-{44823}{}{Right arm... arrgh!} 
-{44824}{}{You hit my arm. I tear off your arm!}
-
+{44820}{}{Ei, esse é meu braço de luta!} 
+{44821}{}{Maldição, nesse braço dói!}
+{44822}{}{Posso acabar com você sem a necessidade dos meus braços.} 
+{44823}{}{Meu braço direito...arrgh!} 
+{44824}{}{Você machucou meu braço. Agora vou arrancar o seu!}
 #
 # target hit in torso
 #
-{44830}{}{Umph... can't... breathe.}
-{44831}{}{I'm minus a couple of ribs after that one.}
-
-{44832}{}{Ouch! I hate gut shots.}
-{44833}{}{Arrgghh! Chest pains!} 
-{44834}{}{Solar plexus... eegad isso dóis!}
-{44835}{}{Is this a fight or are you just trying to get my attention?}
-{44836}{}{Let me know if that was supposed to hurt. I'll cry for you.}
-{44837}{}{Did your mama teach you how to fight?}
-{44838}{}{Oh the pain (yawn). Please don't hurt me any more.}
-{44839}{}{You call that a hit. Let me show you how it's done!}
-{44840}{}{I'm going to kick your ass for that one.}
-{44841}{}{Whoa! That stings a bit.}
-{44842}{}{I left the vault for this!?}
-{44843}{}{I'm going to need a vacation.}
-
-
-
-
-
-
-
-
-
-{44844}{}{Yeeeouch! isso dóis!}
-{44845}{}{That didn't hurt at all}
-{44846}{}{Where's a stimpak when you need one?}
-{44847}{}{As soon as I can move again, you've had it}
-{44848}{}{I am impervious to pain!}
-{44849}{}{I'm going to do the monster mash on your face!}
-
-
-
-
-
+{44830}{}{Umph...Não posso....respirar.}
+{44831}{}{Um par de costelas a menos.}
+{44832}{}{Ouch! Odeio tiros no estômago.}
+{44833}{}{Arrgghh! Dores no peito!} 
+{44834}{}{Meus estômago...isso sim é que é dor!}
+{44835}{}{Isso é uma luta ou você está apenas tentando chamar minha atenção?}
+{44836}{}{Isso é o maximo de pode fazer? Vou te mostrar como se faz!}
+{44837}{}{Sua mãe que te ensinou a lutar?}
+{44838}{}{Oh a dor (bocejo). Por favor, não me machuque mais.}
+{44839}{}{Você chama isso de golpe. Vou te mostrar como se faz!}
+{44840}{}{Eu vou chutar o seu traseiro por isso.}
+{44841}{}{Whoa! Isso doí um pouquinho.}
+{44842}{}{Deixou o refúgio por isso?}
+{44843}{}{Eu vou precisar de um período de férias.}
+{44844}{}{Yeeeouch! isso dói!}
+{44845}{}{Isso não doeu nada}
+{44846}{}{Onde estão os stimpaks quando preciso deles?}
+{44847}{}{Vai ter o que merece quando eu voltar a me mexer}
+{44848}{}{Eu sou imune à dor!}
+{44849}{}{Vou desfigurar sua cara por isso!}
 #
 # target hit in right leg
 #
-{44860}{}{Great. I'll be the only Morteclaw at home with a limp.}
+{44860}{}{Genial.}
 
-{44861}{}{Ouch! My leg...} 
-{44862}{}{You'll pay with your leg for what you did to mine.}
-{44863}{}{I'll miss that leg...} 
-{44864}{}{I don't need two legs to kill you.}
-
-
-
+{44861}{}{Ouch! Minha perna...} 
+{44862}{}{Vai pagar por isso.}
+{44863}{}{Vou sentir falta dessa perna ...} 
+{44864}{}{Não preciso de duas pernas para matar você.}
 #
 # target hit in left leg
 #
-{44870}{}{Great. A bum leg.}
-{44871}{}{Maldição it! The leg...} 
-{44872}{}{Not the leg... can't walk right as it is.} 
-{44873}{}{You cripple my leg, I cripple your leg.} 
-
-
-
-{44874}{}{Arrggh! That knee hurts!}
+{44870}{}{Grande. Uma perna machucada.}
+{44871}{}{Maldição! Minha perna...} 
+{44872}{}{Na perna não....como vou andar assim.} 
+{44873}{}{Quebrou minha perna, agora vou quebrar a sua.} 
+{44874}{}{Arrggh! Isso dói o joelho!}
 #
 # target hit in eyes
 #
-{44880}{}{Can't see!}
-{44881}{}{Not the eyes!}
-
-{44882}{}{Sangue... in eyes... can't see.}
-{44883}{}{I can't see you, but I can smell you.}
-{44884}{}{I'm going to need glasses after that one!} 
-
-
+{44880}{}{Não posso ver!}
+{44881}{}{Não nos olhos!}
+{44882}{}{Sangue...nos olhos... não posso ver.}
+{44883}{}{Eu não posso vê-lo, mas posso sentir seu cheiro.}
+{44884}{}{Vou precisar de óculos depois disso!} 
 #
 # target hit in groin
 #
-{44890}{}{The groin is such a cheap shot!} 
-
-{44891}{}{No... hitting... below... the belt!}
-{44892}{}{That's fighting dirty. How about if I hit you in the crotch?} 
-
-{44893}{}{I HATE groin shots! Unngh...} 
-{44894}{}{Crotch shot... good thing I'm not human!}
-
+{44890}{}{Na virilha é golpe baixo!} 
+{44891}{}{Não atire... a baixo...cintura!}
+{44892}{}{Isso é golpe baixo...que tal se eu der um chute no seu saco?} 
+{44893}{}{Odeio tiros abaixo da cintura..} 
+{44894}{}{Um tiro bem no meio das pernas...ainda bem que não sou humano!}
 #
 #  running away
 #
 {44900}{}{Time to bail!}
 
-{44901}{}{I'm leaving!}
+{44901}{}{Hora de cair fora!}
 {44902}{}{Retirada!}
 {44903}{}{Voltando!}
-{44904}{}{I'm out of here!}
+{44904}{}{Vou sair daqui!}
 {44905}{}{Pés, não vão falhar agora né!}
-{44906}{}{Out of the way, I'm moving out!}
-{44907}{}{I'm not Retiradaing, this is a strategic Retiradaal.}
-{44908}{}{I've had enough of this shit!}
-{44909}{}{I've got to Cai fora of here!}
-
-
-
-
-
-
+{44906}{}{Fora do caminho, quero passar!}
+{44907}{}{Não estou fugindo, estou me posicionando estratégicamente.}
+{44908}{}{Eu já tive o suficiente desta merda!}
+{44909}{}{Tenho que sair daqui!}
 #
 # moving in to Ataque
 #
-{44920}{}{Come here so I can hit you!}
-{44921}{}{You're all mine!}
-
-
-{44922}{}{It's you or me... and I vote you!}
-{44923}{}{It's your funeral!}
-{44924}{}{Come and get it!}
-{44925}{}{Prepare to meet your doom!}
-{44926}{}{Best kiss your ass goodbye while you still can.}
-{44927}{}{I'm going to paint you red!}
+{44920}{}{Vem aqui para que eu possa te acertar!}
+{44921}{}{Você é meu!}
+{44922}{}{Só eu e você...mano a mano}
+{44923}{}{É seu funeral!}
+{44924}{}{Vem pegar!}
+{44925}{}{Prepare para enfrentar pesadelo!}
+{44926}{}{Melhor beijar seu rabo enquanto ainda pode.}
+{44927}{}{Vou te fazer sangrar por tudo quanto é buraco!}
 {44928}{}{Que começe a festa!}
-{44929}{}{I'm heading in!}
-{44930}{}{I'll see you on the front line!}
-{44931}{}{Time to reach out and touch someone!}
-{44932}{}{Advance and annihilate!}
-{44933}{}{I'm going to fall on you like ugly on a human!}
-{44934}{}{Time to get physical!}
-
-
-
-
-
-
-
-
-
-
-
-{44935}{}{Getting up close and personal.}
-{44936}{}{Bad ass moving in!}
-
-{44937}{}{Incoming!}
-{44938}{}{Locked on target and homing!}
-{44939}{}{There's a storm coming!}
-
-
+{44929}{}{Estou indo em!}
+{44930}{}{Nos vemos na linha da frente!}
+{44931}{}{Hora de sair e matar alguém!}
+{44932}{}{Avançar e aniquilar!}
+{44933}{}{Vou pra cima de você com tudo!}
+{44934}{}{Hora de pegar pesado!}
+{44935}{}{Agora ficou pessoal.}
+{44936}{}{Idiota ao ponto de morrer!}
+{44937}{}{Atacando!}
+{44938}{}{Alvo atingido!}
+{44939}{}{Há uma tempestade chegando!}
 #
 # Ataqueing
 #
-{44940}{}{I'm going to hurt you... bad!}
-{44941}{}{This is going to hurt you a lot more than it does me!}
-{44942}{}{Do unto others before they do unto you!}
-{44943}{}{If there's a part of you that doesn't hurt, it's next!}
-{44944}{}{Contact sports. I love it!}
-{44945}{}{Tell me your name so I can contact your next of kin.}
-{44946}{}{I'm the one who put the 'Morte' in Morteclaw!}
-{44947}{}{It's better to give than to receive!}
-{44948}{}{I hope you're enjoying this as much as I am!}
-{44949}{}{Did isso dói? If not I can do it harder next time.}
-{44950}{}{We have a bleeder over here!}
-{44951}{}{It'll take more than a stimpak to fix you when I'm done.}
-{44952}{}{I hope you have Médicoal insurance. You're going to need it.}
-{44953}{}{Here a rip, there a rip, everywhere a rip rip...}
-{44954}{}{I don't care who started it, I intend to finish it!}
-{44955}{}{I love the sound of tearing flesh, don't you?}
-{44956}{}{Just warming up, the best is yet to come.}
-{44957}{}{Just sharpening my claws.}
-{44958}{}{Ooops! Hope you didn't need that!}
-{44959}{}{If you fall over and stay there I'll go away!}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+{44940}{}{Vou te machucar...e MUITO!}
+{44941}{}{Vai doer mais em você do que em mim!}
+{44942}{}{Faça aos outros antes que eles façam a você!}
+{44943}{}{Se há uma parte de você que não dói, essa vai ser a próxima!}
+{44944}{}{Esportes de contato. Adoro!}
+{44945}{}{Me diga seu nome para eu possa procurar seu parente mais próximo.}
+{44946}{}{Eu sou a razão pelo qual todos conhecem como Garra mortal!}
+{44947}{}{É melhor dar que receber!}
+{44948}{}{Espero que esteje gostanto tanto quanto eu!}
+{44949}{}{Esta doendo? senão posso te golpear mais duramente.}
+{44950}{}{Temos um sangrando por aqui!}
+{44951}{}{Vou precisar de muito mais do que um stimpak, quando isso tudo terminar!}
+{44952}{}{Espero que tenha seguro de vida. Vai precisar!}
+{44953}{}{Um rasgo aqui...um rasgo ali...rasgado em tudo quanto é parte!}
+{44954}{}{Não interessa quem começou, EU vou de terminar!}
+{44955}{}{Adoro o som dos ossos quebrando, você não?}
+{44956}{}{Só estou brincando, o melhor vem agora.}
+{44957}{}{Estou afiando minhas garras.}
+{44958}{}{Oooops! Espero que não precise disto!}
+{44959}{}{Vou embora somente quanto cair e não se levantar!}
 #
 # target being missed
 #
-{44960}{}{Will you stop moving around so I can hit you?}
-{44961}{}{Glasses. Must look into getting some glasses.}
-{44962}{}{Don't laugh. When I do hit you, it's going to hurt!}
-
-
-
-{44963}{}{Arrg! Grng! Ghrr! Thpt! (Morteclaw four-letter words)}
-{44964}{}{I guess I shouldn't make a career out of fighting.}
-{44965}{}{How could I possibly miss anything as big as you are!}
-{44966}{}{As soon as I get ranged in you're in trouble.}
-{44967}{}{You're a nimble little shit aren't you.}
-{44968}{}{I'm glad my mãe didn't see me do that.}
-{44969}{}{Why am I swinging over there when you're over here?}
-{44970}{}{How embarrassing. Please don't tell anyone I did that.}
-{44971}{}{That really pisses me off!}
-{44972}{}{Ok. I Errou It could happen to anyone!}
-
-
-
-
-
-
-
-
-
-{44973}{}{I'll get you next time.}
-{44974}{}{Way to go, Grace!}
-{44975}{}{That was a shining example of missing the target!}
-{44976}{}{I'm beginning to think I'm not cut out for this.}
-{44977}{}{Arrggh! I can't believe I missed you!}
-{44978}{}{I fanned the air on that one I did!}
-{44979}{}{Did I just miss you or what!}
-
-
-
-
-
-#
+{44960}{}{Poderia parar de se mover para que eu possa acertalo?}
+{44961}{}{Garrafas. Deveria trazer algumas garrafas.}
+{44962}{}{Não vai rir quanto te acertar, vai doer e muito!}
+{44963}{}{Arrg! Grng! Ghrr! Thpt! (Palvaras de quatro letras de Garra mortal)}
+{44964}{}{Acho que não devia se dedicar profissionalmente a luta.}
+{44965}{}{Como posso errar algo tão gordo como você!}
+{44966}{}{Ai sim...na distancia adequada, vai ter problemas.}
+{44967}{}{Você é um merdinha ágil hein.}
+{44968}{}{Fico feliz por minha mão não ver isso.}
+{44969}{}{Por que eu estou atacando aqui quando você está ali?}
+{44970}{}{Que vergonha. Por favor, não conte a ninguém que eu fiz isso.}
+{44971}{}{Isso realmente me irrita!}
+{44972}{}{Ok. Eu Errei poderia acontecer a qualquer um!}
+{44973}{}{Eu vou acertar você da próxima vez.}
+{44974}{}{É assim que se faz, Grace!}
+{44975}{}{Isso foi um exemplo brilhante de erro ao alvo!}
+{44976}{}{Estou começando a pensar que não sou muito bom com isso.}
+{44977}{}{Arrggh! Não posso acreditar que errei!}
+{44978}{}{Acertei o vendo! Pufs, nunca errei tanto!}
+{44979}{}{Errei de novo!}
