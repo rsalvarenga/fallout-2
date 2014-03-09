@@ -141,3 +141,4 @@
 {237}{eeld13a}{Em seguida, sua pele borbulha como se tivessem vermes nela. Ferve cresce e depois explodi. O seu ouvido sangra, sua língua incha. Aqueles que são que tiveram a sorte de morrer. Aqueles que não são?}
 {238}{}{Eles vão pagar por isso.}
 {239}{}{Isso com certeza é desagradável. O que eu devo fazer?}
+
