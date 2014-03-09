@@ -30,7 +30,7 @@
 {211}{}{Você tá brincando de esconde-esconde? Eu posso brincar também?}
 # 6. FLOAT COMMENTS [ROBOBRAIN + MARCUS] (WTG)
 {215}{}{Olha o robô! Olha o robô!}
-{216}{}{Tem um cerébro de verdaaaaade aí dentro desse robô?}
+{216}{}{Tem um cérebro de verdaaaaade aí dentro desse robô?}
 {217}{}{Oooooooh. Olha o robô!}
 {218}{}{Olha o mutante! Olha o mutante!}
 {219}{}{Mutante, avante, mutante, avante}
@@ -59,7 +59,7 @@
 {301}{}{(Deixe ela voltar pra brincadeira.)}
 # 11. WHY YOU WANNA BE ME? ME DUMB. (10)
 {310}{}{Ahan! Você é ESPERTO! Você é um HERÓI e VALENTE e eu quero ser VOCÊ quando eu crescer. Obrigado por salvar a gente. }
-{311}{}{Orbigado peçoazinha. Você fez }
+{311}{}{Obrigado peçoazinha. Você fez }
 # 12. FOLLOW YOUR DREAMS. (10)
 {315}{}{Ok.}
 {316}{}{Tome cuidado agora, ouviu, pequenino? Eu tenho mais coisas de herói para fazer.}
@@ -76,7 +76,7 @@
 # 15. POWER ARMOR 1 (WTG)
 {341}{}{Que é um robote?}
 {344}{}{He he. Que gracinha. Não, eu não sou um robô, pequenino.}
-{345}{}{Não, não, eu sou uma pessoa normal dentr desta armadura. A propósito, fiquei triste pelo seu irmão, Richie.
+{345}{}{Não, não, eu sou uma pessoa normal dentro desta armadura. A propósito, fiquei triste pelo seu irmão, Richie.
  Você sabe o que aconteceu com ele?}
 # 16. WATZ A ROBOT?/YER DUMB, PEE-FACE/MOOTANT? (15, 25, 27, 29, 41)
 {355}{}{Seu idiota.}
@@ -149,7 +149,7 @@
 {556}{}{Porque a pergunta?}
 # 32. WHY DO YOU ASK? (31)
 {560}{}{Você PARECE doente.}
-{561}{}{Eu tô doente.}
+{561}{}{Eu to doente.}
 # 33. I AM SICK. (32)
 {565}{}{Você tomou algum remédio?}
 {566}{}{Não existe remédio para o que eu tenho.}
@@ -188,7 +188,7 @@
 {671}{}{Ué, sim. Um ghoul bem FAMINTO. E está na hora do lanche. Que conveniente.}
 
 # 42. HIS NAME IS MARCUS. (29, 40, 41)
-{685}{}{Olá, mutante Mar-cus. Você é terrívelmente grande. Haha... e a sua animação de inquietação é engraçada.}
+{685}{}{Olá, mutante Mar-cus. Você é terrivelmente grande. Haha... e a sua animação de inquietação é engraçada.}
 {686}{}{Olá, ghoul Len-ee. Eca... você realmente fede.}
 {687}{}{Com certeza, né? Então… e aí, criança?}
 {688}{}{Com certeza, né? Então… e aí, criança?}
@@ -202,7 +202,7 @@
 {699}{}{Ghoul "faminto"! Vixi. Todo mundo sabe que mutantes não comem... -ahn, porque você tá me olhando desse jeito, Lenny?}
 
 # 44. OD (10, 15, 24, 27, 29, 30, 40, 41)
-{710}{}{Oh-oh. O papai tá muito bravo sobre isso porque ele não sabe quem matou o Richie. Ele fala que se nos pegar usando Jet, ele vai nos enxer de palmadas.}
+{710}{}{Oh-oh. O papai tá muito bravo sobre isso porque ele não sabe quem matou o Richie. Ele fala que se nos pegar usando Jet, ele vai nos encher de palmadas.}
 {711}{}{Você sabe QUEM deve ter dado pro Richie o Jet que o matou?}
 {712}{}{Você sabe ONDE o Richie conseguiu esse Jet que o matou?}
 {713}{}{Deixa a criança voltar às brincadeiras.}
@@ -215,8 +215,8 @@
 
 # sleeping
 {800}{}{*Shhh* Eu deveria estar dormindo.}
-{801}{}{Eu preciso dormir um pouco. Amanhã eu vou ter um jogão de um guerreiro inseto.}
-{802}{}{Se o papai descobrir que eu não tô com sono, ele vai ficar muito, muito bravo.}
+{801}{}{Eu preciso dormir um pouco. Amanhã eu vou ter um jogão com um guerreiro inseto.}
+{802}{}{Se o papai descobrir que eu não to com sono, ele vai ficar muito, muito bravo.}
 
 # 8/40. FLOAT [WRIGHT CHILDREN: BOYS] (WTG)
 {900}{}{Meu pauzão, meu pauzão.}
@@ -267,7 +267,7 @@
 {944}{}{Você parece um radscorpion!}
 # self_is_female v
 {945}{}{Eu vou perguntar pro papai se eu posso ser prostituta quando eu crescer. Ele sempre fala que realmente precisa de uma.}
-{946}{}{Eu quero ser uma prostitura quando eu crescer. O papai fala que nós precisamos de mais delas.}
+{946}{}{Eu quero ser uma prostituta quando eu crescer. O papai fala que nós precisamos de mais delas.}
 {947}{}{Eu tenho uma vagina.}
 
 # line endings

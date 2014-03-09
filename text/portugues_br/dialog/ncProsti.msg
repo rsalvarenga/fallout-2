@@ -7,7 +7,7 @@
 {152}{}{Você vê uma prostituta. Seus olhos demonstram calor.}
 {153}{}{Você vê uma prostituta. Ele cheira a flores.}
 {154}{}{Você vê uma prostituta. Ela tem um cheiro de mãe.}
-{155}{}{Você vê uma prostituta. É um misterio pra você saber como os trapos dela conseguem segurar seus seios.}
+{155}{}{Você vê uma prostituta. É um mistério pra você saber como os trapos dela conseguem segurar seus seios.}
 {156}{}{Você vê uma prostituta. Parece que ela mata seus parceiros e os come.}
 {157}{}{Você vê uma prostituta. Ela te aprecia como se você fosse um joalheiro.}
 {158}{}{Você vê uma prostituta. Suas roupas em trapos estão jogadas sedutivamente ao redor de seu corpo.}
@@ -35,12 +35,12 @@
 {200}{}{Mmmm-mmmm. Belo trabalho, neném.}
 {201}{}{O que você que que EU faça, garotão?}
 {202}{}{Opa. Eu deixei cair uma coisa na sua calça. Deixa que eu pego.}
-{203}{}{Eu adorei você no Great Balls for Hire.}#Pro nome desses filmes é bom entrar numa comunidade do orkut e procurar um tópico chamado jogo da buceta. a galera troca o nome por buceta. ex: Querida, encolhi a buceta. ah, e esses nomes sao so mesmos daqueles que eu te mandei no outro arquivo
+{203}{}{Eu adorei você no Great Balls for Hire.}#Pro nome desses filmes é bom entrar numa comunidade do orkut e procurar um tópico chamado jogo da buceta. a galera troca o nome por buceta. ex: Querida, encolhi a buceta. Ah, e esses nomes sao so mesmos daqueles que eu te mandei no outro arquivo
 {204}{}{Eu adorei você no Good Will Humping.}
 {205}{}{Eu adorei você no Vault Sexteen.}
 {206}{}{Você foi demais no Pokeahotass.}
 {207}{}{Mmmmm-mmmm. Como você consegue ficar sempre em forma?}
-{208}{}{Você pode me dar um altógrafo? No meu peito?}
+{208}{}{Você pode me dar um autografo? No meu peito?}
 {209}{}{Eu posso atuar no seu próximo filme?}
 {210}{}{Eu nunca fingiria com VOCÊ, }
 {211}{}{Estou... enfraquecendo. Não posso... agüentar por muito tempo. Preciso fazer... sexo com você...}
@@ -180,12 +180,12 @@
 {335}{}{Se quer que eu seja carinhosa, tem que pagar mais.}
 {336}{}{[Canta.] "Vamos brincar - de mestre e servo. Vamos brincar - de mestre e servo."}
 {337}{}{Faça uma aposta comigo, escravagista.}
-{338}{}{Finalmente instalei aquela cabeceira alcochoada.}
+{338}{}{Finalmente instalei aquela cabeceira acolchoada.}
 {339}{}{Provar o paraíso vai te custar dez pratas.}
 {340}{}{Quer brincar de mestre e servo, escravagista?}
 {341}{}{Myron: Muita droga. Nenhum pênis.}#Myron: All wax. No wick. = wax:fazer sexo; ou pessoa perfeita(estátua de cera; ou usar drogas. cocaína pra ser mais exato. já deu pra formar 3 frases. wick:mais conhecido aqui como pp, ou pinto pequeno. Traduzi de um jeito, se quiser mudar...
 {342}{}{O Myron é um nerd chato pra caralho...}
-{343}{}{Fio-terra, sadismo, qualquer coisa.}#hein? muitos significados pra ac-dc e nenhum pra b n'd.
+{343}{}{Fio-terra, sadismo, qualquer coisa.}
 {344}{}{O que ele espera que eu faça? Que eu me curve pra ele?}
 {345}{}{Precisa de alguém pra descascar sua banana, escravagista?}
 {346}{}{O Myron continua vindo pra esses lados...}
@@ -205,13 +205,13 @@
 {360}{}{Só vai te custar alguns trocados pra ter minha atenção.}
 {361}{}{O puro amor de Reno, bem aqui.}
 {362}{}{Vou te dar um pouco de ação.}
-{363}{}{Eu sou a amante selvagem.}#Spice: tem gíria pra isso... MUITAS. não entendi bem o que seria aqui. talvez seja AMANTE ou outro signifocado como "fuck". vou traduzir como amante mesmo, se quiser mudar vou deixar as frases do lado. I'm Filthy Spice.
+{363}{}{Eu sou a amante selvagem.}
 {364}{}{Eu sou a amante doméstica.}#I'm Homely Spice.
 {365}{}{Eu sou a amante safada.}#I'm Slutty Spice.
 {366}{}{Eu sou a amante madura.}#I'm Old Spice.
 {367}{}{Eu sou a amante sífil... digo, safada.}#I'm Syphilis…er, Slutty Spice.
 {368}{}{Eu sou a amante sem vergonha.}#I'm Dirty Spice.
-{369}{}{Eu não quero saber de caras broxas.}#Wranglers in the dust, that's what I want. foi o que eu achei. wrangler é considerado como broxa ou pau que não fica totalmente duro.
+{369}{}{Eu não quero saber de caras broxas.}
 {370}{}{Eu tenho uma namorada se você quiser duas companhias, escravagista.}
 {371}{}{Queria que o Myron fosse gay.}
 {372}{}{Sangue novo na cidade...}
@@ -271,15 +271,14 @@
 {426}{}{Fazer com cordas custa mais caro.}
 {427}{}{Onde eu deixei meu chicote?}
 {428}{}{Preparado como um libertino.}
-{429}{}{Eu tive que me vestir igual a VILMA na última noite, pelo amor de Deus.}#fer chrissakes? que porra é essa?
-{430}{}{Eu estive com o Myron na última noite. Por uns cinco segundos.}#hauheua coelho
+{429}{}{Eu tive que me vestir igual a VILMA na última noite, pelo amor de Deus.} {430}{}{Eu estive com o Myron na última noite. Por uns cinco segundos.}#hauheua coelho
 {431}{}{Bem que eles podiam vir com um óleo corporal com cheiro de Jet...}
 {432}{}{Se minha bunda cair, o Myron mantém ela levantada.}
 {433}{}{Droga, o Sindicato da Abstinência está de volta…}#?
 {434}{}{::Assovios::}
 {435}{}{Eu garanto que sou melhor que esse Pip Boy que você está usando.}
 {436}{}{Quer que eu aperte seu parafuso, escravagista?}
-{437}{}{Eu gostaria de estar com o Avellone agora.}#AAAAAh. custei a entender essa porra. olhei quem é esse avellone no wikipedia. CHRIS avellone. ele foi um dos caras da equipe do fallot dois. pode por aí ó: gostaria de estar com o bruce leeroy agora. aheueahuea
+{437}{}{Eu gostaria de estar com o Avellone agora.}
 {438}{}{Gostaria que o Nick Kesting estivesse aqui. Nós poderíamos conversar por horas!}
 {439}{}{Nick Kesting é um cara muito legal. Nós conversamos bastante.}#esse é o ramonius, fica só conversando com as tias ao invés de mandar ver.
 {440}{}{O Tommy the Balls é um sonho.}
@@ -308,7 +307,7 @@
 {461}{}{Esse robô está funcionando COMPLETAMENTE?}
 {462}{}{Isso é algum tipo de caça-níquel ambulante?}
 {463}{}{Isso é um robô-caça-níquel?}
-{464}{}{O seu robô faz truques? Hã... truqes de mágica, quero dizer.}
+{464}{}{O seu robô faz truques? Hã... truques de mágica, quero dizer.}
 {465}{}{Diga que aquilo não é um mutante.}
 {466}{}{Com aquele mutante vai ser mais caro. MUITO mais caro.}
 {467}{}{Oh-oh. Mutantes em New Reno. Deve significar encrenca.}
@@ -332,7 +331,7 @@
 
 # 11. [PLAYER IS MALE] + [COMPANION: BONE-NOSE]
 {483}{}{Meu nome é Fácil. Qual é o seu?}
-{484}{}{Precisa de copanhia?}
+{484}{}{Precisa de companhia?}
 {485}{}{Deixa eu te ensinar algumas coisas que só uma mulher pode ensinar.}
 {486}{}{Precisa de alguém pra esquentar sua tenda?}
 {487}{}{Precisa de alguém pra dividir o colchonete?}
@@ -343,7 +342,7 @@
 {492}{}{Procurando por um encontro?}
 {493}{}{Ouvi dizer que teve confusão em Commercial Row...}
 {494}{}{Procurando por companhia?}
-{495}{}{O único esporte rolando em Reno agora é o hockey de amígdalas...}
+{495}{}{O único esporte rolando em Reno agora é o hockey de amídalas...}
 {496}{}{Quer dançar?}
 {497}{}{Esqueça os caça-níqueis. Minha recompensa é MUITO melhor.}
 {498}{}{Eu não acredito no número de strippers que estavam na festa do Feargus.}
@@ -353,7 +352,7 @@
 {502}{}{Não vejo caravanas de Redding faz um bom tempo.}
 {503}{}{Bela erva.}
 {504}{}{Deixa eu te fazer sorrir, palhaço tristonho.}
-{505}{}{Está perdido, cowboy?}
+{505}{}{Está perdido, cow-boy?}
 {506}{}{Tem uma arma que precisa descarregar, soldado?}
 {507}{}{Aquele homem deve gozar como um louco.}
 {508}{}{Tantos pedestres nessa cidade, e nada de dinheiro.}
@@ -381,7 +380,7 @@
 {530}{}{Quanto o seu amigo com osso no nariz cobra?}
 {531}{}{Por trinta pratas eu faço o osso no nariz do seu amigo ficar maior.}
 {532}{}{O seu amigo com osso no nariz está se punindo por algo?}
-{533}{}{Finalmente eu instalei aquela cabeceira alcochoada.}
+{533}{}{Finalmente eu instalei aquela cabeceira acolchoada.}
 {534}{}{Quer provar o paraíso? Dez pratas.}
 {535}{}{Myron: Muita droga. Nada de pênis.}
 {536}{}{O Myron é um nerd chato pra caralho.}
@@ -509,7 +508,7 @@
 {656}{}{Precisa de companhia?}
 {657}{}{Deixa eu te ensinar uma coisa que só uma mulher pode ensinar.}
 {658}{}{Precisa de alguém pra esquentar sua tenda?}
-{659}{}{Precisa de alguém pra dividir o cholchonete?}
+{659}{}{Precisa de alguém pra dividir o colchonete?}
 {660}{}{Tem alguma bala quente aí?}
 {661}{}{Que cobrão você tem aí.}
 {662}{}{Procurando por diversão?}
@@ -517,7 +516,7 @@
 {664}{}{Procurando por um encontro?}
 {665}{}{Ouvi dizer que ouve confusão em Commercial Row...}
 {666}{}{Procurando por companhia?}
-{667}{}{O único esporte rolando em Reno ultimamente é o hokey de amígdalas...}
+{667}{}{O único esporte rolando em Reno ultimamente é o hokey de amídalas...}
 {668}{}{Quer dançar?}
 {669}{}{Esqueça os caça-níqueis. Minha recompensa é MUITO melhor.}
 {670}{}{Eu não acredito no número de strippers que estavam na festa do Feargus.}
@@ -546,7 +545,7 @@
 {693}{}{Se eu tiver que conversar com você depois do serviço, vai custar mais caro.}
 {694}{}{Posso ajudar com alguma coisa, estranho?}
 {695}{}{Você nunca fez amor se não provou do amor de Reno.}
-{696}{}{Finalmente eu instalei aquela cabeceira alcochoada.}
+{696}{}{Finalmente eu instalei aquela cabeceira acolchoada.}
 {697}{}{Provar do paraíso só vai te custar dez pratas.}
 {698}{}{Myron: Muita droga. Nenhum pênis}
 {699}{}{O Myron é um nerd chato pra caralho.}
@@ -656,7 +655,7 @@
 {803}{}{Precisa de companhia?}
 {804}{}{Garota, deixa eu te ensinar uma coisa que só uma MULHER pode ensinar.}
 {805}{}{Precisa de alguém pra esquentar sua tenda, garota?}
-{806}{}{Precisa de alguém pra dividir o cholchonete, garota?}
+{806}{}{Precisa de alguém pra dividir o colchonete, garota?}
 {807}{}{Quer dançar, garota?}
 {808}{}{Esqueça os caça-níqueis. Minha recompensa é MUITO melhor.}
 {809}{}{Garota, você nunca fez amor se não provou do amor de Reno.}
@@ -686,7 +685,7 @@
 {829}{}{Nós sentimos falta do Tim Cain. Ele costumava cozinhar pães maravilhosos. E ele costumava nos espancar como se fossemos crianças.}
 {830}{}{Eu sei que sou só um NPC, mas estou profundamente decepcionada pelo jeito que as mulheres são retratadas em New Reno.}
 {831}{}{As mulheres nessa cidade parecem ter sido desenhadas por um maníaco sexual imaturo que mora no porão da casa dos pais.}
-{832}{}{O design de New Reno foi feito por Chris Avellone e Tom French. Ambos são DEUSES do sexo.}#A traduçÃo é sua, então POR FAVOR, muda essa frase.
+{832}{}{A Tradução do jogo foi feita por uma grande equipe da internet coordenada pelo rsalvarenga.}
 {833}{}{O Feargus ficou com aquela cara pelanquenta depois de ver a quantidade de mensagens flutuantes que eu tenho.
  Ele é nojento.}
 {834}{}{Sua pontuação foi de 192 em 208. Você deveria ter usado seu dedão do pé mutante no Horrigan.}
@@ -719,7 +718,7 @@
 {857}{}{Uau, olha pros seus músculos. Você é mais forte que muitos homens que eu conheço. E olha que eu conheço MUITOS homens.}
 {858}{}{Como vai, }
 {859}{}{Procurando por mim?}
-{860}{}{Por que você não vem aqui com mais freqüencia?}
+{860}{}{Por que você não vem aqui com mais freqüência?}
 {861}{}{Precisa de companhia, }
 {862}{}{Que peitões, hein.}
 {863}{}{Ei, cuidado com o Masticator. Ele é um merda. Tentou morder minha orelha uma vez.}
@@ -749,7 +748,7 @@
 {883}{}{Quer me afundar com o seu torpedo rosa?}
 {884}{}{Deixa eu te ensinar uma coisa que só uma mulher pode ensinar.}
 {885}{}{Precisa de alguém pra esquentar sua tenda, escravagista?}
-{886}{}{Precisa de alguém pra dividir o cholchonete, escravagista?}
+{886}{}{Precisa de alguém pra dividir o colchonete, escravagista?}
 {887}{}{Tem alguma bala quente aí, escravagista?}
 {888}{}{Que cobrão você tem aí, escravagista.}
 {889}{}{Procurando por diversão?}
@@ -758,7 +757,7 @@
 {892}{}{Olha, sem amostras grátis.}
 {893}{}{Ouvi dizer que houve confusão em Commercial Row...}
 {894}{}{Procurando por companhia?}
-{895}{}{O único esporte rolando em Reno ultimamente é o hokey de amígdalas...}
+{895}{}{O único esporte rolando em Reno ultimamente é o hokey de amídalas...}
 {896}{}{Quer dançar, escravagista?}
 {897}{}{Escravagista, você nunca fez amor se não provou do amor de Reno.}
 {898}{}{Eu não acredito no número de strippers que estavam na festa do Feargus.}
@@ -788,13 +787,13 @@
 {922}{}{Quer ir pra Onde as Coisas Selvagens Estão?}
 {923}{}{Esqueça os caça-níqueis. Minha recompensa é MUITO melhor.}
 {924}{}{Eu não sou barata, mas sou especial.}
-{925}{}{Eu vou me ajustar em você como se fosse um sexy paletó.}#sei la a traducao certa. fit pode ser "comer". nao sei o que é esse tuxedo aí.
-{926}{}{Fale mais sobre laceadura, amor, eu tenho isso aí.}#mudflaps: depois de fazer muito sexo anal a pessoa fica com 'mudflaps', que é a pele excessiva que passa do estado de relaxado pra "apertado"... atriz pornô que tem muito. nao sei a palavra disso por portuga.
+{925}{}{Eu vou me ajustar em você como se fosse um paletó sexy.}
+{926}{}{Fale mais sobre relaxamento anal, amor, eu tenho isso aí.}
 {927}{}{Bem, bem. Olha só quem está na cidade...}
 {928}{}{Procurando pelo paraíso? Vem pra minha cama.}
 {929}{}{Procurando por diversão?}
 {930}{}{Na dúvida, tira ele pra fora.}
-{931}{}{Finalmente eu instalei aquela cabeceira alcochoada.}
+{931}{}{Finalmente eu instalei aquela cabeceira acolchoada.}
 {932}{}{Provar do paraíso só vai te custar dez pratas.}
 {933}{}{Myron: Muita droga. Nenhum pênis.}
 {934}{}{O Myron é um nerd chato pra caralho.}
@@ -924,7 +923,7 @@
 {1056}{}{Quer montar, cowboy?}
 {1057}{}{Quer me afundar com o seu torpedo rosa?}
 {1058}{}{Precisa de alguém pra esquentar sua tenda?}
-{1059}{}{Precisa de alguém pra dividir o cholchonete?}
+{1059}{}{Precisa de alguém pra dividir o colchonete?}
 {1060}{}{Tem alguma bala quente aí?}
 {1061}{}{Que cobrão você tem aí.}
 {1062}{}{Procurando por diversão?}
@@ -933,7 +932,7 @@
 {1065}{}{Olha, sem amostra grátis.}
 {1066}{}{Ouvi dizer que teve confusão em Commercial Row...}
 {1067}{}{Procurando companhia?}
-{1068}{}{O único esporte rolando em Reno ultimamente é o hokey de amígdalas...}
+{1068}{}{O único esporte rolando em Reno ultimamente é o hokey de amídalas...}
 {1069}{}{Quer dançar?}
 {1070}{}{Você nunca fez amor se não provou do amor de Reno.}
 {1071}{}{Meu trabalho? Eu transformo garotos em HOMENS.}
@@ -970,7 +969,7 @@
 {1102}{}{Procurando por diversão?}
 {1103}{}{Na dúvida, tira ele pra fora.}
 {1104}{}{Deixa eu te ensinar uma coisa que só uma mulher pode ensinar.}
-{1105}{}{Finalmente eu instalei aquela cabeceira alcochoada.}
+{1105}{}{Finalmente eu instalei aquela cabeceira acolchoada.}
 {1106}{}{Provar do paraíso só vai te custar dez pratas.}
 {1107}{}{Myron: Muita droga. Nenhum pênis.}
 {1108}{}{O Myron é um nerd chato pra caralho.}
@@ -1048,7 +1047,7 @@
 {1180}{}{::Purrrrr::}
 {1181}{}{::Rrrrrowrrr::}
 {1182}{}{Pare de me fazer cócegas.}
-{1183}{}{Estou acordada desda a última noite...}
+{1183}{}{Estou acordada desde a última noite...}
 {1184}{}{Quer fingir que somos deathclaws em época de acasalamento?}
 {1185}{}{Eu não sou muito barata, mas sou especial.}
 {1186}{}{Fazer com corda custa mais caro.}
@@ -1077,12 +1076,12 @@
 {1209}{}{Precisa de companhia?}
 {1210}{}{Garota, deixa eu te ensinar uma coisa que só uma MULHER pode ensinar.}
 {1211}{}{Precisa de alguém pra esquentar sua tenda, docinho?}
-{1212}{}{Precisa de alguém pra dividir o cholchonete, docinho?}
+{1212}{}{Precisa de alguém pra dividir o colchonete, docinho?}
 {1213}{}{Quer dançar, garota?}
 {1214}{}{Garota, você nunca fez amor se não provou do amor de Reno.}
 {1215}{}{Quer voar, garota?}
 {1216}{}{Está perdida, garota?}
-{1217}{}{Olá, garota.}#era hello, G.I. Jane. mas a galera mais nova que joga fallout nem deve saber o que é G.I. Joe, se quiser pôr, ponha.
+{1217}{}{Olá, G.I.Jane}
 {1218}{}{Procurando por diversão, garota?}
 {1219}{}{Quer ir pro centro, garota?}
 {1220}{}{Precisa de uma guia, docinho?}
@@ -1099,7 +1098,7 @@
 {1229}{}{Quer montar, cowboy?}
 {1230}{}{Quer me afundar com o seu torpedo rosa?}
 {1231}{}{Precisa de alguém pra esquentar sua tenda?}
-{1232}{}{Precisa de alguém pra dividir o cholchonete?}
+{1232}{}{Precisa de alguém pra dividir o colchonete?}
 {1233}{}{Tem alguma bala quente aí?}
 {1234}{}{Que cobrão você tem aí.}
 {1235}{}{Procurando por diversão?}
@@ -1108,7 +1107,7 @@
 {1238}{}{Olha, eu não dou amostra grátis.}
 {1239}{}{Ouvi dizer que teve confusão em Commercial Row...}
 {1240}{}{Procurando por companhia?}
-{1241}{}{O único esporte rolando em Reno ultimamente é o hokey de amígdalas...}
+{1241}{}{O único esporte rolando em Reno ultimamente é o hokey de amídalas...}
 {1242}{}{Quer dançar?}
 {1243}{}{Você nunca fez amor se não provou do amor de Reno.}
 {1244}{}{Meu trabalho? Transformar garotos em HOMENS.}
@@ -1139,13 +1138,13 @@
 {1269}{}{Olá, docinho.}
 {1270}{}{Posso ajudar?}
 {1271}{}{Eu vou me ajustar em você como se fosse um sexy paletó.}
-{1272}{}{Fale mais sobre laceadura, amor, eu tenho isso aí}
+{1272}{}{Fale mais sobre relaxamento anal, amor, eu tenho isso aí}
 {1273}{}{Bem, bem. Olha só quem está na cidade...}
 {1274}{}{Procurando pelo paraíso? Vem pra minha cama.}
 {1275}{}{Procurando por diversão?}
 {1276}{}{Onde eu deixei o meu chicote?}
 {1277}{}{Deixa eu te ensinar uma coisa que só uma mulher pode ensinar.}
-{1278}{}{Finalmente eu instalei aquela cabeceira alcochoada.}
+{1278}{}{Finalmente eu instalei aquela cabeceira acolchoada.}
 {1279}{}{Provar do paraíso só vai te custar dez pratas.}
 {1280}{}{Myron: Muita droga. Nenhum pênis.}
 {1281}{}{O Myron é um nerd chato pra caralho.}
@@ -1257,7 +1256,7 @@
 {1387}{}{Garota, você nunca fez amor se não provou do amor de Reno.}
 {1388}{}{Quer voar, garota?}
 {1389}{}{Está perdida, garota?}
-{1390}{}{Olá, garota?}#G.I. Jane
+{1390}{}{Olá, G.I. Jane?}
 {1391}{}{Procurando por diversão, garota?}
 {1392}{}{Quer ir pro centro, garota?}
 {1393}{}{Procurando por ação, docinho?}
@@ -1288,7 +1287,7 @@
 {3204}{}{Oh! Vem comigo Fr...Ni...Sco... hã, desculpe, qual é o seu nome mesmo?}
 {3205}{}{OH! Ahhhh! Hummm... VAI! OOOH!!! AGORA nós terminamos?}
 {3206}{}{Opa. ISSO vai custar mais caro.}
-{3207}{}{Sim! Você é o Cabral, eu sou o Brasil!}#Yes! You are Columbus, I am America!. mudei
+{3207}{}{Sim! Você é o Cabral, eu sou o Brasil!}
 {3208}{}{Uau... essa foi demais... Hum... Agora cai fora daqui e pague no
  caixa}
 {3209}{}{Está dentro ainda?}
@@ -1301,18 +1300,18 @@
 
 # END LINES
 {2175}{}{. Quem acabou com a Enclave.}
-{2178}{}{! Hora de chutar a bunda da Enclave!}#me faz um favor, manda um email pra mim. esse WAY TO KICK é HORA DE mesmo? nao acho nem fudendo
+{2178}{}{! Hora de chutar a bunda da Enclave!}
 {2181}{}{. Quem acabou com a Enclave.}
 {2195}{}{!}
 {2197}{}{! Você pode me arrumar um emprego no estúdio?}
 {2210}{}{.}
 {2263}{}{! Isso aí, cara!}
-{2264}{}{ é tão mau, que ele deve fazer a barba com maçarico!}#kicks so much ass, you'd think he was a boot in another life.
+{2264}{}{ é tão mau, que ele deve fazer a barba com maçarico!}
 {2268}{}{?}
 {2272}{}{?}
 {2278}{}{! Isso aí, garota!}
 {2279}{}{?}
-{2280}{}{ dá bicuda em tantas bundas, daria pra pensar que ela foi uma bota em outra vida.}#ah, dá um jeito aí. tô com dor de cabeça já.
+{2280}{}{ dá bicuda em tantas bundas, daria pra pensar que ela foi uma bota em outra vida.}#ah, dá um jeito aí. to com dor de cabeça já.
 {2285}{}{.}
 {2292}{}{…}
 {2293}{}{?}

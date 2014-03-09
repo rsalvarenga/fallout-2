@@ -10,29 +10,29 @@
 {109}{}{Só passando pra cumprimentar.}
 {110}{}{Quem é você?}
 {111}{}{O que você está fazendo?}
-{112}{}{Parece que você tá vigiando esse caminho.}
+{112}{}{Parece que você ta vigiando esse caminho.}
 {113}{}{Tenho que ir.}
 {114}{}{Bom, olá. Me desculpe, mas você tem que ir embora.}
 {115}{}{Eu preciso conversar.}
 {116}{}{Ok, tenho que ir.}
 {117}{}{Quero conversar contigo.}
 {118}{}{Tchau.}
-{119}{}{Disse que me chamo Dalia. Olha só, sem querer ser rude, mas não tô afim de conversar com ninguém agora, tá bom?}
-{120}{}{Tá bom. Tchau.}
+{119}{}{Disse que me chamo Dalia. Olha só, sem querer ser rude, mas não to afim de conversar com ninguém agora, ta bom?}
+{120}{}{Ta bom. Tchau.}
 {121}{}{Só um porquinho mais, vai!}
-{122}{}{Já que é assim, tô partindo.}
+{122}{}{Já que é assim, to partindo.}
 {123}{}{Só quero te fazer uma pergunta.}
 {124}{}{Adoro ar fresco, árvores, e por isso estou aqui de pé. Algum problema?}
-{125}{}{Descupa. Tô indo.}
+{125}{}{Desculpa. To indo.}
 {126}{}{Tem problema não. Só quero te fazer uma pergunta.}
 {127}{}{Problema nenhum, mas estou curioso sobre umas coisas.}
 {128}{}{Desculpe, tenho que ir.}
 {129}{}{Não, não estou vigiando o caminho. Não tem nada aqui neste buraco que vale a pena ser vigiado. 
  Já te disse que adoro ar fresco. Agora vá embora.}
 {130}{}{Você é boa de conversa. Me fale mais..}
-{131}{}{Disculpa te incomodar. Estou indo.}
-{132}{}{Mas nosso papo tá ótimo! Por que parar?}
-{133}{}{Acho que tá na hora de partir.}
+{131}{}{Desculpa te incomodar. Estou indo.}
+{132}{}{Mas nosso papo ta ótimo! Por que parar?}
+{133}{}{Acho que ta na hora de partir.}
 {134}{}{Oh não, é a praga novamente. Olha, eu não tenho nada para lhe dizer. Vai embora!}
 {135}{}{}
 {136}{}{}
@@ -46,7 +46,7 @@
 {144}{}{Viu alguém passar correndo por aqui?}
 {145}{}{Vejo pessoas passando aqui todos os dias. Mas não presto muita atenção nelas.}
 {146}{}{Eu não tenho tempo pra essas suas besteiras.}
-{147}{}{Ah, tá bom.}
+{147}{}{Ah, ta bom.}
 {148}{}{Olha só, a vida de uma jovem está em perigo. Filha de uma mãe preocupada. Não tem como você me ajudar?}
 {149}{}{Não tenho tempo para suas besteiras.}
 {150}{}{Ótimo. Tchau.}

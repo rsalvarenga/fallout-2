@@ -17,8 +17,7 @@
 
 # Node 0
 {162}{}{Meu nome é Grisham. Bem vindo a meu açougue. Você quer vender ou comprar?}
-{163}{}{Quero comprar! Estou interessado em comprar alguns mantimentos de 
-viágem.}
+{163}{}{Quero comprar! Estou interessado em comprar alguns mantimentos de viagem.}
 {164}{}{Você por acaso, não viu nenhum relógio de ouro pelo chão ou outro lugar?}
 {350}{}{[Olhando para Bessy] Estou vendendo.}
 
@@ -30,15 +29,15 @@ viágem.}
 {360}{}{Eu gostaria que você fizesse carne seca para mim.}
 
 # Node 2
-{170}{}{Eu sabia que você ia conseguirt. Vamos ver, Te devo $1000 pelo trabalho. Mas, }
-{171}{}{ brahmin foram mortos por sua falta de cuidado. $100 por cada brahmin, sua recomença é }
+{170}{}{Eu sabia que você ia conseguir. Vamos ver, Te devo $1000 pelo trabalho. Mas, }
+{171}{}{ brahmin foram mortos por sua falta de cuidado. $100 por cada brahmin, sua recompensa é }
 {172}{}{. E nem se preocupe em mentir a quantidade de brahmin morto -- Um dos meus garotos te seguiu para olhar como você se saia.}
-{173}{}{Mas você nunca falou nada sobre descontar de minha recompença se algum brahmin morresse!}
+{173}{}{Mas você nunca falou nada sobre descontar de minha recompensa se algum brahmin morresse!}
 {174}{}{Seu velho trapaceiro e imundo. Arg! Marque minhas palavras - é a ultima vêz que você terá o melhor de mim!}
-{175}{}{Obrigado véio; um prazer fazer negócios com você.}
+{175}{}{Obrigado; foi um prazer fazer negócios com você.}
 
 # Node 3
-{176}{}{Como você ousa vir aqui? Perdi dez brahmin por sua covardia. Mas, sevocê quizer consertar isso, $1500 será suficiente pra cobrir minhas perdas.}
+{176}{}{Como você ousa vir aqui? Perdi dez brahmin por sua covardia. Mas, se você quiser consertar isso, $1500 será suficiente pra cobrir minhas perdas.}
 {177}{}{Aqueles brahmin não valiam mais que $1000.}
 {178}{}{Eu não tenho esse dinheiro, e se tivesse, eu não o daria para um trapaceiro como você.}
 {179}{}{Eu deixei meu dinheiro no meu quarto; vou lá buscar para você.}
@@ -46,12 +45,12 @@ viágem.}
 # Node 10
 {180}{}{Ah! Claro, claro. Vamos ver, para viagem, eu recomendo minha famosa carne seca. Não estraga na viagem e é muito gostosa também. Apenas $10 o pacote. Interessado?}
 {181}{}{Parece bom; me dê um pacote.}
-{182}{}{Obrigado, outra vêz quem sabe. Mas eu gostaria de te fazer algumas perguntas.}
+{182}{}{Obrigado, outra vez quem sabe. Mas eu gostaria de te fazer algumas perguntas.}
 {183}{}{Um prazer fazer negócio com você. Algo mais que eu possa fazer por você?}
 {185}{}{Espere! Você parece ser um bom aventureiro. Está interessado em conseguir um dinheiro a mais?}
-{186}{}{Tem certeza que não está interessado em trabalho? Tenho certeza que você conseguiria resolver meu problema fácil fácil.}
+{186}{}{Tem certeza que não está interessado em trabalho? Tenho certeza que você conseguiria resolver meu problema fácil.}
 {187}{}{Depende. Aonde, o que terei que fazer, e o mais importante, QUANTO VOU RECEBER?}
-{188}{}{Esperto heh?! Você lembra a mim quando eu era jovem. Simples...Alguns cães selvagens estão descendo a montanha atrás de comida. E eles infelizmente acharam meus brahmins e agora estão atacando a manada toda noite. Mate a todos da matilha, e te pagarei $1000 por isso.}
+{188}{}{Esperto em?! Você lembra a mim quando eu era jovem. Simples...Alguns cães selvagens estão descendo a montanha atrás de comida. E eles infelizmente acharam meus brahmins e agora estão atacando a manada toda noite. Mate a todos da matilha, e te pagarei $1000 por isso.}
 {189}{}{Você está me escondendo algo seu velho trapaceiro. Desembucha!!}
 {190}{}{Tão perceptivo quanto esperto. Eu sabia que não ia te enrolar. O segredo é que cada brahmin que você deixar morrer, eu vou descontar $100. Eu pago bem pelo sucesso, mas desconto pelas falhas. Esse é o risco que você vai ter trabalhando para mim.}
 {191}{}{Ótimo! Siga para os pastos a noite e mate a matilha que está atacando meus brahmins. Volte quando terminar o trabalho.}
@@ -72,19 +71,19 @@ viágem.}
 {207}{}{[SAIR SEM PAGAR]}
 {208}{}{Marque minhas palavras, vai ter troco. Se não for por mim, vai ser por outra pessoa.}
 {209}{}{[Grisham sorri de um jeito que faz você dar um passo involuntário para trás.] Porque você Não fica com o dinheiro? Sinto que você vai precisar dele mais tarde.}
-{210}{}{Não tem muito o que falar. Sou dono do açoulgue de Modoc; quer algo morto, então traga para mim. Eu irei matar e fazer a melhor carne seca que você já provou na sua vida.}
+{210}{}{Não tem muito o que falar. Sou dono do açougue de Modoc; quer algo morto, então traga para mim. Eu irei matar e fazer a melhor carne seca que você já provou na sua vida.}
 {211}{}{E o que você faz com a pele e as outras partes do animal?}
 {213}{}{Na verdade, isso tem até ajudado nos negócios. Ninguém foi capaz de colher comida suficiente para os brahmins deles, então eles perderam várias cabeças. Mas entenda que isso é temporário se você pensar no futuro. Com o declínio da população de brahmin meu negócio então só tende a sofrer mais e mais.}
 {215}{}{[Grisham anda em sua volta, toca algumas vezes e abre a sua boca para checar os seus dentes.]
-Ah! Ótimo, está saudável. Você vai servir. Ahem… Cachorros maus, matandos os brahmin bons. Vá e mate os cachoros maus pra seu amigo Grisham. Grisham vai te dar uma grande recompensa. OK?}
+Ah! Ótimo, está saudável. Você vai servir. Ahem… Cachorros maus, matando os brahmin bons. Vá e mate os cachorros maus pra seu amigo Grisham. Grisham vai te dar uma grande recompensa. OK?}
 {216}{}{Não, mim gostar de cachorros. Só homem mal não gosta de cachorro. Mim vai pra longe de homem mal.}
 {217}{}{Mim faz. Vô lá agora!}
 {218}{}{Ótimo! Lembre, coisa mal faz ‘au! au!’ coisa boa faz ‘muu.’ Tente não matar as coisas boas.}
 {219}{}{Você parece que está com a grana curta. Não costumo dar crédito e eu de certeza não acredito em dar algo sem receber nada em troca.}
 {221}{}{É isso que eu ganho por mandar um Neandertal fazer o trabalho. Vá embora!}
 {222}{}{Uh… uga uga. Agora pegue o seu dinheiro, seja um bom Neandertal e vá embora.}
-{223}{}{Você é rápido heim? Bem, se você quizer você pode ficar com qualquer parte do animal, mas, Balthas constuma comprar a pele, e Rose compra qualquer sobra que você não quizer. Ela usa para fazer sopa e alimentar os cães delas.}
-{225}{}{Você deve estar brincando. Todo mundo sabe que Farrel pegou o relógio. Porque ele te pediria pra procurar o relógio? A não ser que Farrel não o tenha roubado! Ou talvês é um truque pra convencer todo mundo que ele não pegou. Eu... erh... eu tenho que pensar nisso.}
+{223}{}{Você é rápido heim? Bem, se você quiser você pode ficar com qualquer parte do animal, mas, Balthas constuma comprar a pele, e Rose compra qualquer sobra que você não quizer. Ela usa para fazer sopa e alimentar os cães delas.}
+{225}{}{Você deve estar brincando. Todo mundo sabe que Farrel pegou o relógio. Porque ele te pediria pra procurar o relógio? A não ser que Farrel não o tenha roubado! Ou talves é um truque pra convencer todo mundo que ele não pegou. Eu... erh... eu tenho que pensar nisso.}
 {228}{}{Garoto, nem tente explicar isso. Eu não quero saber. Vou falar com o padre e fazer isso certo pela lei, e você vai embora e vai levar o meu filho junto quando você for.}
 {229}{}{Não posso dizer que não estou contrariado com isso, mas não posso deixar que ela viva nesta casa agora que eu vi isso. Vocês dois vão ter que casar e sair desta casa.}
 {230}{}{Será que você poderia explicar o que você está fazendo com a minha filha?}
@@ -100,10 +99,10 @@ Ah! Ótimo, está saudável. Você vai servir. Ahem… Cachorros maus, matandos os bra
 {240}{}{OK, talvês seja o que parece ser. Mas é apenas sexo, não é como há amor ou algo a mais envolvido.}
 {241}{}{Eu entendo perfeitamente. Hormônios...}
 {242}{}{Estou feliz que tenha entendido.}
-{243}{}{Eu entendo. E espero que você entenda que vocês dois vão ter que casar. Não posso ter rumores voando pela cidade. Venha comigo e vamos ao padre. E não me faça ter que enchar sua cara esperta de chumbo.}
+{243}{}{Eu entendo. E espero que você entenda que vocês dois vão ter que casar. Não posso ter rumores voando pela cidade. Venha comigo e vamos ao padre. E não me faça ter que encher sua cara esperta de chumbo.}
 {244}{}{Sério? E porque os dois estão pelados?}
-{245}{}{Germes? Claro! GERMES! Muito importante estár limpo durante esses exames.}
-{246}{}{Bem, já que você é médico eu não vejo problema. Mas é melhor se vestir; Rumores podem surgir por causa de enganos como esses. Já que você está aqui, eu tenho sentido umas coçeiras aqui no meu ânus e estava querendo que você desse uma olhada.}
+{245}{}{Germes? Claro! GERMES! Muito importante estar limpo durante esses exames.}
+{246}{}{Bem, já que você é médico eu não vejo problema. Mas é melhor se vestir; Rumores podem surgir por causa de enganos como esses. Já que você está aqui, eu tenho sentido umas coceiras aqui no meu ânus e estava querendo que você desse uma olhada.}
 {247}{}{Err… claro, olharei mais tarde assim que puder. Tenho outro paciente me esperando. Tchau.}
 {248}{}{Claro. Porque você não vem comigo ao padre? E não tente nada engraçado, ou VOCÊ irá precisar de um médico.}
 
@@ -142,7 +141,7 @@ Ah! Ótimo, está saudável. Você vai servir. Ahem… Cachorros maus, matandos os bra
 {510}{}{Oh… então você é um daqueles. Não quero tirar sua amiga de você. As noites no deserto devem ser bem solitárias sem ela. Eu não tenho tempo para isso! Tenho trabalho a fazer.}
 
 # Node 6
-{515}{}{Ótimo! Volte em uma semana. E você pode pegar a carne na casa de defumação que fica lá mesmo no açolgue. Vou deixar um pacote para você. Bom fazer negócios com você.}
+{515}{}{Ótimo! Volte em uma semana. E você pode pegar a carne na casa de defumação que fica lá mesmo no açougue. Vou deixar um pacote para você. Bom fazer negócios com você.}
 
 # Node 50
 {600}{}{Olá }

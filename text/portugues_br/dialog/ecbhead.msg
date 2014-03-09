@@ -5,14 +5,14 @@
 {103}{}{Você vê um monumento de pedra da cabeça do Vault Dweller. É bem lisonjeante, embora
  você ache que a cabeça do Vault Dweller não seja realmente deste tamanho.}
 {104}{}{Malditos turistas...}
-{105}{}{"Eu sou o Chosen One." Que retardadice.}
+{105}{}{"Eu sou o Chosen One." Que retardado.}
 {106}{}{Se eu fosse você, "Chosen One", eu cairia o fora daqui.}
 {107}{}{Zzzzzz Snzzzzz Zzzzzzzzzz}
 {108}{}{ZZZZZZZzzzzzzzz}
 {109}{}{Zsnzzz...*ronco*...zzzzsZZZZZ}
 {110}{}{Zzssnnnnnzzzzz}
 {111}{}{ZZZZzzzzzZZZZZ}
-{112}{}{Eu queria poder ver o que está atras de mim.}
+{112}{}{Eu queria poder ver o que está atrás de mim.}
 {113}{}{Se pelo menos alguém viesse e cavasse o resto do meu corpo...}
 {114}{}{Tenho certeza de que aquelas formigas comedoras de cabeça-de-pedra vão chegar a qualquer momento.}
 {115}{}{"Seja uma grande cabeça de pedra! Veja o mundo!" Vá a merda...}

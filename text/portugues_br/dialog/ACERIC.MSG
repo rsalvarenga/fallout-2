@@ -1,8 +1,8 @@
-{100}{}{VocÃª vÃª seu sobrinho, Feargus, sempre chorando por alguma coisa.}
-{101}{}{Wahh!!! Por favor conserte o poÃ§o.}
-{102}{}{Wahh!!! Eu tÃ´ com muita sede, mas o poÃ§o tÃ¡ quebrado!}
-{103}{}{Wahh!!! O poÃ§o precisa muito de um conserto.}
-{104}{}{Ei, obrigado por consertar o poÃ§o!}
+{100}{}{Você vê seu sobrinho, Feargus, sempre chorando por alguma coisa.}
+{101}{}{Wahh!!! Por favor conserte o poço.}
+{102}{}{Wahh!!! Eu tô com muita sede, mas o poço ta quebrado!}
+{103}{}{Wahh!!! O poço precisa muito de um conserto.}
+{104}{}{Ei, obrigado por consertar o poço!}
 {105}{}{Tenha cuidado.}
-{106}{}{O poÃ§o tÃ¡ funcionando. VocÃª Ã© o cara!}
-{200}{}{VocÃª vÃª seu sobrinho, Feargus.}
+{106}{}{O poço tá funcionando. Você é o cara!}
+{200}{}{Você vê seu sobrinho, Feargus.}

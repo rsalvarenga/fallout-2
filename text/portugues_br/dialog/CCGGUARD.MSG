@@ -1,14 +1,14 @@
 {100}{}{Você vê um guarda.}
 {101}{}{Você vê o guarda do portão.}
-{102}{}{Você vê um guarda usando uma power armor de design diferente. Há uma insígnia no peitoral desconhecida para você.}
+{102}{}{Você vê um guarda usando uma armadura de combate de design diferente. Há uma insígnia no peitoral desconhecida para você.}
 {103}{gate1}{Parado! Aqui é propriedade federal - não é permitida a entrada, a não ser com a devida autorização.}
-{104}{}{Ahn... pro pi edade}
+{104}{}{Ahn... propriedade}
 
 {105}{}{Eu tenho um passe... onde eu coloco?}
 {106}{}{Sou um novo recruta. Me foi dito que você estaria a minha espera.}
 
 {107}{}{Oh, desculpa. Vou indo nessa então.}
-{108}{}{Eu tenho meu passe... tá logo aqui.}
+{108}{}{Eu tenho meu passe... ta logo aqui.}
 {109}{}{Sou um novo recruta. Me foi dito que você estaria a minha espera.}
 {110}{}{Oh, desculpa. Vou indo nessa então.}
 
@@ -60,10 +60,10 @@
 {140}{gate10}{É a última vez que aviso. Eu sugiro que você deixe este local imediatamente e não retorne. Fui claro?}
 {141}{}{Ok, estou indo...}
 
-{142}{}{Já dizia o sábio... Vá se foder!}
+{142}{}{Já dizia o sábio... Vá se fuder!}
 {143}{}{Certo, estou indo.}
 
-{144}{}{Já dizia o sábio... Vá se foder!}
+{144}{}{Já dizia o sábio... Vá se fuder!}
 
 {145}{gate11a}{Parado! - Você de novo? Você foi avisado. Alarme! Intruso no portão!}
 {146}{}{Merda!}

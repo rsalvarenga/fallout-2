@@ -17,7 +17,7 @@
 {207}{}{Indo ganhar belas roupas.}
 
 # 2. Night (From Where to go)
-{220}{}{Ei, cara! Já tá tarde. Me deixa em paz.}
+{220}{}{Ei, cara! Já ta tarde. Me deixa em paz.}
 {221}{}{Não, eu não preciso de nenhuma companhia.}
 {222}{}{Você sabe que horas são?}
 {223}{}{Eu não tenho nada.}
@@ -51,12 +51,12 @@
 {278}{}{Irei ganhar bem em algum dia, muito obrigado a você.}
 {279}{}{Serei recompensado a qualquer dia! Posso sentir isso.}
 {280}{}{Estarei lhe pagando de volta, eu juro!}
-{281}{}{Estarei logo logo ganhando isso bem. Sinto o cheiro disso.}
+{281}{}{Estarei logo ganhando isso bem. Sinto o cheiro disso.}
 
 # 6. 1st Time on Job 1 (From Where to go)
 {295}{}{Ahn? Eu te conheço? O que você quer?}
 {296}{}{Porque você continua me incomodando? Eu nem mesmo conheço você. Vá encher outra pessoa.}
-{297}{}{Estou aqui pra coletar algum dinheiro que vocÊ deve pra alguém.}
+{297}{}{Estou aqui pra coletar algum dinheiro que Você deve pra alguém.}
 {298}{}{Não importa.}
 {299}{}{Uk!}
 {300}{}{Tchau.}
@@ -75,7 +75,7 @@
 {322}{}{Então, cadê meu dinheiro?}
 
 # 9. Look bad (From 7)
-{330}{}{Você não gostou das minhas roupas? Sabe, eu acho que você tá certo. Eu também não gosto delas. Hora de roupas novas - eu posso bancar isso!}
+{330}{}{Você não gostou das minhas roupas? Sabe, eu acho que você ta certo. Eu também não gosto delas. Hora de roupas novas - eu posso bancar isso!}
 {331}{}{Então você tirou a sorte grande depois de tudo?}
 {332}{}{Cadê meu dinheiro?}
 {333}{}{Hmph.}
@@ -145,7 +145,7 @@
 
 # 21. Becky Swear or Pissed (From 19)
 {450}{}{Certo! Este vai ser o dia. Becky não conseguiria machucar uma mosca. Ela é uma beleza de qualquer forma.}
-{451}{}{Bem, você tá errado, cuzão.}
+{451}{}{Bem, você ta errado, cuzão.}
 {452}{}{Talvez tenha sido outra pessoa.}
 
 # 22. Remembers money (From 19, 33-35)

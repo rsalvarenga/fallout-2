@@ -56,9 +56,9 @@
 {155}{}{Ha ha! Sim, eu já vi esse filme antes.
 Espere... O que você está dizendo? Você está dizendo que...?}
 {156}{}{Sim, é um baço humano.}
-{157}{}{Na verdade, eu iria me opor a isso. Você mostrou não ser de bom caráter. De fato, não sei porque ainda estou falando com vocêI do not . Tenha um bom dia.}
+{157}{}{Na verdade, eu iria me opor a isso. Você mostrou não ser de bom caráter. De fato, não sei porque ainda estou falando com você . Tenha um bom dia.}
 {158}{}{-feito-}
-{159}{}{Aiee! Guardas! O intruso de lao wai está aqui!}
+{159}{}{Aiee! Guardas! O intruso está aqui!}
 {160}{}{Você com certeza tem um esquema para mim?}
 {161}{}{Ken Lee me disse para te dar isso.}
 {162}{}{Sim. Agora como que eu pego?}

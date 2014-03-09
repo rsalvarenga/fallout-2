@@ -1,3 +1,4 @@
+
 {100}{}{Você vê alguém em uma power armor.}
 {101}{}{Você vê o oficial de suprimentos.}
 {102}{}{Você vê alguém vestindo uma power armor com um design diferente. Há uma insígnia no peito que não é familiar pra você.}

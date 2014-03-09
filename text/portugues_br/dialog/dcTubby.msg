@@ -27,7 +27,7 @@
 {174}{}{Sabe onde fica o Vault?}
 {175}{}{Queria fazer umas trocas.}
 {176}{}{Deixa pra lá. Tchau.}
-{177}{}{Meu Deus! Posso afirmar que temos um problema de comunicação. Por favor, baçance a cabeça se quiser fazer negócios.}
+{177}{}{Meu Deus! Posso afirmar que temos um problema de comunicação. Por favor, balance a cabeça se quiser fazer negócios.}
 {178}{}{[balançar a cabeça.]}
 {179}{}{Tchauutchau.}
 {180}{}{Ninguém, esse é meu medo. A cidade de Den é um lugar anárquico onde um tipo de luta darwiniana acontece. 
@@ -54,7 +54,7 @@
 
 {500}{}{Certo Petey. Eu estarei aí em um segundo.}
 {501}{}{Espere, Petey!}
-{502}{}{Tô indo, tô indo.}
+{502}{}{To indo, tô indo.}
 {510}{}{Aqui está, Petey.}
 {511}{}{Você sabe, Petey, você deveria chutar essa merda.}
 {512}{}{Pega essa merda e dá o fora daqui, Petey.}

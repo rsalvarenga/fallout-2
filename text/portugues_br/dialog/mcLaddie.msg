@@ -1,3 +1,4 @@
+
 {100}{}{Pelo visto é um cão da raça collie.} 
 {101}{}{Laddie.} 
 {102}{}{Este cão realmente parece ser alerta e inteligente.} 

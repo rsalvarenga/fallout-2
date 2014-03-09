@@ -171,7 +171,7 @@
 {510}{}{Você não vai precisar lutar. É dinheiro fácil.}
 {511}{}{E aí, já mudou de idéia?}
 {512}{}{Vamos! Estou pronto.}
-{513}{}{Tá bom. Volto já.}
+{513}{}{Ta bom. Volto já.}
 {514}{}{Não.}
 {515}{}{Uk}
 
@@ -218,7 +218,7 @@
 {590}{}{Eu te falei pra irmos juntos. Como não tinha ninguém lá vigiando, saquearam tudo e agora Metzger tá muito puto.}
 {591}{}{Eu te falei pra achar um ponto fraco, não pra matar os caras! Como não tinha ninguém lá vigiando, saquearam tudo e agora Metzger tá muito puto.}
 {592}{}{Merda! Eu disse pra você falar com Metzger e não pra matar os caras! Como não tinha ninguém lá vigiando, saquearam tudo e agora Metzger tá muito puto.}
-{593}{}{Merda! Eu te disse pra não atacar os caras! Como não tinha ninguém lá vigiando, saquearam tudo e agora Metzger tá muito puto.}
+{593}{}{Merda! Eu te disse pra não atacar os caras! Como não tinha ninguém lá vigiando, saquearam tudo e agora Metzger ta muito puto.}
 {594}{}{Ah... é.. tenho que ir.}
 {595}{}{Que vergonha!}
 {596}{}{Você é a próxima, sua puta.}

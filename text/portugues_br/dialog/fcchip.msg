@@ -15,9 +15,9 @@
 {114}{}{Isso é péssimo.}
 {115}{}{Cara, você é uma anta.}
 {116}{}{Pois é, então, eu preciso que você me dê algumas informações ao invés de ficar choramingando.}
-{117}{}{::ele dá uma respirada forte:: Vá se foder.}
+{117}{}{::ele dá uma respirada forte:: Vá se fuder.}
 {118}{}{::ele dá uma respirada forte:: Sai daqui.}
-{119}{}{Tá bom, que seja.}
+{119}{}{Ta bom, que seja.}
 {120}{}{Ei, mudei de idéia. Eu quero ajudar.}
 {121}{}{Sim, eu vendi. Eu tava bêbado! E tem outra, eu acho que o Lao Chou jogou algum jet na minha bebida. Eu preciso do meu baço de volta porque eu to começando a ficar com algumas infecções agora.}
 {122}{}{Ei, você perdeu isso. O problema é seu. Você resolva isso.}
@@ -29,19 +29,19 @@
 {128}{}{Eu volto.}
 {129}{}{Sou Chip. E to sentindo muitas dores.}
 {130}{}{Qual o problema com você?}
-{131}{}{Tá sentindo dores? Ha ha ha.}
+{131}{}{Ta sentindo dores? Ha ha ha.}
 {132}{}{Isso é péssimo. Até mais.}
 {133}{}{Informação? Eu morrendo de dores e você quer informação?}
 {134}{}{Qual o problema com você?}
-{135}{}{Tá sentindo dores? Ha ha ha.}
+{135}{}{Ta sentindo dores? Ha ha ha.}
 {136}{}{Esqueça.}
 {137}{}{Você já encontrou o meu baço?}
 {138}{}{Sim. Está com o Dr. Wong Yi Tze, e ele te dará de volta. Vá falar com ele sobre isso.}
 {139}{}{Sim. Dê uma olhada no cadáver do Dr. Wong.}
-{140}{}{Meio que tá com o Dr. Wong Yi Tze. Ele não quer dar isso pra mim.}
-{141}{}{Eu descobri onde que tá, mas acho que o Dr. Wong acabou de comê-lo.}
+{140}{}{Meio que ta com o Dr. Wong Yi Tze. Ele não quer dar isso pra mim.}
+{141}{}{Eu descobri onde que ta, mas acho que o Dr. Wong acabou de comê-lo.}
 {142}{}{Não, ainda não. Mas irei.}
-{143}{}{Não. Na verdade nem tô procurando.}
+{143}{}{Não. Na verdade nem to procurando.}
 {144}{}{Está certo. ::ofegante:: Antes que eu o faça, talvez nós devêssemos dar um jeito de colocar isso de volta em mim. Fale com o Dr. Fung sobre isso, ok? Obrigado.}
 {145}{}{Tudo bem.}
 {146}{}{Não.}
@@ -49,17 +49,17 @@
 {148}{}{Sem problema.}
 {149}{}{Cara, eu não consigo mesmo sair daqui sem fazer esforço demais. Se você não puder me ajudar, eu to ferrado.}
 {150}{}{Beleza. Vou falar com o Fung.}
-{151}{}{Beleza. To pouco me fodendo pra você mesmo.}
+{151}{}{Beleza. To pouco me fudendo pra você mesmo.}
 {152}{}{Se você puder fazer alguma coisa sobre isso... mate ele, ou dê um pouco de juízo a ele, ou o que for... eu vou morrer se ficar sem isso.}
 {153}{}{Verei o que posso fazer.}
-{154}{}{Desculpa, cara... acho que você tá fodido. Não posso te ajudar.}
+{154}{}{Desculpa, cara... acho que você ta fudido. Não posso te ajudar.}
 {155}{}{Sem o baço, vou morrer de qualquer jeito. Mas obrigado pela sua ajuda de qualquer jeito.}
 {156}{}{Encontrei. Vá procurar na sala do Dr. Wong.}
 {157}{}{Oh, eu te cubro. Vá até a sala do Fung.}
 {158}{}{Sem problema. Boa sorte.}
 {159}{}{Você falou com o Fung?}
 {160}{}{Falei, ele disse que vai colocar isso em você de graça.}
-{161}{}{Sim, ele tá me devendo $1,000.}
+{161}{}{Sim, ele ta me devendo $1,000.}
 {162}{}{}
 {163}{}{Caramba. Você tem alguns contatos sérios. Volte aqui amanhã e eu verei o que posso fazer por você.}
 {164}{}{Você entendeu.}
@@ -73,7 +73,7 @@
 {172}{}{É duro. To quebrado.}
 {173}{}{Não consigo te dizer como estou melhor. Então, o que é que você precisava de mim?}
 {174}{}{Como eu consigo fazer esse barco navegar?}
-{175}{}{Onde está o meu povo? VOcê sabe?}
+{175}{}{Onde está o meu povo? Você sabe?}
 {176}{}{Eu preciso que seja feita um trabalho no computador.}
 {177}{}{Por ora nada, obrigado. Tchau.}
 {178}{}{Pergunte ao Capitão. Ele fica no gabinete do capitão lá em cima.}
@@ -89,11 +89,11 @@
 {188}{}{Obrigado. Outras perguntas...}
 {189}{}{Obrigado. Tchau.}
 {190}{}{Desprezível.}
-{191}{}{Você vai precisar de alguns analgézicos.}
+{191}{}{Você vai precisar de alguns analgésicos.}
 {192}{}{Imprestável. Vou acabar com você.}
 {193}{}{Você vê um punk careca.}
 {194}{}{Você vê Chip. Ele parece melhor.}
-{195}{}{Você vê um punk careca. Ele está parado no seu canto, e arfando dolorasamente.}
+{195}{}{Você vê um punk careca. Ele está parado no seu canto, e arfando dolorosamente.}
 
 {196}{}{Tudo bem. Vou falar com o Fung.}
 {197}{}{Alguma sorte com o meu baço?}
