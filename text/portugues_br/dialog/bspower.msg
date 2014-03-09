@@ -1,3 +1,4 @@
+
 {100}{}{O gerador está funcionando normalmente. A saída de energia está no máximo.}
 {101}{}{O gerador parece estar em modo stand-by. A saída de energia está no mínimo.}
 {102}{}{Tentar diagnosticar o problema.}

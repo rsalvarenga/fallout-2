@@ -38,7 +38,7 @@
 {140}{}{Que interessante. Isso me lembra uma história que eu escutei a muito tempo atrás. Algo sobre um mestre.}
 {141}{}{Verdade? Como era?}
 {142}{}{Me conte.}
-{143}{}{Hum, então tá. Tchau.}
+{143}{}{Hum, então ta. Tchau.}
 {144}{}{Bem, isso pode demorar um pouco. Seja um cavalheiro e compre uma bebida pra mim, promete que não vai rir? Whisky não, uma Nuka-Cola por favor.}
 {145}{}{Bem, isso pode demorar um pouco. Seja uma boneca e me compre uma bebida, promete que não vai rir? Whisky não, uma Nuka-Cola por favor.}
 {146}{}{Nós já começamos? Agora eu tô me lembrando bem.}

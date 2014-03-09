@@ -1,3 +1,4 @@
+
 {100}{}{Você vê um técnico.}
 {101}{}{Você vê um técnico em computadores.}
 {102}{}{Você vê alguém vestindo um jaleco de laboratório com o bolso cheio de canetas.}

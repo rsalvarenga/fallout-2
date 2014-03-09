@@ -14,7 +14,7 @@
 {113}{}{Me deixe sozinha, por favor, ou eu irei chamar os guardas.}
 {114}{}{O que você quer?}
 {115}{}{Você está bem? Você parece preocupada.}
-{116}{}{Nada. SMe desculpe por perturbar você.}
+{116}{}{Nada. Me desculpe por perturbar você.}
 {117}{}{Eu...bem, eu...é o meu marido Joshua. Ele...se meteu em encrenca no... no bar. Ele acidentalmente atacou um cidadão e foi preso. Ele não tinha a intenção de fazer isso, mas ele estava bebendo, e...}
 {118}{}{Preso? Onde ele está agora?}
 {119}{}{Se ele estava bêbado e atacou alguém, então ele deveria ser preso mesmo.}
@@ -44,8 +44,8 @@
 {143}{}{O que você quer d...? Oh, não. Eu...não poderia. Quero dizer, eu...}
 {144}{}{Você quer o seu marido livre ou não? Ele nunca precisa saber.}
 {145}{}{Deixa pra lá. Talvez eu possa conversar com alguém no Allocation Center.}
-{146}{}{Sinto por ter de ouvir isso. Parece que vocÊ nunca verá o seu marido ser solto. Tchau.}
-{147}{}{Se você promete que ilbertará o meu marido, eu...eu...muito bem. Eu...fecho a aba da tenda. Eu... acho que o meu filho ainda está brincando lá fora, então nós não seremos interrompidos.}
+{146}{}{Sinto por ter de ouvir isso. Parece que Você nunca verá o seu marido ser solto. Tchau.}
+{147}{}{Se você promete que libertará o meu marido, eu...eu...muito bem. Eu...fecho a aba da tenda. Eu... acho que o meu filho ainda está brincando lá fora, então nós não seremos interrompidos.}
 {148}{}{Não fique preocupada, eu libertarei o seu marido. Depois eu recebo o meu pagamento.}
 {149}{}{Esqueça. Talvez eu possa conversar com alguém no Allocation Center.}
 {150}{}{Deixa pra lá. Esqueça que nos encontramos.}

@@ -49,7 +49,7 @@
 {148}{}{Enclave? Que Enclave?}
 {149}{}{Acredite, criança, você está falando da Enclave.}
 {150}{}{Sim, ok. Como eu posso encontrá-los?}
-{151}{}{A Enclave é um remanescente do passado - um neurodine que ainda precisa ser alinhado. Eles possuem bases escondidas por todos os cacos da velha California, e a sua mais forte fortaleza afasta-se para o oeste, através das águas.}
+{151}{}{A Enclave é um remanescente do passado – uma dor de cabeça que ainda precisa ser curada. Eles possuem bases escondidas por todos os cacos da velha Califórnia, e a sua mais forte fortaleza afasta-se para o oeste, através das águas.}
 {152}{}{Como poderei chegar lá?}
 {153}{}{Como você sabe tudo isso?}
 {154}{}{Isto, minha criança, você terá de descobrir por si próprio. Pergunte por aí e você encontrará a verdade.}
@@ -62,7 +62,7 @@
 {161}{}{Você matou o Imperador e destruiu os seus servos?}
 {162}{}{Sim, eu o fiz.}
 {163}{}{Então não há mais ninguém que possa ficar no meu caminho! Mas eu não vejo necessidade para dever algo a uma mera ferramenta. Vá em paz - e ótimo trabalho!}
-{164}{}{O quê, seu asquerozo. Eu vou te matar.}
+{164}{}{O quê, seu asqueroso. Eu vou te matar.}
 {165}{}{Oh. Bem, se é assim que tem de ser. Até mais.}
 {166}{}{Uma carta da Primeira Esclarecida? É assim que ela se chama agora? Bah. [ele pega a carta] E ela prometeu uma recompensa? Você tem uma recompensa - minha gratidão. Tenha um bom dia.}
 {167}{}{Então é isso? Velhote, você está morto.}
@@ -71,7 +71,7 @@
 {170}{}{Direcione as suas perguntas ao AHS-7. Eu sou o AHS-9, o Grande e Terrível, e tenho muitas preocupações na minha cabeça. Não me traga problemas, carne.}
 {171}{}{Se você não responder minhas perguntas, irá responder às minhas armas.}
 {172}{}{Que seja.}
-{173}{}{Ahh, uma carta do meu agente de campo. Misericórida, ela está se chamando como "A Primeira Esclarecida" - isto mostra como ela não está verdadeiramente alinhada. Você tem a minha gratidão.}
+{173}{}{Ahh, uma carta do meu agente de campo. Misericórdia, ela está se chamando como "A Primeira Esclarecida" - isto mostra como ela não está verdadeiramente alinhada. Você tem a minha gratidão.}
 {174}{}{Sem problema. Eu tenho uma ou duas perguntas, de qualquer maneira.}
 {175}{}{Ótimo. Tchau.}
 {176}{}{Sim, minha criança?}
@@ -93,7 +93,7 @@
 {192}{}{Espere, mudei de idéia.}
 {193}{}{Tarde demais, carne. Você mostrou que não é confiável. Morra!}
 {194}{}{-pronto-}
-{195}{}{Criança, existem algumas coisas que você não deveria saber por ora there are some things you are not meant to know for now. [Ele sorri benevolentemente.]}
+{195}{}{Criança, existem coisas que você não deveria saber por ora. [Ele sorri benevolentemente.]}
 {196}{}{Está certo. Eu tenho mais perguntas.}
 {197}{}{Hm. Tchau.}
 {198}{}{O ESS Quetzel será lançado quando as estrelas estiverem corretas. }

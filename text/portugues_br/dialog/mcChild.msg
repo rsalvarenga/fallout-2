@@ -54,7 +54,7 @@
 {175}{}{Sua tribo já parou de comer pessoas?}
 {176}{}{Quem te vestiu desse jeito tão engraçado?}
 {177}{}{Aposto que você é mais legal do que aparenta.}
-{178}{}{Vamos brincar de pique-pega. Tá com você!} 
+{178}{}{Vamos brincar de pique-pega. Ta com você!} 
 {179}{}{Você não fede tanto.} 
 {180}{}{Já viu meu amigo invisível?}
 {181}{}{Quero viajar o mundo quando tiver sua idade.}
@@ -70,14 +70,14 @@
 {190}{}{Posso ser da sua tribo?}
 {191}{}{Você é legal.}
 {192}{}{Você parece engraçado.}
-{193}{}{Tá vestindo o quê?}
+{193}{}{Ta vestindo o quê?}
 {194}{}{Quero andar numa brahmin!} 
 {195}{}{Veio de muito longe?}
 {196}{}{Weeee! Ha, ha, ha!}
 {197}{}{Não vá!}
 {198}{}{Tem comida aí?}
-{199}{}{Tô te incomodando?}
-{200}{}{Tá indo aonde?}
+{199}{}{To te incomodando?}
+{200}{}{Ta indo aonde?}
 {201}{}{Posso ir com você?}
 
 {202}{}{Quantos anos tem?}
@@ -85,7 +85,7 @@
 {204}{}{Gosta de crianças?}
 {205}{}{Que isso?}
 {206}{}{Quer brincar?}
-{207}{}{O que tá fazendo?}
+{207}{}{O que ta fazendo?}
 
 {208}{}{Já viu um besouro?}
 
@@ -93,7 +93,7 @@
 {210}{}{Me dá?}
 {211}{}{O que faz?}
 {212}{}{Eu corro muito rápido. Quer ver?}
-{213}{}{Olha pra cá! Olha apra cá!}
+{213}{}{Olha pra cá! Olha pra cá!}
 {214}{}{Mamãe diz que eu falo muito.}
 {215}{}{Onde mora?}
 {216}{}{Heeee! Heeee!}

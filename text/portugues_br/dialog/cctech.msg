@@ -1,3 +1,4 @@
+
 {100}{}{Um soldado vestindo uma farda militar.}
 {101}{}{Alguns Pfc-Tech, tipo X.}
 

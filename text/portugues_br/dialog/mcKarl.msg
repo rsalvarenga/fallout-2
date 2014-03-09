@@ -15,7 +15,7 @@
 {162}{}{Dá uma esmola para (hic) um fazendeiro aposentado?}
 {163}{}{Claro, cara; quanto você precisa?}
 {164}{}{Que tal um te comprar uma comida quentinha?}
-{165}{}{Desculpe, tô sem dinheiro.}
+{165}{}{Desculpe, to sem dinheiro.}
 {166}{}{Qual é a sua história?}
 {167}{}{Aqui esmola?}
 {168}{}{Jooky.}
@@ -23,7 +23,7 @@
 {170}{}{Aqui tem $100.}
 {173}{}{Desculpe, não tenho nada para você. Tchau.}
 {174}{}{Sabe onde posso achar um GECK?}
-{175}{}{Antes você mencinou algo sobre um jardim. Fale mais sobre ele.}
+{175}{}{Antes você mencionou algo sobre um jardim. Fale mais sobre ele.}
 {178}{}{Mim vai.}
 {179}{}{Ei pão-duro! (hic) Vamos, eu sei que você tem grana… (hic) Só uma esmolinha… (hic) alguma coisa, qualquer coisa! Mostre alguma compaixão.}
 {180}{}{Pega aí $25.}
@@ -39,12 +39,12 @@
 {198}{}{[Com uma voz insultante.] Que grande generosidade… (hic) Uns $1000 são mais que suficientes.}
 {199}{}{Certo.}
 {200}{}{Por quanto tempo, um ano? Sem chance; toma aí $25.}
-{201}{}{Você deve achar que sou bobo. Tô fora.}
+{201}{}{Você deve achar que sou bobo. To fora.}
 {202}{}{[Karl fica boquiaberto] Obrigado! Você é (hic) uma pessoa muito generosa… (hic) Se precisar de algo (hic) pode pedir. Aliás, 
  (hic) meu nome é Karl.}
-{203}{}{Certamente, Karl; agora que você mencinou, estou procurando por um item chamado GECK. Alguma dica de onde posso achar um?}
+{203}{}{Certamente, Karl; agora que você mencionou, estou procurando por um item chamado GECK. Alguma dica de onde posso achar um?}
 {204}{}{Eu vou lembrar disso. Se cuida, Karl.}
-{205}{}{Que tipo de pessoa você é? (hic) Sacaneando um fezendeiro pobre e sem lar. Me deixa em paz!}
+{205}{}{Que tipo de pessoa você é? (hic) Sacaneando um fazendeiro pobre e sem lar. Me deixa em paz!}
 {206}{}{Sei… (hic) Me disseram que é um tipo de lagarto (hic). Porém nunca vi um.}
 {207}{}{Não, procurando um GECK, não um gecko.}
 {208}{}{Deixa pra lá. Agradeço a informação.}
@@ -55,7 +55,7 @@
 {213}{}{[Talvez quando Karl acordar, você possa falar com ele novamente.]}
 {214}{}{Abençoado seja! (hic) Você salvou minha vida.}
 {215}{}{Estou procurando um GECK; pode me ajudar?}
-{216}{}{Não esquenta. BVejo você por aí, Karl.}
+{216}{}{Não esquenta. Vejo você por aí, Karl.}
 {217}{}{Hum… (hic) Não estou com fome agora… (hic) Que tal me dar a grana agora para eu comer mais tarde? (hic)}
 {219}{}{Seu pilantra. Aposto que usa o dinheiro que consegue para comprar drogas, não é?}
 {220}{}{Meeer… merrr… merda… O que foi que você colocou? (hic) Pegue de volta… (hic) Seja o que for, isso não é bom.}
@@ -63,14 +63,14 @@
 {222}{}{Beeeleza… (hic) Você por acaso não teria alguma garrafa de bebi-(hic)-da. Pode ficar (hic) frio por aqui durante a noite.}
 {224}{}{Você realmente é (hic) meu melhor amigo (hic) nesse mundo de cão. [Karl começa a beber toda garrafa de bebida, até o ponto de desmaiar]}
 {225}{}{Bem, talvez você consiga conversar com o Karl mais tarde.}
-{226}{}{Você realmente é (hic) meu melhor amigo (hic) nesse mundo de cão. [Karl abre a garrafa e começa a beber  -- e então cospe tudo em você.] Eca! Que porra é essa?! Tá tentando me envenenar?! Sai fora daqui!}
+{226}{}{Você realmente é (hic) meu melhor amigo (hic) nesse mundo de cão. [Karl abre a garrafa e começa a beber  -- e então cospe tudo em você.] Eca! Que porra é essa?! Ta tentando me envenenar?! Sai fora daqui!}
 {227}{}{Pois, muito (hic) obrigado; você é tão (hic) generoso. Porque não deixa te ajudar com essa bolsa pesada? [Karl meche em sua bolsa e pega metade do seu dinheiro.] Muita bondade sua (hic) se precisar de algo, pode falar.}
 {228}{}{GECK?}
 {229}{}{Mim vai.}
 {230}{}{Isso aqui… hic… é uma festa enlatada.}
 {231}{}{Então, talvez mais tarde.}
 {232}{}É... (hic) ...obrigado. Talvez eu compre (hic) uma bala para atirar em mim mesmo. (hic) Claro que terei que juntar (hic) para a arma.}
-{233}{}{Quer dizer… que posso ir pra casa? Sem mais fastanmas? [Karl ajoelha e chora. Cara, não há nada como ver um homem chorando.] Muito obrigado, finalmente posso voltar para casa!}
+{233}{}{Quer dizer… que posso ir pra casa? Sem mais fantasmas? [Karl ajoelha e chora. Cara, não há nada como ver um homem chorando.] Muito obrigado, finalmente posso voltar para casa!}
 {234}{}{Onde?! Nããããooo! Eles me acharam!}
 {235}{}{Porque sim, eu tinha o maior jardim (hic) que uma pessoa poderia querer. Exceto que (hic) de onde eu sou, nós chamamos isso de fazenda…}
 {236}{}{Você não lembra? Estávamos falando sobre o GECK, e você mencinou algo sobre um jardim.}

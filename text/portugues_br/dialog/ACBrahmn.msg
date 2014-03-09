@@ -18,11 +18,11 @@
 #  The following lines are for describing the NPC when      #
 #  glanced and and examined.                                #
 #############################################################
-{100}{}{VocÃª vÃª um brahmin comum domesticado.}
-{101}{}{A cabeÃ§a extra do brahmin Ã© provavelmente resultado
-  de uma vaca comum sendo exposta Ã  radiaÃ§Ã£o cedo de mais.}
-{102}{}{VocÃª nÃ£o percebe nada de estranho no brahmin.}
-{103}{}{Brahmins nÃ£o sÃ£o muito de conversar.}
-{104}{}{VocÃª nÃ£o tem nada melhor pra fazer do que perder seu
-  tempo falando com vacas de duas cabeÃ§as?}
-{105}{}{Brahmins sÃ£o uma raÃ§a de vacas mutantes.}
+{100}{}{Você vê um brahmin comum domesticado.}
+{101}{}{A cabeça extra do brahmin é provavelmente resultado
+  de uma vaca comum sendo exposta à radiação cedo de mais.}
+{102}{}{Você não percebe nada de estranho no brahmin.}
+{103}{}{Brahmins não são muito de conversar.}
+{104}{}{Você não tem nada melhor pra fazer do que perder seu
+  tempo falando com vacas de duas cabeças?}
+{105}{}{Brahmins são uma raça de vacas mutantes.}

@@ -29,3 +29,4 @@
 
 {100}{}{Você está em um templo escuro e mofado. As sombras parecem 
  brincar com os seus olhos e você pode ouvir o som fraco de algo em movimento.}
+ 

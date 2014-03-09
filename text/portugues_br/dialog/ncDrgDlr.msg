@@ -44,13 +44,13 @@
 {236}{}{Deixe-me saber como posso ajudar VOCÊ, amigo. Me diga o que você precisa, e eu te darei o melhor bagulho da cidade.}
 {237}{}{Nada melhor que puxar um Jet depois de um longo dia correndo por aí, né? Estou certo? Para VOCÊ, todo meu estoque especial.}
 # female
-{238}{}{Hey, Estou na presença do grandioso. Para VOCÊ, amigo, meu estoque especial. Fale sobre miim para todos os seus amigos, tudo bem?}
+{238}{}{Hey, Estou na presença do grandioso. Para VOCÊ, amigo, meu estoque especial. Fale de mim para todos os seus amigos, tudo bem?}
 {239}{}{Então você está procurando fazer uma festa com uns Jet, amiga? Você veio ao lugar certo. Para você, TUDO do estoque especial.}
 {240}{}{Eu tenho Jet suficiente pra te colocar em órbita, minha cara amiga. E para você: um desconto. Vamos falar de preços?}
 {241}{}{Eu tenho a parada que vai ajudar você a beijar o céu, moça.  E para você: um desconto. O que você acha?}
 {242}{}{O mínimo que eu posso fazer é marcar meu estoque para VOCÊ, moça. É meu jeito de ser amigável.}
 
-{247}{}{Eu sei o que você tá procurando, slaver, e eu tenho bem aqui. Todo o Jet que você PRECISA.}
+{247}{}{Eu sei o que você ta procurando, slaver, e eu tenho bem aqui. Todo o Jet que você PRECISA.}
 {248}{}{Por que andar quando você pode VOAR? Você quer Jet, eu tenho aqui.}
 {249}{}{Slaver, eu tenho o Jet mais puro da cidade. Não é barato, mas vale cada centavo.}
 {250}{}{Você quer voar, slaver? Você tem grana? Fale COMIGO.}
@@ -58,18 +58,18 @@
 {252}{}{Eu tenho Jet, Jet, e MAIS Jet. Vamos conversar.}
 {253}{}{Eu tenho Jet suficiente pra te colocar em órbita, slaver. Vamos falar de preços?}
 {254}{}{Você já experimentou, slaver? Deixa eu te mostrar o melhor Jet da cidade.}
-{255}{}{Você tá procurando Jet? Vem cá, slaver, vamos negociar.}
-{256}{}{Você tá procurando Jet? Vamos, slaver, você e eu: Vamos conversar.}
+{255}{}{Você ta procurando Jet? Vem cá, slaver, vamos negociar.}
+{256}{}{Você ta procurando Jet? Vamos, slaver, você e eu: Vamos conversar.}
 
-{261}{}{Eu sei o que você tá procurando, amigo, e eu tenho aqui. Todo o Jet que você PRECISA.}
+{261}{}{Eu sei o que você ta procurando, amigo, e eu tenho aqui. Todo o Jet que você PRECISA.}
 {262}{}{Por que andar quando você pode VOAR?}
 {263}{}{Eu tenho o Jet mais puro da cidade. Não é barato, mas vale cada centavo.}
 {264}{}{Você quer voar? Você tem grana? Fale COMIGO.}
 {265}{}{Eu tenho a parada que vai te ajudar a beijar o céu, amigo.}
 {266}{}{Eu tenho Jet, Jet e MAIS Jet. Vamos conversar.}
-{267}{}{I got enough Jet to put you in orbit, friend. Shall we talk price?}
+{267}{}{ Eu tenho Jet suficiente para colocá-lo em órbita, amigo. Vamos falar de preço?}
 {268}{}{Você já experimentou? Deixa eu te mostrar o melhor Jet da cidade.}
-{269}{}{Tá procurando Jet? Vamos negociar.}
-{270}{}{Tá procurando Jet? Vamos conversar.}
+{269}{}{Ta procurando Jet? Vamos negociar.}
+{270}{}{Ta procurando Jet? Vamos conversar.}
 
 {519}{}{ ADORA doce!}

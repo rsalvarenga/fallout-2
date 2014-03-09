@@ -5,4 +5,4 @@
 {104}{}{Ei, já disse que não tenho tempo pra conversas. Vá embora, por favor.}
 {105}{}{Obrigado por ajudar Rebecca. Isso foi uma coisa boa que você fez.}
 {106}{}{Me deixe em paz. Não ofereço nenhuma ameaça a você.}
-{107}{}{Tá bom, tá bom. Já tô saindo.}
+{107}{}{Ta bom, ta bom. Já to saindo.}

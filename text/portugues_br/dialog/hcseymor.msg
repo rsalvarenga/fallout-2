@@ -22,8 +22,8 @@
 {115}{}{Claro.}
 {116}{}{eu acho que não.}
 
-{117}{}{Ótimo! Tudo que você tem que fazer é achar uma pá, desenterrar-me, e me plantar lá. Quando terminar, contarei-te um segredo.}
-{118}{}{Tá!}
+{117}{}{Ótimo! Tudo que você tem que fazer é achar uma pá, desenterrar-me, e me plantar lá. Quando terminar, te contarei um segredo.}
+{118}{}{Ta!}
 {119}{}{Aham.}
 {120}{}{Certo. Bem... vou te esperar aqui. Como se eu tivesse outra escolha. Até logo!}
 {121}{}{Tchau!}

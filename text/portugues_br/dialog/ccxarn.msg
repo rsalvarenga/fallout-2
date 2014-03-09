@@ -1,7 +1,7 @@
 {100}{}{Saudações, humano. Eu sou o guerreiro Xarn. Você será meu executor?}
 {101}{}{Sim.}
 {102}{}{Não, mim aqui pra salvar você.}
-{103}{}{Não sabe. Mim quer saber porque você tá aqui.}
+{103}{}{Não sabe. Mim quer saber porque você ta aqui.}
 {104}{}{Sim, eu sou.}
 {105}{}{Não, eu estou aqui para salvá-lo.}
 {106}{}{Eu não sei. Eu gostaria de saber porque você está aqui.}

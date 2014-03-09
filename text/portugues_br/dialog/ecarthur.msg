@@ -37,7 +37,7 @@
 {130}{}{[FIM]}
 {131}{}{Sangrento camponês!}
 {132}{}{[FIM]}
-{133}{}{GECK, você quiz dizer? Oh sim, nós temos dois deles. Não precisamos de mais um. Mas obrigado assim mesmo.}
+{133}{}{GECK, você quis dizer? Oh sim, nós temos dois deles. Não precisamos de mais um. Mas obrigado assim mesmo.}
 {134}{}{Já que vocês tem dois dele, talvez pudessem me dar um.}
 {135}{}{Não. Não. Não podemos. Não seria correto terminar a sua busca tão facilmente. Há mais deles
  naquela direção. Pega-os por ti mesmo. [Ele aponta para uma direção da mesma maneira que você, quando

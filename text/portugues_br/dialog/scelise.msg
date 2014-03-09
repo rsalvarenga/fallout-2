@@ -56,7 +56,7 @@
 {155}{}{Eu ouvi que foi você que libertou todos os escravos do lado de fora da cidade. Foi legal o que você fez e eu queria apertar a sua mão.}
 {156}{}{Obrigado.}
 {157}{}{Simples. Nós acreditamos que a escravidão seja errada e faremos o que pudermos para lutar contra isso. Em NCR, nós temos muitos amigos poderosos. Graças a eles nós já banimos o cativeiro do sul, mas agora nós esperamos espalhar esse pensamento para as pessoas do norte.}
-{158}{}{Os Rangers parece que ser um grupo em que seria uma honra me unir. Tô dentro.}
+{158}{}{Os Rangers parece que ser um grupo em que seria uma honra me unir. To dentro.}
 {159}{}{Interessante... Eu irei pensar no que você me disse.}
 {160}{}{Você jura lutar contra a escravidão sempre que puder e ajudar os Rangers sempre que eles precisarem?}
 {161}{}{Sim.}
@@ -66,15 +66,15 @@
 {165}{}{Bem, nós estamos sempre procurando boas pessoas para promover a nossa causa. Se você mudar de idéia, me procure. Você tem certeza que não quer aceitar essa oportunidade de se juntar a nós?}
 {166}{}{Tenho certeza.}
 {167}{}{Bem, agora que você mencionou isso, eu acho que gostaria de ser um Ranger.}
-{168}{}{Entendo. Bem, eu represento um grupo chamado New California Rangers. Alguém com suas qualidades seria qualificado para entrar no grupo. Está interessado?}
-{169}{}{Ótimo! Eu tô dentro.}
+{168}{}{Entendo. Bem, eu represento um grupo chamado New Califórnia Rangers. Alguém com suas qualidades seria qualificado para entrar no grupo. Está interessado?}
+{169}{}{Ótimo! Eu to dentro.}
 {170}{}{Parece interessante. O que você pode me dizer sobre os Rangers?}
 {171}{}{Entendo. Bem, obrigado pela conversa, mas não posso dizer mais nada. Se você mudar de idéia, volte para falar comigo.}
 {172}{}{Ok.}
 {173}{}{Esse é o problema, eu vou te pedir para sair da minha frente. Agora!}
 {174}{}{Ok.}
 {175}{}{Um escravizador! Antes que eu arranque sua tatuagem na bala!}
-{176}{}{Tá bom.}
+{176}{}{Ta bom.}
 {177}{}{Tenta a sorte!}
 
 {178}{}{Nós temos agentes e simpatizantes em algumas cidades do norte. Nós estamos promovendo a palavra e acabando com os escravizadores sempre que possível.}

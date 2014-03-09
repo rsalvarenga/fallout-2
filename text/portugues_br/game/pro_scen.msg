@@ -1,3 +1,9 @@
+##########################
+# Traduzido e Revisado
+# rsalvarenga
+# 06/03/2014
+##########################
+
 {100}{}{Barril de metal com fogo}
 {101}{}{O barril contém papel e outros resíduos de fogo ardente.}
 {200}{}{Porta de Madeira.}
@@ -7,9 +13,9 @@
 {400}{}{Mesa de Madeira}
 {401}{}{Uma mesa, feita de madeira.}
 {500}{}{Barril de Metal.}
-{501}{}{Um barril vélho, feitos de aço.}
+{501}{}{Um barril velho, feitos de aço.}
 {600}{}{Barril de Metal}
-{601}{}{Um barril vélho, feitos de aço.}
+{601}{}{Um barril velho, feitos de aço.}
 {700}{}{Pilha de pneus}
 {701}{}{Uma pilha de pneus antigos. Eles estão vulcanizados e endurecido, provavelmente devido ao calor.}
 {800}{}{Porta de Segurança.}
@@ -26,10 +32,10 @@
 {1301}{}{Um monitor de tela verde, exibindo vários bits de dados. Alguns bytes aparecem ocasionalmente.}
 {1400}{}{Monitor}
 {1401}{}{Um monitor de tela verde, exibindo vários bits de dados.}
-{1500}{}{Holo Generator}
+{1500}{}{Rolo de gerador}
 {1501}{}{Um reprodutor de fitas THT de grande escala. A julgar pela película deve ter pelo menos uns 80 anos.}
 {1600}{}{Telas}
-{1601}{}{Um conjunto de três monitores, mostrando diversos bits de datos.}
+{1601}{}{Um conjunto de três monitores, mostrando diversos bits de dados.}
 {1700}{}{Telas}
 {1701}{}{Um conjunto de três monitores, mostrando vários bits de dados de todo o Vault.}
 {1800}{}{Porta}
@@ -106,9 +112,9 @@
 {5301}{}{É uma Cadeira. Pena que você não tem tempo para sentar e relaxar.}
 {5400}{}{Cadeira}
 {5401}{}{É uma Cadeira. Pena que você não tem tempo para sentar e relaxar.}
-{5500}{}{VDU (Tela de video)}
+{5500}{}{VDU (Tela de vídeo)}
 {5501}{}{Esta VDU-Unidade de exibição de vídeo tem uma variedade de monitores e outros Computador Telas. Parece muito, muito ocupado.}
-{5600}{}{VDU (Tela de video)}
+{5600}{}{VDU (Tela de vídeo)}
 {5601}{}{Esta VDU-Unidade de exibição de vídeo tem uma variedade de monitores e outros Computador Telas. Parece muito, muito ocupado.}
 {5700}{}{Cadeira}
 {5701}{}{É uma Cadeira. Parece muito confortável.}
@@ -122,15 +128,15 @@
 {6101}{}{É uma Mesa. Antes de Mesas, as pessoas tinham que manter as suas coisas no chão.}
 {6200}{}{Mesa}
 {6201}{}{É definitivamente uma Mesa.}
-{6300}{}{TumbleErvas}
-{6301}{}{É um tumbleErvas. É claro que você nunca viu um tumbleErvas de verdade antes. É melhor fiCarro de olho nele.}
+{6300}{}{Tubo de Ervas}
+{6301}{}{É um Tubo de Ervas. É claro que você nunca viu um Tubo de Ervas de verdade antes. É melhor ficar de olho nele.}
 {6400}{}{Cacto}
 {6401}{}{Você não vê nada de especial sobre este Cacto.}
 {6500}{}{Cacto}
 {6501}{}{Você não vê nada importante sobre este Cacto.}
 {6600}{}{Árvore}
 {6601}{}{Uma Árvore morta. Nada cresce aqui.}
-{6700}{}{Um bloqueio de criptógráfica seguro}
+{6700}{}{Um bloqueio de criptográfica seguro}
 {6701}{}{Se você pode ver isso, culpar do designer técnico.}
 {6800}{}{Escada}
 {6801}{}{Um conjunto de Escada.}
@@ -167,7 +173,7 @@
 {8400}{}{Ossos}
 {8401}{}{Uma grande pilha de ossos esbranquiçados. Você não pode determinar as espécies de criaturas mortas.}
 {8500}{}{Ossos}
-{8501}{}{Você acha podem ser ossos de um Canguro Carronudo, mas você não pode ter certeza. Estão muitos deteriorados muy deteriorados para fazer uma determinação final.}
+{8501}{}{Você acha podem ser ossos de um Canguru, mas você não pode ter certeza. Estão muitos deteriorados para fazer uma determinação final.}
 {8600}{}{Ossos}
 {8601}{}{Você vê o ossos de uma vaca grande, com duas cabeças.}
 {8700}{}{Portão}
@@ -187,9 +193,9 @@
 {9400}{}{Bar}
 {9401}{}{Este bar tem uma coleção de cervejas pronto para servir.}
 {9500}{}{Cadeira}
-{9501}{}{A rotting old Cadeira made out of an ancient Carro seat.}
+{9501}{}{A A podre é velha cadeira feita de um antigo banco de carro.}
 {9600}{}{Cadeira}
-{9601}{}{Uma cadeira velha fedida que costumava ser um banco de Carroro. As molas estão um lixo.}
+{9601}{}{Uma cadeira velha fedida que costumava ser um banco de Carro. As molas estão um lixo.}
 {9700}{}{Cadeira}
 {9701}{}{Uma cadeira velha podre e fedorenta empoleirado em tijolos para segurá-la. Parece muito desconfortável.}
 {9800}{}{Cadeira}
@@ -199,7 +205,7 @@
 {10000}{}{Sofá}
 {10001}{}{Um dispositivo de estar costumava ser um sofá muito desconfortável..}
 {10100}{}{Pneu}
-{10101}{}{Um velho e borracha pneu jogado no meio de algumas Ervass.}
+{10101}{}{Um velho e borracha pneu jogado no meio de algumas Ervas.}
 {10200}{}{Arbusto}
 {10201}{}{Alguma espécie de erva do deserto.}
 {10300}{}{Arbusto}
@@ -209,13 +215,13 @@
 {10500}{}{Arbusto}
 {10501}{}{Alguma espécie de erva do deserto.}
 {10600}{}{Sucata}
-{10601}{}{Uma porta enferrujada de Carroro encostada sobre un barril de metal.}
+{10601}{}{Uma porta enferrujada de Carro encostada sobre um barril de metal.}
 {10700}{}{Sucata}
 {10701}{}{Um vaso sanitário quebrado, semi-enterrado na areia. A vida é para urinar, então você morre.}
 {10800}{}{Ervas}
 {10801}{}{Uma espécie de Arbusto do deserto. Se você estava crescendo nos últimos anos, agora isso não acontece.}
 {10900}{}{Sucata}
-{10901}{}{Um pneu de Carroro, enterrado na areia. Alguns pequenos pedaços de madeira estão empilhados em torno dele.}
+{10901}{}{Um pneu de Carro, enterrado na areia. Alguns pequenos pedaços de madeira estão empilhados em torno dele.}
 {11000}{}{Rochas}
 {11001}{}{Numa análise mais aprofundada, você pensa: estes podem realmente ser pedaços de madeira petrificada.}
 {11100}{}{Lixo}
@@ -262,11 +268,11 @@
 {13500}{}{Esgoto}
 {13501}{}{Algum tipo de odor desagradável e ofensivo vem desse esgoto. Depois de um tempo, não cheira tão mal.}
 {13600}{}{Esgoto}
-{13601}{}{Você mal consegue fazer um movimento nésta grelha de esgoto. Você pode ver alguns olhos vermelhos olhando para você. Olhos de ratos.}
+{13601}{}{Você mal consegue fazer um movimento nesta grelha de esgoto. Você pode ver alguns olhos vermelhos olhando para você. Olhos de ratos.}
 {13700}{}{Esgoto}
-{13701}{}{Borbulhantes sons de água vêm desta Esgoto. Tanta porCarroia.}
+{13701}{}{Borbulhantes sons de água vêm desta Esgoto. Tanta porcaria.}
 {13800}{}{Esgoto}
-{13801}{}{Borbulhante sons de água vêm desta Esgoto. Tanta porCarroia.}
+{13801}{}{Borbulhante sons de água vêm desta Esgoto. Tanta porcaria.}
 {13900}{}{Escada}
 {13901}{}{É uma escada velha e bastante frágil. Parece que ele vai mal suportar o seu peso.}
 {14000}{}{Buraco de esgoto}
@@ -291,9 +297,9 @@
 {15000}{}{Vidro aprova de bala}
 {15001}{}{Vidro completamente inquebrável. Não adianta tentar.}
 {15100}{}{Porta}
-{15101}{}{Este porta foi construida com peças de alta tecnologia. Ele se abre lentamente à medida que gira as três peças que compõem a Porta.}
+{15101}{}{Este porta foi construída com peças de alta tecnologia. Ele se abre lentamente à medida que gira as três peças que compõem a Porta.}
 {15200}{}{Porta}
-{15201}{}{Este porta foi construida com peças de alta tecnologia. Ele se abre lentamente à medida que gira as três peças que compõem a Porta.}
+{15201}{}{Este porta foi construída com peças de alta tecnologia. Ele se abre lentamente à medida que gira as três peças que compõem a Porta.}
 {15300}{}{Porta}
 {15301}{}{Esta porta é marcada com um símbolo da Irmandade de Aço.}
 {15400}{}{Porta}
@@ -313,9 +319,9 @@
 {16100}{}{Computador}
 {16101}{}{Este é um banco de dados. Obviamente esta tecnologia é da Irmandade.}
 {16200}{}{Computador}
-{16201}{}{Um computador de alta tecnologia, usando dispositivos de armazenamento de bobina modernos em vez dos Carrotões perfurados de antigamente.}
+{16201}{}{Um computador de alta tecnologia, usando dispositivos de armazenamento de bobina modernos em vez dos cartões perfurados de antigamente.}
 {16300}{}{Computador}
-{16301}{}{Um computador de alta tecnologia, usando dispositivos de armazenamento de bobina modernos em vez dos Carrotões perfurados de antigamente.}
+{16301}{}{Um computador de alta tecnologia, usando dispositivos de armazenamento de bobina modernos em vez dos cartões perfurados de antigamente.}
 {16400}{}{Monitor}
 {16401}{}{Você vê um monitor de computador.}
 {16500}{}{Monitor}
@@ -330,16 +336,16 @@
 {16901}{}{Uma coluna de suporte}
 {17000}{}{Coluna}
 {17001}{}{Uma coluna de suporte}
-{17100}{}{Computador  de acceso.}
+{17100}{}{Computador  de aceso.}
 {17101}{}{Este computador controla a porta de entrada para o Refúgio. Você precisa digitar um código de acesso específico para o computador trabalhar.}
-{17200}{}{Poster de Casino}
+{17200}{}{Cartaz de Casino}
 {17201}{}{Parece que é uma propaganda para o Casino de Gizmo.}
 {17300}{}{Porta exterior de Vault 13}
-{17301}{}{Esta grande Porta é o elo entre o Refúgio eo mundo exterior.}
+{17301}{}{Esta grande Porta é o elo entre o Refúgio e o mundo exterior.}
 {17400}{}{Porta exterior de Vault 13}
-{17401}{}{Esta grande Porta é o elo entre o Refúgio eo mundo exterior.}
-{17500}{}{Poster de Casino}
-{17501}{}{Esta parte do Carrotaz contém um motor elétrico com um neon que girar lentamente.}
+{17401}{}{Esta grande Porta é o elo entre o Refúgio e o mundo exterior.}
+{17500}{}{Cartaz de Casino}
+{17501}{}{Esta parte do Cartaz contém um motor elétrico com um néon que girar lentamente.}
 {17600}{}{Seta para baixo}
 {17700}{}{Seta para cima}
 {17800}{}{Caixa}
@@ -356,11 +362,11 @@
 {18500}{}{Emblema}
 {18501}{}{O símbolo da Irmandade. A roda representa o seu conhecimento em engenharia, a espada é a sua vontade de defender-se, e as asas são a esperança do fortalecimento.}
 {18600}{}{Cartaz de 'nível um'}
-{18601}{}{Você acha que isso pode signifiCarro que você está no nível um da Irmandade.}
+{18601}{}{Você acha que isso pode significar que você está no nível um da Irmandade.}
 {18700}{}{Cartaz de 'nível dois'}
 {18701}{}{Você está no nível dois da Irmandade.}
 {18800}{}{Cartaz de 'nível três'}
-{18801}{}{Isto deve signifiCarro que você está no nível três da Irmandade.}
+{18801}{}{Isto deve significar que você está no nível três da Irmandade.}
 {18900}{}{Cartaz de 'nível quatro'}
 {18901}{}{Você deve estar no nível quatro da Irmandade.}
 {19000}{}{Beliche}
@@ -416,13 +422,13 @@
 {21800}{}{Prateleiras}
 {21900}{}{Prateleiras}
 {22000}{}{Caixas}
-{22001}{}{Estas caxias de madeira estão caindo aos pedaços por muito tempo.}
+{22001}{}{Estas caixas de madeira estão caindo aos pedaços por muito tempo.}
 {22100}{}{Caixas}
 {22101}{}{Você encontra sem detalhes vale a pena mencionar sobre estas Caixas de madeira.}
 {22200}{}{Caixas}
-{22201}{}{Esta sobrando tempo pra você fiCarro olhando atentamente para esta podre Sucata.}
+{22201}{}{Esta sobrando tempo pra você ficar olhando atentamente para esta podre Sucata.}
 {22300}{}{Caixas}
-{22301}{}{Estas caxias de madeira estão caindo aos pedaços por muito tempo.}
+{22301}{}{Estas caixas de madeira estão caindo aos pedaços por muito tempo.}
 {22400}{}{Carro}
 {22401}{}{Este automóvel está em péssimas condições. Você não pode pensar em uma maneira de restaurá-lo.}
 {22500}{}{Carro}
@@ -457,7 +463,7 @@
 {24100}{}{Aparador}
 {24200}{}{Aparador}
 {24300}{}{Hidrante}
-{24301}{}{Este é um Hidrante. Sem borrifador de teto do Refúgio, você pode precisar de um destes para apagar incêndios.}
+{24301}{}{Este é um Hidrante. Sem o borrifador de teto do Refúgio, você pode precisar de um destes para apagar incêndios.}
 {24400}{}{Poste de iluminação}
 {24401}{}{Este Poste de Iluminação parece que ainda está em condição de trabalho. Olhe... alguma coisa está funciona aqui.}
 {24500}{}{Poste de iluminação}
@@ -501,17 +507,17 @@
 {26400}{}{Banco de igreja}
 {26401}{}{um banco de madeira que sucumbiu aos efeitos do tempo e abuso.}
 {26500}{}{Máquina de jornal}
-{26501}{}{A Máquina de jornal esta vázia.}
+{26501}{}{A Máquina de jornal esta vazia.}
 {26600}{}{Máquina de jornal}
-{26601}{}{A Máquina de jornal esta vázia.}
+{26601}{}{A Máquina de jornal esta vazia.}
 {26700}{}{Máquina de jornal}
-{26701}{}{A Máquina de jornal esta vázia.}
+{26701}{}{A Máquina de jornal esta vazia.}
 {26800}{}{Máquina de jornal}
-{26801}{}{A Máquina de jornal esta vázia.}
+{26801}{}{A Máquina de jornal esta vazia.}
 {26900}{}{Máquina de jornal}
-{26901}{}{A Máquina de jornal esta vázia.}
+{26901}{}{A Máquina de jornal esta vazia.}
 {27000}{}{Máquina de jornal}
-{27001}{}{A Máquina de jornal esta vázia. Parece que ele já teve revistas para adultos.}
+{27001}{}{A Máquina de jornal esta vazia. Parece que ele já teve revistas para adultos.}
 {27100}{}{Sucata}
 {27101}{}{Um colchão em condições terríveis. Nem mesmo ratos iria dormir com ela.}
 {27200}{}{Sucata}
@@ -542,7 +548,7 @@
 {28600}{}{Cartaz de Pare}
 {28601}{}{Um Cartaz vermelho com a palavra PARE escrito em grandes letras maiúsculas. Grandes buracos de bala foram adicionados após a fabricação.}
 {28700}{}{Cartaz de Pare}
-{28701}{}{Um Cartaz vermelho com a palavra PARE escrito em grandes letras maiúsculas. Grandes buracos de bala foram adicionados após a fabricação. The large bullet Buraco was added after manufacturing.}
+{28701}{}{Um Cartaz vermelho com a palavra PARE escrito em grandes letras maiúsculas. Grandes buracos de bala foram adicionados após a fabricação.}
 {28800}{}{Semáforo}
 {28801}{}{Este é um antigo dispositivo de controle de tráfego de automóveis.}
 {28900}{}{Semáforo}
@@ -650,8 +656,8 @@
 {34200}{}{Cartaz de que a senha passou}
 {34201}{}{Este foi um Cartaz para controlar o fluxo de tráfego.}
 {34300}{}{Cartaz de que a senha passou}
-{34301}{}{O Cartaz está fraco, mas você pode tentar descifrar.}
-{34400}{}{Criptográfia Auto Inviso}
+{34301}{}{O Cartaz está fraco, mas você pode tentar decifrar.}
+{34400}{}{Criptografia Auto Inviso}
 {34401}{}{Se você pode ver isso, culpar o designer técnico.}
 {34500}{}{Piso}
 {34600}{}{Porta}
@@ -758,9 +764,9 @@
 {39601}{}{Um enferrujado Barril de metal. Está vazio.}
 {39700}{}{Barril de Metal}
 {39701}{}{Este barril esta provavelmente vazio, ouça o som oco.}
-{39800}{}{Barril de Metals}
+{39800}{}{Barril de Metal}
 {39801}{}{Estes barris estão provavelmente vazio, ouça o som oco.}
-{39900}{}{Barril de Metals}
+{39900}{}{Barril de Metal}
 {39901}{}{Estes barris estão provavelmente vazio, ouça o som oco.}
 {40000}{}{Duto de ventilação}
 {40001}{}{Este Duto de Ventilação parece ser de uma estrutura subterrânea.}
@@ -934,17 +940,17 @@
 {49200}{}{Campo de Força}
 {49201}{}{Este é um poderoso campo de energia.}
 {49300}{}{Mesa}
-{49301}{}{Uma mesta de madeira bastante comum.}
+{49301}{}{Uma mesa de madeira bastante comum.}
 {49400}{}{Mesa}
-{49401}{}{Uma mesta de madeira bastante comum.}
+{49401}{}{Uma mesa de madeira bastante comum.}
 {49500}{}{Mesa}
-{49501}{}{Uma mesta de madeira bastante comum.}
+{49501}{}{Uma mesa de madeira bastante comum.}
 {49600}{}{Mesa}
-{49601}{}{Uma mesta de madeira bastante comum.}
+{49601}{}{Uma mesa de madeira bastante comum.}
 {49700}{}{Mesa}
-{49701}{}{Uma mesta de madeira bastante comum.}
+{49701}{}{Uma mesa de madeira bastante comum.}
 {49800}{}{Mesa}
-{49801}{}{Uma mesta de madeira bastante comum.}
+{49801}{}{Uma mesa de madeira bastante comum.}
 {49900}{}{Prateleira}
 {50000}{}{Prateleira}
 {50100}{}{Prateleira}
@@ -1037,7 +1043,7 @@
 {55000}{}{Mesa de Roleta}
 {55001}{}{Esta é uma mesa de jogo.}
 {55100}{}{Barril}
-{55101}{}{Este barril de  metal vázio tem o símbolo do trevo nuclear pintado com tinta amarela brilhante.}
+{55101}{}{Este barril de  metal vazio tem o símbolo do trevo nuclear pintado com tinta amarela brilhante.}
 {55200}{}{Barril}
 {55201}{}{Este barril tem uma substância verde brilhante. O símbolo do clube nuclear te dá uma pista da substância que pode ser.}
 {55300}{}{Computador}
@@ -1095,7 +1101,7 @@
 {58000}{}{Parede}
 {58001}{}{Uma boa vista do lado de fora da Catedral.}
 {58100}{}{Porta}
-{58101}{}{A Porta that looks perfectly at home in a cell.}
+{58101}{}{Uma porta que parece perfeitamente em bom estado.}
 {58200}{}{Cartaz}
 {58201}{}{Este cartaz diz que esta loja é chamado de Darkwater.}
 {58300}{}{Escada}
@@ -1241,8 +1247,8 @@
 {65601}{}{Um gerador elétrico 'Wattz ElectroBox'. Provavelmente usado como backup antes da guerra.}
 {65700}{}{Tanque}
 {65701}{}{Um grande tanque de água. Parece bem conservado o que provavelmente é uma coisa boa.}
-{65800}{}{Cabine telefónica}
-{65801}{}{Uma Cabine Telefónica do Reino Unido, por volta de 1960.}
+{65800}{}{Cabine telefônica}
+{65801}{}{Uma Cabine Telefônica do Reino Unido, por volta de 1960.}
 {65900}{}{Mesa}
 {65901}{}{Uma mesa artesanal muito bem feita. Parece muito melhor do que qualquer Mesa que você já viu antes.}
 {66000}{}{Mesa}
@@ -1460,12 +1466,12 @@
 {76700}{}{Piso}
 {76800}{}{Bomba}
 {76801}{}{Esta é uma Bomba nuclear. Parece muito perigoso aqui.}
-{76900}{}{Base de apio}
+{76900}{}{Base de apoio}
 {76901}{}{Esta base embala a Bomba nuclear que envolta dela.}
 {77000}{}{Gabinete do computador}
 {77001}{}{Este é o acesso ao computador da bomba. O computador parece muito seguro. Há um slot para uma chave estranha.}
 {77100}{}{Arames}
-{77101}{}{Estes arames estão conectandos ao computador da Bomba.}
+{77101}{}{Estes arames estão conectados ao computador da Bomba.}
 {77200}{}{Cadeira}
 {77201}{}{Não há nada de incomum nesta Cadeira.}
 {77300}{}{Cadeira}
@@ -1549,7 +1555,7 @@
 {81200}{}{Duto de ventilação}
 {81201}{}{Este duto de Ventilação é muito danificado e não pode ser reparado.}
 {81300}{}{Duto de ventilação}
-{81301}{}{Todos estes dutos de Ventilação não estam funcionando.}
+{81301}{}{Todos estes dutos de Ventilação não estão funcionando.}
 {81400}{}{Computador}
 {81401}{}{Este computador parece que esta funcionando um pouco.}
 {81500}{}{Computador}
@@ -1573,14 +1579,14 @@
 {82400}{}{Monitores}
 {82401}{}{Os monitores estão em boas condição.}
 {82500}{}{Parede}
-{82600}{}{Porta Bindada}
+{82600}{}{Porta Blindada}
 {82601}{}{Uma porta do Refúgio blindada. Parece muito segura.}
 {82700}{}{Luz}
 {82701}{}{Uma luz de segurança.}
 {82800}{}{Luz}
 {82801}{}{Uma luz de segurança.}
 {82900}{}{Pilar}
-{82901}{}{Este pilar mostra uma placa de areias sombrías. Ele conta histórias para que as pessoas possam ter esperança e paz.}
+{82901}{}{Este pilar mostra uma placa de areias sombrias. Ele conta histórias para que as pessoas possam ter esperança e paz.}
 {83000}{}{Receptáculo para robô}
 {83001}{}{Esta é uma baía de reabastecimento de robôs. Quando não estiverem em serviço eles vêem aqui para relaxar e recarregar.}
 {83100}{}{Receptáculo para robô}
@@ -1691,16 +1697,16 @@
 {89601}{}{Este é o Cartaz do amigável Lending Company.}
 {89700}{}{Cartaz}
 {89701}{}{Este é o Cartaz do amigável Lending Company.}
-{89800}{}{Poster}
+{89800}{}{Pôster}
 {89801}{}{Este é um cartaz de filme. Para um filme de terror de antes da guerra.}
-{89900}{}{Poster}
+{89900}{}{Pôster}
 {89901}{}{Este é um cartaz de filme. Para um filme de terror de antes da guerra.}
 {90000}{}{Bar}
 {90001}{}{Há uma caixa em cima do balcão. A caixa parece um pouco maltratada, mas pode ser valiosa.}
 {90100}{}{Poço do elevador}
 {90101}{}{Tem uma corda pendurada por cima do buraco.}
 {90200}{}{Poço do elevador}
-{90201}{}{O buraco tem uma corda pendurada na porda.}
+{90201}{}{O buraco tem uma corda pendurada na porta.}
 {90300}{}{Cama médica}
 {90301}{}{Esta cama possui um visor embutido para monitorar o progresso pacientes.}
 {90400}{}{Bomba de água}
@@ -1738,7 +1744,7 @@
 {93100}{}{Piso de caverna}
 {93200}{}{Porta Impenetrável}
 {93201}{}{Este Porta parece não ter mecanismo de abertura.}
-{93300}{}{Porta destruida}
+{93300}{}{Porta destruída}
 {93301}{}{A Porta foi arrombada.}
 {93400}{}{Porta}
 {93401}{}{A Porta tem um bloqueio complicado.}
@@ -1767,8 +1773,8 @@
 {95001}{}{Um buraco suspeito na Parede.}
 {95100}{}{Placa de pedra}
 {95101}{}{Uma placa de pedra}
-{95200}{}{Placa de pedra desátivada}
-{95201}{}{Uma placa de pedra desátivada}
+{95200}{}{Placa de pedra desativada}
+{95201}{}{Uma placa de pedra desativada}
 {95300}{}{Placa de pedra ativado}
 {95301}{}{Uma placa de pedra ativado}
 {95400}{}{Porta}
@@ -1835,17 +1841,17 @@
 {100100}{}{Partes de um Radscorpion}
 {100101}{}{Você vê uma grande pilha de Radscorpion. Eles estão vazias e tem grandes feridas.}
 {100200}{}{Usado na usina}
-{100201}{}{Este é um escudo de plutónio-Gamma protege o reactor.}
+{100201}{}{Este é um escudo de plutônio-Gamma protege o reator.}
 {100300}{}{Usado na usina}
-{100301}{}{Este é o compilador de ondas Júpiter do reactor.}
+{100301}{}{Este é o compilador de ondas Júpiter do reator.}
 {100400}{}{Usado na usina}
-{100401}{}{Isto são as barras de urânio que controlam o reactor.}
+{100401}{}{Isto são as barras de urânio que controlam o reator.}
 {100500}{}{Usado na usina}
-{100501}{}{Este é o controlador de neptúnio do reactor.}
+{100501}{}{Este é o controlador de plutônio do reator.}
 {100600}{}{Usado na usina}
 {100601}{}{Isso é o capacitador Saturno do reator.}
 {100700}{}{Controle da bomba da usina}
-{100701}{}{Esta é a bomba de resfriamento do reactor.}
+{100701}{}{Esta é a bomba de resfriamento do reator.}
 {100800}{}{Cortador de Brahmin}
 {100900}{}{Carro}
 {101000}{}{Veículos de Chrysalis Motors}
@@ -2006,7 +2012,7 @@
 {115100}{}{Armadilha laser}
 {115200}{}{Carrinho de mina}
 {115300}{}{Carrinho de mina com barras de aço}
-{115400}{}{Carrinho de mina com dinâmite}
+{115400}{}{Carrinho de mina com dinamite}
 {115500}{}{Cartaz diz "Fora de negócio"}
 {115600}{}{Cartaz diz "Fora de negócio"}
 {115700}{}{Cartaz da Casa de Buckner}
@@ -2018,8 +2024,8 @@
 {116200}{}{Cartaz Sala de controle}
 {116300}{}{Cartaz Sala de controle}
 {116400}{}{Cartaz Sala de controle}
-{116500}{}{Cartaz Zona de contrução}
-{116600}{}{Cartaz Zona de contrução}
+{116500}{}{Cartaz Zona de construção}
+{116600}{}{Cartaz Zona de construção}
 {116700}{}{Máquina}
 {116701}{}{Uma máquina que funciona.}
 {116800}{}{Máquina}
@@ -2108,17 +2114,17 @@
 {123300}{}{Cartaz}
 {123400}{}{Cartaz}
 {123500}{}{Cartaz}
-{123600}{}{Interruptor eléctrico}
+{123600}{}{Interruptor elétrico}
 {123700}{}{Cruz}
 {123800}{}{Cruz}
 {123900}{}{Cruz}
 {124000}{}{Cruz}
 {124100}{}{Cruz}
 {124200}{}{Cruz}
-{124300}{}{bomba de combústivel}
-{124400}{}{bomba de combústivel}
-{124500}{}{bomba de combústivel}
-{124600}{}{Cartas de gasolina Pep Gas}
+{124300}{}{bomba de combustível}
+{124400}{}{bomba de combustível}
+{124500}{}{bomba de combustível}
+{124600}{}{Cartas de gasolina Pep Gás}
 {124700}{}{Cartaz}
 {124800}{}{Cama de feno}
 {124900}{}{Cama de feno}
@@ -2136,19 +2142,19 @@
 {125800}{}{Loja do filho de Bob}
 {125801}{}{Uma banca de rua.}
 {125900}{}{Cartas NCR}
-{126000}{}{Cartas do edificio do congresso}
-{126100}{}{Cartas do edificio do congresso}
+{126000}{}{Cartas do edifício do congresso}
+{126100}{}{Cartas do edifício do congresso}
 {126200}{}{Cartas NCR}
 {126300}{}{Cartas NCR}
 {126400}{}{Cartas NCR}
 {126500}{}{Cartas NCR}
 {126600}{}{Cartas do Salão Rawhide}
-{126700}{}{Poster de Casino}
-{126800}{}{Poster de Casino}
-{126900}{}{Poster de Casino}
-{127000}{}{Poster de Casino}
-{127100}{}{Poster de Casino}
-{127200}{}{Poster de Casino}
+{126700}{}{Pôster de Casino}
+{126800}{}{Pôster de Casino}
+{126900}{}{Pôster de Casino}
+{127000}{}{Pôster de Casino}
+{127100}{}{Pôster de Casino}
+{127200}{}{Pôster de Casino}
 {127300}{}{Monte de pedras}
 {127301}{}{Estes Rochas parecem estar escondendo algo dentro}
 {127400}{}{Viga}
@@ -2171,9 +2177,9 @@
 {129100}{}{Sombra}
 {129200}{}{Sombra}
 {129300}{}{Resto do elevador}
-{129400}{}{Bomba de combústivel}
-{129500}{}{Bomba de combústivel}
-{129600}{}{Bomba de combústivel}
+{129400}{}{Bomba de combustível}
+{129500}{}{Bomba de combustível}
+{129600}{}{Bomba de combustível}
 {129700}{}{Corda}
 {129800}{}{Buraco}
 {129900}{}{Carne de Brahmin}
@@ -2204,9 +2210,9 @@
 {132400}{}{Sangue}
 {132500}{}{Sangue}
 {132600}{}{Sangue}
-{132700}{}{Osso ensanguentado}
-{132800}{}{Osso ensanguentado}
-{132900}{}{Osso ensanguentado}
+{132700}{}{Osso ensangüentado}
+{132800}{}{Osso ensangüentado}
+{132900}{}{Osso ensangüentado}
 {133000}{}{Boca da caverna}
 {133100}{}{Acesso ao Equipamento}
 {133200}{}{Acesso ao Equipamento}
@@ -2263,9 +2269,9 @@
 {137601}{}{Uma tocha acesa em um canto da parede.}
 {137700}{}{Vertibird}
 {137701}{}{LONGA E NECESSÁRIA DESCRIÇÃO}
-{137800}{}{Porta destruida}
+{137800}{}{Porta destruída}
 {137801}{}{A porta esta destruída}
-{137900}{}{Porta destruida}
+{137900}{}{Porta destruída}
 {137901}{}{A porta esta destruída}
 {138000}{}{Parede}
 {138100}{}{Parede}
@@ -2304,8 +2310,8 @@
 {141400}{}{Cartas de armas de New Reno}
 {141500}{}{Cartas do Bar de Salvatore}
 {141600}{}{Estátua}
-{141700}{}{Porta do armázem}
-{141800}{}{Porta do armázem}
+{141700}{}{Porta do armazém}
+{141800}{}{Porta do armazém}
 {141900}{}{Cartaz do Doutor Johnson}
 {142000}{}{Cartas do Xerife}
 {142100}{}{Cartas do Salão de Malamute}
@@ -2469,8 +2475,8 @@
 {157500}{}{Porta}
 {157600}{}{Porta}
 {157700}{}{Duto de ventilação}
-{157800}{}{Auto-Doc}
-{157801}{}{Esta Auto-Doc é projetado para curar doenças e gerenciar produtos químicos.}
+{157800}{}{Auto - Doc}
+{157801}{}{Esta Auto - Doc é projetado para curar doenças e gerenciar produtos químicos.}
 {157900}{}{Estátua}
 {157901}{}{Uma pequena estátua de um famoso Vault Dweller}
 {158000}{}{Monte de pedras}
@@ -2526,15 +2532,15 @@
 {162400}{}{Caminho}
 {162500}{}{carrinho de mina}
 {162600}{}{carrinho de mina com barras de aço}
-{162700}{}{carrinho de mina com Dinâmite}
+{162700}{}{carrinho de mina com Dinamite}
 {162800}{}{Carrinho de mina destruído}
 {162900}{}{carrinho de mina}
-{163000}{}{Misa de sinúca}
-{163100}{}{Misa de sinúca}
-{163200}{}{Misa de sinúca}
-{163300}{}{Misa de sinúca}
-{163400}{}{Misa de sinúca}
-{163500}{}{Misa de sinúca}
+{163000}{}{Mesa de sinuca}
+{163100}{}{Mesa de sinuca}
+{163200}{}{Mesa de sinuca}
+{163300}{}{Mesa de sinuca}
+{163400}{}{Mesa de sinuca}
+{163500}{}{Mesa de sinuca}
 {163600}{}{Secretária}
 {163700}{}{Bandeira}
 {163800}{}{Parede}
@@ -2551,7 +2557,7 @@
 {164900}{}{Coração do reator}
 {165000}{}{Coração do reator}
 {165100}{}{Coração do reator}
-{165200}{}{Cartaz da oficiona de Caravanas}
+{165200}{}{Cartaz da oficina de Caravanas}
 {165300}{}{Caixão}
 {165400}{}{Caixão}
 {165500}{}{Elevador da mina}
@@ -2560,8 +2566,8 @@
 {165800}{}{Bandeira NCR}
 {165900}{}{Cartas de Gasolina Poseidon}
 {166000}{}{Escada para baixo}
-{166100}{}{Cartaz de Cliníca}
-{166200}{}{Cartaz do Centro de Correçoes}
+{166100}{}{Cartaz de Clinica}
+{166200}{}{Cartaz do Centro de Correções}
 {166300}{}{Cartaz da Alfândega}
 {166400}{}{Cartaz da Alfândega}
 {166500}{}{Cartaz Greeting Office}
@@ -2570,8 +2576,8 @@
 {166800}{}{Cartaz do centro de informações}
 {166900}{}{Cartaz do centro de informações}
 {167000}{}{Logomarca de Vault City}
-{167100}{}{Cartaz do conselho princípal}
-{167200}{}{Cartaz do conselho princípal}
+{167100}{}{Cartaz do conselho principal}
+{167200}{}{Cartaz do conselho principal}
 {167300}{}{Centro de Manutenção}
 {167400}{}{Cartas salão de visitante}
 {167500}{}{Cartaz de Tap House}
@@ -2638,20 +2644,20 @@
 {173400}{}{Rochas}
 {173500}{}{Rochas}
 {173600}{}{Rochas}
-{173700}{}{Cartaz do Casion Becky}
+{173700}{}{Cartaz do Casino Becky}
 {173800}{}{Cartaz de Becky}
 {173900}{}{Cartaz do salão Last Gasp. (Último suspiro)}
 {174000}{}{Cartaz Mom's Diner}
 {174100}{}{Cartaz Slaver's Guild}
-{174200}{}{Posto de equipamentos de sobrevivencia}
-{174300}{}{Cartaz Tubby's}
+{174200}{}{Posto de equipamentos de sobrevivência}
+{174300}{}{cartaz Tubby's}
 {174400}{}{cartaz Tubby's}
 {174500}{}{Entrada do elevador da mina}
 {174600}{}{Ventilador}
 {174700}{}{Ventilador}
 {174800}{}{Porta do escritório do Presidente}
 {174900}{}{Cartaz oftalmológico}
-{175000}{}{Ruinas}
+{175000}{}{Ruínas}
 {175100}{}{Guardião para Sempre}
 {175200}{}{Cartaz Quebrado}
 {175300}{}{Piso estragado}
@@ -2750,8 +2756,8 @@
 {183600}{}{Mapa Mundial}
 {183700}{}{Situação do mapa}
 {183800}{}{Mesa da câmara de guerra}
-{183900}{}{Mesa do edifício do concelho}
-{184000}{}{Mesa do edifício do concelho}
+{183900}{}{Mesa do edifício do conselho}
+{184000}{}{Mesa do edifício do conselho}
 {184100}{}{Mesa da câmara de guerra}
 {184200}{}{Árvore}
 {184300}{}{Árvore}

@@ -44,7 +44,7 @@
 {173}{}{Eu acho que isso é tudo que eu preciso saber por enquanto. Falô, Lumpy.}
 
 {180}{}{Bem, é um tipo de piada. Veja bem, eles normalmente chamam as pessoas como nós de pele lisa. 
- Mas eu fui tratado tão mal por outros Pele lisa em Vault City que todos aqui perceberam que eu devo ser mais carocento que eles.}
+ Mas eu fui tratado tão mal por outros Pele lisa em Vault City que todos aqui perceberam que eu devo ser mais burro que eles.}
 
 {181}{}{Por que você foi tratado tão mal em Vault City?}
 {182}{}{Isso explica tudo. Tchau.}
@@ -53,14 +53,14 @@
  cedo ou tarde. Ás vezes ele deixa as coisas melhores do que estavam antes dele desmontar.}
 {191}{}{Onde eu posso achar o Skeeter?}
 {192}{}{Interessante. Deixa eu te perguntar outra coisa.}
-{193}{}{Eu acho que isso é tudo que eu quero saber por enquanto. Falô.}
+{193}{}{Eu acho que isso é tudo que eu quero saber por enquanto. Falo.}
 
 {200}{}{Bem, eles disseram que não sou humano o suficiente para eles. Eu sou muito resistente à radiação -— perfeito pra morar aqui. 
  Mas eles não gostaram disso. Me trataram como lixo.}
 
 {201}{}{Sério?}
 
-{210}{}{Um dia eu não aguentei mais. Eu percebi que morrer no deserto era melhor do que viver com aqueles idiotas de Vaul City.}
+{210}{}{Um dia eu não agüentei mais. Eu percebi que morrer no deserto era melhor do que viver com aqueles idiotas de Vaul City.}
 {211}{}{Então como você chegou aqui?}
 
 {220}{}{Bem, uma caravana de Broken Hills me achou e me trouxe pra cá. Eu tô aqui desde então. Uma coisa dos ghouls daqui, 
@@ -103,12 +103,12 @@
 {263}{}{Eu acho que é só isso que eu queria saber. Tchau.}
 
 
-{270}{}{Ele tá bem aqui. É só você abrir seus olhos e procurar um pouco. Sheesh.}
+{270}{}{Ele ta bem aqui. É só você abrir seus olhos e procurar um pouco. Sheesh.}
 
 {271}{}{Skeeter normalmente fica na oficina dele. É um pouco pra baixo do reator que não terminaram de construir. 
  Quase nada consegue tirar ele de lá.}
 
-{272}{}{Ah, valeu. Falô.}
+{272}{}{Ah, valeu. Falo.}
 
 {273}{}{Ultimamente eu não sei por onde o Skeeter anda.}
 
@@ -127,9 +127,9 @@
 
 {300}{}{Eu não posso te dizer. As pessoas pensam que sou biruta. De qualquer jeito, provavelmente é só o vento batendo no lixo.}
 
-{301}{}{Eu te disse, eu não escutei nada. Agora para de me enxer o saco.}
+{301}{}{Eu te disse, eu não escutei nada. Agora para de me encher o saco.}
 
-{302}{}{Tá bom. Então deixa eu perguntar outra coisa.}
+{302}{}{Ta bom. Então deixa eu perguntar outra coisa.}
 
 {310}{}{(Ele olha bem nos seus olhos) Você escuta vozes dentro da sua cabeça? Elas dizem o quanto você é melhor que todo mundo? 
  Elas te dizem que algum dia as pessoas irão se ajoelhar diante da sua grandeza? (ele sorri e concorda com a cabeça)}

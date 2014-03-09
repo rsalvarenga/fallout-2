@@ -28,8 +28,8 @@
 {550}{}{Um cheiro horrível está saindo desse túmulo.}
 
 {600}{}{Ei!}
-{601}{}{Eu tô escutando alguém aí fora!}
-{602}{}{Não pisa no túmulo! Tá cheio de sujeira aqui!}
+{601}{}{Eu to escutando alguém aí fora!}
+{602}{}{Não pisa no túmulo! Ta cheio de sujeira aqui!}
 {603}{}{Rápido, PEGUE UMA PÁ!}
 *Quick, GET A SHOVEL!*
 {604}{}{Alguém pode me desenterrar? Eu preciso de uma bebida!}

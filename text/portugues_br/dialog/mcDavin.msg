@@ -34,13 +34,13 @@
  Deixe nossas ações falarem por si mesmas.}
 {190}{}{Pare de falar! Vai estragar tudo. Apenas relaxe e goze.}
 {191}{}{Tá rolando algum mal-entendido. Só quero te fazer algumas perguntas.}
-{192}{}{Obrigado pela oferta, mas não. Uhhh... Tô saindo fora.}
+{192}{}{Obrigado pela oferta, mas não. Uhhh... To saindo fora.}
 {193}{}{Oh Deus! Me possua! Me possua agora! [ele rasga as roupas dele e as suas... ai então você... ah! Use sua imaginação]}
 {194}{}{[hehehe] Estou a todo vapor! Pode ser você da próxima vez.}
 {195}{}{[Duas horas depois: A Terra tremeu, e esta cama nunca mais será a mesma.]}
 {196}{}{[Uma hora depois e o melhor orgasmo que você ja teve.]}
 {197}{}{[Meia hora depois, você se deita exausto.]}
-{198}{}{[Quize minutos depois e um casal ronca.]}
+{198}{}{[Quinze minutos depois e um casal ronca.]}
 {199}{}{[Fez tão rápido quanto um galo.]}
 {200}{}{Tenho que ir, tchau.}
 
@@ -65,7 +65,7 @@
 {1400}{}{Eu curei a mim mesmo como pude, mas ainda estou um pouco ferido.}
 {1500}{}{Não benzinho! Quero ir com você.}
 {1600}{}{Eu removerei a coisa certa.}
-{1700}{}{Tá certo, estarei atras de você todo o caminho.}
+{1700}{}{Ta certo, estarei atrás de você todo o caminho.}
 {1800}{}{Então eu estaria apto a te proteger. Não, é melhor eu ficar por perto.}
 {1900}{}{É? Sem chance! Não o deixarei sair da minha vista, meu brinquedinho sexual.}
 {1005}{}{Você não entende, eu apenas não o quero te prender muito a mim enquanto estamos andando por aí.}

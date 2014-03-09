@@ -17,7 +17,7 @@
 {168}{}{Já falou com Vegeir sobre minha volta pra casa?} 
 {169}{}{Falei sim. Ele quer que seus pais desçam aqui pra te buscar.} 
 {170}{}{Não, ainda não.} 
-{171}{}{Meu pai disse que Laddie foi com você me procurar. Cadê ela? Tô com saudades.} 
+{171}{}{Meu pai disse que Laddie foi com você me procurar. Cadê ela? To com saudades.} 
 {172}{}{Sinto muito, Jonny. Laddie morreu enquanto estávamos te procurando.} 
 {173}{}{Rose disse que ia atrás da sua cadela.} 
 {174}{}{Meu nome é Jonny. E o seu?} 
@@ -29,7 +29,7 @@
 {180}{}{Muito bom te ver } 
 {181}{}{.}
 {182}{}{Te vejo por aí, garoto.} 
-{183}{}{Que bom! Quero ir pra casa, mas Vegeir disse que seu pessoal não pode andar pela superficie 
+{183}{}{Que bom! Quero ir pra casa, mas Vegeir disse que seu pessoal não pode andar pela superfície 
  e por isso não podem me levar. Não que eu suspeite de você, mas qual é o nome do meu pai?}
 {184}{}{Farrel.}
 {185}{}{Cornelius.}
@@ -62,4 +62,4 @@
 {401}{}{E muito bom estar em casa!} 
 {402}{}{Wahoo...} Viva!!!!
 {403}{}{Não tenho mais medo do escuro.} 
-{404}{}{Obrigado por me salvar, senhora.} 
+{404}{}{Obrigado por me salvar, senhora.}

@@ -7,7 +7,7 @@ Ele suspira irritado enquanto você o observa.}
 
 # 0. LOOK (GLASSES = NOTHING)
 {200}{}{Você vê Renesco, o Homem-foguete. Enquanto você observa, ele tira 
-seus seus óculos quebrados e começa a polir a única lente boa.}
+seus óculos quebrados e começa a polir a única lente boa.}
 {201}{}{Você vê Renesco, o homem-foguete. Enquanto você o olha, ele tira seus 
 óculos quebrados e começa a polir a única lente boa.}
 
@@ -19,7 +19,7 @@ seus seus óculos quebrados e começa a polir a única lente boa.}
 {214}{}{Isso não é uma cozinha de sopa. Você vai COMPRAR alguma coisa?}
 
 {215}{}{Eu vou ficar cego se eu continuar nesse ramo de trabalho.}
-{216}{}{Vou precisar de algum Chemtex novo básico…}
+{216}{}{Vou precisar de algum Chemtex novo…}
 {217}{}{A demanda tá ascendente…}
 
 # 2. FLOAT DIALOGUES (WTG)
@@ -33,8 +33,8 @@ seus seus óculos quebrados e começa a polir a única lente boa.}
 SIM? O que  você quer?}
 {236}{}{Vamos lá homem, desembucha!}
 {237}{}{Vamos lá mulher, desembucha!}
-{238}{}{Taa legau ta saindo pra fora… Melhor você afastar(Zip.)}
-{239}{}{Taa legau. Precisa abrir sutiã premerio. Esperar.(Zip.)}
+{238}{}{Taa legal ta saindo pra fora… Melhor você afastar(Zip.)}
+{239}{}{Taa legal. Precisa abrir sutiã primeiro. Esperar.(Zip.)}
 {240}{}{U que mim QUER? U que você TER?}
 {241}{}{Encará-lo por um tempo, só pra ter certeza que ele é real, e então 
 sair fora.}
@@ -42,26 +42,26 @@ sair fora.}
 {243}{}{Hey, eu tenho um par de lentes, se você quiser.}
 {244}{}{Como vão os óculos?}
 {245}{}{Sabe, algumas coisas sem-sal são tão boas quanto as normais.}
-{246}{}{Home, eu tô no lugar errado. Adeus.}
+{246}{}{Home, eu to no lugar errado. Adeus.}
 # 4.  RETARD (3, 5)
 {255}{}{(Encara em choque.)}
-{256}{}{…Outro idiota abortado desse mundo pós-holocausto repleto de crianções imbecis. (levanta os seus punhos) Fora da minha loja! Dê o fora agora! Não te quero de volta, tá escutando?!}
+{256}{}{…Outro idiota abortado desse mundo pós-holocausto repleto de crianções imbecis. (levanta os seus punhos) Fora da minha loja! Dê o fora agora! Não te quero de volta, ta escutando?!}
 {257}{}{Mim lamenta pouco.}
-{258}{}{Mim não saber como colocar sutiã de voltra.}
+{258}{}{Mim não saber como colocar sutiã de volta.}
 {259}{}{Não gritar em mim}
-{260}{}{Odeiu você!}
+{260}{}{Odeio você!}
 {261}{}{Eu estou indo, eu estou indo. Por enquanto.}
 
 # 5.  WHO ARE YOU? (3)
 {270}{}{Eu? Ah eu sou o alegre São Nicolau, sua besta quadrada.}
 {271}{}{Eu? Oh, eu só sou o bom e velho alegre São Nicolau. E VOCÊ deve ser aquele 
 estúpido capanga-para-contratar que está andando pela cidade que nem um 
-cachorro com fome esfomeado pelo próprio escremento.}
+cachorro com fome esfomeado pelo próprio excremento.}
 {272}{}{Eu? Oh, eu só sou o bom e velho alegre São Nicolau. E VOCÊ deve ser aquele 
 estúpido resto de lixo pornô caçando o próprio rabo que é tão travado quanto um cavalo e estúpido como um.}
 {273}{}{Eu? Oh, eu só sou o alegre velho São Nicolau. E VOCÊ deve ser aquele 
 estúpido resto de lixo pornô que os velhotes vestidos com casaco de trincheira usam para preencher as suas fantasias masturbatórias.}
-{274}{}{Bem, eu estou feliz ja que não preciso me apresentar. O que você 
+{274}{}{Bem, eu estou feliz já que não preciso me apresentar. O que você 
 faz aqui, "Nicolau?"}
 {275}{}{São Nicolau? Que diabos é isso?}
 {276}{}{Olha vovô, mais um comentário igual a esse, e eu vou estar usando 
@@ -83,7 +83,7 @@ ignoro minha jornada e entro na casa dos outros, mexendo nas estantes dos
 outros… oooh, que nem essas aí!}
 {294}{}{Você tem um vocabulário interessante… Renesco. Você é das 
 redondezas?}
-{295}{}{Tô fora daqui.}
+{295}{}{To fora daqui.}
 
 # 7. WHAT DO YOU SELL? (6, 36, 42)
 {305}{}{Eu vendo drogas mais recreativas. É por isso que eles me deram esse 
@@ -91,8 +91,7 @@ apelido idiota,'O homem-foguete'. Hmmmph. Eu também vendo alguns suprimentos
 de caravanas. Você PRECISA de alguma coisa ou eu posso voltar a fazer algo 
 importante?}
 {306}{}{Homem-foguete, huh? Conhece aquela parte da música do Elton John, 
-"Homem-Foguete, queimando mmmncfnfm aqui em casa?" O que ele está realmente 
-dizendo alí?}
+"Homem-Foguete, queimando mmmncfnfm aqui em casa?" O que ele está realmente dizendo ali?}
 {307}{}{Eu posso ver o que você tem no estoque?}
 {308}{}{Você vende drogas aqui na LOJA?}
 
@@ -118,10 +117,10 @@ constante medo das autoridades.}
 abundância que não se importam em comprar veneno na farmácia da esquina. 
 Dessa vez ISSO respondeu sua questão, primitivo?}
 {351}{}{Todas exceto uma: Foi Richard Wright um de seus fregueses?}
-{352}{}{Tá certo, tá certo… O que você tem no estoque?}
+{352}{}{Ta certo, ta certo… O que você tem no estoque?}
 {353}{}{Na verdade, eu tenho algumas perguntas a mais…}
 {354}{}{Mas, como você disse, as drogas são… venenosas. Elas matam o 
-espírito. Não lhe deixa pertubado vendê-las?}
+espírito. Não lhe deixa perturbado vendê-las?}
 {355}{}{Com certeza. Eu estou indo.}
 
 # 11. DOES IT BOTHER YOU TO SELL DRUGS IN THE STORE? (10)
@@ -130,7 +129,7 @@ senhores do crime e tribais que o mundo ficaria melhor sem? Primitivo, três
 palavras: Saia fora mais.}
 {366}{}{OK… Eu posso ver o que você tem no estoque?}
 
-{367}{}{Tá certo, tá certo. Olha, eu tenho outras perguntas…}
+{367}{}{Ta certo, ta certo. Olha, eu tenho outras perguntas…}
 {368}{}{As drogas daqui de New Reno estão encontrando seu caminho direto para 
 outros lugares, e ferindo as pessoas lá. Isso não lhe preocupa?}
 {369}{}{Eu vou começar saindo daqui agora mesmo.}
@@ -173,7 +172,7 @@ que?}
 # 16. WHO'S SUPPLYING REDDING? (15)
 {420}{}{Bem tribal, eu duvido que você tenha a percepção para noticiar isso 
 ainda, mas New Reno não produz nada útil. É igual a um grande, bem iluminado 
-carrapato da planicie sentada no deserto. Agora, Redding, por outro lado…}
+carrapato da planície sentada no deserto. Agora, Redding, por outro lado…}
 {421}{}{Continue.}
 {422}{}{…REALMENTE Produz alguma coisa útil.}
 {423}{}{Eu escutei o bastante.}
@@ -192,16 +191,16 @@ matar pessoas… Deixe-me lhe mostrar.}
 {440}{}{Redding tem uma força de trabalho estável que mineira materiais 
 puros, como ouro mesmo. Alguém em New Reno com certeza poderia usar este 
 ouro. Alguém compreende que tudo o que temos que fazer é viciar esses 
-mineiradores, e nós temos para viver. Você compreende agora?}
+mineradores, e nós temos para viver. Você compreende agora?}
 {441}{}{Sim… exceto por uma coisa: de onde o Jet veio?}
-{442}{}{Quem está tentando viciar todos os mineiradores?}
+{442}{}{Quem está tentando viciar todos os mineradores?}
 {443}{}{Yeah, eu entendi. Olhe, eu tenho algumas outras perguntas…}
 {444}{}{Eu não quero escutar mais nada. Eu tenho que me mandar agora.}
 
 # 19. WHERE DID JET COME FROM? (20)
 {450}{}{(Aponta para Myron.) Por quê você não pergunta para o seu pequeno 
 amigo sapo tarado bem ai? Eu estou certo de que ele vai estar feliz em lhe 
-contar. (olha para Myron) Certo, moleque?}
+contar. (olha para Myron) Certo, criança?}
 {451}{}{Nós temos uma pessoa para agradecer pelo jet. Você ouviu falar do 
 pequeno garoto de ouro da família Mordino, Myron? Bem, o pequeno bastardo 
 CRIOU o Jet. Big Jesus Mordino apenas deixa todo mundo saber onde eles 
@@ -251,12 +250,12 @@ devoradoras de gente.}
 {519}{}{Tá legal então… Vou dar o fora daqui.}
 
 # 26. TALK ABOUT VILLAGE 2 (25)
-{525}{}{(Renesco continua a escarar-lhe.)}
+{525}{}{(Renesco continua com o catarro.)}
 {526}{}{E algumas vezes a anciã fica furiosa com pequenas coisas, 
 como… heh-heh… Aquela noite em que eu ignorei meu voto de celibato e transei 
 com Reyna – Da qual – As pernas – Apertam – Com – Força – De – Milhares – de 
 cobras do desfiladeiro de Arroyo…}
-{1526}{}{}{}{(Renesco continua a escarar-lhe.)}
+{1526}{}{}{}{(Renesco continua a catarro.)}
 {526}{}{E algumas vezes a anciã fica furiosa com pequenas coisas, 
 como… heh-heh… Aquela noite em que eu ignorei meu voto de castidade e transei 
 com Kor – Que – Fulmina – Igual – A – Milhares de – Garanhões do 
@@ -269,7 +268,7 @@ desfiladeiro de Arroyo.}
 quando ela se ajoelhou e… ei, você quer saber? Você talvez goste da Anciã. 
 Ela é quase da sua idade.}
 {1536}{}{Foi como ontem. O corpo de Kor agitou-se que nem bronze na luz da 
-Lua quando eu me ajoelhei e… Ei, você quer saber? Você talvez gosta da anciã. 
+Lua quando eu me ajoelhei e… Ei, você quer saber? Você talvez goste da anciã. 
 Ela tem quase a sua idade.}
 
 # 28. WHO ARE YOU? (27)
@@ -281,7 +280,7 @@ Vault Dweller? Ele fez uma lendária jornada do sul depois de derrotar um
 grande mal. (Estufa o peito e começa a olhar o longe orgulhosamente.) Agora, 
 *EU* sou o libertador da minha tribo, escolhido para procurar pelo sagrado 
 GECK!}
-{547}{}{Tá legal, então, chega de histórias… Melhor eu seguir meu caminho. 
+{547}{}{Ta legal, então, chega de histórias… Melhor eu seguir meu caminho. 
 Louve o Vault!}
 
 # 29. GECK? (25, 26, 27, 28, 36)
@@ -372,7 +371,7 @@ fique com eles, tá certo?}
 {652}{}{Vamos apenas dizer que eu os encontrei. Por aí.}
 
 # 39. YOU'RE WELCOME 2 (37)
-{660}{}{Ei! Esperauminuto! Aonde você encontrou esses?}
+{660}{}{Ei! Espera um minuto! Aonde você encontrou esses?}
 {661}{}{Bem, tinha aquele pequeno Radscorpion, vê, e tinha aquele cientista 
 que estava treinando-o, e… Você quer saber? Nem eu acreditei nisso. Só 
 fique com eles, ta certo?}
@@ -382,7 +381,7 @@ fique com eles, ta certo?}
 sofrer com esses vidros quebrados pelo resto da minha vida. Se eu puder 
 fazer algo por você, você me avisa… e, uh, eu vou PENSAR sobre isso.}
 {671}{}{Que tal um desconto?}
-{672}{}{Esquece… Apenas use-os numa boa, tá legal? Eu tenho algumas outras 
+{672}{}{Esquece… Apenas use-os numa boa, ta legal? Eu tenho algumas outras 
 questões…}
 {673}{}{Algum dia – e que esse dia nunca chegue – eu vou chamá-lo para fazer 
 um serviço para mim. Mas até que esse dia chegue, aceite esses óculos como um presente do 
@@ -408,7 +407,7 @@ dia de casamento da minha filha.}
 {706}{}{Foi você que vendeu Jet para Richard Wright?}
 {707}{}{Eu vim coletar o imposto do Sr. Salvatore.}
 {710}{}{Eu estou procurando algumas peças de mina para Broken Hills…}
-{711}{}{Você tem um vocabulario interessante… Você é daqui?}
+{711}{}{Você tem um vocabulário interessante… Você é daqui?}
 {712}{}{Esquece.}
 
 # 43.  TOOLS: SO? (3, 42)
@@ -416,7 +415,7 @@ dia de casamento da minha filha.}
 {726}{}{Bem, eu preciso de peças para concertar o purificador de ar na mina 
 deles. Me disseram que você poderia me ajudar.}
 {727}{}{Bem, eu preciso das peças para concertar o purificador de ar na mina 
-deles. Zaius me enviou. Ele disse, uh… disse… uh… merda.}
+deles. Zaius me enviou. Ele disse uh… disse… uh… merda.}
 {728}{}{Bem, eu preciso de peças para concertar o purificador de ar na mina 
 deles. Zaius me enviou. Ele disse "O canário bateu as botas".}
 
@@ -516,9 +515,8 @@ ele saía com alguém mais que talvez tenha usado drogas?}
 
 # 55. THEY SAID THEY DON'T KNOW. (54)
 {835}{}{Eu posso responder isso facilmente. Um dos dois idiotas está 
-mentindo para salvar o próprio traseiro. Entre os dois, eles vendem 90% do Jet em 
-Reno, e esse é o único lugar do qual o 'garoto' sobre o qual estamos falando 
-poder ter pego.}
+mentindo para salvar o próprio traseiro. Eles vendem 90% do Jet em 
+Reno, e esse é o único lugar no qual o 'garoto' poder ter pego.}
 {836}{}{Ou alguém que comprou de um dos três. Quais foram seus clientes que 
 no mês anterior talvez possam ter tido contato com a vítima?}
 {837}{}{Você pode me dizer mais alguma coisa sobre Richard Wright? Por acaso 
@@ -533,10 +531,10 @@ ele saía com alguém mais que talvez tenha usado drogas?}
 você de novo, eu VOU ATIRAR EM VOCÊ! Se o Sr.Wright vier procurando por mim, 
 achando que eu matei seu garoto, VOCÊ VAI morrer primeiro.}
 {848}{}{Não me ameace, velhote…}
-{849}{}{Whoa. Eu tô indo agora.}
+{849}{}{Whoa. Eu to indo agora.}
 
 # 57. KILLER REVEALED! . . . (55)
-{855}{}{Eu NÃO tenho ideia. Eu não conhecia o garoto, então eu não conhecia 
+{855}{}{Eu NÃO tenho idéia. Eu não conhecia o garoto, então eu não conhecia 
 seus amigos OU seus hábitos. O único que poderia lhe dizer claramente está muito 
 ocupado morto em Golgotha para lhe falar.}
 {856}{}{Golgotha?}
@@ -571,7 +569,7 @@ voltar.}
 {890}{}{Prove que você representa os Salvatore, e eu IREI CONSIDERAR te dar as moedas. Senão você não levará merda nenhuma.}
 {891}{}{Eu não preciso provar nada. Eu sou o representante dele, e 
 isso é tudo que você precisa saber.}
-{892}{}{O quê, você acha que essa pistola laser é so para mostrar?}
+{892}{}{O quê, você acha que essa pistola laser é só para mostrar?}
 {893}{}{Se você não me dar o imposto em cinco segundos, EU VOU MATAR você.}
 
 # 61. SPEECH FAILURE (59, 60)
@@ -584,7 +582,7 @@ isso é tudo que você precisa saber.}
 {911}{}{Problema seu. Você dará o dinheiro agora. O Sr. Salvatore não está interessado nas suas desculpas.}
 
 # 63. GIVE ME MONEY EVEN THOUGH YOU CAN'T PAY (62)
-{920}{}{Me ameçar não vai ajudar. Sr.Salvatore quer seu dinheiro. Eu não 
+{920}{}{Me ameaçar não vai ajudar. Sr.Salvatore quer seu dinheiro. Eu não 
 tenho. Ele vai ficar puto comigo, mas ele vai ficar puto com você, também. 
 Salvatore não GOSTA de pessoas que o decepcionam… Melhor você pensar em algo 
 rápido.}
@@ -606,9 +604,7 @@ Esses são os meus termos.}
 # 66. HOW'S THE GLASSES (64)
 {950}{}{(cruza os braços.) Adequados. Se você está esperando alguma nota por 
 ser um bom samaritano, você está GRAVEMENTE errado. Agora… O que você quer?}
-{951}{}{Deus amaldiçoe seja lá que Deathclaw ou diretor de marketing lhe deu 
-origem! Você QUER alguma coisa? Aqui! AQUI! Tome ISTO! Pegue TUDO que eu 
-tenho! Qualquer coisa para fazer você ME DEIXAR SOZINHO!}
+{951}{}{Deus amaldiçoe seja lá o que Deathclaw ou diretor de marketing te deu! Você QUER alguma coisa? Aqui! AQUI! Tome ISTO! Pegue TUDO que eu tenho! Qualquer coisa para fazer você ME DEIXAR SOZINHO!}
 {952}{}{Deixe-me ver seu estoque.}
 {953}{}{Eu tenho algumas perguntas…}
 {955}{}{Que porra É essa…?}
@@ -644,20 +640,20 @@ com veneno de Radscorpion, mas… mas eu NUNCA vendi isso para o moleque!}
 {992}{}{Você vendeu isso para QUEM?}
 
 # 71. POISONED 5 (70)
-{995}{}{Os Salvatores pediram – Eles disseram que isso era um… "pedido 
+{995}{}{Os Salvadores pediram – Eles disseram que isso era um… "pedido 
 especial." Eu não sabia que eles iriam dar isso para a criança Wright. Você 
 TEM que acreditar em mim… Eu não enveneno crianças!}
 {996}{}{Só adultos, hein, Renesco? Seu filho da puta lamentável…}
 {997}{}{PORQUE você envenenou o Jet? Você deveria saber que eles iriam 
 matar alguém com aquilo.}
-{998}{}{Tá certo, tá certo, eu acredito em você. Eu tenho outras 
+{998}{}{Ta certo, ta certo, eu acredito em você. Eu tenho outras 
 perguntas…}
 {999}{}{Apenas cale a boca. Olhe, eu tenho algumas outras perguntas…}
-{1000}{}{Os Salvatores, hêin? Eu acho que o Sr. Wright vai querer saber 
+{1000}{}{Os Salvadores, hêin? Eu acho que o Sr. Wright vai querer saber 
 disso.}
 
 # 72. RESPONSE (71)
-{1005}{}{Os Salvatores MANDAM em mim. Eles MANDAM nesse lugar, e quando eles 
+{1005}{}{Os Salvadores MANDAM em mim. Eles MANDAM nesse lugar, e quando eles 
 querem alguma coisa, eu dou a eles, ou então eles me matam e me 
 substituem. Eu nunca quis causar nenhum ferimento a esse garoto.}
 {1007}{}{Apenas cale a boca. Olhe, eu tenho algumas outras perguntas…}

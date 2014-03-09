@@ -1,6 +1,6 @@
 {100}{}{Você vê um guarda.}
-{101}{}{Você vê um guarda em uma combat armor.}
-{102}{}{Você vê alguém vestindo uma combat armor. Há uma insígnea no peito que não é familiar pra você.}
+{101}{}{Você vê um guarda em uma armadura de combate.}
+{102}{}{Você vê alguém vestindo uma armadura de combate. Há uma insígnia no peito que não é familiar pra você.}
 
 {103}{}{Nada a declarar.}
 {104}{}{Não vi nada de errado, e você?}
@@ -12,27 +12,22 @@
 
 {109}{}{Quem diabos são vocês... Alerta! Intrusos!}
 {110}{}{Nós fomos descobertos! Alerta!}
-# Nós fomos infiltrados! Alerta!
 {111}{}{Vários intrusos! Soem o alarme!}
-# Múltiplos intrusos! Soem o alarme!
 
 {112}{}{Alerta de segurança! Fechem todas as saídas!}
-{113}{}{Matenham todas as áreas seguras! Estamos sob alerta!}
+{113}{}{Mantenham todas as áreas seguras! Estamos sob alerta!}
 {114}{}{Alerta de intrusos! Código vermelho!}
 
 {115}{}{Nós vamos acabar com você!}
 {116}{}{A Enclave irá dominar o mundo!}
 {117}{}{Você vai morrer para que a Enclave sobreviva!}
-# You die so that the Enclave will survive!
 
-{118}{}{Desculpe, soldado. Esta área está fora dos limites para o pessoal da base. Tenho que pedir para
- você se retirar.}
+{118}{}{Desculpe, soldado. Esta área está fora dos limites para o pessoal da base. Tenho que pedir para você se retirar.}
 {119}{}{O doutor quer que eu mate o D'claw. Ele não quer vir matar ele. }
 {120}{}{Certo, mim vai.}
 {121}{}{O doutor quer que eu mate a criatura pra ele. Ele não quer vir.}
 
-{122}{}{Eu sabia que o desgraçado não teria as bolas pra fazer isso. Claro, não tem
- problema se um de nós se foder. (suspiro) Tudo bem, entre. E boa sorte, soldado.}
+{122}{}{Eu sabia que o desgraçado não teria as bolas pra fazer isso. Claro, não tem problema se um de nós se fuder. (suspiro) Tudo bem, entre. E boa sorte, soldado.}
 {123}{}{Valeu.}
 
 {124}{}{Por que está olhando pra mim desse jeito, soldado?}

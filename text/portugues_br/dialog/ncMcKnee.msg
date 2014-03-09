@@ -17,7 +17,7 @@
 {205}{}{*Phewwww* Dia difícil}
 {206}{}{Trabalhar fora sempre me deixa cansado}
 {207}{}{Lutar me deixa exausto}
-{208}{}{Melhor ir polir minha dentatura de vidro}
+{208}{}{Melhor ir polir minha dentadura de vidro}
 
 #CLICK DIALOGUE
 # (ANY PRIZEFIGHTER)
@@ -30,7 +30,7 @@
 {305}{}{Eu gosto de pizza, mas tenho que tomar cuidado com a crosta}
 {306}{}{Eu abri a porta hoje e o vento me derrubou no chão}
 {307}{}{Lutar me deixa exausto}
-{308}{}{Melhor eu ir polir minha dentatura de vidro}
+{308}{}{Melhor eu ir polir minha dentadura de vidro}
 {309}{}{Se eu continuar treinando, eu vou conseguir ficar DEZ segundos no ringue}
 # (FEMALE)
 {310}{}{Eu só posso durar sete segundos no ringue, mas posso durar DEZ segundos na cama}

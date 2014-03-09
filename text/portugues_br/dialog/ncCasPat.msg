@@ -68,7 +68,7 @@
 {248}{}{Vem conversar comigo um pouco, tetas-de-mel.}
 {249}{}{Tribais pega suas tetas! Droga!}
 {250}{}{Cheque os peitos dessa tribal.}
-{251}{}{Aqui está a melher potranca do meu rebanho.}
+{251}{}{Aqui está a melhor potranca do meu rebanho.}
 {252}{}{Eu tomaria banho por essa mulher.}
 {253}{}{Eu tenho seu compridinho bem aqui.}
 {254}{}{Mexa isso!}
@@ -79,14 +79,14 @@
 {259}{}{Você pega batatas fritas para acompanhar essa mexida, linda?}
 {260}{}{Talvez ela vai dançar hoje de noite.}
 {261}{}{Você viu o último filme dela? Muito bom, cara, muito BOM.}
-{262}{}{me desculpe. Eu tenho que ir ao banheiro e er, ageitar meu cabelo por um segundo.}
+{262}{}{me desculpe. Eu tenho que ir ao banheiro e er, ajeitar meu cabelo por um segundo.}
 {263}{}{Eu queria ser a calça dela.}
 {264}{}{Eu gostaria de ser a calcinha dela.}
 {265}{}{Eu gostaria de cheirar o short dela.}
 {266}{}{Essa é uma biscate bonita.}
 {267}{}{Droga. Todas essas curvas e eu sem freio nenhum.}
 {268}{}{Bem, oláááá garanhão.}
-{269}{}{Um garanhão como você tá na seca? Eu vou estar livre amanhã à noite.}
+{269}{}{Um garanhão como você ta na seca? Eu vou estar livre amanhã à noite.}
 {270}{}{O que você vai fazer mais tarde, marinheiro?}
 {271}{}{Eu posso sentir seus músculos?}
 {272}{}{Como você não fica cansado depois de ficar com o pau duro?}
@@ -106,8 +106,8 @@
 {286}{}{Por pouco!}
 {287}{}{Eu faço banco.}
 {288}{}{Eu? Eu faço banco. Olha eu indo.}
-{289}{}{A Casa tá contra mim.}
-{290}{}{A fortuna tá contra mim.}
+{289}{}{A Casa ta contra mim.}
+{290}{}{A fortuna ta contra mim.}
 {291}{}{Moça Sortuda, não falha comigo agora.}
 {292}{}{A Casa está a meu favor.}
 {293}{}{Entre pontas e esses bêbados gastando…}
@@ -125,7 +125,7 @@
 {305}{}{Ótimo, outro sortudo.}
 {306}{}{Eu sou MUITO dinheiro.}
 {307}{}{Eu estarei dormindo quando eu estiver morto.}
-{308}{}{Cara, eu preciso mijar. Meu dente tá nadando.}
+{308}{}{Cara, eu preciso mijar. Meu dente ta nadando.}
 {309}{}{Cara, eu preciso tirar água do joelho.}
 {310}{}{Porra, eles deixam qualquer um entrar aqui.}
 {311}{}{Me dá um 7!}
@@ -141,7 +141,7 @@
 {321}{}{O jeito é queimar esses idiotas da Enclave! Vai lá!}
 {322}{}{Eu sempre soube que o Presidente queria matar a todos nós.}
 {323}{}{O Presidente tá vivo?  Quando foi a última eleição?}
-{324}{}{Destrui a Enclave, huh? Bem, deixa eu comprar uma bebida pra você.}
+{324}{}{Destruí a Enclave, huh? Bem, deixa eu comprar uma bebida pra você.}
 {325}{}{A caminho de destruir a Enclave, }
 {326}{}{Com a destruição da Enclave, você fez esse cassino o melhor lugar para minhas crianças. Como eu posso te agradecer?}
 {327}{}{A Enclave nunca mexeu comigo, mas eu estou feliz que eles se foram.}
@@ -168,7 +168,7 @@
 {347}{}{Sua armadura se transforma num jet e voa por aí? Apenas curiosidade.}
 {348}{}{É, é, 'clank-whirrr-clank' pra você também.}
 {349}{}{Se você pensa que essa armadura me intimida, você está certo.}
-{350}{}{Você deve ser um desses video games pré-guerra.}
+{350}{}{Deve ser um desses vídeo games pré-guerra.}
 {351}{}{Olhe, por favor…Eu não quero arrumar encrenca. Eu estou na cidade só por um dia.}
 {352}{}{Olhe, por favor…Eu não quero arrumar encrenca.}
 {353}{}{Me desculpa, por eu estar no seu caminho? Eu vou deixar a cidade.}
@@ -177,7 +177,7 @@
 {356}{}{Uh…*glup*…algo errado?}
 {357}{}{Olhe, por favor…Eu não quero arrumar encrenca. Eu estou na cidade só por um dia.}
 {358}{}{Olhe, por favor…Eu não quero arrumar encrenca.}
-{359}{}{Você tá vendendo?}
+{359}{}{Você ta vendendo?}
 {360}{}{Eu posso comprar suas roupas? Eu digo, agora?}
 {361}{}{Eu SABIA que devia ter me barbeado hoje.}
 {362}{}{Venha conversar comigo por um segundo, peitos-de-mel.}
@@ -187,7 +187,7 @@
 {366}{}{Eu tenho o seu filão de mãe bem aqui.}
 {367}{}{Essas pernas vão para o lugar que quiser?}
 {368}{}{Você vai dançar essa noite?}
-{369}{}{Com licensa. Eu tenho que ir ao banheiro e er, ajeitar meu cabelo por um segundo.}
+{369}{}{Com licença. Eu tenho que ir ao banheiro e er, ajeitar meu cabelo por um segundo.}
 {370}{}{Eu queria ser suas roupas de baixo.}
 {371}{}{Eu gostaria de cheirar seu shorts.}
 {372}{}{Você é uma puta gostosa.}

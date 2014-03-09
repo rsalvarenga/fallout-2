@@ -24,3 +24,4 @@
 {123}{}{Só pensei em dizer Olá. Vou retornar a minha missão.}
 {124}{}{Que os espíritos de nossos antepassados te protejam, Escolhido. Te desejo o melhor em sua jornada.}
 
+

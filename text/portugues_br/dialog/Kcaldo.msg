@@ -41,8 +41,8 @@
 {301}{}{, você deve ser uma pessoa muito importante e poderosa entre os seus. Com certeza alguém da sua (soluça) 
  categoria ficaria feliz de dar gorjeta ao anfitrião oficial da cidade, como de costume. (coff)}
 {302}{}{Tá bom. Toma uma gorjeta. Mas fique longe da bebida um pouco.}
-{303}{}{Uma gorjeta? Tá bom. Acho que vale a pena gastar $5 pra você parar de me encher o saco.}
-{304}{}{Tá certo. Não sou eu que vou quebrar o costume de dar gorjetas. 5$ tá de bom tamanho? }
+{303}{}{Uma gorjeta? Ta bom. Acho que vale a pena gastar $5 pra você parar de me encher o saco.}
+{304}{}{Ta certo. Não sou eu que vou quebrar o costume de dar gorjetas. 5$ ta de bom tamanho? }
 {305}{}{Acho melhor você me dar uma gorjeta, só assim não vou perder meu tempo livrando Klamath da sua pele imunda.}
 {306}{}{Foi mal, mas dinheiro para o Escolhido tem pouca utilidade. Não tenho nenhum aqui comigo pra te dar.}
 
@@ -52,12 +52,12 @@
 
 {355}{}{Foi mal, mas não posso gastar nenhum centavo com você.}
 
-{400}{}{Bem, Forasteiro, tô vendo que você é (soluça) recente na área e não sabe (soluça) que por aqui é costume (soluça) dar gorjeta ao anfitrião oficial da cidade antes de perguntar qualquer coisa a ele.}
+{400}{}{Bem, Forasteiro, to vendo que você é (soluça) recente na área e não sabe (soluça) que por aqui é costume (soluça) dar gorjeta ao anfitrião oficial da cidade antes de perguntar qualquer coisa a ele.}
 
 {450}{}{Muito obrigado pela grana, amizade! (coff). Vou usar esse dinheirinho pra comprar alguns remédios (soluça) pra minha garganta seca. Você já pode se considerar oficialmente recebido em Klamath. (coff) Quer saber algo sobre a nossa bela metrópole?}
 {451}{}{Não, não se preocupe comigo. Dou meu jeito por aqui.}
 {452}{}{Quero sim. Quero saber sobre algumas coisinhas. Uma ou duas.}
-{453}{}{Aldo, eu tô procurando um comerciante que vende coisas antigas. Sabe, coisas velhas mesmo.}
+{453}{}{Aldo, eu to procurando um comerciante que vende coisas antigas. Sabe, coisas velhas mesmo.}
 
 {500}{}{Manda ver, meu benfeitor!}
 {501}{}{O que as pessoas de Klamath fazem da vida?}
@@ -82,15 +82,15 @@
 
 {700}{}{Você pode comprar ou trocar coisas na casa Buckner e no Gecko Dourado. Às vezes eles têm umas ervas medicinais pra vender também.
  Não que eles me dêem algumas delas pra curar (soluça) minha condição. São uns pães-duros dos infernos! 
- Se atrasar um pouco o pagamento da conta, lá vai você na chuva e no frio.}
+Se atrasar um pouco o pagamento da conta, lá vai você na chuva e no frio.}
 {701}{}{Valeu pelas informações. Por enquanto é tudo.}
 {702}{}{Ah, sempre achei esse ar fresco revigorante. Hmm, mais uma perguntinha pra você.}
 
 {750}{}{Sei que mais cedo você não podia gastar sua grana com o anfitrião oficial da cidade, mas talvez agora (soluça)
- você esteja se sentindo mais generoso e disposto a ser "oficialmente" recebido em Klamath.}
+você esteja se sentindo mais generoso e disposto a ser "oficialmente" recebido em Klamath.}
 
-{751}{}{Acho que vale a pena gastar $5 pra você parar de me enchar o saco.}
-{752}{}{Senti que estava esquecendo alguma coisa. Aqui estão $5 pra você. Tô pronto pra receber suas saudações.}
+{751}{}{Acho que vale a pena gastar $5 pra você parar de me encher o saco.}
+{752}{}{Senti que estava esquecendo alguma coisa. Aqui estão $5 pra você. To pronto pra receber suas saudações.}
 {753}{}{Não, valeu. Acho que não preciso das suas saudações oficiais.}
 {754}{}{Prefiro que suas tripas recebam minha lâmina.}
 
@@ -109,7 +109,7 @@
 
 {850}{}{Você quer dizer meus medicamentos extremamente necessários, né? (soluça) Normalmente eu compro no Gecko Dourado e na casa Buckner (urp), 
  mas aqueles malditos não estão me vendendo nada até eu pagar uma parte da minha conta lá. Pra minha sorte, 
- o Whiskey Bob tá fazendo uns remedinhos pra alguns dos seus amigos.}
+ o Whiskey Bob ta fazendo uns remedinhos pra alguns dos seus amigos.}
 {851}{}{Fico feliz em saber que você descobriu uma fonte pros seus remédios. Agora chega de jogar conversa fora.}
 {852}{}{Interessante. E onde encontro esse Whiskey Bob?}
 {853}{}{Valeu, Aldo. Agora mudando de assunto.}
@@ -121,7 +121,7 @@
 {862}{}{Que bom que encontrou outro fornecedor. Ah, tem como você respirar um pouco mais na direção do vento?
  Tenho outra pergunta pra você.}
 
-{870}{}{E aí, amizade! Você tá parece meio confuso. O que precisa é de um amigo aqui na cidade. Sou Aldo, o anfitrião oficial da cidade.}
+{870}{}{E aí, amizade! Você ta parece meio confuso. O que precisa é de um amigo aqui na cidade. Sou Aldo, o anfitrião oficial da cidade.}
 {871}{}{Amizade? Heh, heh, }
 {872}{}{gostar de amigo.}
 {873}{}{Urk, (funga, funga) cheiro ruim. cai fora.}

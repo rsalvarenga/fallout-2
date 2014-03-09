@@ -1,6 +1,6 @@
 {100}{}{Você vê um homem introspectivo, usando um jaleco.}
 {101}{}{Você vê o Professor. Parece que ele esta empenhado em um esquema complexo.}
-{102}{}{Um homem confunso, usando um jaleco, rodeado por equipamentos de laboratório e com um brilho insano em seu olhar.}
+{102}{}{Um homem confuso, usando um jaleco, rodeado por equipamentos de laboratório e com um brilho insano em seu olhar.}
 {103}{}{Você novamente?}
 {104}{}{O que você quer? Fala logo, sou um homem ocupado!}
 {105}{}{Sem putas?}
@@ -25,7 +25,7 @@
 {123}{}{Vamos testar minha visão.}
 {124}{}{Que tal minha inteligência?}
 {125}{}{Hmm. Nenhum desses. Esquece.}
-{126}{}{Muito bem. Vou testar você contra o esporpião. Vocês tentarão destrancar essas caixas. Boa sorte.}
+{126}{}{Muito bem. Vou testar você contra o escorpião. Vocês tentarão destrancar essas caixas. Boa sorte.}
 {127}{}{Vai!}
 {128}{}{Vamos nessa.}
 {129}{}{Certo. Fique atrás deste cercado, onde você e o escorpião vão me dizer quais as letras vocês lêem, de cima para baixo, 
@@ -88,4 +88,4 @@ a produção em massa dessa droga! E de tantas outras!}
 {404}{}{e...Xeque-mate!}
 {405}{}{Xeque-mate!}
 {406}{}{::click:: Matar planta! ::click-clack-click::}
-{407}{}{Você provou que pode superar o escorpião, que é mais inteligênte que você.}
+{407}{}{Você provou que pode superar o escorpião, que é mais inteligente que você.}

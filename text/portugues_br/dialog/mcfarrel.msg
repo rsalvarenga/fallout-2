@@ -27,7 +27,7 @@
 {176}{}{Você espera que eu acredite nisso?}
 {177}{}{Minha única prova é a minha honra. Não posso oferecer mais nada.}
 {178}{}{Se você não pegou, então quem foi?}
-{179}{}{Suspeito que um ladrão passando pela cidade o fez, e depois partiu. Embora eu não consiga pensar no porque alguem iria querer minhas velhas ferramentas...}
+{179}{}{Suspeito que um ladrão passando pela cidade o fez, e depois partiu. Embora eu não consiga pensar no porque alguém iria querer minhas velhas ferramentas...}
 {180}{}{Você espera que eu acredite nisso?}
 {181}{}{Não, mas como eu sei que eu não peguei nada, essa é a única teoria que eu consegui formular.}
 {182}{}{Posso te perguntar uma coisa?}
@@ -43,14 +43,14 @@
 {194}{}{De qualquer jeito, fico feliz em ajudar.}
 {195}{}{Sendo assim, não poso ajudar, desculpe.}
 {196}{}{Isso seria maravilhoso. Não tenho palavras pra te agradecer. Meu jardim fica a leste. Venha, eu te mostro.}
-{197}{}{Obrigado! Você é realemnte um herói. Ninguém arriscaria a vida por um estranho. Obrigado! Obrigado! Obrigado… [Você sente um energia vibrante até o dedão do pé.]}
+{197}{}{Obrigado! Você é realmente um herói. Ninguém arriscaria a vida por um estranho. Obrigado! Obrigado! Obrigado… [Você sente um energia vibrante até o dedão do pé.]}
 {198}{}{Posso te perguntar mais uma coisa?}
 {199}{}{Prefiro passar fome do que manchar meu nome! Vá pro inferno!}
-{200}{}{Todo mundo tá me acusando de roubar o relógio de bolso de ouro do meu melhor amigo, Cornelius. Eu e Cornelius somos amigos desde que me entendo por gente; eu nunca roubaria o relógio. Eu já prourei em todo lugar na esperança de encontrá-lo para que possamos ser amigos novamente, mas não tive sorte.}
+{200}{}{Todo mundo tá me acusando de roubar o relógio de bolso de ouro do meu melhor amigo, Cornelius. Eu e Cornelius somos amigos desde que me entendo por gente; eu nunca roubaria o relógio. Eu já procurei em todo lugar na esperança de encontrá-lo para que possamos ser amigos novamente, mas não tive sorte.}
 {201}{}{Vou ficar aqui por um tempo. Te aviso se achar.}
 {202}{}{Isso é péssimo. Poso te perguntar outra coisa?}
 {203}{}{Sério? Ninguém me ajuda porque pensam que eu roubei o relógio. Seria bom ter alguém do meu lado, pelo menos uma vez. Já perguntei a todo mundo, mas não custa perguntar novamente. Talvez eles digam a você alguma coisa que não tenham me dito. Também não tiraria pedaço se você desse uma olhada no Café da Manhã da Rose; Cornelius é famoso por esquecer as coisas.}
-{205}{}{Deixe eu ver isso! Sim, é esse! Você disse que um rato que live no esgoto roubou? Você desceu e pegou? Aeeeee! Eu vou dar isso pro Cornelis agora mesmo! Agora podemos ser amigos de novo. Muito obrigado.}
+{205}{}{Deixe eu ver isso! Sim, é esse! Você disse que um rato que vive no esgoto roubou? Você desceu e pegou? Aeeeee! Eu vou dar isso pro Cornelis agora mesmo! Agora podemos ser amigos de novo. Muito obrigado.}
 {206}{}{Uga prá você também. Você gostaria de fazer um favor ao velho Farrel meu amigo cabeça-de-bagre? Eu tenho um probleminha com uns vermes em meu jardim. Faça as pestes irem embora que eu lhe dou uma recompensa.}
 {207}{}{Não, não, não … eu não fazer.}
 {208}{}{Sim. Eu fazer.}
@@ -65,7 +65,7 @@
 {302}{}{Grrr...}
 
 {501}{}{Eu não roubei porra de relógio nenhum!}
-{502}{}{Sou inocente, tô dizendo!}
+{502}{}{Sou inocente, to dizendo!}
 {503}{}{Você não acerta nem um celeiro!}
 
 {550}{}{Ele não está prestando atenção no que você está dizendo.}
