@@ -18,16 +18,16 @@
 #  The following lines are for describing the NPC when      #
 #  glanced and and examined.                                #
 #############################################################
-{100}{}{VocÃª vÃª uma planta da alma escura.}
-{101}{}{Estas plantas nÃ£o sÃ³ sÃ£o prejudiciais para o jardim, tambÃ©m tem a capacidade de atacar os seres humanos
+{100}{}{Você vê uma planta da alma escura.}
+{101}{}{Estas plantas não só são prejudiciais para o jardim, também tem a capacidade de atacar os seres humanos
  e outras criaturas.}
-{102}{}{TEstas plantas de almas escuras sÃ£o mutaÃ§Ãµes estranhas. Ã‰ duvidoso que se transformaram 
- por fenÃ³menos naturais.}
-{103}{}{VocÃª percebe que nÃ£o tem nada de especial nessas plantas - alÃ©m do fato de que atacam os seres humanos.}
+{102}{}{Estas plantas de almas escuras são mutações estranhas. É duvidoso que se transformaram 
+por fenômenos naturais.}
+{103}{}{Você percebe que não tem nada de especial nessas plantas - além do fato de que atacam os seres humanos.}
 
 #############################################################
 #  The following lines are for the dialog which the NPC     #
 #  says. This will be disorganized because of the Design    #
 #  Tool.                                                    #
 #############################################################
-{150}{}{VocÃª deve se livrar de todas essas plantas do jardin.}
+{150}{}{Você deve se livrar de todas essas plantas do jardim.}

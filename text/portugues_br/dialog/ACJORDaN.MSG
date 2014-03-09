@@ -1,11 +1,11 @@
-{100}{}{VocÃª vÃª Jordan jogando com sua lanÃ§a, como de costume.}
-{101}{}{VocÃª vÃª Jordan jogando com sua lanÃ§a, como de costume.}
-{102}{}{Boa sorte! A nossa aldeia depende de vocÃª.}
-{103}{}{CEscolhido, a maneira de como vocÃª usa a lanÃ§a, vai acabar se servindo de alimento para as largatixas.
- Eu posso te ensinar alguns truques.}
+{100}{}{Você vê Jordan jogando com sua lança, como de costume.}
+{101}{}{Você vê Jordan jogando com sua lança, como de costume.}
+{102}{}{Boa sorte! A nossa aldeia depende de você.}
+{103}{}{Escolhido, a maneira de como você usa a lança, vai acabar se servindo de alimento para as lagartixas.
+Eu posso te ensinar alguns truques.}
 {104}{}{Claro.}
-{105}{}{NÃ£o, obrigado}
+{105}{}{Não, obrigado}
 {106}{}{Isso vai demorar um pouco.}
-{107}{}{VocÃª Ã© um bom aluno. Parece que vocÃª jÃ¡ aprendeu tudo o que 
+{107}{}{Você é um bom aluno. Parece que você já aprendeu tudo o que 
  podia ensinar.}
 {108}{}{Obrigado Jordan, isso vai me ajudar muito.}
