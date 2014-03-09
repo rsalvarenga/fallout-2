@@ -2456,90 +2456,85 @@
 # Ataqueing
 #
 {33140}{}{Look out!}
-{33141}{}{::he squints his eyes shut and Ataques::}
-{33142}{}{Here comes another Ataque...}
-{33143}{}{If you just run away, I wouldn't have to do this.}
-{33144}{}{Go on! Cai fora of here!}
+{33141}{}{::O que tiver na vista ataque::}
+{33142}{}{Ai vem outro ataque...}
+{33143}{}{Se você fugir, eu não teria que fazer isso.}
+{33144}{}{Vá em frente! Caiam fora daqui!}
 {33145}{}{Shoo! Shoo!}
-{33146}{}{Stop fighting!}
+{33146}{}{Parem de brigar!}
 {33147}{}{Hoooooooowdy ho!}
-{33148}{}{You smell like flowers.}
-{33149}{}{We can work this out!}
+{33148}{}{Você cheira a flores.}
+{33149}{}{Nós podemos resolver isso!}
 #
 # target being missed
 #
-{33160}{}{Why are you trying to hurt me?}
-{33161}{}{What have I ever done to you?}
-{33162}{}{We don't have to fight, you knAi!}
-{33163}{}{I don't want to hurt you!}
-{33164}{}{I don't want you to hurt me!}
-{33165}{}{Can we settle this like adults?}
+{33160}{}{Por que você está tentando me machucar?}
+{33161}{}{O que foi que eu fiz para você?}
+{33162}{}{Você sabe que não temos que lutar!}
+{33163}{}{Eu não quero te machucar!}
+{33164}{}{Eu não quero que você me machuque!}
+{33165}{}{Podemos resolver isso como adultos?}
+
 ############################################
 # 33200 Bastardo Hit Locations
 ############################################
 #
 # target hit in head
 #
-{33200}{}{I think you broke my jaw!}
-{33201}{}{My cheekbone!}
-{33202}{}{That'll leave an unpleasant scar.}
+{33200}{}{Acho que você quebrou meu maxilar!}
+{33201}{}{Minha bochecha!}
+{33202}{}{Isso vai deixar uma puta de uma cicatriz.}
 #
 # target hit in left arm
 #
-{33210}{}{My writing hand!}
-
-{33211}{}{My elbAi!}
-{33212}{}{Hey! Watch it!}
+{33210}{}{Minha mão de escrever!}
+{33211}{}{Meu cotovelo!}
+{33212}{}{Hey! Cuidado com o que faz!!}
 #
 # target hit in right arm
 #
 {33220}{}{Ahhh! Aiee! Ahh!}
 {33221}{}{Wahhhh!}
-{33222}{}{Ai! My ulna!!}
-
+{33222}{}{Ai! Minha unha!!}
 #
 # target hit in torso
 #
-{33230}{}{I think you got my kidney!}
-{33231}{}{My solar plexus!}
-
-
-{33232}{}{::panting::}
+{33230}{}{Eu acho que você acertou meu rim!}
+{33231}{}{Meu plexo solar!}
+{33232}{}{::arquejo::}
 {33233}{}{Uuuuf!}
-{33234}{}{You don't have to do this...}
-{33235}{}{Okay, that hurt.}
+{33234}{}{Você não tem que fazer isso...}
+{33235}{}{Okay, isso dói.}
 {33236}{}{Ohhh... owwww}
 #
 # target hit in right leg
 #
-{33260}{}{My fibia!}
+{33260}{}{Minha tibia!}
 {33261}{}{Meu joelho!}
 {33262}{}{Ai!}
 #
 # target hit in left leg
 #
-{33270}{}{Oooh, my femur!}
-
+{33270}{}{Oooh, meu fêmur!}
 {33271}{}{Meu joelho!}
-{33272}{}{That'll be a limper..}
+{33272}{}{Isso vai me deixar feridas.}
 #
 # target hit in eyes
 #
-{33280}{}{I think you detached my retina!}
+{33280}{}{Eu acho que você arrancou minha retina!}
 
-{33281}{}{My aqueous humor! My vitreous humor!}
-{33282}{}{I'm blind! I'm blind!}
+{33281}{}{Meu humor aquoso! Meu vítreo}
+{33282}{}{Estou cego! Estou cego!}
 
 #
 # target hit in groin
 #
-{33290}{}{That's... that's... painful...}
-{33291}{}{Mother...}
+{33290}{}{Isso é ... isso é ... doloroso ...}
+{33291}{}{mãe...}
 {33292}{}{::choradeira::}
-{33293}{}{Sweet mother of GOD!}
-
+{33293}{}{Santa mãe de DEUS!}
 {33294}{}{Hmmm. Ow. Hmmm.}
-{33295}{}{I think I'll go into shock now.}
+{33295}{}{Acho que vou entrar em choque agora.}
 #
 ####################################################################################
 #
@@ -2563,70 +2558,55 @@
 #
 # target hit in head
 #
-{36000}{}{Gawd! That hit me in the head!}
-
-{36001}{}{Ai! My head!}
-{36002}{}{Oof! Kaga's head is on fire!}
-
+{36000}{}{Auch! Isso me bateu na cabeça!}
+{36001}{}{Ai! Minha cabeça!!}
+{36002}{}{Ufa! A cabeça de Kaga está pegando fogo!}
 #
 # target hit in left arm
 #
-{36010}{}{My hand!}
-{36011}{}{Ai! Good thing I'm right handed}
-
+{36010}{}{Minha mão!}
+{36011}{}{Ai! Ainda bem que eu sou destro}
 {36012}{}{Ai!!}
 #
 # target hit in right arm
 #
-{36020}{}{Ow, my arm}
+{36020}{}{Ai, meu braço}
 {36021}{}{Você quebrou o meu braço!}
 {36022}{}{Você vai se arrepender disso!}
-
-
 #
 # target hit in torso
 #
-{36030}{}{(Grunt!)}
-{36031}{}{It's only a flesh wound!}
-
+{36030}{}{(Grunhido!)}
+{36031}{}{É apenas uma ferida superficial!}
 {36032}{}{Grrr!}
 {36033}{}{Você vai se arrepender disso!}
-{36034}{}{You should stop while you're ahead!}
-
-
-{36035}{}{Good shot. My turn!}
+{36034}{}{Você deve parar enquanto esta ganhando!}
+{36035}{}{Good shot. Minha vez!}
 #
 # target hit in right leg
 #
 {36060}{}{Ai, minha perna.}
 {36061}{}{Você vai pagar por isso!}
-
 {36062}{}{Ah! Minha perna!}
 #
 # target hit in left leg
 #
 {36070}{}{Minha perna!}
-{36071}{}{Unh! Aiming a little low aren't you?}
-{36072}{}{You weren't trying to hit my leg were you!?!}
-
-
+{36071}{}{Uh! Esta mirando baixo, assim não vale!}
+{36072}{}{Não estava tentando acertar minha perna, está?}
 #
 # target hit in eyes
 #
 {36080}{}{Maldição sanque em meus olhos!}
 {36081}{}{O meu olho! Você vai pagar por isso!}
-
-
 {36082}{}{Idióta!}
 #
 # target hit in groin
 #
-{36090}{}{Oooooo, time out, I have to pick something up}
-{36091}{}{Ooo! Kaga gotta learn that move...}
-
-
-{36092}{}{Urg! Petey! You OK down there?}
-{36093}{}{That...wheeeeze...hurt!}
+{36090}{}{Oooooo, acabou o tempo, tenho que pegar alguma coisa}
+{36091}{}{Ooo! Kaga tem que aprender esse movimento...}
+{36092}{}{Urg! Petey! Está bem ai em baixo?}
+{36093}{}{Isso ... wheeeeze ... dói!}
 {36094}{}{Urp!}
 {36095}{}{suspiro!}
 #
@@ -2637,59 +2617,40 @@
 #
 #  running away
 #
-{36100}{}{We will meet again!}
-
+{36100}{}{Nós vamos nos encontrar novamente!}
 {36101}{}{Eu voltarei...}
-{36102}{}{I have never been beaten before!}
-{36103}{}{I will dedicate myself to hunting you down!}
+{36102}{}{Eu nunca fui derrotado antes!}
+{36103}{}{Vou me dedicar a caça-lo!}
 {36104}{}{Não vai ser o último a ouvir falar de mim!}
 {36105}{}{Vai pagar por isso... mas tarde!}
-
-
-
-
 #
 # moving in to Ataque
 #
-{36120}{}{I should have been the Chosen One!}
-
-{36121}{}{Arroyo will regret casting me out!}
-{36122}{}{I will have my revenge on YOU!}
-{36123}{}{Kaga will send you to the next life!}
-{36124}{}{Another Chosen One to kill!}
-
-
-
+{36120}{}{Eu deveria ter sido O Escolhido!}
+{36121}{}{Arroyo vai se arrepender de ter me jogado aqui!}
+{36122}{}{Eu terei minha vingança em VOCÊ!}
+{36123}{}{Kaga irá mandá-lo para o outro lado da vida!}
+{36124}{}{Outro Escolhido para matar!}
 #
 # Ataqueing
 #
-{36140}{}{Your momma's not here to help you!}
+{36140}{}{Sua mãe não está aqui para ajudá-lo!}
 {36141}{}{Vou aproveitar isto.!}
-
-
-{36142}{}{Oooo, that gotta hurt!}
-{36143}{}{I'm gonna take your head back to the Elder!}
+{36142}{}{Oooo, isso vai doer!}
+{36143}{}{Vou levar sua cabeça de volta para Anciã.}
 {36144}{}{Vou comer seu fígado!}
-{36145}{}{Hope you don't die as quickly as the others.}
-{36146}{}{Another Chosen One to kill!}
-
-
-
-
+{36145}{}{Espero que não morra tão rapido como os outros.}
+{36146}{}{Outro Escolhido para matar!}
 {36147}{}{Morra!}
-{36148}{}{Scream for me}
+{36148}{}{Grite para mim}
 #
 # target being missed
 #
 {36160}{}{Não pode me bater!}
-{36161}{}{The spirits are protecting me.}
-{36162}{}{Hope that ain't your best shot.}
-
-
-
-{36163}{}{Bwahaha. Kaga didn't even have to duck!}
+{36161}{}{Os espíritos estão me protegendo.}
+{36162}{}{Espero que esse não seja o seu melhor tiro.}
+{36163}{}{Bwahaha. Kaga nem sequer têm de pato!}
 {36164}{}{Não pode matar aquilo que não se pode ferir!}
-
 {36165}{}{Muito lento!}
 #
 ############################################
@@ -2699,58 +2660,40 @@
 #
 #  running away
 #
-{36200}{}{We will meet again!}
-
+{36200}{}{Nós vamos nos encontrar novamente!}
 {36201}{}{Eu voltarei...}
-{36202}{}{You cannot kill the Great Kaga!}
-{36203}{}{You are in luck! Kaga has business elsewhere}
-
-
-{36204}{}{You and Kaga will meet again}
+{36202}{}{Você não pode matar o Grande Kaga!}
+{36203}{}{Você está com sorte! Kaga tem negócios em outros lugares}
+{36204}{}{Você e Kaga se encontraram novamente}
 {36205}{}{Vai pagar por isso... mas tarde!}
-
 #
 # moving in to Ataque
 #
-{36220}{}{After I kill you, I will burn Arroyo to the ground!}
-{36221}{}{I am to be feared by all!}
-{36222}{}{Kaga will have your head for a trophy!}
-{36223}{}{Renda-se and I'll make your Morte quick.}
-
-
-
-
+{36220}{}{Depois que eu matar você, eu vou queimar Arroyo!}
+{36221}{}{Vou ser temido por todos!}
+{36222}{}{Kaga terá sua cabeça como troféu!}
+{36223}{}{Renda-se e eu vou fazer que sua morte seja rápida.}
 #
 # Ataqueing
 #
-{36240}{}{Feel the wrath of Kaga!}
+{36240}{}{Sinta a ira de Kaga!}
 {36241}{}{Não adianta ficar gritando por Misericórdia ...}
 {36242}{}{Vou aproveitar isto.!}
-
-
-{36243}{}{Oooo, Kaga felt that one from here,}
-{36244}{}{I'm gonna take your head back to the Elder!}
-{36245}{}{I'm gonna carve your heart out with a spoon!}
-{36246}{}{Hope you don't die as quickly as the others!}
-{36247}{}{Another Chosen One to kill!}
-
-
-
-
+{36243}{}{Oooo, Kaga sentiu isso daqui,}
+{36244}{}{Vou levar sua cabeça de volta para Anciã.}
+{36245}{}{Vou tirar seu coração para fora com uma colher!}
+{36246}{}{Espero que você não morra tão rapidamente quanto os outros!}
+{36247}{}{Outro Escolhido para matar!}
 {36248}{}{Morra!}
-{36249}{}{Scream for me.}
+{36249}{}{Grite para mim.}
 #
 # target being missed
 #
 {36260}{}{Não pode me bater!}
-{36261}{}{The spirits are protecting me.}
-{36262}{}{Hope that ain't your best shot.}
-
-
-
-{36263}{}{Bwahaha. Kaga didn't even have to duck!}
+{36261}{}{Os espíritos estão me protegendo.}
+{36262}{}{Espero que esse não seja o seu melhor tiro.}
+{36263}{}{Bwahaha. Kaga nem sequer têm de pato!}
 {36264}{}{Não pode matar aquilo que não se pode ferir!}
-
 {36265}{}{Muito lento!}
 #
 ############################################
@@ -2760,55 +2703,39 @@
 #
 #  running away
 #
-{36300}{}{This is getting to be a bad habit.}
-
-{36301}{}{Kaga needs more training.}
-{36302}{}{I'll be back. Yada yada yada I'm gonna kill you.}
-{36303}{}{You are in luck! Kaga has business elsewhere.}
-
-
-{36304}{}{You and Kaga will meet again.}
+{36300}{}{Isso está começando a ser tornar um mau hábito.}
+{36301}{}{Kaga precisa de mais treinamento.}
+{36302}{}{Eu vou estar de volta. Yada yada yada eu vou te matar.}
+{36303}{}{Você está com sorte! Kaga tem negócios em outros lugares.}
+{36304}{}{Você e Kaga se encontraram novamente.}
 {36305}{}{Vai pagar por isso... mas tarde!}
-
 #
 # moving in to Ataque
 #
-{36320}{}{Kaga and the Chosen One meet again!}
-
-{36321}{}{Let's end this!}
-{36322}{}{You will regret ever hearing the name Kaga!}
-{36323}{}{My skills have increased since we last met.}
-
-
+{36320}{}{Kaga e o Escolhido vão se encontrar novamente!}
+{36321}{}{Vamos acabar com isso!}
+{36322}{}{Você vai se arrepender de ter ouvido o nome de Kaga!}
+{36323}{}{Minhas habilidades têm aumentado desde nosso último encontro.}
 #
 # Ataqueing
 #
-{36340}{}{Feel the wrath of Kaga!}
+{36340}{}{Sinta a ira de Kaga!}
 {36341}{}{Vou aproveitar isto.!}
-
-{36342}{}{Oooo, Kaga felt that one from here.}
-{36343}{}{I'm gonna take your head back to the Elder!}
-{36344}{}{I'm gonna carve your heart out with a spoon!}
-{36345}{}{Hope you don't die as quickly as the others!}
-{36346}{}{Another Chosen One to kill!}
-
-
-
-
+{36342}{}{Oooo, Kaga sentiu isso daqui.}
+{36343}{}{Vou levar sua cabeça de volta para Anciã.}
+{36344}{}{Vou tirar seu coração para fora com uma colher!}
+{36345}{}{Espero que você não morra tão rapidamente quanto os outros!}
+{36346}{}{Outro Escolhido para matar!}
 {36347}{}{Morra!}
-{36348}{}{Scream for me}
+{36348}{}{Grite para mim}
 #
 # target being missed
 #
 {36360}{}{Não pode me bater!}
-{36361}{}{The spirits are protecting me.}
-{36362}{}{Hope that ain't your best shot.}
-
-
-
-{36363}{}{Bwahaha. Kaga didn't even have to duck!}
+{36361}{}{Os espíritos estão me protegendo.}
+{36362}{}{Espero que esse não seja o seu melhor tiro.}
+{36363}{}{Bwahaha. Kaga nem sequer têm de pato!}
 {36364}{}{Não pode matar aquilo que não se pode ferir!}
-
 {36365}{}{Muito lento!}
 #
 ############################################
@@ -2818,57 +2745,40 @@
 #
 #  running away
 #
-{36400}{}{This is getting to be a bad habit.}
-
-{36401}{}{Kaga needs more training.}
-{36402}{}{This is not the last you will see of Kaga!}
-{36403}{}{You are in luck! Kaga has business elsewhere.}
-
-
-{36404}{}{You and Kaga will meet again!}
+{36400}{}{Isso está começando a ser tornar um mau hábito.}
+{36401}{}{Kaga precisa de mais treinamento.}
+{36402}{}{Esta não é a última vez que você vai ver Kaga!}
+{36403}{}{Você está com sorte! Kaga tem negócios em outros lugares.}
+{36404}{}{Você e Kaga se encontraram novamente!}
 {36405}{}{Vai pagar por isso... mas tarde!}
-
 #
 # moving in to Ataque
 #
-{36420}{}{The Chosen One will never return to Arroyo!}
-{36421}{}{Kaga will crush you!}
-
-
-{36422}{}{Kaga fears no one!}
-{36423}{}{Let Kaga teach you new skills he has learned.}
-
+{36420}{}{O Escolhido nunca voltará para Arroyo!}
+{36421}{}{Kaga irá esmagá-lo!}
+{36422}{}{Kaga não tem medo de ninguém!}
+{36423}{}{Vamos Kaga vai ensinar novas habilidades que aprendeu.}
 #
 # Ataqueing
 #
-{36440}{}{Feel the wrath of Kaga!}
-{36441}{}{Hold still so Kaga can get a good shot.}
+{36440}{}{Sinta a ira de Kaga!}
+{36441}{}{Fique quiéto para que Kaga possa atirar melhor.}
 {36442}{}{Vou aproveitar isto.}
-
-
-{36443}{}{Oooo, Kaga felt that one from here.}
-{36444}{}{I'm gonna take your head back to the Elder!}
-{36445}{}{I'm gonna carve your heart out with a spoon!}
-{36446}{}{Hope you don't die as quickly as the others!}
-{36447}{}{Another Chosen One to kill!}
-
-
-
-
+{36443}{}{Oooo, Kaga sentiu isso daqui.}
+{36444}{}{Vou levar sua cabeça de volta para Anciã.}
+{36445}{}{Vou tirar seu coração para fora com uma colher!}
+{36446}{}{Espero que você não morra tão rapidamente quanto os outros!}
+{36447}{}{Outro Escolhido para matar!}
 {36448}{}{Morra!}
-{36449}{}{Scream for me}
+{36449}{}{Grite para mim}
 #
 # target being missed
 #
 {36460}{}{Não pode me bater!}
-{36461}{}{The spirits are protecting me.}
-{36462}{}{Hope that ain't your best shot.}
-
-
-
-{36463}{}{Bwahaha. Kaga didn't even have to duck!}
+{36461}{}{Os espíritos estão me protegendo.}
+{36462}{}{Espero que esse não seja o seu melhor tiro.}
+{36463}{}{Bwahaha. Kaga nem sequer têm de pato!}
 {36464}{}{Não pode matar aquilo que não se pode ferir!}
-
 {36465}{}{Muito lento!}
 #
 ############################################
@@ -2887,38 +2797,30 @@
 #
 # moving in to Ataque
 #
-{36520}{}{Kaga is ready for you now.}
-{36521}{}{You are no match for Kaga.}
-{36522}{}{Kaga will send you to next life.}
-{36523}{}{Kaga gonna miss you.}
+{36520}{}{Kaga está pronto para você agora.}
+{36521}{}{Você não são páreo para Kaga.}
+{36522}{}{Kaga vai te mandar para a próxima vida.}
+{36523}{}{Kaga vai sentir sua falta.}
 #
 # Ataqueing
 #
-{36540}{}{Feel the wrath of Kaga!}
-{36541}{}{Kaga will be famous for killing you!}
+{36540}{}{Sinta a ira de Kaga!}
+{36541}{}{Kaga será famoso por matar você!}
 {36542}{}{Vou aproveitar isto.!}
-
-
-{36543}{}{Oooo, Kaga felt that one from here.}
-{36544}{}{I'm gonna take your head back to the Elder.}
-{36545}{}{It ends here Chosen One!}
-
-
-{36546}{}{Kaga has to kill you now.}
+{36543}{}{Oooo, Kaga sentiu isso daqui.}
+{36544}{}{Vou levar a sua cabeça como troféu.}
+{36545}{}{O Escolhido morrerá aqui!}
+{36546}{}{Kaga tem que matá-lo agora.}
 {36547}{}{Morra!}
-{36548}{}{Scream for me}
+{36548}{}{Grite para mim}
 #
 # target being missed
 #
 {36560}{}{Não pode me bater!}
-{36561}{}{The spirits are protecting me.}
-{36562}{}{Hope that ain't your best shot.}
-
-
-
-{36563}{}{Bwahaha. Kaga didn't even have to duck!}
+{36561}{}{Os espíritos estão me protegendo.}
+{36562}{}{Espero que esse não seja o seu melhor tiro.}
+{36563}{}{Bwahaha. Kaga nem sequer têm de pato!}
 {36564}{}{Não pode matar aquilo que não se pode ferir!}
-
 {36565}{}{Muito lento!}
 #
 #
@@ -2928,80 +2830,64 @@
 #
 # target hit in head
 #
-{36600}{}{Ahhhgh! My face!}
-{36601}{}{My face! You shall suffer!}
-
-{36602}{}{Ahhhgh! I rend you into bits!}
+{36600}{}{Ahhhgh! Minha cara!}
+{36601}{}{Minha cara! Vai sofrer por isso!}
+{36602}{}{Ahhhgh! Eu fazer você em pedaços!}
 #
 # target hit in left arm
 #
 {36610}{}{Ahhhgh!}
-{36611}{}{Ai! You almost hurt Chosen!}
-{36612}{}{Ahhhgh! I snap your neck for that!}
-
-
+{36611}{}{Ai! Quase machuquei o Escolhido!}
+{36612}{}{Ahhhgh! Vou quebrar seu pescoço por isso!}
 #
 # target hit in right arm
 #
 {36620}{}{Ahhhgh!}
-{36621}{}{Ai! You almost hurt Chosen!}
-
-{36622}{}{Ahhhgh! I snap your neck for that!}
+{36621}{}{Ai! Quase machuquei o Escolhido!}
+{36622}{}{Ahhhgh! Vou quebrar seu pescoço por isso!}
 #
 # target hit in torso
 #
 {36630}{}{Oof!}
 {36631}{}{Grrr!}
-{36632}{}{I kill you for that!}
-{36633}{}{You no hurt me when you dead!}
-{36634}{}{I laugh at your feeble Ataque!}
-
-
-
+{36632}{}{Vou matá-lo por isso!}
+{36633}{}{Não vai me machucar quando estiver morto!}
+{36634}{}{Eu rio de seu fraco Ataque!}
 {36635}{}{Oh!}
-{36636}{}{I'm gonna dip you!}
-
-{36637}{}{Grrr! You anger me.}
+{36636}{}{Vou acabar com você!}
+{36637}{}{Grrr! Você me irritar.}
 {36638}{}{Agh!}
-{36639}{}{I will return this pain to you!}
-
+{36639}{}{Te devolverei a mesma dor!}
 {36640}{}{Oof!}
 {36641}{}{Ouch!}
-{36642}{}{Hmm, you might be trouble.}
-{36643}{}{Grrr! I look forward to your Morte.}
-{36644}{}{You can hurt me but you cannot win!}
-{36645}{}{Ai! That wasn't a good idea to hurt me.}
-
-
-
+{36642}{}{Hmm, você pode ser um problema.}
+{36643}{}{Grrr! Estou ansioso por sua Morte}
+{36644}{}{Pode me machucar, mas jamais vai vencer}
+{36645}{}{Ai! Isso não foi uma boa idéia.}
 #
 # target hit in right leg
 #
 {36660}{}{Ahhhgh! Minha perna!}
-{36661}{}{You call that pain? I laugh!}
-{36662}{}{Ahhhgh! I snap your neck for that!}
-
-
+{36661}{}{Você chama isso de dor? Eu brinco!}
+{36662}{}{Ahhhgh! Vou quebrar seu pescoço por isso!}
 #
 # target hit in left leg
 #
 {36670}{}{Ahhhgh! Minha perna!}
-{36671}{}{You call that pain? I laugh!}
-{36672}{}{Ahhhgh! I shall snap your neck for that!}
-
-
+{36671}{}{Você chama isso de dor? Eu brinco!}
+{36672}{}{Ahhhgh! Vou quebrar seu pescoço por isso!}
 #
 # target hit in eyes
 #
-{36680}{}{Ahhhgh! Miserable human! I am blind!}
-{36681}{}{Ahhhgh! Pain! What have you done!}
-{36682}{}{Ahhhgh! I will torture you many days!}
+{36680}{}{Ahhhgh! Humano miserável! Estou cego!}
+{36681}{}{Ahhhgh! Dor! O que você fez!}
+{36682}{}{Ahhhgh! Eu vou te torturar por muitos dias!}
 
 #
 # target hit in groin
 #
 {36690}{}{That is human weakness!}
-{36691}{}{You call that pain? I laugh!}
+{36691}{}{Você chama isso de dor? Eu brinco!}
 {36692}{}{You are stupid, human!}
 {36693}{}{Why you Ataque me there?}
 {36694}{}{I will hurt you for many hours}
@@ -3170,7 +3056,7 @@
 
 {44832}{}{Ouch! I hate gut shots.}
 {44833}{}{Arrgghh! Chest pains!} 
-{44834}{}{Solar plexus... eegad that hurts!}
+{44834}{}{Solar plexus... eegad isso dóis!}
 {44835}{}{Is this a fight or are you just trying to get my attention?}
 {44836}{}{Let me know if that was supposed to hurt. I'll cry for you.}
 {44837}{}{Did your mama teach you how to fight?}
@@ -3189,7 +3075,7 @@
 
 
 
-{44844}{}{Yeeeouch! That hurts!}
+{44844}{}{Yeeeouch! isso dóis!}
 {44845}{}{That didn't hurt at all}
 {44846}{}{Where's a stimpak when you need one?}
 {44847}{}{As soon as I can move again, you've had it}
@@ -3316,7 +3202,7 @@
 {44946}{}{I'm the one who put the 'Morte' in Morteclaw!}
 {44947}{}{It's better to give than to receive!}
 {44948}{}{I hope you're enjoying this as much as I am!}
-{44949}{}{Did that hurt? If not I can do it harder next time.}
+{44949}{}{Did isso dói? If not I can do it harder next time.}
 {44950}{}{We have a bleeder over here!}
 {44951}{}{It'll take more than a stimpak to fix you when I'm done.}
 {44952}{}{I hope you have Médicoal insurance. You're going to need it.}
@@ -3361,7 +3247,7 @@
 {44965}{}{How could I possibly miss anything as big as you are!}
 {44966}{}{As soon as I get ranged in you're in trouble.}
 {44967}{}{You're a nimble little shit aren't you.}
-{44968}{}{I'm glad my mother didn't see me do that.}
+{44968}{}{I'm glad my mãe didn't see me do that.}
 {44969}{}{Why am I swinging over there when you're over here?}
 {44970}{}{How embarrassing. Please don't tell anyone I did that.}
 {44971}{}{That really pisses me off!}
