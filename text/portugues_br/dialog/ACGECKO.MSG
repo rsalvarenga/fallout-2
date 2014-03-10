@@ -1,0 +1,2 @@
+{100}{}{O gecko zomba de você.}  
+{101}{}{O gecko zomba de }

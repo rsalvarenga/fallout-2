@@ -1,8 +1,8 @@
-Geovany estÃ¡ traduzindo....
-{100}{}{VocÃª vÃª Mr. Cheater.}
+#Geovany esta traduzindo....
+{100}{}{Você vê Mr. Cheater.}
 {101}{}{Ele ainda se parece com um trapaceiro.}
-{200}{}{OlÃ¡ eu sou Mr. Cheater. Como posso ajudÃ¡-lo?}
-{201}{}{VocÃª vai raptar minha tribo?}
+{200}{}{Olá eu sou Mr. Cheater. Como posso ajudá-lo?}
+{201}{}{Você vai raptar minha tribo?}
 {202}{}{Will you put me on the Shi quest?}
 {203}{}{Will you put me on the Elron quest?}
 {204}{}{Will you put me on the Brotherhood quest?}
