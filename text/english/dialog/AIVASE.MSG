@@ -27,5 +27,5 @@
 #  glanced and and examined.                                #
 #############################################################
 
-{100}{}{Veja é só um simples vaso.}
+{100}{}{Veja é só um vaso simples.}
 {101}{}{Veja é só um vaso de barro cozido ao sol.}
