@@ -27,4 +27,4 @@
 #  what is happening when you first enter the map.          #
 #############################################################
 
-{100}{}{You are once more in the village of your birth, Arroyo.}
+{100}{}{Você está novamente na cidade em que nasceu, Arroyo.}
