@@ -1,5 +1,5 @@
 #############################################################
-#  Message File: Broken1.msg                                #
+#  Message File: Broken2.msg                                #
 #                                                           #
 #  Note: Characters within curly braces (like line 100)     #
 #        will be read in as a message string. Caution       #
@@ -27,4 +27,4 @@
 #  what is happening when you first enter the map.          #
 #############################################################
 
-{100}{}{VocÃª chegou na pequena cidade de Broken Hills.}
+{100}{}{Você chegou ao leste de Broken Hills.}

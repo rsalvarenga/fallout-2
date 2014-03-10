@@ -1,5 +1,5 @@
 #############################################################
-#  Message File: ArBridge.msg                               #
+#  Message File: Broken1.msg                                #
 #                                                           #
 #  Note: Characters within curly braces (like line 100)     #
 #        will be read in as a message string. Caution       #
@@ -17,7 +17,7 @@
 #  Log: Please note any changes that have been made to this #
 #       file and comment which lines have changed.          #
 #                                                           #
-#  Created: December 04, 1997                               #
+#  Created: July 04, 1998                                   #
 #                                                           #
 #  Updated:                                                 #
 #############################################################
@@ -27,4 +27,4 @@
 #  what is happening when you first enter the map.          #
 #############################################################
 
-{100}{}{Você está na Grande Ponte, a passagem que junta sua vila a grande Wasteland.}
+{100}{}{Voc� chegou na pequena cidade de Broken Hills.}

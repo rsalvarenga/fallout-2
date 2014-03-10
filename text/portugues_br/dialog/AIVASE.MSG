@@ -1,5 +1,5 @@
 #############################################################
-#  Message File: Broken2.msg                                #
+#  Message File: AIVase.msg                                 #
 #                                                           #
 #  Note: Characters within curly braces (like line 100)     #
 #        will be read in as a message string. Caution       #
@@ -17,14 +17,15 @@
 #  Log: Please note any changes that have been made to this #
 #       file and comment which lines have changed.          #
 #                                                           #
-#  Created: July 04, 1998                                   #
+#  Created: December 04, 1997                               #
 #                                                           #
 #  Updated:                                                 #
 #############################################################
 
 #############################################################
-#  The following lines are for the map script in describing #
-#  what is happening when you first enter the map.          #
+#  The following lines are for describing the item when     #
+#  glanced and and examined.                                #
 #############################################################
 
-{100}{}{VocÃª chegou ao leste de Broken Hills.}
+{100}{}{Veja é só um vaso simples.}
+{101}{}{Veja é só um vaso de barro cozido ao sol.}

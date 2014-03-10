@@ -1,0 +1,8 @@
+{150}{}{Saia da nossa terra.}
+{151}{}{Você entrou sem permissão.}
+{152}{}{Esta é a nossa terra.}
+{153}{}{Que os espíritos do céu façam xixi em cima de você.}
+{154}{}{Que o espírito da terra te consuma.}
+{155}{}{Que os espíritos do vento soprem um mau cheiro em sua direção.}
+{156}{}{Que os espíritos da água te abandonem.}
+{157}{}{Que os grandes espíritos do fogo te amaldiçoem.}

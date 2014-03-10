@@ -1,0 +1,9 @@
+{100}{}{Você vê o Jordan, rodopiando sua lança como sempre.} 
+{101}{}{Você vê o Jordan, rodopiando sua lança como sempre.}
+{102}{}{Boa sorte! Eu devo voltar ao meu treinamento.} 
+{103}{}{Olá Escolhido. Eu percebo que você precisa de um pequeno treinamento. Eu posso ajudar?} 
+{104}{}{Claro.}
+{105}{}{Não obrigado.}
+{106}{}{Isso vai levar um tempinho.} 
+{107}{}{Aí está, você aprendeu tudo que eu podia te ensinar sobre lanças.}
+{108}{}{Obrigado Jordan, isso vai ajudar bastante.}

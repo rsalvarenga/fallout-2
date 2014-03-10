@@ -1,5 +1,5 @@
 #############################################################
-#  Message File: AIVase.msg                                 #
+#  Message File: ArVillag.msg                               #
 #                                                           #
 #  Note: Characters within curly braces (like line 100)     #
 #        will be read in as a message string. Caution       #
@@ -23,13 +23,8 @@
 #############################################################
 
 #############################################################
-#  The following lines are for describing the item when     #
-#  glanced and and examined.                                #
+#  The following lines are for the map script in describing #
+#  what is happening when you first enter the map.          #
 #############################################################
 
-# Geovany97 está traduzindo este arquivo.
-{100}{}{Veja é só um vaso simples.}
-{101}{}{Veja é um baú pequeno.}
-{102}{}{Veja é só um vaso de barro cozido ao sol.}
-{103}{}{Olha é uma caixa de ervas do xamã.}
-{104}{}{You deftly steal from the shaman's things.}
+{100}{}{Voc� est� novamente na cidade em que nasceu, Arroyo.}
