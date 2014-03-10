@@ -27,4 +27,4 @@
 #  what is happening when you first enter the map.          #
 #############################################################
 
-{100}{}{You have entered the small town of Broken Hills.}
+{100}{}{Você chegou na pequena cidade de Broken Hills.}
