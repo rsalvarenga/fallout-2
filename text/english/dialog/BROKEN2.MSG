@@ -27,4 +27,4 @@
 #  what is happening when you first enter the map.          #
 #############################################################
 
-{100}{}{You have entered the East side of Broken Hills.}
+{100}{}{Você chegou ao leste de Broken Hills.}
