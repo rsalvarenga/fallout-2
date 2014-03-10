@@ -58,7 +58,6 @@
 # target hit in right arm
 #
 {1020}{}{Ow, o meu braço!}
-
 {1021}{}{Wahhhh!}
 {1022}{}{Meu Deus! Meu braço!}
 
@@ -67,34 +66,27 @@
 #
 {1030}{}{Ai! Isso realmente dói!}
 {1031}{}{Eu acho que vou desmaiar}
-
-
 {1032}{}{Ouch!}
 {1033}{}{Uuuuf!}
-
 {1034}{}{Isso dói!}
 {1035}{}{Me deixe em paz!}
-
 {1036}{}{Ohhh, dor!}
 #
 # target hit in right leg
 #
 {1060}{}{Ow, minha perna!}
 {1061}{}{Meu joelho!}
-
 {1062}{}{Ai!}
 #
 # target hit in left leg
 #
 {1070}{}{Ow, minha perna!}
 {1071}{}{Meu joelho!}
-
 {1072}{}{Aaaarrrrggghhh!}
 #
 # target hit in eyes
 #
 {1080}{}{Ai! Meus olhos!}
-
 {1081}{}{Minha cara! Meus olhos! Arrrrgh!}
 {1082}{}{Meus olhos!}
 
@@ -116,8 +108,6 @@
 #
 {1100}{}{Maldição!}
 {1101}{}{Meu crânio doendo!}
-
-
 {1102}{}{A minha cara! A minha cara!}
 #
 # target hit in left arm
