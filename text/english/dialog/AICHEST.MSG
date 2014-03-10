@@ -28,8 +28,8 @@
 #############################################################
 
 # Geovany97 está traduzindo este arquivo.
-{100}{}{You see a simple vase.}
-{101}{}{You see a small chest.}
-{102}{}{You see a sun-baked clay vase.}
-{103}{}{You see a chest for the shaman's herbs.}
+{100}{}{Veja é só um vaso simples.}
+{101}{}{Veja é um baú pequeno.}
+{102}{}{Veja é só um vaso de barro cozido ao sol.}
+{103}{}{Olha é uma caixa de ervas do xamã.}
 {104}{}{You deftly steal from the shaman's things.}
