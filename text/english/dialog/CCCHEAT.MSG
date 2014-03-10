@@ -1,7 +1,8 @@
-{100}{}{You see Mr. Cheater.}
-{101}{}{He still looks like a cheater.}
-{200}{}{Hello I am Mr. Cheater. How may I help you?}
-{201}{}{Will you kidnap my tribe?}
+Geovany está traduzindo....
+{100}{}{Você vê Mr. Cheater.}
+{101}{}{Ele ainda se parece com um trapaceiro.}
+{200}{}{Olá eu sou Mr. Cheater. Como posso ajudá-lo?}
+{201}{}{Você vai raptar minha tribo?}
 {202}{}{Will you put me on the Shi quest?}
 {203}{}{Will you put me on the Elron quest?}
 {204}{}{Will you put me on the Brotherhood quest?}
