@@ -160,7 +160,16 @@
 {1087}{}{Los ojos no, por favor, eso no.}
 {1088}{}{Estoy ciego, mátame. :solloza:}
 {1089}{}{¿Dónde está mi ojo? Si tan sólo pudiera volver a colocarlo en su sitio...}
-#
+
+
+
+
+
+
+
+
+
+##
 # target hit in groin
 #
 {1090}{}{¡Ooooooooo, mi ingle! Oooooooh...}
