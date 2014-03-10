@@ -1,3 +1,4 @@
+XDathz está traduzindo esse arquivo.
 {100}{}{You see Morlis, one of your aunts -- the one who never liked you.}
 {101}{}{Why do you bother me, nephew? Can't you see I'm busy?}
 {301}{}{Why do you bother me, niece? Can't you see I'm busy?}
