@@ -1,105 +1,105 @@
-{100}{}{You see Cameron, a fellow tribesman.}
-{101}{}{You see Cameron.}
-{102}{}{You see a young man with bulging muscles and a very confident air about him.}
-{103}{}{Greetings, }
-{104}{}{. I have the honor of being your final challenge. To continue in your quest you must defeat
- me in unarmed combat. Shall we begin?}
-{105}{}{Me got questions.}
-{106}{}{Okay, we fight.}
-{107}{}{No, me get ready first.}
-{108}{}{I've got some questions for you first.}
-{109}{}{Sure, let's party.}
-{110}{}{I think I need a moment to prepare for this.}
-{111}{}{What would you like to know? }
-{112}{}{Why we fight?}
-{113}{}{We fight to death?}
-{114}{}{We fight unarmed?}
-{115}{}{Okay, we fight now.}
-{116}{}{Me need get ready.}
-{117}{}{Why do we have to fight?}
-{118}{}{Is this a fight to the death?}
-{119}{}{You say that we are to fight unarmed?}
-{120}{}{Let's get this fight over with.}
-{121}{}{I need a moment to prepare for the fight.}
-{122}{}{The path of the Chosen One is not an easy trail to walk, }
-{123}{}{. You will be faced with many challenges throughout your lifetime, and the most difficult
- of these will be dealing with your fellow man. There will come a time when diplomacy and tact
- will prove to be useless and your hand must be raised instead. This challenge prepares you to face
- another human, look him in the eyes, and know that you may have to kill him.}
+{100}{}{Vá vê Cameron, um companheiro da tribo.}
+{101}{}{Você está vendo Cameron.}
+{102}{}{Você está vendo um homem muito confiante e musculoso.}
+{103}{}{Saudações, }
+{104}{}{. Tenho a honra de ser seu último desafio. Para terminar seu teste você deve me derrotar
+ em combate desarmado. Você está pronto?}
+{105}{}{Tenho umas perguntas.}
+{106}{}{Ok, vamos lutar.}
+{107}{}{Não, você tem que se preparar primeiro.}
+{108}{}{Eu tenho algumas dúvidas para tirar com você em primeiro lugar.}
+{109}{}{OK, agora vamos nos divertir.}
+{110}{}{Acho que preciso de um momento para se preparar.}
+{111}{}{O que você quer saber?}
+{112}{}{Por que tem que lutar?}
+{113}{}{Nós vamos lutar até a morte?}
+{114}{}{Vamos lutar desarmados?}
+{115}{}{Ok, agora vamos lutar.}
+{116}{}{Eu preciso ficar pronto.}
+{117}{}{Por que nós temos que lutar?}
+{118}{}{Isso vai ser uma luta até a morte?}
+{119}{}{Você está dizendo que vamos lutar desarmado?}
+{120}{}{Vamos acabar com isso.}
+{121}{}{Espere, ainda preciso de um tempo para se preparar.}
+{122}{}{Escolhido, o caminho não é uma estrada fácil de se andar. }
+{123}{}{. Você vai se deparar com muitos desafios ao logo de sua vida, eo mais difícil
+ deles será o de lidar contra um companheiro de sua equipe. Chegará um momento em que nem a diplomacia nem a sagacidade
+ será útil. Este desafio vai te preparar para lidar com outro ser humano,
+ olhar em seus olhos e saber se você vai ter que matá-lo.}
 {124}{}{Okay.}
-{125}{}{I see.}
-{126}{}{No, my friend, you need only defeat me. When the time comes, we will end the battle.}
-{127}{}{Me understand.}
-{128}{}{All right.}
+{125}{}{Estou vendo.}
+{126}{}{Não, meu amigo, você só precisa me derrotar. Quando você fizer isso, acabaremos com a batalha.}
+{127}{}{Eu entendo.}
+{128}{}{Tudo bem.}
 {129}{}{Yes. Weapons tend to distance us from battle and desensitize the effects of our actions
  against others. When you strike another human being with your bare fist, you both see and feel the
  pain you cause. Battle becomes very personal and all too real then. This is an important lesson for
  you, }
 {130}{}{.}
-{131}{}{Me got it.}
+{131}{}{Eu entendo.}
 {132}{}{I understand.}
-{133}{}{Very well. Shall we begin?}
-{134}{}{Me ready.}
-{135}{}{No, me get ready first.}
-{136}{}{I'm ready.}
-{137}{}{No, I need some time to prepare.}
-{138}{}{Very well. Return and tell me when you are ready for your challenge.}
-{139}{}{Are you ready for your challenge, }
+{133}{}{Muito bem. Vamos começar?}
+{134}{}{Estou pronto.}
+{135}{}{Não, eu tenho que ficar pronto primeiro.}
+{136}{}{Estou pronto.}
+{137}{}{Não, eu preciso de algum tempo para se preparar.}
+{138}{}{Muito bem. Quando você estiver pronto volte e diga-me para continuarmos o seu desafio.}
+{139}{}{Você está pronto para o seu desafio, }
 {140}{}{?}
-{141}{}{Me ready. }
-{142}{}{Me not ready yet.}
-{143}{}{I think so.}
-{144}{}{No, give me a minute.}
-{145}{}{Excellent! Your equipment will be kept in the trunk outside of the room.
- You can get it after the fight. Let the fight begin! Good luck to you }
+{141}{}{Estou pronto. }
+{142}{}{Ainda não estou pronto.}
+{143}{}{Acho que sim.}
+{144}{}{Não, me dê um minuto.}
+{145}{}{Excelente! Seu equipamento será armazenado na entrada da sala.
+ Você poderá recuperá-lo após o desafio. Que começe o desafio! Boa sorte para você }
 {146}{}{.}
-{147}{}{It is good to see you again, Chosen One. How may I help you?}
-{148}{}{Me want visit temple again.}
-{149}{}{Want fight again?}
-{150}{}{Just say hello. Me go now.}
-{151}{}{I'd like to visit the temple again.}
-{152}{}{Hello, Cameron. Ready for another fight?}
-{153}{}{Just thought I'd say hi. See you later.}
-{154}{}{Take the path to my left, Chosen One. It leads to the temple proper.
- The cave entrance behind me will return you to the last chamber.}
-{155}{}{Okay, me go.}
-{156}{}{All right. Thanks}
-{157}{}{No thank you, Chosen One. I still carry the bruises from our last encounter and will need
- years to recover!}
-{158}{}{Go bye, Cameron.}
-{159}{}{Ha! Good day to you, Cameron.}
-{160}{}{Chosen One, my ass. I am going to make you the dead one!}
-{161}{}{You have defeated me. You are worthy, Chosen One.}
-{165}{}{I disagree with you. I think that a peaceful solution to any problem is possible.}
-{166}{}{You may be correct, }
-{167}{}{, but not in our current situation. You must defeat me to succeed in your trial.}
-{168}{}{Look, I don't know all of your strengths and weaknesses, and you don't know mine.
- Accidents do happen, so what if one of us inadvertently kills the other? Let's just
- end this now rather than take that chance, okay?}
-{169}{}{Hmm... I see your point. I wouldn't want to be responsible for
- killing you when all I meant to do was test your mettle. Very well -- you may
- pass, Chosen One.}
-{170}{}{Hmm... I see your point. However, we must still do battle. I will
- simply take care not to hurt you too much.}
-{171}{}{Thanks! I'll see you back in the village.}
-{172}{}{I see.}
+{147}{}{É um prazer vê-lo novamente, Escolhido. Como posso ajudá-lo?}
+{148}{}{Eu quero entrar no templo outra vez.
+{149}{}{Quer lutar novamente?}
+{150}{}{Apenas vim dizer olá. Saindo agora.}
+{151}{}{Eu gostaria de visitar o templo novamente.}
+{152}{}{Olá, Cameron. Está preparado para outro combate?}
+{153}{}{Só queria dizer um oi. Até mais.}
+{154}{}{Pegue o caminho à minha esquerda, Escolhido. Isso vai te levar ao templo.
+ A entrada da caverna atrás de mim faz voltar para a última câmara.}
+{155}{}{Okay, agora tenho que ir.}
+{156}{}{Tudo bem.}
+{157}{}{Escolhido, não obrigado. Eu ainda carrego as feridas do nosso último encontro e eu vou precisar
+ de tempo para se recuperar!}
+{158}{}{Adeus, Cameron.}
+{159}{}{Bom dia para você, Cameron.}
+{160}{}{Escolhido, uma ova. Eu vou fazer de você um homem morto!}
+{161}{}{Você me derrotou. Você é digno, Escolhido}
+{165}{}{Eu discordo de você. Eu acho que sempre vai ter uma solução pacífica para qualquer problema.}
+{166}{}{Você pode está certo, }
+{167}{}{, mas não em nossa situação atual. Você tem que me derrotar para concluir o teste.}
+{168}{}{Olha, eu não sei de todos os seus pontos fortes e fracos, e nem os meus.
+ Acidentes acontencem, e se um de nós acidentalmente matar o outro? Vamos acabar
+ logo com isso antes que aconteça alguma coisa, ok?}
+{169}{}{Hmmm... faz sentido. Eu não gostaria de ser o responsável por
+ sua morte, tudo que eu queria era provar o seu valor. Muito bem - você
+ pode passar, Escolhido.}
+{170}{}{Hmm... faz sentindo. No entando, ainda temos que batalhar. Eu vou
+ simplesmente ter o cuidado para não te machucar.}
+{171}{}{Obrigado! Vejo você na aldeia.}
+{172}{}{Eu entendo.}
 
-{200}{}{I don't seem to remember our last battle, Chosen One. I will always wonder how you managed
- to get past me.}
-{201}{}{You have a tongue of purest silver, Chosen One. Your skill with words will open many doors
- for you.}
+{200}{}{Ainda me lembro da nossa última batalha, Escolhido. Eu sempre estou me perguntando como foi que
+ você me derrotar.}
+{201}{}{Você tem uma língua de ouro, Escolhido. Sua habilidade com as palavras vão-lhe abrir muitas
+ portas.}
 
-{300}{}{And to you as well, Chosen One. May the spirits guide you on your quest.}
-{301}{}{Thanks, Cameron.}
+{300}{}{Para você também, Escolhido. Que os espíritos guiem em sua busca.}
+{301}{}{Obrigado, Cameron.}
 
-{302}{}{Chosen One, I could not help but notice that you lack strong combat skills. It has been my experience that you cannot always rely on your wits or words for protection. With your permission I will teach you a few things that I think you will find most useful.}
-{303}{}{Yes, you teach.}
-{304}{}{No, me not need.}
-{305}{}{Yes, please teach me all that you can.}
-{306}{}{Thanks, but I think I can handle myself just fine.}
-{307}{}{You learn well, Chosen One. I think you will be able to handle yourself in a fight now. However, remember that even the strongest of warriors must sometimes retreat. There is no shame in living to fight another day.}
-{308}{}{Me thank you, Cameron.}
-{309}{}{Thanks, Cameron. I will remember your words.}
-{310}{}{Very well. Return to me if you change your mind.}
-{311}{}{Me thank you, Cameron.}
-{312}{}{Thanks, Cameron. I will remember your offer.}
+{302}{}{Escolhido, não pude deixar de notar que você não tem habilidades em combate fortes. Minha experiência me diz que você não pode sempre confiar em usar sua inteligência ou na sua língua para lhe proteger. Com sua permissão vou te ensinar algumas técnicas que eu acho que você vai achar muito úteis.}
+{303}{}{Sim, você pode me ensinar.}
+{304}{}{Não, não quero sua ajuda.}
+{305}{}{Sim, por favor me ensine tudo o que você puder.}
+{306}{}{Obrigado, mas eu acho que posso me cuidar sozinho.}
+{307}{}{Você aprende rápido, Escolhido. Acho que agora em diante você será capaz de se lidar sozinho. Mas lembre-se que mesmo o mais forte dos guerreiros as vezes, devem recuar. Não há vergonha em viver para lutar no outro dia.}
+{308}{}{Muito obrigado, Cameron.}
+{309}{}{Obrigado, Cameron. Eu lembrarei de suas palavras.}
+{310}{}{Okay, caso mude de idéia, é só voltar aqui.}
+{311}{}{Obrigado, Cameron.}
+{312}{}{Obrigado, Cameron. Eu vou me lembrar dessa oferta.}
