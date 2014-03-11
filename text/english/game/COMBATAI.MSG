@@ -267,66 +267,51 @@
 {1162}{}{Lá se vai o meu joelho!}
 {1163}{}{Minha carrera no mundo do balé acabou.}
 {1164}{}{Meu joelho ja era.}
-{1165}{}{Where's the lower half of my leg? Where is it?!?}
-{1166}{}{It hurts to move.}
-{1167}{}{I've been hit. I can't feel my leg.}
-{1168}{}{It hurts, somebody make it stop!}
-{1169}{}{The pain! Oh, the pain!}
+{1165}{}{Onde está a parte de baixo da minha perna? Onde ele está?!?}
+{1166}{}{Dói para se mover.}
+{1167}{}{Fui atingido. Não posso sentir minha perna.}
+{1168}{}{Que dor, alguém faça parar!}
+{1169}{}{Que dor, Que dor, Que dor!}
 #
 # target hit in left leg
 #
 {1170}{}{Aggghhh! Minha perna!}
 {1171}{}{Minha perna!}
 {1172}{}{Lá se vai o meu joelho!}
-{1173}{}{I can't feel my leg at all.}
-{1174}{}{I guess I better find myself a parrot and an eyepatch.}
-
-
-
-{1175}{}{Just call me stumpy.}
-{1176}{}{I'll never be able to support my family now.}
-{1177}{}{Who'll hire me now?}
-{1178}{}{I'm no good to anyone as a cripple. (sob, sob)}
-
-
-
-{1179}{}{My leg, I can't feel it.}
+{1173}{}{Não sindo minhas pernas.}
+{1174}{}{Acho melhor encontrar com um papagaio e um tapa-olho.}
+{1175}{}{Agora você pode me chamar compacto.}
+{1176}{}{Agora nunca vou ser capaz de sustentar a minha família.}
+{1177}{}{Quem me vai contratar agora?}
+{1178}{}{Eu não sou bom a ninguém como um aleijado. (soluço, soluço).}
+{1179}{}{A minha perna, eu não posso senti-la.}
 #
 # target hit in eyes
 #
-{1180}{}{Aggghhh! I'm blind!}
-{1181}{}{My eyes! My eyes!}
-{1182}{}{My eye! You'll pay for that one!}
+{1180}{}{Aggghhh! Estou cego!}
+{1181}{}{Meus olhos! Meus olhos!}
+{1182}{}{O meu olho! Você vai pagar por isso!}
 
-
-{1183}{}{You tore my eye out.}
+{1183}{}{Você arrancouu meu olho fora.}
 {1184}{}{Quem apagou a luz?}
-
-{1185}{}{My eye! Aiiieeeee!}
-{1186}{}{I sure wish I could see just one more sunset.}
-{1187}{}{My eye, I can't see anything!}
-{1188}{}{It's so dark, and lonely all of a sudden.}
-{1189}{}{I'd give anything to see again.}
-
-
-
-
+{1185}{}{Meus olho! Aiiieeeee!}
+{1186}{}{Eu com certeza gostaria de poder ver apenas mais um pôr do sol.}
+{1187}{}{Meu olho, eu não consigo ver nada!}
+{1188}{}{De repente tudo ficou tão escuro e solitário.}
+{1189}{}{Daria tudo para ver novamente.}
 #
 # target hit in groin
 #
-{1190}{}{Oooooo, my groin!}
+{1190}{}{Oooooo, minha virilha!}
 {1191}{}{Oooooooooo!}
-
-{1192}{}{I...can't...breathe...}
-{1193}{}{Erg! Right in the jewels!}
-
-{1194}{}{The pain, the pain...}
+{1192}{}{Eu... não posso... respirar...}
+{1193}{}{Erg! Direto nas jóias!}
+{1194}{}{A dor, a dor ...}
 {1195}{}{Maldição, that hurts!}
-
-{1196}{}{No more kids for me.}
-{1197}{}{*unh* low blow.}
+{1196}{}{Eu não vou ter mais filhos.}
+{1197}{}{*unh* Um golpe baixo.}
 {1198}{}{Eeeeeep!}
-{1199}{}{Oh yeah, that hurts.}
+{1199}{}{Oh sim, isso dói.}
 #
 ############################################
 # 1200 Tough Person
@@ -334,28 +319,21 @@
 #
 # target hit in head
 #
-{1200}{}{Ow! You son of a...}
-{1201}{}{You broke my nose!}
-{1202}{}{I'll take your head off!}
-{1203}{}{You hit my fuckin' skull!}
-{1204}{}{Gotta try harder than that, but not much harder.}
-
-
-
-
-{1205}{}{Ouch, that's going to cost you.}
-{1206}{}{Oh, look at all the pretty birdies.}
-
-{1207}{}{That hurt.}
-{1208}{}{You fucked up my pretty face.}
-{1209}{}{That's going to leave a scar.}
-
-
+{1200}{}{Ai! Seu filho da ...}
+{1201}{}{Você quebrou meu nariz!}
+{1202}{}{Eu vou arrancar sua cabeça!}
+{1203}{}{Você atingiu minha a porra da minha cabeça!}
+{1204}{}{Terá que acertar mais forte que isso, mas não muito.}
+{1205}{}{Ouch, vai pagar por isso.}
+{1206}{}{Oh, olhe para todos os passarinhos.}
+{1207}{}{Isso dói.}
+{1208}{}{Você fudeu com a minha linda cara.}
+{1209}{}{Isso vai deixar uma cicatriz.}
 #
 # target hit in left arm
 #
-{1210}{}{Ow, my arm.}
-{1211}{}{You just made the biggest mistake of your life.}
+{1210}{}{Ow, meu braço.}
+{1211}{}{Você acabou de fazer o maior erro de sua vida.}
 
 {1212}{}{Meu braço!}
 {1213}{}{Hah, I'm right handed.}
@@ -374,8 +352,8 @@
 #
 # target hit in right arm
 #
-{1220}{}{Ow, my arm.}
-{1221}{}{You just made the biggest mistake of your life.}
+{1220}{}{Ow, meu braço.}
+{1221}{}{Você acabou de fazer o maior erro de sua vida.}
 
 {1222}{}{Meu braço!}
 {1223}{}{I can take you left handed.}
@@ -388,7 +366,7 @@
 
 
 
-{1228}{}{Maldição, that hurt.}
+{1228}{}{Maldição, Isso dói.}
 {1229}{}{Mmm, that's going to leave a mark.}
 #
 # target hit in torso
@@ -509,7 +487,7 @@
 #
 # target hit in groin
 #
-{1290}{}{Oooooo, my groin!}
+{1290}{}{Oooooo, minha virilha!}
 {1291}{}{I'll feel that in the morning.}
 {1292}{}{Fucking coward!}
 
@@ -583,7 +561,7 @@
 {1321}{}{It's just a scratch...}
 {1322}{}{You broke my arm, so I'm gonna break your neck.}
 {1323}{}{I only need one arm to take you out.}
-{1324}{}{Took off another finger. That hurt.}
+{1324}{}{Took off another finger. Isso dói.}
 {1325}{}{I don't need that arm anyway.}
 {1326}{}{That's more than a scratch.}
 
@@ -591,7 +569,7 @@
 
 
 
-{1327}{}{Goddamn that hurt.}
+{1327}{}{Goddamn Isso dói.}
 {1328}{}{That'll need stitches.}
 {1329}{}{I'll tear out your liver for that.}
 
@@ -690,7 +668,7 @@
 
 
 
-{1379}{}{Just call me stumpy.}
+{1379}{}{Agora você pode me chamar compacto.}
 #
 # target hit in eyes
 #
@@ -1145,7 +1123,7 @@
 # target hit in eyes
 #
 {1680}{}{Maldição blood in my eyes!}
-{1681}{}{My eye! You'll pay for that one!}
+{1681}{}{O meu olho! Você vai pagar por isso!}
 
 
 {1682}{}{Bastard!}
@@ -1154,7 +1132,7 @@
 {1685}{}{Squishes like a ripe grape, don't it?}
 {1686}{}{I've got my eye on you, uh, could you hand it back please?}
 {1687}{}{I can still track you by sound alone!}
-{1688}{}{Aiyeee! Aiyeee! My eye!}
+{1688}{}{Aiyeee! Aiyeee! Meus olho!}
 {1689}{}{You're blinding me 'cause you're afraid, ain't ya.}
 
 
@@ -1180,7 +1158,7 @@
 
 
 
-{1698}{}{Oohh, that hurt.}
+{1698}{}{Oohh, Isso dói.}
 {1699}{}{Did that...? Oh, yeah, that hurts.}
 
 {1700}{}{Hey look! Prairie oysters.}
@@ -1350,7 +1328,7 @@
 #
 {1880}{}{That didn't FEEL like a needle in my eye...}
 {1881}{}{Hey! I see with that eye!}
-{1882}{}{My eyes! My eyes! My eyes hurt!}
+{1882}{}{Meus olhos! Meus olhos! My eyes hurt!}
 
 
 
@@ -3137,7 +3115,7 @@
 #
 # target hit in eyes
 #
-{12380}{}{My eye! My beautiful eye!}
+{12380}{}{Meus olho! My beautiful eye!}
 {12381}{}{Trying to cripple my depth perception, huh?}
 
 
@@ -3803,12 +3781,12 @@
 #
 # target hit in groin
 #
-{32090}{}{Ooooooooo, my groin! Ooooooo...}
+{32090}{}{OooOooooo, minha virilha! Ooooooo...}
 {32091}{}{I... I... ouch...}
 {32092}{}{::whimper::}
 {32093}{}{::vomit::}
-{32094}{}{I...can't...breathe...}
-{32095}{}{The pain, the pain...}
+{32094}{}{Eu... não posso... respirar...}
+{32095}{}{A dor, a dor ...}
 #
 ############################################
 # 32100 The Dragon
@@ -4242,11 +4220,11 @@
 #
 # target hit in groin
 #
-{32790}{}{Ooooooooo, my groin! Ooooooo...}
+{32790}{}{OooOooooo, minha virilha! Ooooooo...}
 {32791}{}{Oww...It burns!}
 {32792}{}{Urp!}
 {32793}{}{::gasp::}
-{32794}{}{I...can't...breathe...}
+{32794}{}{Eu... não posso... respirar...}
 {32795}{}{good thing... I'm already... sterile...}
 #
 ############################################
@@ -4491,7 +4469,7 @@
 {33232}{}{::panting::}
 {33233}{}{Oooof!}
 {33234}{}{You don't have to do this...}
-{33235}{}{Okay, that hurt.}
+{33235}{}{Okay, Isso dói.}
 {33236}{}{Ohhh... owwww}
 #
 # target hit in right leg
@@ -4597,7 +4575,7 @@
 # target hit in eyes
 #
 {36080}{}{Maldição blood in my eyes!}
-{36081}{}{My eye! You'll pay for that one!}
+{36081}{}{O meu olho! Você vai pagar por isso!}
 
 
 {36082}{}{Bastard!}
@@ -5905,7 +5883,7 @@
 {41210}{}{My breaststroke's never going to be the same.}
 
 {41211}{}{Hah, hah. Wrong arm, ya' putz!}
-{41212}{}{Ack! That hurt.}
+{41212}{}{Ack! Isso dói.}
 {41213}{}{Medic! Oh, that's me. Heh, heh.}
 {41214}{}{That hand was going bad anyhow.}
 
@@ -6001,7 +5979,7 @@
 #
 {41260}{}{That leg was going bad anyhow.}
 
-{41261}{}{Just call me stumpy.}
+{41261}{}{Agora você pode me chamar compacto.}
 {41262}{}{Just need a parrot and an eye-patch now.}
 {41263}{}{Gee, it feels as though it's still attached.}
 
@@ -6376,7 +6354,7 @@
 
 {41693}{}{Oh... gods...}
 {41694}{}{Ow. Ow. OW!}
-{41695}{}{The pain, the pain...}
+{41695}{}{A dor, a dor ...}
 {41696}{}{The horror... the horror...}
 {41697}{}{::gasping::}
 {41698}{}{That... hurts...}
@@ -6673,14 +6651,14 @@
 # target hit in eyes
 #
 {42080}{}{Yuh-yuh-you...huh-huh-hit me in the uh-uh-eye...}
-{42081}{}{My eye! My eye! Help! Somebody help!}
+{42081}{}{Meus olho! Meus olho! Help! Somebody help!}
 {42082}{}{Aighh! I can't see! Help! Stimpack! Help!}
 
 
-{42083}{}{MY EYE! MY EYE!}
+{42083}{}{Meus olho! Meus olho!}
 {42084}{}{I'm blind! And not from masturbating!}
 
-{42085}{}{Owwwww! My eye! My eye!}
+{42085}{}{Owwwww! Meus olho! Meus olho!}
 {42086}{}{Aieeeee! I got hit in the eye! Everybody, look at me!}
 {42087}{}{My eye's bleeding! Shit!}
 {42088}{}{Great. There goes a few Perception points.}

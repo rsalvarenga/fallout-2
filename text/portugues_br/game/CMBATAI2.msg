@@ -167,7 +167,7 @@
 {1190}{}{Oooooo, minha virilha!}
 {1191}{}{Oooooooooo!}
 {1192}{}{Eu... não posso... respirar...}
-{1193}{}{Erg! Direito nas jóias!}
+{1193}{}{Erg! Direto nas jóias!}
 
 {1194}{}{A dor, a dor ...}
 {1195}{}{Maldição, isso dói!}
@@ -179,7 +179,6 @@
 # target hit in head
 #
 {1200}{}{Ai! Seu filho da ...}
-
 {1201}{}{Você quebrou meu nariz!}
 {1202}{}{Eu vou arrancar sua cabeça!}
 #
@@ -503,7 +502,7 @@
 {1549}{}{Devo continuar, devo matar o inimigo...} 
 {1550}{}{A escuridão acena para mim.} 
 {1551}{}{A hora da minha morte se aproxima.} 
-{1552}{}{O Shaman estava certo, eu não voltar.} 
+{1552}{}{O sacerdote estava certo, eu não voltar.} 
 {1553}{}{O forasteiro me matou.}
 {1554}{}{Eu estou morto.}
 {1555}{}{Minhas entranhas estão soltas da minha espinha!} 
@@ -1176,7 +1175,7 @@
 #
 {2600}{}{Executado Maligno!}
 {2601}{}{Os espíritos me dizem para reagir!}
-{2602}{}{Nosso inimigo tem usado magia poderosa - Corra! Alguém pode chamar um Shaman!}
+{2602}{}{Nosso inimigo tem usado magia poderosa - Corra! Alguém pode chamar um sacerdote !}
 {2603}{}{O espírito maligno é mais poderoso agora. A morte caminha sobre a terra!}
 {2604}{}{O espírito maligno está aqui!}
 {2605}{}{O espírito maligno quer nos castigar. Corre!}

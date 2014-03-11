@@ -161,14 +161,6 @@
 {1088}{}{Estoy ciego, mátame. :solloza:}
 {1089}{}{¿Dónde está mi ojo? Si tan sólo pudiera volver a colocarlo en su sitio...}
 
-
-
-
-
-
-
-
-
 ##
 # target hit in groin
 #
@@ -306,7 +298,7 @@
 {1193}{}{¡Erg! ¡Justo en los pendientes reales!}
 {1194}{}{El dolor, el dolor...}
 {1195}{}{¡Maldición, eso duele!}
-{1196}{}{Ya no tendré más hijos.}
+{1196}{}{Eu não vou ter mais filhos.}
 {1197}{}{*unh* Un golpe bajo...}
 {1198}{}{¡Eeeeeep!}
 {1199}{}{Oh sí, eso duele.}
@@ -932,7 +924,7 @@
 {1793}{}{Discúlpame un momento mientras me derrumbo en el suelo.}
 {1794}{}{Genial. Tendré que luchar con una coquilla.}
 {1795}{}{Deja que me recueste un momento, luego iré a matarte.}
-{1796}{}{¡Mierda! Oh. Vaya, ya no tendré más hijos.}
+{1796}{}{¡Mierda! Oh. Vaya, Eu não vou ter mais filhos.}
 #
 ############################################
 # 1800 Junkie
