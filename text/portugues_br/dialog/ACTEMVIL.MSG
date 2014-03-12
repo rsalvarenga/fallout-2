@@ -1,4 +1,4 @@
-{100}{}{Vá vê Cameron, um companheiro da tribo.}
+{100}{}{Você vê Cameron, um irmão da tribo.}
 {101}{}{Você está vendo Cameron.}
 {102}{}{Você está vendo um homem muito confiante e musculoso.}
 {103}{}{Saudações, }
@@ -6,44 +6,42 @@
  em combate desarmado. Você está pronto?}
 {105}{}{Tenho umas perguntas.}
 {106}{}{Ok, vamos lutar.}
-{107}{}{Não, você tem que se preparar primeiro.}
-{108}{}{Eu tenho algumas dúvidas para tirar com você em primeiro lugar.}
+{107}{}{Não, tenho que me preparar primeiro.}
+{108}{}{Eu gostaria de lhe fazer algumas perguntas antes.}
 {109}{}{OK, agora vamos nos divertir.}
-{110}{}{Acho que preciso de um momento para se preparar.}
+{110}{}{Acho que preciso de um momento para me preparar.}
 {111}{}{O que você quer saber?}
 {112}{}{Por que tem que lutar?}
 {113}{}{Nós vamos lutar até a morte?}
 {114}{}{Vamos lutar desarmados?}
 {115}{}{Ok, agora vamos lutar.}
-{116}{}{Eu preciso ficar pronto.}
+{116}{}{Tenho que me preparar.}
 {117}{}{Por que nós temos que lutar?}
 {118}{}{Isso vai ser uma luta até a morte?}
 {119}{}{Você está dizendo que vamos lutar desarmado?}
 {120}{}{Vamos acabar com isso.}
-{121}{}{Espere, ainda preciso de um tempo para se preparar.}
-{122}{}{Escolhido, o caminho não é uma estrada fácil de se andar. }
-{123}{}{. Você vai se deparar com muitos desafios ao logo de sua vida, eo mais difícil
- deles será o de lidar contra um companheiro de sua equipe. Chegará um momento em que nem a diplomacia nem a sagacidade
- será útil. Este desafio vai te preparar para lidar com outro ser humano,
- olhar em seus olhos e saber se você vai ter que matá-lo.}
+{121}{}{Espere, ainda preciso de um tempo para me preparar.}
+{122}{}{Escolhido, o caminho não sera fácil, }
+{123}{}{. Você vai se deparar com muitos desafios ao logo de sua vida, cada um mais difícil que o outro. 
+deles será o de lidar contra um companheiro de sua equipe. Chegará um momento em que nem a diplomacia nem a sagacidade 
+será útil. Este desafio prepara você para lidar com outro ser humano, olhar em seus olhos e saber se você vai ter que matá-lo.}
 {124}{}{Okay.}
 {125}{}{Estou vendo.}
 {126}{}{Não, meu amigo, você só precisa me derrotar. Quando você fizer isso, acabaremos com a batalha.}
 {127}{}{Eu entendo.}
 {128}{}{Tudo bem.}
-{129}{}{Yes. Weapons tend to distance us from battle and desensitize the effects of our actions
- against others. When you strike another human being with your bare fist, you both see and feel the
- pain you cause. Battle becomes very personal and all too real then. This is an important lesson for
- you, }
+{129}{}{Sim Armas tendem a nos distanciar da batalha e efeitos dessensibilizantes de nossas ações 
+contra os outros. Quando você bate utilizando seu corpo, ambos sentem a dor que você vai causar. 
+A batalha é muito pessoal e real. Esta é uma lição importante para você, }
 {130}{}{.}
 {131}{}{Eu entendo.}
-{132}{}{I understand.}
+{132}{}{Entendo.}
 {133}{}{Muito bem. Vamos começar?}
 {134}{}{Estou pronto.}
-{135}{}{Não, eu tenho que ficar pronto primeiro.}
+{135}{}{Não, eu tenho que me preparar primeiro.}
 {136}{}{Estou pronto.}
-{137}{}{Não, eu preciso de algum tempo para se preparar.}
-{138}{}{Muito bem. Quando você estiver pronto volte e diga-me para continuarmos o seu desafio.}
+{137}{}{Não, eu preciso de algum tempo para me preparar.}
+{138}{}{Muito bem. Volte quando você estiver pronto para continuarmos desafio.}
 {139}{}{Você está pronto para o seu desafio, }
 {140}{}{?}
 {141}{}{Estou pronto. }
@@ -64,8 +62,8 @@
  A entrada da caverna atrás de mim faz voltar para a última câmara.}
 {155}{}{Okay, agora tenho que ir.}
 {156}{}{Tudo bem.}
-{157}{}{Escolhido, não obrigado. Eu ainda carrego as feridas do nosso último encontro e eu vou precisar
- de tempo para se recuperar!}
+{157}{}{Escolhido, não obrigado. Eu ainda carrego as feridas do nosso último encontro e vou precisar
+ de tempo para me recuperar!}
 {158}{}{Adeus, Cameron.}
 {159}{}{Bom dia para você, Cameron.}
 {160}{}{Escolhido, uma ova. Eu vou fazer de você um homem morto!}
@@ -85,19 +83,19 @@
 {172}{}{Eu entendo.}
 
 {200}{}{Ainda me lembro da nossa última batalha, Escolhido. Eu sempre estou me perguntando como foi que
- você me derrotar.}
+ você me derrotou.}
 {201}{}{Você tem uma língua de ouro, Escolhido. Sua habilidade com as palavras vão-lhe abrir muitas
  portas.}
 
-{300}{}{Para você também, Escolhido. Que os espíritos guiem em sua busca.}
+{300}{}{Para você também, Escolhido. Que os espíritos te guiem em sua busca.}
 {301}{}{Obrigado, Cameron.}
 
-{302}{}{Escolhido, não pude deixar de notar que você não tem habilidades em combate fortes. Minha experiência me diz que você não pode sempre confiar em usar sua inteligência ou na sua língua para lhe proteger. Com sua permissão vou te ensinar algumas técnicas que eu acho que você vai achar muito úteis.}
+{302}{}{Escolhido, não pude deixar de notar que você não tem habilidades em combate fortes. Minha experiência me diz que você não pode sempre confiar em usar sua inteligência ou na sua língua para te proteger. Com sua permissão vou te ensinar algumas técnicas que eu acho que você vai achar muito úteis.}
 {303}{}{Sim, você pode me ensinar.}
 {304}{}{Não, não quero sua ajuda.}
 {305}{}{Sim, por favor me ensine tudo o que você puder.}
 {306}{}{Obrigado, mas eu acho que posso me cuidar sozinho.}
-{307}{}{Você aprende rápido, Escolhido. Acho que agora em diante você será capaz de se lidar sozinho. Mas lembre-se que mesmo o mais forte dos guerreiros as vezes, devem recuar. Não há vergonha em viver para lutar no outro dia.}
+{307}{}{Você aprende rápido, Escolhido. Acho que de agora em diante você será capaz de se cuidar sozinho. Mas lembre-se que mesmo o mais forte dos guerreiros as vezes, devem recuar. Não há vergonha em viver para lutar no outro dia.}
 {308}{}{Muito obrigado, Cameron.}
 {309}{}{Obrigado, Cameron. Eu lembrarei de suas palavras.}
 {310}{}{Okay, caso mude de idéia, é só voltar aqui.}
