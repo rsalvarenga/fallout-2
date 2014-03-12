@@ -1,2 +1,2 @@
-{100}{}{This door requires a passkey to unlock.}
-{101}{}{Using the pass key, you unlock the door.}
+{100}{}{Essa porta requere uma senha para destrancar.} 
+{101}{}{Usando a senha, você destranca a porta.} 
