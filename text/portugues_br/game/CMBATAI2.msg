@@ -187,16 +187,12 @@
 {1210}{}{Ow, meu braço.}
 {1211}{}{Você acabou de fazer o maior erro de sua vida.}
 {1212}{}{Meu braço!}
-
-
 #
 # target hit in right arm
 #
 {1220}{}{Ow, meu braço.}
 {1221}{}{Você acabou de fazer o maior erro de sua vida.}
 {1222}{}{Meu braço!}
-
-
 #
 # target hit in torso
 #
@@ -207,8 +203,8 @@
 {1234}{}{Ugh! Isso dói!}
 {1235}{}{Ouch!}
 {1236}{}{Argh!}
-{1237}{}{Oh, eu acho que você quebrou uma costela!}
-{1238}{}{Ai! Meu baço!}
+{1237}{}{Oh, eu acho que você me quebrou uma costela!}
+{1238}{}{Ai! Meu estômago!}
 
 
 {1239}{}{Oof!}
@@ -791,7 +787,7 @@
 #
 # target hit in torso
 #
-{1830}{}{Meu baço!}
+{1830}{}{Meu estômago!}
 {1831}{}{Ai! Owwww, meu maldito peito! Ai!}
 {1832}{}{Hey! Porque você me bateu no peito?, idiota!}
 {1833}{}{Pare de me bater no peito!}
@@ -1773,7 +1769,7 @@
 #
 # target hit in torso
 #
-{12330}{}{Meu baço!}
+{12330}{}{Meu estômago!}
 {12331}{}{Hnrgggg}
 {12332}{}{*hff*}
 {12333}{}{Você... vai ... pagar ... por... isso!}
@@ -1946,7 +1942,7 @@
 #
 {32030}{}{OUCH!}
 {32031}{}{Eu acho que vou desmaiar...}
-{32032}{}{Hey! Meu baço!}
+{32032}{}{Hey! Meu estômago!}
 {32033}{}{Uuuuf!}
 {32034}{}{Isso dói!}
 {32035}{}{Eu acho que você bateu no meu fígado!}
@@ -2079,7 +2075,7 @@
 #
 {32300}{}{Eu tenho uma esposa e filhos!}
 {32301}{}{Não... é meu aniversário!}
-{32302}{}{Ai... meu baço ...}
+{32302}{}{Ai... meu estômago ...}
 {32303}{}{De volta ao hospital!}
 {32304}{}{Devo... proteger...meu braço...}
 {32305}{}{Oh, meu fígado dolorido.}
@@ -2107,7 +2103,7 @@
 #
 # target being missed
 #
-{32360}{}{Errou meu baço! Ha ha!}
+{32360}{}{Errou meu estômago! Ha ha!}
 {32361}{}{Você não presta!}
 {32362}{}{Ha ha! Aqui quem manda sou eu!}
 {32363}{}{Me dê um beijo, doçura.}
