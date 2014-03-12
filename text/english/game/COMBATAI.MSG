@@ -236,7 +236,7 @@
 {1134}{}{Oof!}
 {1135}{}{Ouch!}
 {1136}{}{Oof! Minhas costelas.}
-{1137}{}{Ugh! That hurt!}
+{1137}{}{Ugh! Isso dói!}
 {1138}{}{Maldição! Cuspo em você!}
 {1139}{}{Argh!}
 {1140}{}{Oh, minhas costelas!}
@@ -336,131 +336,85 @@
 {1211}{}{Você acabou de fazer o maior erro de sua vida.}
 
 {1212}{}{Meu braço!}
-{1213}{}{Hah, I'm right handed.}
-{1214}{}{Only need one arm to kill you.}
-{1215}{}{I don't need those fingers anyway.}
-{1216}{}{I only need one finger for you bub.}
-{1217}{}{Maldição, that's gonna take away from my swing.}
-{1218}{}{I can still take you out of the picture.}
-{1219}{}{Maldição, snapped my arm right in two.}
-
-
-
-
-
-
+{1213}{}{Hah, eu sou destro.}
+{1214}{}{Só preciso de um braço para te matar.}
+{1215}{}{Eu não preciso dos dedos.}
+{1216}{}{Eu só preciso de um dedo para acabar com você .}
+{1217}{}{Maldição, isso vai acabar com meu swing.}
+{1218}{}{Eu ainda posso acabar com sua existencia.}
+{1219}{}{Maldição, partiu meu braço em dois.}
 #
 # target hit in right arm
 #
 {1220}{}{Ow, meu braço.}
 {1221}{}{Você acabou de fazer o maior erro de sua vida.}
-
 {1222}{}{Meu braço!}
-{1223}{}{I can take you left handed.}
-{1224}{}{Hah, I'm a southpaw anyhow.}
-{1225}{}{Trying to disarm me huh?}
-{1226}{}{That's not going to stop me.}
-{1227}{}{I've still got another hand to use against you.}
-
-
-
-
-
+{1223}{}{Posso cuidar de você somente com a esquerda.}
+{1224}{}{Hah, eu sou um canhoto de qualquer maneira.}
+{1225}{}{Tentando me desarmar né?}
+{1226}{}{Isso não vai me impedir.}
+{1227}{}{Eu ainda tenho outra mão para usar contra você.}
 {1228}{}{Maldição, Isso dói.}
-{1229}{}{Mmm, that's going to leave a mark.}
+{1229}{}{Mmm, isso vai deixar uma marca.}
 #
 # target hit in torso
 #
 {1230}{}{Urp!}
 {1231}{}{Oof!}
 {1232}{}{Ouch!}
-{1233}{}{Yup, that cracked some ribs alright.}
-
-{1234}{}{Ugh! That hurt!}
+{1233}{}{Yup, isso me arrancou algumas costelas.}
+{1234}{}{Ugh! Isso dói!}
 {1235}{}{Ouch!}
 {1236}{}{Argh!}
-{1237}{}{Oh, I think you broke a rib!}
-{1238}{}{Ow!!! My spleen!}
-{1239}{}{Yeah, that just got me started.}
-{1240}{}{Now you've got me pissed off.}
-{1241}{}{I didn't like that at all.}
-{1242}{}{Maldição, you popped a goddamn lung.}
-{1243}{}{Only a worm like you would try for a gut-wound.}
-{1244}{}{I'm going to replace those organs you just holed, with some of yours.}
-{1245}{}{Maldição, you're better than you look, 'spose you'd hafta be.}
-{1246}{}{That's not nice at all. I'm going to have to teach you some manners.}
-
-
-
-
-
-
-
-
-
-
-{1247}{}{Lucky shot that time.}
-{1248}{}{Hope you think it's just as funny when I do that to you.}
-{1249}{}{I must be getting old. That actually hurt.}
-{1250}{}{You'll have to do a lot better than that.}
-{1251}{}{Everything's still workin' well enough to take you out.}
-{1252}{}{Just missed my lung, I think.}
-{1253}{}{I sure do have a lot of blood in me, well, I used to anyway.}
-{1254}{}{Goddamn that hurts!}
-{1255}{}{Fuck! You bastard!}
-{1256}{}{Nobody hits me like that, and lives.}
-{1257}{}{Soon as I catch my breath (Soluço, Soluço) I'm coming for you.}
-{1258}{}{You tore something up inside me.}
-{1259}{}{You don't know what you just started.}
-
-
-
-
-
-
-
-
-
-
-
-
+{1237}{}{Oh, eu acho que você me quebrou uma costela!}
+{1238}{}{Ow!!! Meu estômago!}
+{1239}{}{Sim, nós apenas começamos.}
+{1240}{}{Agora você me deixou nervoso.}
+{1241}{}{Eu não gostei disso.}
+{1242}{}{Porra, você acabou com a porra dos meus pulmões.}
+{1243}{}{Apenas um verme como você tenta me golpear no estômago}
+{1244}{}{Vou substituir esses orgãos que me arrancou pelos seus.}
+{1245}{}{Caramba, você é melhor do que parece.}
+{1246}{}{Isso não é bom. Vou ter que te ensinar boas maneiras.}
+{1247}{}{Um tiro de sorte.}
+{1248}{}{Espero que você ache engraçado quando eu fizer isso com você.}
+{1249}{}{Eu devo estar ficando velho. Isso me machucou realmente.}
+{1250}{}{Você vai ter que fazer melhor.}
+{1251}{}{Tudo está funcionando bem o suficiente para dar um jeito em você}
+{1252}{}{Eu sinto falta de um pulmão, eu acho.}
+{1253}{}{Tenho certeza de que tem um monte de sangue aqui dentro, bem, pelo menos eu costumava ter.}
+{1254}{}{Droga, isso dói!}
+{1255}{}{Filho da puta! Bastardo!}
+{1256}{}{Ninguém faz isso e vive para contar a história.}
+{1257}{}{Assim que eu recuperar o fôlego (tosse, tosse), eu vou te pegar.}
+{1258}{}{Você quebrou alguma coisa aqui dentro.}
+{1259}{}{Você não sabe o que acabou de fazer.}
 #
 # target hit in right leg
 #
-{1260}{}{Ow, my leg.}
-{1261}{}{I don't need to stand to kill you!}
-
-{1262}{}{My knee!}
-{1263}{}{My achilles tendon!}
-
+{1260}{}{Ow, minha perna.}
+{1261}{}{Eu não preciso ficar de pé para te matar!}
+{1262}{}{Meu joelho!}
+{1263}{}{Meu tendão de Aquiles!}
 {1264}{}{Aaiiiieeee!!}
-{1265}{}{There goes my foxtrot.}
-{1266}{}{I'll teach you to tear my toes off.}
-{1267}{}{Break my leg? I'll tear you apart!}
-{1268}{}{Where's a tourniquet when you need one.}
-
-
-
-{1269}{}{Fuck, my leg hurts.}
+{1265}{}{Lá se vai minha foxtrot.}
+{1266}{}{Eu sim vou te ensinar a arrancar os dedos.}
+{1267}{}{Quebre a perna? E vou acabar com você!}
+{1268}{}{Onde está um torniquete quando você precisa de um.}
+{1269}{}{Merda, minha perna dói.}
 #
 # target hit in left leg
 #
-{1270}{}{Ow, my leg.}
-{1271}{}{I don't need to stand to kill you!}
-
-{1272}{}{My knee!}
+{1270}{}{Ow, minha perna.}
+{1271}{}{Eu não preciso ficar de pé para te matar!}
+{1272}{}{Meu joelho!}
 {1273}{}{That's going to give me a nice limp for a while.}
 {1274}{}{Come here, don't make me hobble after you.}
 {1275}{}{Maldição near tore my leg off.}
 {1276}{}{That's going to slow me up for the whole season.}
-
-
-
-
 {1277}{}{That'll bench me for sure.}
 {1278}{}{I've got another leg.}
 {1279}{}{Hah-hah, that was my prosthetic leg anyhow.}
-
 #
 # target hit in eyes
 #
@@ -474,16 +428,6 @@
 {1287}{}{Crap, my eye's dangling by the optic nerve here.}
 {1288}{}{I can still hear where you are.}
 {1289}{}{Don't you ever touch my fucking eyes again!}
-
-
-
-
-
-
-
-
-
-
 #
 # target hit in groin
 #
@@ -1292,7 +1236,7 @@
 #
 # target hit in torso
 #
-{1830}{}{My spleen!}
+{1830}{}{Meu estômago!}
 {1831}{}{Ow! Owwww, my stupid chest! Ow!}
 {1832}{}{Hey! What did you hit me in the chest for, asshole?!}
 {1833}{}{Stop hitting me in the chest!}
@@ -3090,7 +3034,7 @@
 #
 # target hit in torso
 #
-{12330}{}{My spleen!}
+{12330}{}{Meu estômago!}
 {12331}{}{Hnrgggg.}
 {12332}{}{*hff*}
 {12333}{}{You're...gonna...pay...for...that!}
@@ -3235,7 +3179,7 @@
 
 {12455}{}{Think my spine just cracked...}
 {12456}{}{Let me show you how we kill people here.}
-{12457}{}{Fuck! Not my spleen! Anything but my spleen!}
+{12457}{}{Fuck! Not Meu estômago! Anything but Meu estômago!}
 
 
 {12458}{}{*Urgggg*...think that knocked...some organs loose...}
@@ -3750,9 +3694,9 @@
 #
 {32030}{}{OUCH!}
 {32031}{}{I think I'm gonna faint...}
-{32032}{}{Hey! My spleen!}
+{32032}{}{Hey! Meu estômago!}
 {32033}{}{Oooof!}
-{32034}{}{That hurt!}
+{32034}{}{Isso dói!}
 {32035}{}{I think you hit my liver!}
 
 {32036}{}{Ohhh, pain!}
@@ -3760,7 +3704,7 @@
 # target hit in right leg
 #
 {32060}{}{Ow, Minha perna!}
-{32061}{}{My knee!}
+{32061}{}{Meu joelho!}
 {32062}{}{Right in the artery!}
 
 #
@@ -3964,7 +3908,7 @@
 #
 # target being missed
 #
-{32360}{}{Missed my spleen! Ha ha!}
+{32360}{}{Missed Meu estômago! Ha ha!}
 
 {32361}{}{You SUCK!}
 {32362}{}{Ha ha! I rule!}
@@ -4194,7 +4138,7 @@
 {32732}{}{Ouch!}
 {32733}{}{Star Father! Help me!}
 
-{32734}{}{That hurt!}
+{32734}{}{Isso dói!}
 {32735}{}{Just leave me alone!}
 
 {32736}{}{Ohhh, pain!}
@@ -4202,13 +4146,13 @@
 # target hit in right leg
 #
 {32760}{}{Ow, Minha perna!}
-{32761}{}{My knee!}
+{32761}{}{Meu joelho!}
 {32762}{}{Ow!}
 #
 # target hit in left leg
 #
 {32770}{}{Ow, my tibia!}
-{32771}{}{My knee!}
+{32771}{}{Meu joelho!}
 {32772}{}{Aaaarrrrggghhh!}
 #
 # target hit in eyes
@@ -4475,13 +4419,13 @@
 # target hit in right leg
 #
 {33260}{}{My fibia!}
-{33261}{}{My knee!}
+{33261}{}{Meu joelho!}
 {33262}{}{Ow!}
 #
 # target hit in left leg
 #
 {33270}{}{Oooh, my femur!}
-{33271}{}{My knee!}
+{33271}{}{Meu joelho!}
 {33272}{}{That'll be a limper..}
 #
 # target hit in eyes
@@ -5901,7 +5845,7 @@
 # target hit in right arm
 #
 {41220}{}{That's really going to affect my swing.}
-{41221}{}{Jeepers that hurt!}
+{41221}{}{Jeepers Isso dói!}
 {41222}{}{You disarmed me!}
 {41223}{}{There goes my game of eight-ball.}
 {41224}{}{That's gonna kill me on the court.}
@@ -5924,7 +5868,7 @@
 {41230}{}{Medic! I need a...Oh, that's me. Oops.}
 
 {41231}{}{I've got ribs.}
-{41232}{}{Arrrg! My spleen!}
+{41232}{}{Arrrg! Meu estômago!}
 {41233}{}{There goes my gall bladder!}
 {41234}{}{Heh heh...went right through me...didn't feel a thing.}
 
@@ -6288,7 +6232,7 @@
 {41650}{}{My appendix!}
 {41651}{}{A little lower and I'd be sterile.}
 {41652}{}{You are really pissing me off.}
-{41653}{}{Dammit, not my spleen!}
+{41653}{}{Dammit, not Meu estômago!}
 
 
 
@@ -6307,7 +6251,7 @@
 {41660}{}{I guess I'll have a limp.}
 
 {41661}{}{Ooh, my thigh.}
-{41662}{}{My knee!}
+{41662}{}{Meu joelho!}
 {41663}{}{I said stop that.}
 {41664}{}{I'm going to hop on you.}
 {41665}{}{Oh, my bad leg!}
@@ -6320,7 +6264,7 @@
 # target hit in left leg
 #
 {41670}{}{Mother...!}
-{41671}{}{My knee!}
+{41671}{}{Meu joelho!}
 {41672}{}{My ankle!}
 {41673}{}{My calf!}
 {41674}{}{Shit!}
@@ -6586,7 +6530,7 @@
 
 
 
-{42046}{}{Aieeeee! My spleen! My spleeeen!}
+{42046}{}{Aieeeee! Meu estômago! My spleeeen!}
 {42047}{}{Another spleen?! How many fucking spleens do I have?!}
 {42048}{}{I just woke up from this dream where somebody hit me in the chest...uh-oh.}
 {42049}{}{There are bubbles coming out of my chest. That can't be good.}

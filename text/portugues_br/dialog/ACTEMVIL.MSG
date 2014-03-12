@@ -1,103 +1,103 @@
-{100}{}{VocÃª vÃª Cameron, um irmÃ£o da tribo.}
-{101}{}{VocÃª estÃ¡ vendo Cameron.}
-{102}{}{VocÃª estÃ¡ vendo um homem muito confiante e musculoso.}
-{103}{}{SaudaÃ§Ãµes, }
-{104}{}{. Tenho a honra de ser seu Ãºltimo desafio. Para terminar seu teste vocÃª deve me derrotar
- em combate desarmado. VocÃª estÃ¡ pronto?}
+{100}{}{Você vê Cameron, um irmão da tribo.}
+{101}{}{Você está vendo Cameron.}
+{102}{}{Você está vendo um homem muito confiante e musculoso.}
+{103}{}{Saudações, }
+{104}{}{. Tenho a honra de ser seu último desafio. Para terminar seu teste você deve me derrotar
+ em combate desarmado. Você está pronto?}
 {105}{}{Tenho umas perguntas.}
 {106}{}{Ok, vamos lutar.}
-{107}{}{NÃ£o, tenho que me preparar primeiro.}
+{107}{}{Não, tenho que me preparar primeiro.}
 {108}{}{Eu gostaria de lhe fazer algumas perguntas antes.}
 {109}{}{OK, agora vamos nos divertir.}
 {110}{}{Acho que preciso de um momento para me preparar.}
-{111}{}{O que vocÃª quer saber?}
+{111}{}{O que você quer saber?}
 {112}{}{Por que tem que lutar?}
-{113}{}{NÃ³s vamos lutar atÃ© a morte?}
+{113}{}{Nós vamos lutar até a morte?}
 {114}{}{Vamos lutar desarmados?}
 {115}{}{Ok, agora vamos lutar.}
 {116}{}{Tenho que me preparar.}
-{117}{}{Por que nÃ³s temos que lutar?}
-{118}{}{Isso vai ser uma luta atÃ© a morte?}
-{119}{}{VocÃª estÃ¡ dizendo que vamos lutar desarmado?}
+{117}{}{Por que nós temos que lutar?}
+{118}{}{Isso vai ser uma luta até a morte?}
+{119}{}{Você está dizendo que vamos lutar desarmado?}
 {120}{}{Vamos acabar com isso.}
 {121}{}{Espere, ainda preciso de um tempo para me preparar.}
-{122}{}{Escolhido, o caminho nÃ£o sera fÃ¡cil, }
-{123}{}{. VocÃª vai se deparar com muitos desafios ao logo de sua vida, cada um mais difÃ­cil que o outro. 
-deles serÃ¡ o de lidar contra um companheiro de sua equipe. ChegarÃ¡ um momento em que nem a diplomacia nem a sagacidade 
-serÃ¡ Ãºtil. Este desafio prepara vocÃª para lidar com outro ser humano, olhar em seus olhos e saber se vocÃª vai ter que matÃ¡-lo.}
+{122}{}{Escolhido, o caminho não sera fácil, }
+{123}{}{. Você vai se deparar com muitos desafios ao logo de sua vida, cada um mais difícil que o outro. 
+deles será o de lidar contra um companheiro de sua equipe. Chegará um momento em que nem a diplomacia nem a sagacidade 
+será útil. Este desafio prepara você para lidar com outro ser humano, olhar em seus olhos e saber se você vai ter que matá-lo.}
 {124}{}{Okay.}
 {125}{}{Estou vendo.}
-{126}{}{NÃ£o, meu amigo, vocÃª sÃ³ precisa me derrotar. Quando vocÃª fizer isso, acabaremos com a batalha.}
+{126}{}{Não, meu amigo, você só precisa me derrotar. Quando você fizer isso, acabaremos com a batalha.}
 {127}{}{Eu entendo.}
 {128}{}{Tudo bem.}
-{129}{}{Sim Armas tendem a nos distanciar da batalha e efeitos dessensibilizantes de nossas aÃ§Ãµes 
-contra os outros. Quando vocÃª bate utilizando seu corpo, ambos sentem a dor que vocÃª vai causar. 
-A batalha Ã© muito pessoal e real. Esta Ã© uma liÃ§Ã£o importante para vocÃª, }
+{129}{}{Sim Armas tendem a nos distanciar da batalha e efeitos dessensibilizantes de nossas ações 
+contra os outros. Quando você bate utilizando seu corpo, ambos sentem a dor que você vai causar. 
+A batalha é muito pessoal e real. Esta é uma lição importante para você, }
 {130}{}{.}
 {131}{}{Eu entendo.}
 {132}{}{Entendo.}
-{133}{}{Muito bem. Vamos comeÃ§ar?}
+{133}{}{Muito bem. Vamos começar?}
 {134}{}{Estou pronto.}
-{135}{}{NÃ£o, eu tenho que me preparar primeiro.}
+{135}{}{Não, eu tenho que me preparar primeiro.}
 {136}{}{Estou pronto.}
-{137}{}{NÃ£o, eu preciso de algum tempo para me preparar.}
-{138}{}{Muito bem. Volte quando vocÃª estiver pronto para continuarmos desafio.}
-{139}{}{VocÃª estÃ¡ pronto para o seu desafio, }
+{137}{}{Não, eu preciso de algum tempo para me preparar.}
+{138}{}{Muito bem. Volte quando você estiver pronto para continuarmos desafio.}
+{139}{}{Você está pronto para o seu desafio, }
 {140}{}{?}
 {141}{}{Estou pronto. }
-{142}{}{Ainda nÃ£o estou pronto.}
+{142}{}{Ainda não estou pronto.}
 {143}{}{Acho que sim.}
-{144}{}{NÃ£o, me dÃª um minuto.}
-{145}{}{Excelente! Seu equipamento serÃ¡ armazenado na entrada da sala.
- VocÃª poderÃ¡ recuperÃ¡-lo apÃ³s o desafio. Que comeÃ§e o desafio! Boa sorte para vocÃª }
+{144}{}{Não, me dê um minuto.}
+{145}{}{Excelente! Seu equipamento será armazenado na entrada da sala.
+ Você poderá recuperá-lo após o desafio. Que começe o desafio! Boa sorte para você }
 {146}{}{.}
-{147}{}{Ã‰ um prazer vÃª-lo novamente, Escolhido. Como posso ajudÃ¡-lo?}
+{147}{}{É um prazer vê-lo novamente, Escolhido. Como posso ajudá-lo?}
 {148}{}{Eu quero entrar no templo outra vez.
 {149}{}{Quer lutar novamente?}
-{150}{}{Apenas vim dizer olÃ¡. Saindo agora.}
+{150}{}{Apenas vim dizer olá. Saindo agora.}
 {151}{}{Eu gostaria de visitar o templo novamente.}
-{152}{}{OlÃ¡, Cameron. EstÃ¡ preparado para outro combate?}
-{153}{}{SÃ³ queria dizer um oi. AtÃ© mais.}
-{154}{}{Pegue o caminho Ã  minha esquerda, Escolhido. Isso vai te levar ao templo.
- A entrada da caverna atrÃ¡s de mim faz voltar para a Ãºltima cÃ¢mara.}
+{152}{}{Olá, Cameron. Está preparado para outro combate?}
+{153}{}{Só queria dizer um oi. Até mais.}
+{154}{}{Pegue o caminho à minha esquerda, Escolhido. Isso vai te levar ao templo.
+ A entrada da caverna atrás de mim faz voltar para a última câmara.}
 {155}{}{Okay, agora tenho que ir.}
 {156}{}{Tudo bem.}
-{157}{}{Escolhido, nÃ£o obrigado. Eu ainda carrego as feridas do nosso Ãºltimo encontro e vou precisar
+{157}{}{Escolhido, não obrigado. Eu ainda carrego as feridas do nosso último encontro e vou precisar
  de tempo para me recuperar!}
 {158}{}{Adeus, Cameron.}
-{159}{}{Bom dia para vocÃª, Cameron.}
-{160}{}{Escolhido, uma ova. Eu vou fazer de vocÃª um homem morto!}
-{161}{}{VocÃª me derrotou. VocÃª Ã© digno, Escolhido}
-{165}{}{Eu discordo de vocÃª. Eu acho que sempre vai ter uma soluÃ§Ã£o pacÃ­fica para qualquer problema.}
-{166}{}{VocÃª pode estÃ¡ certo, }
-{167}{}{, mas nÃ£o em nossa situaÃ§Ã£o atual. VocÃª tem que me derrotar para concluir o teste.}
-{168}{}{Olha, eu nÃ£o sei de todos os seus pontos fortes e fracos, e nem os meus.
- Acidentes acontencem, e se um de nÃ³s acidentalmente matar o outro? Vamos acabar
- logo com isso antes que aconteÃ§a alguma coisa, ok?}
-{169}{}{Hmmm... faz sentido. Eu nÃ£o gostaria de ser o responsÃ¡vel por
- sua morte, tudo que eu queria era provar o seu valor. Muito bem - vocÃª
+{159}{}{Bom dia para você, Cameron.}
+{160}{}{Escolhido, uma ova. Eu vou fazer de você um homem morto!}
+{161}{}{Você me derrotou. Você é digno, Escolhido}
+{165}{}{Eu discordo de você. Eu acho que sempre vai ter uma solução pacífica para qualquer problema.}
+{166}{}{Você pode está certo, }
+{167}{}{, mas não em nossa situação atual. Você tem que me derrotar para concluir o teste.}
+{168}{}{Olha, eu não sei de todos os seus pontos fortes e fracos, e nem os meus.
+ Acidentes acontencem, e se um de nós acidentalmente matar o outro? Vamos acabar
+ logo com isso antes que aconteça alguma coisa, ok?}
+{169}{}{Hmmm... faz sentido. Eu não gostaria de ser o responsável por
+ sua morte, tudo que eu queria era provar o seu valor. Muito bem - você
  pode passar, Escolhido.}
 {170}{}{Hmm... faz sentindo. No entando, ainda temos que batalhar. Eu vou
- simplesmente ter o cuidado para nÃ£o te machucar.}
-{171}{}{Obrigado! Vejo vocÃª na aldeia.}
+ simplesmente ter o cuidado para não te machucar.}
+{171}{}{Obrigado! Vejo você na aldeia.}
 {172}{}{Eu entendo.}
 
-{200}{}{Ainda me lembro da nossa Ãºltima batalha, Escolhido. Eu sempre estou me perguntando como foi que
- vocÃª me derrotou.}
-{201}{}{VocÃª tem uma lÃ­ngua de ouro, Escolhido. Sua habilidade com as palavras vÃ£o-lhe abrir muitas
+{200}{}{Ainda me lembro da nossa última batalha, Escolhido. Eu sempre estou me perguntando como foi que
+ você me derrotou.}
+{201}{}{Você tem uma língua de ouro, Escolhido. Sua habilidade com as palavras vão-lhe abrir muitas
  portas.}
 
-{300}{}{Para vocÃª tambÃ©m, Escolhido. Que os espÃ­ritos te guiem em sua busca.}
+{300}{}{Para você também, Escolhido. Que os espíritos te guiem em sua busca.}
 {301}{}{Obrigado, Cameron.}
 
-{302}{}{Escolhido, nÃ£o pude deixar de notar que vocÃª nÃ£o tem habilidades em combate fortes. Minha experiÃªncia me diz que vocÃª nÃ£o pode sempre confiar em usar sua inteligÃªncia ou na sua lÃ­ngua para te proteger. Com sua permissÃ£o vou te ensinar algumas tÃ©cnicas que eu acho que vocÃª vai achar muito Ãºteis.}
-{303}{}{Sim, vocÃª pode me ensinar.}
-{304}{}{NÃ£o, nÃ£o quero sua ajuda.}
-{305}{}{Sim, por favor me ensine tudo o que vocÃª puder.}
+{302}{}{Escolhido, não pude deixar de notar que você não tem habilidades em combate fortes. Minha experiência me diz que você não pode sempre confiar em usar sua inteligência ou na sua língua para te proteger. Com sua permissão vou te ensinar algumas técnicas que eu acho que você vai achar muito úteis.}
+{303}{}{Sim, você pode me ensinar.}
+{304}{}{Não, não quero sua ajuda.}
+{305}{}{Sim, por favor me ensine tudo o que você puder.}
 {306}{}{Obrigado, mas eu acho que posso me cuidar sozinho.}
-{307}{}{VocÃª aprende rÃ¡pido, Escolhido. Acho que de agora em diante vocÃª serÃ¡ capaz de se cuidar sozinho. Mas lembre-se que mesmo o mais forte dos guerreiros as vezes, devem recuar. NÃ£o hÃ¡ vergonha em viver para lutar no outro dia.}
+{307}{}{Você aprende rápido, Escolhido. Acho que de agora em diante você será capaz de se cuidar sozinho. Mas lembre-se que mesmo o mais forte dos guerreiros as vezes, devem recuar. Não há vergonha em viver para lutar no outro dia.}
 {308}{}{Muito obrigado, Cameron.}
 {309}{}{Obrigado, Cameron. Eu lembrarei de suas palavras.}
-{310}{}{Okay, caso mude de idÃ©ia, Ã© sÃ³ voltar aqui.}
+{310}{}{Okay, caso mude de idéia, é só voltar aqui.}
 {311}{}{Obrigado, Cameron.}
 {312}{}{Obrigado, Cameron. Eu vou me lembrar dessa oferta.}
