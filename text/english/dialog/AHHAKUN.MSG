@@ -1,15 +1,16 @@
-{100}{}{Before you stands Hakunin, the village shaman. He appraises you with his crazy eyes from somewhere in the world only he inhabits..}
-{101}{}{You see Hakunin lying on the ground. He's badly wounded.}
-{102}{}{You see Hakunin. He's very near death.}
-{103}{}{Hakunin is badly burned. He smells like roast chicken, looks like burnt meatloaf, and you don't know how he's managed to stay alive this long.}
-{104}{hak001}{Greetings, Chosen. Why does the earth before me warm to the touch of your passing?}
+#LUBAN TRADUZINDO
+{100}{}{Diante de você está Hakunin, o shaman do vilarejo. Ele te avalia com seus olhos malucos de algum lugar no mundo que somente ele habita..} 
+{101}{}{Você vê Hakunin caido no chão. Ele esá gravemente ferido.} 
+{102}{}{Você vê Hakunin. Ele está muito perto da morte.} 
+{103}{}{Hanukin está gravemente queimado. Ele cheira a galinha assada, ele parece um bolo de carne, e você não sabe como ele ficou vivo tanto tempo assim.} 
+{104}{hak001}{Saudações, Escolhido. Por que a terra diante de mim aquece com a sua passagem?} 
 {105}{}{Uh? }
-{106}{}{I've come to say goodbye. I'm leaving on my holy quest. }
-{107}{}{I'm heading out. I was hoping just this once you'd talk like a real person. }
-{108}{}{You are doing just way too many drugs. I'm outta here. }
-{109}{}{I'm hurt. Can you heal me?}
-{110}{}{There were some pretty nasty plants infesting your garden- I've taken care of them for you.}
-{111}{hak001a}{Please reveal to clouded eyes the purpose of your passage.}
+{106}{}{Eu vim dizer adeus. Estou indo para a minha missão sagrada. } 
+{107}{}{Estou indo embora. Eu estava esperando que apenas desta vez você iria falar como uma pessoa de verdade. } 
+{108}{}{Você está fumando muitas drogas. Estou caindo fora daqui. } 
+{109}{}{Estou ferido. Você pode me curar?} 
+{110}{}{Tinha algumas plantas bem nojentas infestando seu jardim- Eu tomei conta delas.} 
+{111}{hak001a}{Please reveal to clouded eyes the purpose of your passage.} 
 {112}{}{Uh? }
 {113}{}{I've come to say goodbye. I'm leaving on my holy quest. }
 {114}{}{I'm heading out. I was hoping just this once you'd talk like a real person. }
