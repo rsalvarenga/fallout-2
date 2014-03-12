@@ -1,4 +1,5 @@
-{100}{}{You see a boulder.}
+Luban Traduzindo
+{100}{}{You Você see a boulder.}
 {101}{}{You see a camouflaged ventilation shaft.}
 {102}{}{You see nothing out of the ordinary.}
 
