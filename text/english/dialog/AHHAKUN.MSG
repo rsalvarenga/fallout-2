@@ -3,11 +3,11 @@
 # boa tradução ;) tks
 
 {100}{}{Diante de você está Hakunin, o sacerdote do vilarejo. Ele te avalia com seus olhos malucos de algum lugar no mundo que somente ele habita..} 
-{101}{}{Você vê Hakunin caido no chão. Ele esá gravemente ferido.} 
+{101}{}{Você vê Hakunin caido no chão. Ele está gravemente ferido.} 
 {102}{}{Você vê Hakunin. Ele está muito perto da morte.} 
 {103}{}{Hanukin está gravemente queimado. Ele cheira a galinha e parece um bolo de carne, você não sabe como ele ficou vivo tanto tempo assim.} 
 {104}{hak001}{Saudações, Escolhido. Por que a terra diante de mim aquece com a sua passagem?} 
-{105}{}{Uh? }
+{105}{}{Uh?}
 {106}{}{Eu vim dizer adeus. Estou indo para a minha missão sagrada. } 
 {107}{}{Estou indo embora. Eu estava esperando que apenas desta vez você iria falar como uma pessoa de verdade. } 
 {108}{}{Você está fumando muitas drogas. Estou caindo fora daqui. } 
