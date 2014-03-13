@@ -727,7 +727,7 @@
 {1549}{}{Devo continuar, devo matar o inimigo...} 
 {1550}{}{A escuridão acena para mim.} 
 {1551}{}{A hora da minha morte se aproxima.} 
-{1552}{}{O sacerdote estava certo, eu não voltar.} 
+{1552}{}{O Shaman estava certo, eu não voltar.} 
 {1553}{}{O forasteiro me matou.}
 {1554}{}{Eu estou morto.}
 {1555}{}{Minhas entranhas estão soltas da minha espinha!} 
@@ -1168,22 +1168,20 @@
 {2064}{}{Hey! Poderia ter me ferido!}
 {2065}{}{Ufa! Eu ainda estou vivo!}
 
-{2066}{}{I'm dead...hey, no I'm not.}
-{2067}{}{Ouch! That...hey, you missed me.}
-{2068}{}{Am I bleeding anywhere?}
-{2069}{}{You missed? I can't believe it.}
-{2070}{}{I knew you weren't really shooting at me!}
-{2071}{}{Hah, hah. You suck!}
-{2072}{}{(Thumbs nose at you)Nyah, nyah, nyah, nyah, nyah.}
-{2073}{}{(Raises a finger towards you)}
-{2074}{}{You're not so hot.}
-{2075}{}{You suck, I can't believe I was afraid of you.}
-{2076}{}{I knew you wouldn't really try to kill me.}
-{2077}{}{That was too close.}
-{2078}{}{Good thing I'm so shifty.}
-{2079}{}{Stop shooting at me!}
-
-
+{2066}{}{Estou morto ... ei, espera, não estou.}
+{2067}{}{Ouch! Isso ..., você errou.}
+{2068}{}{Estou sangrando em algum lugar?}
+{2069}{}{Você errou? Eu não acredito.}
+{2070}{}{Sabia que não estava apontando para mim de verdade!}
+{2071}{}{Hah, hah. Você não presta!}
+{2072}{}{(Você faz bugigangas) Nyah, nyah, nyah, nyah, nyah.}
+{2073}{}{(Eleva um dedo para você)}
+{2074}{}{Você não é tão quente.}
+{2075}{}{Da pena, eu não posso acreditar que eu estava com medo de você.}
+{2076}{}{Sabia que não queria me matar.}
+{2077}{}{Isso estava perto de mais.}
+{2078}{}{Ainda bem que eu sou tão astuto.}
+{2079}{}{Pare de atirar em mim!}
 #
 ############################################
 # 2100 Normal Person
@@ -1191,149 +1189,88 @@
 #
 #  running away
 #
-{2100}{}{Attack someone else, please!}
-{2101}{}{Have mercy!}
-{2102}{}{Somebody help me!}
-{2103}{}{Please stop!}
-{2104}{}{Just leave me alone.}
-{2105}{}{I ain't dyin' for this!}
-
-{2106}{}{Stop picking on me!}
-{2107}{}{Help me! Hellllllllp!}
-{2108}{}{I'm being killed! Help me!}
-{2109}{}{Run for your life!}
-{2110}{}{I don't have anything! Just let me live!}
-{2111}{}{Hey, whatever I did, I'm sorrrrryyy!}
-{2112}{}{Fuck, shit, crap!}
-{2113}{}{I don't want to go like this!}
-{2114}{}{Just leave us alone here!}
-
-
-
-
-
-
-
-
-
-
-{2115}{}{Oh God, oh God, oh God, noooooo!}
-{2116}{}{Not me, just don't kill me, please!}
-{2117}{}{I didn't do nothin' to you!}
-{2118}{}{What's your problem?}
-{2119}{}{Heeeeelp! There's a psycho on the loose!}
-
-
-
-
+{2100}{}{Ataque mais alguém, por favor!}
+{2101}{}{Tenha misericórdia!}
+{2102}{}{Alguém me ajude!}
+{2103}{}{Por favor, pare!}
+{2104}{}{Me deixe em paz.}
+{2105}{}{Eu não vou morrer por isso!}
+{2106}{}{Pare de pegar em mim!}
+{2107}{}{Socorro! Socoorrroo!}
+{2108}{}{Esta me matando! Socorro!}
+{2109}{}{Corra por sua vida!}
+{2110}{}{Eu não fiz nada! Me deixa viver!}
+{2111}{}{Eh, o que queria que eu fizesse? sindo muito!}
+{2112}{}{Foda-se, merda, merda!}
+{2113}{}{Eu não quero morrer assim!}
+{2114}{}{Nos deixe em paz!}
+{2115}{}{Oh Deus, oh Deus, oh Deus, noooooo!}
+{2116}{}{Não me mate, por favor!}
+{2117}{}{Eu não fiz nada pra você!}
+{2118}{}{Qual o seu problema?}
+{2119}{}{Socorro! Há um psicopata à solta!}
 #
 # moving in to attack
 #
-{2120}{}{Wait 'til I get you...}
-{2121}{}{That's it, I've had enough of your type.}
-{2122}{}{Hey you!}
-{2123}{}{You're not welcome here}
-{2124}{}{Nobody's taking this place over...}
-{2125}{}{Who do you think you are?}
-{2126}{}{You can't just do anything you please here.}
-{2127}{}{You need to learn some manners.}
-{2128}{}{I've had just about enough of you.}
-{2129}{}{You and your kind, they're all the same.}
-{2130}{}{I didn't want to have to do this.}
-{2131}{}{I hate you and all that you stand for.}
-{2132}{}{It's varmints like you that make life hard for decent folks.}
-{2133}{}{Somebody needs to put you away for what you've done.}
-{2134}{}{You need to be spanked, hard!}
-{2135}{}{You just can't do some things and expect to get away with it.}
-{2136}{}{Your days here are through.}
-{2137}{}{Goddamn it, I'm not going to take that.}
-{2138}{}{I'm mad as hell and I'm just not going to take it anymore!}
-{2139}{}{Get the hell out of here.}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+{2120}{}{Espere até que eu te ...}
+{2121}{}{É isso aí, eu já estou cansado de tipos como você.}
+{2122}{}{Ei, você!}
+{2123}{}{Você não é bem vindo aqui}
+{2124}{}{Ninguém vai destruir este lugar ...}
+{2125}{}{Quem você pensa que é?}
+{2126}{}{Você não pode simplesmente fazer o que quiser aqui.}
+{2127}{}{Você precisa aprender boas maneiras.}
+{2128}{}{Eu ja me cansei de você.}
+{2129}{}{Você e os outros de sua classe são todos iguais.}
+{2130}{}{Eu não queria ter que fazer isso.}
+{2131}{}{Eu odeio você e tudo o que você representa.}
+{2132}{}{É patifes como você que tornam a vida difícil para as pessoas decentes.}
+{2133}{}{Alguém precisa acabar com você por tudo que tem feito.}
+{2134}{}{Você precisa levar uma surra!}
+{2135}{}{Você não pode simplesmente fazer algumas coisas e não esperar que se tenha consequencias.}
+{2136}{}{Seus dias aqui estão contados.}
+{2137}{}{Porra, eu não vou aceitar isso.}
+{2138}{}{Estou totalmente louco e eu não vou agüentar mais isso!}
+{2139}{}{Caia fora daqui.}
 #
 # attacking
 #
-{2140}{}{You shouldn't have done that.}
-{2141}{}{We take care of our own.}
-{2142}{}{This is what we do to vermin!}
-{2143}{}{You mutant freak!}
-{2144}{}{You bastard!}
-{2145}{}{Gonna feed you to the dogs.}
-{2146}{}{This'll learn ya!}
-
-
-
-
-
-
-
-{2147}{}{Fine. You asked for this.}
-{2148}{}{You animal!}
-{2149}{}{You deserve what's coming to you!}
-
-
-{2150}{}{I hope this hurts.}
-{2151}{}{This'll teach you some manners.}
-{2152}{}{You have to learn sometime.}
-
-
+{2140}{}{Você não deveria ter feito isso!}
+{2141}{}{Preocupamos uns com os outros.}
+{2142}{}{Isto é o que fazemos com vermes!}
+{2143}{}{Você é uma aberração mutante!}
+{2144}{}{Idiota!}
+{2145}{}{Vou te usar como alimentar para os cães!}
+{2146}{}{Aprenda com isso!}
+{2147}{}{Bem. Você pediu por isso.}
+{2148}{}{Animal!}
+{2149}{}{Você merece o que está passando!}
+{2150}{}{Espero que isso dói.}
+{2151}{}{Isso vai te ensinar boas maneiras.}
+{2152}{}{Você tem que aprender.}
 {2153}{}{Tome isso!}
-{2154}{}{Feels good to be striking back!}
-{2155}{}{I've had enough of your kind!}
-{2156}{}{Feel the pain!}
-{2157}{}{You won't do this again!}
-{2158}{}{I'm striking a blow for all the little people!}
+{2154}{}{Aprenda como devolver os golpes!}
+{2155}{}{Eu ja me cansei de gente como você!}
+{2156}{}{Sinta a dor!}
+{2157}{}{Não voltara a fazer isso!}
+{2158}{}{Este é um golpe fodão!}
 {2159}{}{Yeah, Tome isso!}
-
-
-
-
-
-
 #
 # target being missed
 #
-{2160}{}{I ain't that bad off, am I?}
-{2161}{}{I've seen smarter Brahmin than you.}
-
-
-{2162}{}{Whew!}
-{2163}{}{I ain't no pushover.}
-{2164}{}{Thank the gods!}
-{2165}{}{You missed!}
-{2166}{}{You aren't that good after all.}
-
-
-
-{2167}{}{Hah hah, you suck!}
-{2168}{}{I thought you had me for sure.}
-{2169}{}{I must be better at this than I thought.}
-{2170}{}{You can't hit me!}
-{2171}{}{You got me! Oh? Maybe you didn't!?!}
-{2172}{}{Yeah! You missed me!}
-
-
-
-
-
+{2160}{}{Não sou tão ruim, sou?}
+{2161}{}{Eu vi mais Brahmin mais esperto que você}
+{2162}{}{Ufa!}
+{2163}{}{Eu não  sou uma presa fácil.}
+{2164}{}{Graças a Deus!}
+{2165}{}{Errou!}
+{2166}{}{Você não é tão bom assim.}
+{2167}{}{Hah hah, você não é de nada!}
+{2168}{}{Eu pensei que você ....}
+{2169}{}{Sou melhor nisso do que eu pensava.}
+{2170}{}{Você não pode me bater!}
+{2171}{}{Você me bateu! Oh? Talvez não!!}
+{2172}{}{Yeah! Você errou!}
 #
 ############################################
 # 2200 Tough Person
@@ -1341,128 +1278,78 @@
 #
 #  running away
 #
-{2200}{}{This ain't worth it!}
-{2201}{}{I have better things to do.}
-{2202}{}{Somebody help me!}
-{2203}{}{You got the better of me...this time}
-{2204}{}{You'll get what's coming to you!}
-{2205}{}{I ain't dyin' for this!}
-{2206}{}{You've gotta sleep sometime, and I'll be there when you do.}
-
-
-
-
-
-
-
-{2207}{}{You got lucky.}
-{2208}{}{This round is yours, but the fight's gonna be mine.}
-
-{2209}{}{You won this time.}
-{2210}{}{Next time the luck's going to be on my side.}
-{2211}{}{Better to live again to fight another day.}
-
-
-{2212}{}{I'm outta here.}
-{2213}{}{You're not worth the trouble.}
-{2214}{}{Shit, I didn't think you'd be so much work.}
-
-
-{2215}{}{Crap, time to scram.}
-{2216}{}{You're one nasty motherfucker!}
-{2217}{}{I'm bad, but you're the baddest.}
+{2200}{}{Não vale a pena!}
+{2201}{}{Tenho coisas melhores para fazer.}
+{2202}{}{Alguém me ajude!}
+{2203}{}{Da próxima vez vou fazer melhor.}
+{2204}{}{Vai ter o que merece!}
+{2205}{}{Eu não vou morrer por isso!}
+{2206}{}{Você tem que dormir em algum momento, e eu vou estar lá quando você o fizer.}
+{2207}{}{Teve sorte.}
+{2208}{}{Você venceu a batalha, mas a guerra quem vai ganhhar será eu.}
+{2209}{}{Desta vez você ganhou.}
+{2210}{}{Da próxima vez a sorte vai estar do meu lado.}
+{2211}{}{Melhor viver hoje para lutar outro dia.}
+{2212}{}{Vou cair fora daqui.}
+{2213}{}{Você não vale a pena.}
+{2214}{}{Merda, eu não acho que você daria muito trabalho.}
+{2215}{}{Merda, é hora de sumir.}
+{2216}{}{Você é um filho da puta desagradável!}
+{2217}{}{Eu sou mau, mas você é muito mais.}
 {2218}{}{Asta la vista!}
-{2219}{}{Tasty bananas!}
-
-
-
-
+{2219}{}{Saborei as bananas!}
 #
 # moving in to attack
 #
-{2220}{}{It's too late to run!}
-{2221}{}{Who let you in here?}
-{2222}{}{Hey you!}
-{2223}{}{We don't like your kind around here!}
-{2224}{}{Nobody's taking this place over...}
-{2225}{}{Who do you think you are?}
-{2226}{}{This is gonna feel good.}
-{2227}{}{I don't think you're going to like this.}
-{2228}{}{I'm really going to enjoy this.}
-{2229}{}{Let the hurtin' commence.}
-
-
-
-
-
-
-
-
-
-
-{2230}{}{Let's dance.}
-{2231}{}{Time to tango!}
-{2232}{}{I think I'll kill you slow.}
-{2233}{}{I'm going to like seeing your guts spread out on the ground.}
-{2234}{}{I wonder how much noise you'll make when I bleed you.}
-{2235}{}{Welcome to the major leagues, rookie.}
-{2236}{}{I love's to watch 'em squirm.}
-{2237}{}{I hope this is a challenge, for a change.}
-{2238}{}{Oh yeah! I've been waiting for this.}
-{2239}{}{Let's see what you're really made of.}
-
-
-
-
-
-
-
-
+{2220}{}{É tarde demais para correr.}
+{2221}{}{Quem te deixou entrar aqui?}
+{2222}{}{Ei, você!}
+{2223}{}{Nós não gostamos de seu tipo por aqui!}
+{2224}{}{Ninguém vai destruir este lugar ...}
+{2225}{}{Quem você pensa que é?}
+{2226}{}{Isso vai ser bom.}
+{2227}{}{Eu acho que você não vai gostar disso.}
+{2228}{}{Eu vou gostar disso.}
+{2229}{}{Vamos começar machucando.}
+{2230}{}{Vamos dançar.}
+{2231}{}{Hora de bailar!}
+{2232}{}{Achou que vou te matar lentamente.}
+{2233}{}{Eu vou gostar de ver suas entranhas espalhadas no chão.}
+{2234}{}{Gostaria de saber o que vai fazer quando eu sangrar você.}
+{2235}{}{Bem-vindo às grandes ligas, novato.}
+{2236}{}{Eu adoro ver como se contorce.}
+{2237}{}{Espero que este seja um desafio.}
+{2238}{}{Oh sim! Estava a muito tempo esperando por isso.}
+{2239}{}{Vamos ver do que realmente  você é feito.}
 
 #
 # attacking
 #
-{2240}{}{Take this!}
-{2241}{}{How do you like this?}
-{2242}{}{This is what we do to vermin!}
-{2243}{}{I just want to hear your bones cracking!}
-
-
-
+{2240}{}{Tome isso!}
+{2241}{}{Você gosta disso?}
+{2242}{}{Isto é o que fazemos com vermes!}
+{2243}{}{Isto é para você!}
 {2244}{}{Good-bye!}
-{2245}{}{Let's get it on!}
-{2246}{}{Troublemaking scum!}
-{2247}{}{I'm gonna beat you like a red-headed stepchild...}
-{2248}{}{You animal!}
-{2249}{}{You'll regret setting foot in here!}
-
-
-
-
-
+{2245}{}{Vamos em frente!}
+{2246}{}{Escória problemática!}
+{2247}{}{Eu vou bater em você como um filho da puta.}
+{2248}{}{Animal!}
+{2249}{}{Você vai se arrepender de colocar o pé aqui!}
 {2250}{}{Feel the burn.}
 {2251}{}{Take the pain, motherfucker!}
 {2252}{}{Yeah, feels good don't it?}
 {2253}{}{That's a bleeder!}
 {2254}{}{Starting to slow down a bit huh?}
-
-
-
-
 {2255}{}{Oh yeah, this is where it's at.}
 {2256}{}{Feel that one?}
 {2257}{}{Yeah buddy, lean into the blow.}
 {2258}{}{Take it, take it hard!}
 {2259}{}{Love to taste the splashed blood.}
 
-
-
-
 #
 # target being missed
 #
 {2260}{}{You're not as good as you think.}
-
 {2261}{}{Pathetic.}
 {2262}{}{You're just a common thug.}
 {2263}{}{You sure ain't nothing special.}
@@ -1475,16 +1362,6 @@
 {2270}{}{Goddamn amateurs!}
 {2271}{}{This your first time kid?}
 {2272}{}{I didn't even have to dodge that one.}
-
-
-
-
-
-
-
-
-
-
 
 #
 ############################################

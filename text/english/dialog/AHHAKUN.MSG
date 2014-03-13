@@ -1,8 +1,6 @@
 #LUBAN TRADUZINDO
-# > comentário (rsalvarnega): substitui o shaman por sacerdote acho que fica melhor
-# boa tradução ;) tks
-
-{100}{}{Diante de você está Hakunin, o sacerdote do vilarejo. Ele te avalia com seus olhos malucos de algum lugar no mundo que somente ele habita..} 
+# LUBAN > PODE DEIXAR SHAMAN MESMO! aTT; RSALVARENGA
+{100}{}{Diante de você está Hakunin, o Shaman do vilarejo. Ele te avalia com seus olhos malucos de algum lugar no mundo que somente ele habita..} 
 {101}{}{Você vê Hakunin caido no chão. Ele está gravemente ferido.} 
 {102}{}{Você vê Hakunin. Ele está muito perto da morte.} 
 {103}{}{Hanukin está gravemente queimado. Ele cheira a galinha e parece um bolo de carne, você não sabe como ele ficou vivo tanto tempo assim.} 

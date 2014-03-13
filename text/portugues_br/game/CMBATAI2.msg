@@ -485,7 +485,7 @@
 {1549}{}{Devo continuar, devo matar o inimigo...} 
 {1550}{}{A escuridão acena para mim.} 
 {1551}{}{A hora da minha morte se aproxima.} 
-{1552}{}{O sacerdote estava certo, eu não voltar.} 
+{1552}{}{O Shaman estava certo, eu não voltar.} 
 {1553}{}{O forasteiro me matou.}
 {1554}{}{Eu estou morto.}
 {1555}{}{Minhas entranhas estão soltas da minha espinha!} 
@@ -920,11 +920,10 @@
 #
 {2160}{}{Não sou tão ruim, sou?}
 {2161}{}{Eu vi mais Brahmin mais esperto que você}
-
 {2162}{}{Ufa!}
 {2163}{}{Eu não  sou uma presa fácil.}
 {2164}{}{Graças a Deus!}
-{2165}{}{Perdeu!}
+{2165}{}{Errou!}
 
 #
 ############################################
@@ -968,7 +967,6 @@
 # target being missed
 #
 {2260}{}{Você não é tão bom quanto pensa.}
-
 {2261}{}{Patético.}
 {2262}{}{Você é apenas um bandido comum.}
 {2263}{}{Não é nada especial.}
@@ -1133,7 +1131,7 @@
 #
 {2600}{}{Executado Maligno!}
 {2601}{}{Os espíritos me dizem para reagir!}
-{2602}{}{Nosso inimigo tem usado magia poderosa - Corra! Alguém pode chamar um sacerdote !}
+{2602}{}{Nosso inimigo tem usado magia poderosa - Corra! Alguém pode chamar um Shaman !}
 {2603}{}{O espírito maligno é mais poderoso agora. A morte caminha sobre a terra!}
 {2604}{}{O espírito maligno está aqui!}
 {2605}{}{O espírito maligno quer nos castigar. Corre!}
