@@ -1,6 +1,6 @@
 XDathz está traduzindo esse arquivo.
-{100}{}{You see Morlis, one of your aunts -- the one who never liked you.}
-{101}{}{Why do you bother me, nephew? Can't you see I'm busy?}
+{100}{}{Aquela é a Morlis, uma de suas tias... a que nunca gostou de você.}
+{101}{}{Por que você fica me encomodando, sobrinho? Não vê que estou ocupada?}
 {301}{}{Why do you bother me, niece? Can't you see I'm busy?}
 {102}{}{Umm, okay. Sorry.}
 {103}{}{What is it? You know I have a lot to do!}
