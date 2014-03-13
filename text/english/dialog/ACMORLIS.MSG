@@ -9,10 +9,10 @@ XDathz está traduzindo esse arquivo.
 {106}{}{Isso, humm, você poderia ter uma pedra.}
 {107}{}{Eu tenho. Você quer um pouco, não é mesmo?}
 {108}{}{Bem, sim.}
-{109}{}{Well... I want three doses of healing powder. Bad times are coming
- and I'm going to be ready. Bring them to me and you can have the flint. Now
- get to it!}
-{110}{}{Yes, ma'am!}
+{109}{}{Bem... Eu quero três doses de pó curativo. Momentos ruins estão se aproximando, 
+ e preciso estar preparada. Traga-os para mim e eu te darei a pedra. Agora, 
+ vá pega-los!}
+{110}{}{Sim, senhora!}
 {111}{}{Now don't waste my time. Do you have the powders?}
 {112}{}{Yes, here they are.}
 {113}{}{Umm, I guess not.}
