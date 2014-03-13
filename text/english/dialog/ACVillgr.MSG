@@ -1,4 +1,3 @@
-Geovany97 está traduzindo este arquivo.
 #############################################################
 #  Message File: ACVillgr.msg                               #
 #                                                           #
@@ -19,8 +18,8 @@ Geovany97 está traduzindo este arquivo.
 #  The following lines are for describing the NPC when      #
 #  glanced and and examined.                                #
 #############################################################
-{100}{}{You see a male villager.}
-{101}{}{You see a female villager.}
+{100}{}{Você está vendo um aldeão em sua aldeia.}
+{101}{}{Você está vendo uma aldeã em sua aldeia.}
 
 #############################################################
 #  The following lines are for the dialog which the NPC     #
@@ -28,63 +27,63 @@ Geovany97 está traduzindo este arquivo.
 #  Tool.                                                    #
 #############################################################
 
-{150}{}{A kindly member of your village.}
+{150}{}{Um membro gentil de sua aldeia.}
 {151}{}{[TALK]}
-{152}{}{Hello! I hear you are the Chosen One. Now, perhaps, our village can be saved.}
-{153}{}{Can you tell me where I can find more healing powder?}
-{154}{}{What can you tell me of the traders who trade with us?}
-{155}{}{It is good to see you, but I must be going.}
-{156}{}{Gods protect you on your journey.}
-{157}{}{I do have a question for you.}
-{158}{}{Goodbye, my friend.}
-{159}{}{Go see Hakunin in the northern corner of the village. He can help you.}
-{160}{}{Thank you. Goodbye.}
-{161}{}{Oh, it's not my place to deal with the traders. Talk to Mynoc, the guardian of the
- great bridge. He sees them all.}
-{162}{}{Thank you. Goodbye.}
-{163}{}{Could you tell me where the great bridge is located?}
-{164}{}{One more question, if I may.}
-{165}{}{Good joke, Chosen One! You know where it is. That way -- to the south.}
-{166}{}{Thank you. Goodbye.}
-{167}{}{One more question, if I may.}
-{168}{}{Of course, what is it?}
-{169}{}{Could you tell me where I can find some healing herbs?}
-{170}{}{What can you tell me of the traders who trade with us?}
-{171}{}{Never mind.}
-{172}{}{Oh gods -- may the spirit of the Founder guide you. If you're the Chosen One, we're
- going to need it.}
+{152}{}{Olá! Ouvi dizer que você é o Escolhido. Talvez agora a nossa aldeia possa ser salva.}
+{153}{}{Você poderia me dizer onde eu posso encontrar healing powder?}
+{154}{}{O que você pode me dizer sobre os comerciantes que negociam com a gente?}
+{155}{}{É bom te vê-lo, mas eu tenho que ir.}
+{156}{}{Que os Deuses lhe protejam em sua busca.}
+{157}{}{Eu tenho uma pergunta para você.}
+{158}{}{Adeus, meu amigo.}
+{159}{}{Vá ver Hakunin na parte norte da cidade. Ele pode ajudá-lo.}
+{160}{}{Muito obrigado. Adeus.}
+{161}{}{Oh, eu não me costumo lidar com comerciantes. Fale com Mynoc, o guardião
+ da grande ponte. Ele lida com todos.}
+{162}{}{Muito obrigado. Adeus.}
+{163}{}{Você pode me dizer onde se encontra a grande ponte?
+{164}{}{Só mais uma pergunta, se me permite.}
+{165}{}{Boa piada, Escolhido! Você sabe onde ele está. Lá - para o sul.}
+{166}{}{Muito obrigado. Adeus.}
+{167}{}{Só mais uma pergunta, se me permite.}
+{168}{}{Claro, o que é?}
+{169}{}{Você poderia me dizer onde eu posso encontrar algumas ervas curativas?}
+{170}{}{O que você pode me dizer sobre os comerciantes que negociam com a gente?}
+{171}{}{Nada, não importa.}
+{172}{}{Oh Deus - Que os espíritos do Fundador te guiem. Se você for o Escolhido, nós vamos
+ precisar dele.}
 {173}{}{Uun Ga.}
-{174}{}{Have a safe journey.}
+{174}{}{Tenha uma boa viagem.}
 {175}{}{????}
-{176}{}{We're doomed! You have failed your quest.}
-{177}{}{You cannot continue like this.}
-{180}{}{You are a traitor to your own people.}
-{181}{}{Why do you do this?}
+{176}{}{Estamos condenados! Você falhou em sua missão.}
+{177}{}{Você não pode continuar assim.}
+{180}{}{Você é um traidor do seu próprio povo.}
+{181}{}{Por que você faz isso?}
 {182}{}{You are evil. The Chosen One is evil!}
-{183}{}{They come to our village from the east, but their goods are poor.}
-{184}{}{Could you tell me where I can find some healing herbs?}
-{185}{}{Thank you. Goodbye.}
-{186}{}{One more question, if I may.}
+{183}{}{Eles vêm à nossa aldeia do leste, embora muitas vezes trazem poucas coisas.}
+{184}{}{Você poderia me dizer onde eu posso encontrar mais healing powder?}
+{185}{}{Obrigado. Adeus}
+{186}{}{Só mais uma pergunta, se me permite.}
 
 # Starting Dialog after 1st Hakunin Movie
-{300}{}{Hello, Chosen One. Nice to see you again. I pray that your holy quest is going well. Is there something I can help you with?}
+{300}{}{Olá, Escolhido. Fico feliz em vê-lo novamente. Rezo para que esta missão sagrada esteja indo bem. Existe alguma coisa em que possa lhe ajudar?}
 
 # Starting Dialog after 2nd Hakunin Movie
-{301}{}{Chosen One, our people are dying. You must hurry your search for the holy GECK. What may I do to aid you in this most holy of quests?}
+{301}{}{Escolhido, o nosso povo está morrendo. Você deve apressar para encontrar o GECK. O que eu posso em lhe ajudar na sua busca? }
 
 # Starting Dialog after 3rd Hakunin Movie
-{302}{}{We are running out of time, Chosen One. Please, finish your holy quest soon. We cannot afford to wait much longer. If there's anything I can do to help you to save us, let me know.}
+{302}{}{Estamos correndo contra o tempo, Escolhido. Por favor, conclua sua missão logo. Não podemos dar ao luxo de esperar mais. Se há alguma coisa em que eu possa ajudá-lo, deixe-me saber.}
 
 # Starting Dialog after 4th Hakunin Movie
-{303}{}{Chosen One, our village is almost dead... you're our only hope. Is there anything
- I could tell you that would aide you in our salvation?}
+{303}{}{Escolhido, a nossa aldeia está quase morta ... você é a nossa única esperança. Existe algo
+ em que eu possa te auxiliar você na nossa salvação?}
 
 
 #############################################################
 #  TELL - ME - ABOUTS                                       #
 #############################################################
-{1000}{}{Elder}
-{1001}{}{Founder}
+{1000}{}{Anciã}
+{1001}{}{Fundador}
 {1002}{}{Vault Dweller}
 {1003}{}{Arroyo}
 {1004}{}{Klamath}
@@ -96,18 +95,18 @@ Geovany97 está traduzindo este arquivo.
 {1010}{}{Bridge}
 {1011}{}{Mynoc}
 
-{1100}{}{The Elder is your mother and our leader.}
-{1101}{}{Our great ancestor who gave us knowledge.}
-{1102}{}{The first to fight and win over chaos.}
-{1103}{}{That would be our beautiful village.}
-{1104}{}{That's a trading outpost a few days east of here.}
+{1100}{}{A Anciã é sua mãe ela é nossa líder.}
+{1101}{}{O nosso grande ancestral que nos deu conhecimento.}
+{1102}{}{O primeiro a lutar e vencer o caos.}
+{1103}{}{Essa seria a nossa bela aldeia.}
+{1104}{}{É um posto avançado de negociação leva alguns dias a leste daqui.}
 {1105}{}{The Vault is heaven.}
-{1106}{}{You are the Chosen One.}
-{1107}{}{He heals us with his herbs and magic. He is in the northern part
- of our village.}
-{1108}{}{He heals us with his herbs and magic. He is in the northern part
- of our village.}
-{1109}{}{It is a magic powder which will heal you, but will make you
- sleepy.}
-{1110}{}{The Great Bridge exits our village in the south.}
-{1111}{}{He guards the bridge leading into our village.}
+{1106}{}{Você é o Escolhido.}
+{1107}{}{Ele nos cura com suas ervas e magia. Ele está localizado
+ no norte da nossa aldeia.}
+{1108}{}{Ele nos cura com suas ervas e magia. Ele está localizado
+ no norte da nossa aldeia.}
+{1109}{}{É um pó mágico que vai curá-lo, mas vai te deixar 
+ sonolento.}
+{1110}{}{A Grande Ponte, é ao sul de nossa aldeia.}
+{1111}{}{Ele que é o guarda da ponte que dá acesso à nossa aldeia.}
