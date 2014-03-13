@@ -1099,7 +1099,7 @@
 {2008}{}{SÛ n„o me mate, porfavoooooor!}
 {2009}{}{N„o me mate!}
 {2010}{}{Por favor n„o me mate.}
-{2011}{}{Me ajjude! Por favor! Ajudeeeeee!}
+{2011}{}{Me ajude! Por favor! Ajudeeeeee!}
 {2012}{}{SÛ n„o me machuque mais.}
 {2013}{}{Por favor, pare de me bater!}
 {2014}{}{N„o, pare, por favor, n„„„„o!}
@@ -1195,12 +1195,9 @@
 {2101}{}{Have mercy!}
 {2102}{}{Somebody help me!}
 {2103}{}{Please stop!}
-
-
-
-
 {2104}{}{Just leave me alone.}
 {2105}{}{I ain't dyin' for this!}
+
 {2106}{}{Stop picking on me!}
 {2107}{}{Help me! Hellllllllp!}
 {2108}{}{I'm being killed! Help me!}
