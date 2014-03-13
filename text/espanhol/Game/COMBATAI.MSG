@@ -400,8 +400,8 @@
 {1273}{}{Eso me va a dejar una buena cojera por una temporada.}
 {1274}{}{Ven aquí, no me hagas ir cojeando tras de ti.}
 {1275}{}{Maldición, casi me arrancas la pierna.}
-{1276}{}{Eso me va a ralentizar durante toda la estación.}
-{1277}{}{Oh, eso sí que me va a mandar al banquillo.}
+{1276}{}{Isso vai me atrasar.}
+{1277}{}{Oh, isso sim que vou enviar para o banco.}
 {1278}{}{Aún tengo otra pierna.}
 {1279}{}{Ja, ja, tan sólo era una prótesis.}
 #
@@ -414,7 +414,7 @@
 {1284}{}{¡Capullo, me has dejado ciego!}
 {1285}{}{Sólo por eso, voy a escarcharte los ojos como uvas maduras.}
 {1286}{}{¡Me has sacado un maldito ojo!}
-{1287}{}{Mierda, el ojo me cuelga del nervio óptico.}
+{1287}{}{Merda, meu olho esta pendurado pelo nervo óptico.}
 {1288}{}{Aún puedo oír donde estás.}
 {1289}{}{¡No vuelvas a tocarme los puñeteros ojos!}
 #
@@ -427,7 +427,7 @@
 {1294}{}{Eso no te va a servir de nada.}
 {1295}{}{Me figuraba que intentarías hacer eso.}
 {1296}{}{¿Te divierte?}
-{1297}{}{Voy a arrancarte los tuyos y hacértelos comer.}
+{1297}{}{Eu vou arrancar o seu e saco e fazer você comer.}
 {1298}{}{Creo que tengo que sentarme un rato.}
 {1299}{}{Vas a tener que hacerlo mejor.}
 #
@@ -489,7 +489,7 @@
 {1340}{}{Y yo que pensaba que esto sería una lucha seria.}
 {1341}{}{Así te va a costar horas detenerme.}
 {1342}{}{Ouch, da igual, unas costillas más o menos.}
-{1343}{}{Una herida en el vientre no va a retrasarme.}
+{1343}{}{Uma ferida na barriga não vai me atrasar.}
 {1344}{}{Has captado mi atención.}
 {1345}{}{Me aseguraré de que te duela más de lo que me ha dolido a mí.}
 {1346}{}{Estúpido bastardo. Ahora te mataré lentamente.}

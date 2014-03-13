@@ -271,7 +271,7 @@
 #
 # target hit in torso
 #
-{1330}{}{Um pouco de sangue não é machuca ninguém.}
+{1330}{}{Um pouco de sangue não machuca ninguém.}
 {1331}{}{Uff! Vou torcer seu pescoço por isso ...}
 
 
@@ -312,8 +312,6 @@
 #
 {1390}{}{Uff, minha virilha!}
 {1391}{}{Esse foi um movimento corajoso.}
-
-
 {1392}{}{}
 {1393}{}{}
 {1394}{}{Então é assim que você quer jogar?}
@@ -419,13 +417,9 @@
 {1503}{}{Ouuuuch!}
 {1504}{}{Minha cabeça esta em chamas!}
 {1505}{}{Queima, queima!}
-
-
 {1506}{}{Que dor.}
 {1507}{}{Sua magia é poderosa.}
 {1508}{}{Você não pode roubar minha alma dessa maneira.} 
-
-
 {1509}{}{Sua magia não pode me matar.}
 #
 # target hit in left arm
@@ -437,13 +431,6 @@
 {1514}{}{De qualquer maneira esse braço era um pouco grande demais.} 
 {1515}{}{Vou arrancar seus dois braços por isso.} 
 {1516}{}{Por isso, vou te matar lentamente.} 
-
-
-
-
-
-
-
 {1517}{}{Ouch!}
 {1518}{}{Quanto sangue.}
 {1519}{}{Algo para mostrar para as crianças.}
@@ -527,14 +514,11 @@
 {1570}{}{Vou rastejar para matá-lo.}
 {1571}{}{Devo me manter em pé, devo...} 
 {1572}{}{Não me faça correr para pegar você!} 
-{1573}{}{Você me aleijou, covarde!} 
-
-
+{1573}{}{Você me aleijou, covarde!}
 {1574}{}{Awwwwgg!}
 {1575}{}{Osso? Tão branco...}
 {1576}{}{Não posso andar. Oh que dor...} 
-{1577}{}{Vou queimar seu pé por isso.} 
-
+{1577}{}{Vou queimar seu pé por isso.}
 {1578}{}{Ooooo-ouuuuch!}
 {1579}{}{Sinto fogo em minha perna.}
 #
@@ -542,8 +526,6 @@
 #
 {1580}{}{A escuridão está aqui.}
 {1581}{}{Onde você está?}
-
-
 {1582}{}{Ajuda, me ajuda.}
 {1583}{}{Eu ainda posso ouvi-lo.}
 {1584}{}{Querendo me cegar? Covarde!} 
@@ -556,8 +538,7 @@
 #
 # target hit in groin
 #
-{1590}{}{Agora eu tenho muitos filhos.} 
-
+{1590}{}{Agora eu tenho muitos filhos.}
 {1591}{}{Você luta sem honra.}
 {1592}{}{Estou casado, não uso de qualquer maneira.} 
 {1593}{}{Espíritos santos, o mundo explodiu.} 
@@ -623,7 +604,7 @@
 {1632}{}{Gerrk!}
 {1633}{}{O que é esse cheiro de mofo? Oh, minha entranhas.} 
 {1634}{}{Agora que você já me espedaçou, eu estou tão esbelto! Obrigado!} 
-{1635}{}{./~ [Canta] Eu te dei coração....../~}
+{1635}{}{./~ [Canta] Eu te dei meu coração....../~}
 {1636}{}{Isso fez cócegas nas minhas costelas.}
 {1637}{}{De qualquer maneira quem precisa de um apêndice.}
 {1638}{}{Acho que você passou um pouco do ponto, doc.}
@@ -695,20 +676,15 @@
 # target hit in head
 #
 {1703}{}{Na cara! Na cara não!}
-
 {1704}{}{Minha cabeça ... ... ficando tonto ...}
 {1705}{}{Ugnnn!}
 {1706}{}{Na cara! Na cara não!}
-
 #
 # target hit in left arm
 #
 {1710}{}{Eu posso bater em você com um braço!}
 {1711}{}{Médico! Fudeu com meu braço!}
 {1712}{}{Ack! Ainda bem que eu sou ambidestro...}
-
-
-
 #
 # target hit in right arm
 #
@@ -735,10 +711,8 @@
 # target hit in left leg
 #
 {1770}{}{Maldição! Minha perna!}
-
 {1771}{}{* Ergg * Vai ter troco ...}
 {1772}{}{Vou precisar de um stimpack para a minha perna ...}
-
 {1773}{}{Urggg ... perna se ... ferrou ...}
 #
 # target hit in eyes
@@ -792,14 +766,9 @@
 {1832}{}{Hey! Porque você me bateu no peito?, idiota!}
 {1833}{}{Pare de me bater no peito!}
 {1834}{}{Whoa. Meu peito. Isso machucou legal.}
-
-
-
-
 {1835}{}{Nrgggg}
 {1836}{}{*hfff*}
 {1837}{}{Owwwww! Alguém me dê um Stimpack! Ou algum Jet!}
-
 #
 # target hit in right leg
 #
@@ -872,8 +841,6 @@
 {2000}{}{Misericórdia!}
 {2001}{}{Alguém me ajude!}
 {2002}{}{Por favor, pare!}
-
-
 {2003}{}{Ajuda!}
 {2004}{}{Aaaaahhhh!}
 {2005}{}{Misericórdia!}
@@ -894,16 +861,11 @@
 {2041}{}{Você não deveria ter começado isso!}
 {2042}{}{Você pediu por isso!}
 {2043}{}{Você gosta disso?}
-
-
-
 {2044}{}{}
 {2045}{}{Otário!}
 {2046}{}{Eu não quero fazer isso!}
-
 {2047}{}{}
 {2048}{}{Eu não queria lutar, mas ...}
-
 {2049}{}{Canalha!}
 #
 # target being missed
