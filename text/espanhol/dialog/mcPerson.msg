@@ -44,7 +44,7 @@
 {285}{}{Lo que le hicimos a los Escorias estuvo mal.}
 
 # If the player kills the Slags by himself
-{300}{}{¿Te has enterado? Un poderoso sacerdote ha exorcizado a los fantasmas de la granja.}
+{300}{}{¿Te has enterado? Un poderoso Shaman ha exorcizado a los fantasmas de la granja.}
 {301}{}{La cosecha de la granja fantasma debería alimentarnos durante todo el año.}
 {302}{}{No hay una gota de agua en la Granja Fantasma.}
 {303}{}{Quizás el suelo de la Granja Fantasma sea mágico. ¿Cómo si no podrían crecer las cosechas sin agua?}

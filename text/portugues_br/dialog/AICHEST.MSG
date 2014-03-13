@@ -29,5 +29,5 @@
 {100}{}{Veja é só um vaso simples.}
 {101}{}{Veja é um baú pequeno.}
 {102}{}{Veja é só um vaso de barro cozido ao sol.}
-{103}{}{Olha é uma caixa de ervas do sacerdote.}
-{104}{}{Você habilmente roubar coisas do sacerdote.}
+{103}{}{Olha é uma caixa de ervas do Shaman.}
+{104}{}{Você habilmente roubar coisas do Shaman.}

@@ -28,7 +28,7 @@
 {121}{}{Ves a Comando Amish, Comisario de Traumatismos, Sub-comandante del Equipo SWAT de los Sucios.}
 {122}{}{Ves a Alexand Abeja Asesina, una gentil e inteligente variedad de abeja asesina: Escriba jefe de los Sucios.}
 {123}{}{Ves a Hatchetman, Armero de los Sucios e Iniciador de Incendios: Guardián del trasfondo de Shadowrun.}
-{124}{}{Ves a BlueCross, Bajo Sacerdote de los Sucios: Director de Producción.}
+{124}{}{Ves a BlueCross, Bajo Shaman de los Sucios: Director de Producción.}
 
 # UV Leaving Floats
 {200}{}{¡Los Aldeanos Sucios han vuelto a salvar el día!}
