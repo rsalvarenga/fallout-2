@@ -1,15 +1,18 @@
 #LUBAN TRADUZINDO
-{100}{}{Diante de vocÃª estÃ¡ Hakunin, o shaman do vilarejo. Ele te avalia com seus olhos malucos de algum lugar no mundo que somente ele habita..} 
-{101}{}{VocÃª vÃª Hakunin caido no chÃ£o. Ele esÃ¡ gravemente ferido.} 
-{102}{}{VocÃª vÃª Hakunin. Ele estÃ¡ muito perto da morte.} 
-{103}{}{Hanukin estÃ¡ gravemente queimado. Ele cheira a galinha assada, ele parece um bolo de carne, e vocÃª nÃ£o sabe como ele ficou vivo tanto tempo assim.} 
-{104}{hak001}{SaudaÃ§Ãµes, Escolhido. Por que a terra diante de mim aquece com a sua passagem?} 
+# > comentário (rsalvarnega): substitui o shaman por sacerdote acho que fica melhor
+# boa tradução ;) tks
+
+{100}{}{Diante de você está Hakunin, o sacerdote do vilarejo. Ele te avalia com seus olhos malucos de algum lugar no mundo que somente ele habita..} 
+{101}{}{Você vê Hakunin caido no chão. Ele esá gravemente ferido.} 
+{102}{}{Você vê Hakunin. Ele está muito perto da morte.} 
+{103}{}{Hanukin está gravemente queimado. Ele cheira a galinha e parece um bolo de carne, você não sabe como ele ficou vivo tanto tempo assim.} 
+{104}{hak001}{Saudações, Escolhido. Por que a terra diante de mim aquece com a sua passagem?} 
 {105}{}{Uh? }
-{106}{}{Eu vim dizer adeus. Estou indo para a minha missÃ£o sagrada. } 
-{107}{}{Estou indo embora. Eu estava esperando que apenas desta vez vocÃª iria falar como uma pessoa de verdade. } 
-{108}{}{VocÃª estÃ¡ fumando muitas drogas. Estou caindo fora daqui. } 
-{109}{}{Estou ferido. VocÃª pode me curar?} 
-{110}{}{Tinha algumas plantas bem nojentas infestando seu jardim- Eu tomei conta delas.} 
+{106}{}{Eu vim dizer adeus. Estou indo para a minha missão sagrada. } 
+{107}{}{Estou indo embora. Eu estava esperando que apenas desta vez você iria falar como uma pessoa de verdade. } 
+{108}{}{Você está fumando muitas drogas. Estou caindo fora daqui. } 
+{109}{}{Estou ferido. Você pode me curar?} 
+{110}{}{Tinha algumas plantas bem nojentas infestando seu jardim. Eu acabei com todas delas.} 
 {111}{hak001a}{Please reveal to clouded eyes the purpose of your passage.} 
 {112}{}{Uh? }
 {113}{}{I've come to say goodbye. I'm leaving on my holy quest. }
@@ -18,7 +21,7 @@
 {116}{}{There were some pretty nasty plants infesting your garden- I've taken care of them for you.}
 {117}{hak002}{The Earth sings with the news of a champion upon the land.... Perhaps, before you go, you would bestow a kindness?}
 {118}{}{Sure. What do you need?}
-{119}{}{It dependsÂ… what'll you give me?}
+{119}{}{It depends? what'll you give me?}
 {120}{hak002a}{The views of the world are many - a lesson you will learn soon.... Perhaps, before you reap the experiences of life, you would bestow a kindness?}
 {121}{}{Did you just ask me to do you a favor? If so, sure, why not?}
 {122}{}{I'll do something for you, but since I have to work this hard just to understand you, this task will cost.}
