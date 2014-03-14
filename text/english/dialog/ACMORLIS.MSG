@@ -18,10 +18,10 @@ XDathz está traduzindo esse arquivo.
 {113}{}{Humm, eu acho que não.}
 {114}{}{Aqui está a pedra. Agora cai fora! Eu não tenho tempo para fofocar.}
 {115}{}{Obrigado, Tia Morlis.}
-{116}{}{Again you waste my time, worthless nephew! How did you ever become
- the Chosen One?}
-{117}{}{Yes, Aunt Morlis.}
-{118}{}{Uh, Aunt Morlis, I have three right here.}
+{116}{}{Outra vez me fazendo perder tempo, sobrinho inútil! Como é possível você ser
+ o Escolhido?}
+{117}{}{Sim, Tia Morlis.}
+{118}{}{Ah, Tia Morlis, aqui está os três.}
 
 {150}{}{Aunt Morlis, I'm on a perilous quest for the salvation of our village.
  My chances of success will be greatly enhanced if I keep the healing powders
