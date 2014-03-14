@@ -1335,11 +1335,11 @@
 {2247}{}{Eu vou bater em você como um filho da puta.}
 {2248}{}{Animal!}
 {2249}{}{Você vai se arrepender de colocar o pé aqui!}
-{2250}{}{Feel the burn.}
-{2251}{}{Take the pain, motherfucker!}
-{2252}{}{Yeah, feels good don't it?}
-{2253}{}{That's a bleeder!}
-{2254}{}{Starting to slow down a bit huh?}
+{2250}{}{Sinta essa dor.}
+{2251}{}{Sinta essa dor, filho da puta!}
+{2252}{}{Você gosta não é?}
+{2253}{}{Isso é vai te sangrar!}
+{2254}{}{Esta começando a se cansar?}
 {2255}{}{Oh yeah, this is where it's at.}
 {2256}{}{Feel that one?}
 {2257}{}{Yeah buddy, lean into the blow.}
