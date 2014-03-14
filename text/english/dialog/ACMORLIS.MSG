@@ -13,11 +13,11 @@ XDathz está traduzindo esse arquivo.
  e preciso estar preparada. Traga-os para mim e eu te darei a pedra. Agora, 
  vá pega-los!}
 {110}{}{Sim, senhora!}
-{111}{}{Now don't waste my time. Do you have the powders?}
-{112}{}{Yes, here they are.}
-{113}{}{Umm, I guess not.}
-{114}{}{Here is the flint. Now off with you! I don't have time to gossip.}
-{115}{}{Thank you, Aunt Morlis.}
+{111}{}{Não me faça perder tempo. Você tem os pós?}
+{112}{}{Sim, estão aqui.}
+{113}{}{Humm, eu acho que não.}
+{114}{}{Aqui está a pedra. Agora cai fora! Eu não tenho tempo para fofocar.}
+{115}{}{Obrigado, Tia Morlis.}
 {116}{}{Again you waste my time, worthless nephew! How did you ever become
  the Chosen One?}
 {117}{}{Yes, Aunt Morlis.}
