@@ -26,7 +26,7 @@ XDathz está traduzindo esse arquivo.
 {150}{}{Tia Morlis, eu estou em uma perigosa missão para salvar nossa vila.
  Minhas chances de sucesso aumentariam se você 
  me desse os pós curativos e a pedra. Não é verdade?}
-{151}{}{What do you think you are doing, child? This is no way for the Chosen One to act. Now get out of my sight!}
+{151}{}{O que você acha que está fazendo, garoto? Essa não é a forma que o Escolhido deve agir. Agora saia da minha frente!}
 {152}{}{If this flint is so important that you are willing to disgrace the name of the Chosen One, then here. Take
  the flint and get out of my sight.}
 {153}{}{Yes, Aunt Morlis.}
