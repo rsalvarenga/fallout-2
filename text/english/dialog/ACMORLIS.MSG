@@ -23,9 +23,9 @@ XDathz está traduzindo esse arquivo.
 {117}{}{Sim, Tia Morlis.}
 {118}{}{Ah, Tia Morlis, aqui está os três.}
 
-{150}{}{Aunt Morlis, I'm on a perilous quest for the salvation of our village.
- My chances of success will be greatly enhanced if I keep the healing powders
- for myself and you give me the flint. Don't you agree?}
+{150}{}{Tia Morlis, eu estou em uma perigosa missão para salvar nossa vila.
+ Minhas chances de sucesso aumentariam se você 
+ me desse os pós curativos e a pedra. Não é verdade?}
 {151}{}{What do you think you are doing, child? This is no way for the Chosen One to act. Now get out of my sight!}
 {152}{}{If this flint is so important that you are willing to disgrace the name of the Chosen One, then here. Take
  the flint and get out of my sight.}
