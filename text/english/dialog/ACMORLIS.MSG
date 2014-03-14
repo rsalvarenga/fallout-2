@@ -27,12 +27,12 @@ XDathz está traduzindo esse arquivo.
  Minhas chances de sucesso aumentariam se você 
  me desse os pós curativos e a pedra. Não é verdade?}
 {151}{}{O que você acha que está fazendo, garoto? Essa não é a forma que o Escolhido deve agir. Agora saia da minha frente!}
-{152}{}{If this flint is so important that you are willing to disgrace the name of the Chosen One, then here. Take
- the flint and get out of my sight.}
-{153}{}{Yes, Aunt Morlis.}
-{154}{}{Well... Oh, very well. Here is the flint. I wish you a safe journey, child. }
-{155}{}{No, I don't. Now stop wasting my time and get out of here!}
-{156}{}{Yes, Aunt Morlis.}
+{152}{}{Se essa pedra é tão importante assim que você está disposto a desrespeitar o nome do Escolhido, aqui está. Pegue 
+ a pedra e saia da minha frente.}
+{153}{}{Sim, Tia Morlis.}
+{154}{}{Bem... Ah, muito bem. Aqui está a pedra. Tenha uma boa viagem, garoto.}
+{155}{}{Não, eu não acredito. Agora pare de desperdiçar meu tempo e dê o fora daqui!}
+{156}{}{Sim, Tia Morlis.}
 
 
 # new add on stuff for time limit
