@@ -1,0 +1,2 @@
+{100}{}{Essa porta requer uma senha para destrancar.} 
+{101}{}{Usando a senha, você destranca a porta.} 
