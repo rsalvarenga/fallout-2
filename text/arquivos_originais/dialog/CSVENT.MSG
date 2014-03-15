@@ -1,0 +1,6 @@
+{100}{}{Você vê uma pedra.}
+{101}{}{Você vê um duto de ventilação camuflado.} 
+{102}{}{Você não vê nada fora do normal.}
+{110}{}{Aquilo não faz nada.}
+{120}{}{Você não pode subir novamente pelo duto de ventilação.}
+{200}{}{Você vê um duto de ventilação.}

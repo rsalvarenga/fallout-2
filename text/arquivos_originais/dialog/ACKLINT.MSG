@@ -1,0 +1,27 @@
+{100}{}{Você vê Klint, um companheiro da tribo.}
+{101}{}{Você vê Klint.}
+{102}{}{Você vê um jovem com músculos salientes e muito seguro de si.}
+{103}{}{Bom dia para você, }
+{104}{}{. Você não concluiu o teste da Anciã e não pode passar.}
+{105}{}{Uh...}
+{106}{}{Preciso voltar para a aldeia.}
+{107}{}{Eu tenho algumas perguntas para você.}
+{108}{}{Ok, eu vou fazer o teste.}
+{109}{}{(suspiro) }
+{110}{}{. Vê o templo. Você deve fazer o teste lá. Você não pode voltar até fazer o teste. Obedeça a Anciã. Vamos!}
+{111}{}{Estou indo.}
+{112}{}{Perdoe-me, }
+{113}{}{, não posso permitir que você passe. Se você quiser voltar para a aldeia terá que concluir o teste.}
+{114}{}{Eu acho que não tenho escolha.}
+{115}{}{Posso te fazer algumas perguntas, então?}
+{116}{}{Eu poderia chutar o seu traseiro e simplesmente sair daqui.}
+{117}{}{Me Desculpe, mas eu não tenho as respostas para suas perguntas. Faça o teste ordenado pela Anciã e prove ser digno de liderar nosso povo.}
+{118}{}{Muito bem.}
+{119}{}{Duas pessoas trabalhando juntas podem superar os obstáculos que bloqueiam o caminho. Sozinho, você seria um fracasso. Não tenho a intenção de ajudá-lo até que você passe no teste da Anciã.}
+{120}{}{Ah, tudo bem, eu entendo.}
+{121}{}{Saudações, escolhido! É bom vê-lo. Como posso ajudar?}
+{122}{}{Só pensei em dizer Olá. Isto é tudo..}
+{123}{}{Só pensei em dizer Olá. Vou retornar a minha missão.}
+{124}{}{Que os espíritos de nossos antepassados te protejam, Escolhido. Te desejo o melhor em sua jornada.}
+
+

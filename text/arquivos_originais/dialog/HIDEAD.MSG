@@ -1,0 +1,5 @@
+{100}{}{Você está vendo um corpo morto. Parece ter sido devorado por animais.}
+{101}{}{Na inspeção mais próxima, parece que esta pessoa foi baleada antes de ser devorado pelos animais.}
+{102}{}{Você está vendo um corpo de uma jovem mulher de Broken Hills.}
+{103}{}{Parece haver um pedaço de papel preso em algum espécie de bainha nas suas roupas.}
+{104}{}{Na inspeção mais próxima, parece que esta pessoa foi baleada antes de ser devorado pelos animais.}

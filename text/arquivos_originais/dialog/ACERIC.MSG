@@ -1,0 +1,12 @@
+#############################################################
+#  Feargus (Arroyo)     				    #
+#############################################################
+
+{100}{}{Você vê seu sobrinho, Feargus, sempre chorando por alguma coisa.}
+{101}{}{Wahh!!! Por favor conserte o poço.}
+{102}{}{Wahh!!! Eu to com muita sede, mas o poço ta quebrado!}
+{103}{}{Wahh!!! O poço precisa muito de um conserto.}
+{104}{}{Ei, obrigado por consertar o poço!}
+{105}{}{Tenha cuidado.}
+{106}{}{O poço ta funcionando. Você é o cara!}
+{200}{}{Você vê seu sobrinho, Feargus.}

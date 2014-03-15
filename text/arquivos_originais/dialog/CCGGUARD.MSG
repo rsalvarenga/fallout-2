@@ -1,0 +1,79 @@
+{100}{}{Você vê um guarda.}
+{101}{}{Você vê o guarda do portão.}
+{102}{}{Você vê um guarda usando uma armadura de combate de design diferente. Há uma insígnia no peitoral desconhecida para você.}
+{103}{gate1}{Parado! Aqui é propriedade federal - não é permitida a entrada, a não ser com a devida autorização.}
+{104}{}{Ahn... propriedade}
+
+{105}{}{Eu tenho um passe... onde eu coloco?}
+{106}{}{Sou um novo recruta. Me foi dito que você estaria a minha espera.}
+
+{107}{}{Oh, desculpa. Vou indo nessa então.}
+{108}{}{Eu tenho meu passe... ta logo aqui.}
+{109}{}{Sou um novo recruta. Me foi dito que você estaria a minha espera.}
+{110}{}{Oh, desculpa. Vou indo nessa então.}
+
+{111}{gate2}{Você é um pouquinho lento, né?? Bem, vá andando e não volte aqui. Ficará tudo bem. Entendeu?}
+{112}{}{Eu quero entrar.}
+{113}{}{Oh, desculpa. Vou indo nessa então.}
+
+{114}{gate3}{Não é permitida a entrada nessa merda. Ok, vamos lá. (lentamente) Precisa de um passe pra entrar. 
+ Você não tem passe. Você deve sair agora. Ou vai ser machucado. Entendeu?}
+{115}{}{Que tal eu te machucar em vez disso?}
+
+{116}{}{Ok. Vou indo nessa.}
+
+{117}{gate14}{(armas a vista) Não quero suas desculpas! Você precisa me mostrar o seu passe, ou me dizer a senha!}
+{118}{}{Perdi meu passe e não me lembro da senha!}
+{119}{}{Foda-se. Eu te mato.}
+
+{120}{}{Me desculpe, eu perdi o meu passe, e não lembro nada sobre uma senha.}
+{121}{}{Foda-se você e todos que pareçam com você!}
+
+{122}{gate5}{Eu sugiro que você deixe este local imediatamente e não retorne aqui sem a devida autorização. Fui claro?}
+
+{123}{}{Sim.}
+
+{124}{gate6a}{Entendo. Pode me dizer sua senha?}
+{125}{gate6b}{Entendo. (armas na mão) Todos os novos recrutas devem apresentar-se para o dever sozinhos. 
+ Sugiro que você deixe este local imediatamente e não retorne com esta companhia. Fui claro?}
+{126}{}{Cabeça de bagre.}
+{127}{}{Sim.}
+
+{128}{gate7a}{Um momento. (pausa) Okay, pode ir. Reporte-se com o comandante em exercício. Vá através do portão, 
+ passe o canil. É a primeira porta à direita.}
+
+{129}{gate7b}{(resmunga) Esses cabeções estão ficando mais estúpidos a cada hora.}
+{130}{}{Ok.}
+
+{131}{gate8a}{Parado! - Oh. Vejo que retornou e está sozinho desta vez. Ok, recruta, me diga a senha.}
+{132}{gate8b}{Parado! - Você de novo. Vejo que você ainda está com o seu grupo. (armas em punho) Eu sugiro que você deixe esta instalação e não volte aqui. Fui claro?}
+
+{133}{}{Cabeça de bagre.}
+{134}{}{Sim.}
+
+{135}{gate9}{Parado! - Voltou hein! É melhor que você tenha seu passe ou saiba a senha dessa vez. Bem, está me fazendo esperar?}
+{136}{}{Ahn... eu não lembro da senha e perdi meu passe.}
+
+{137}{}{Foda-se. Eu vou pisar no seu corpo morto.}
+{138}{}{Entenda, eu perdi o meu passe...}
+{139}{}{Ah, pro inferno com isso. Coma minhas balas, idiota!}
+{140}{gate10}{É a última vez que aviso. Eu sugiro que você deixe este local imediatamente e não retorne. Fui claro?}
+{141}{}{Ok, estou indo...}
+
+{142}{}{Já dizia o sábio... Vá se fuder!}
+{143}{}{Certo, estou indo.}
+
+{144}{}{Já dizia o sábio... Vá se fuder!}
+
+{145}{gate11a}{Parado! - Você de novo? Você foi avisado. Alarme! Intruso no portão!}
+{146}{}{Merda!}
+
+# Floats
+{147}{}{Intruso no portão!}
+{148}{}{Entrada principal sob ataque!}
+{149}{}{Para o portão! Intruso no portão!}
+
+{200}{}{...imbecil...}
+{201}{}{...sim, era MELHOR você ter ido...}
+{202}{}{...mas que cachorrinho...}
+{203}{}{...sim, senhor! foda-se, senhor...}

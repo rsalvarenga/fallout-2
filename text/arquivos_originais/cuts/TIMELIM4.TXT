@@ -1,0 +1,8 @@
+1: Escolhido? 
+2: Escolhido? 
+3: Você está me ouvindo? 
+4: A aldeia esta morrendo. 
+5: O futuro de todos nos também. 
+6: Temos pouco tempo. 
+7: Depressa. 
+8: Depressa.
