@@ -1079,7 +1079,6 @@
 #  running away
 #
 {2500}{}{Tenho que sair daqui!}
-
 {2501}{}{Eu voltarei...}
 {2502}{}{Não vai me matar hoje!}
 {2503}{}{Mais tarde, seu puto!}
@@ -1090,7 +1089,6 @@
 # moving in to Ataque
 #
 {2520}{}{Você é história!}
-
 {2521}{}{Toma isso!}
 {2522}{}{Eu vou dançar no seu túmulo!}
 {2523}{}{Todo mundo! É um alvo em potencial!}
@@ -1482,8 +1480,6 @@
 {3240}{}{Toma isso!}
 {3241}{}{Eu vou matar você! Eu vou matar você! Eu vou matar você!}
 {3242}{}{Você quer um pouco disso!}
-
-
 {3243}{}{Nrrrg}
 {3244}{}{Hiyaaaaaa}
 {3245}{}{Vou te matar lentamente...}
@@ -1718,7 +1714,6 @@
 #
 {12310}{}{Meu ... braço ... meu ... lindo ... braço.}
 {12311}{}{Médico! Fudeu com meu braço!}
-
 {12312}{}{*hffff*}
 #
 # target hit in right arm

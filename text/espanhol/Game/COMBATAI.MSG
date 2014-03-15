@@ -1904,7 +1904,7 @@
 {10022}{}{¡Keeng cruje huesos, a ti!}
 {10023}{}{¡Keeng devora partes blandas, a ti!}
 {10024}{}{¡Keeng gran lucha, Rata despellejar!}
-{10025}{}{¡Gran lucha! Despellejar para Keeng y cueva!}
+{10025}{}{¡Grande luta! Esfola o Keeng na caverna!}
 {10026}{}{¡Keeng mata ahora!}
 {10027}{}{Hambre, hambre. ¡Keeng mata, mata!}
 {10028}{}{Keeng huele miedo en ti.}
@@ -1918,6 +1918,7 @@
 {10036}{}{Keeng matar a rata sin pelo.}
 {10037}{}{Keeng desgarrar.}
 {10038}{}{¡Rata te desgarra a ti! ¡Desgarra!}
+
 #
 # Attacking (Repeat of Moving to Attack)
 #
@@ -1926,7 +1927,7 @@
 {10042}{}{¡Keeng cruje huesos, a ti!}
 {10043}{}{¡Keeng devora partes blandas, a ti!}
 {10044}{}{¡Keeng gran lucha, Rata despellejar!}
-{10045}{}{¡Gran lucha! Despellejar para Keeng y cueva!}
+{10045}{}{¡Grande luta! Esfola o Keeng na caverna!}
 {10046}{}{¡Keeng mata ahora!}
 {10047}{}{Hambre, hambre. ¡Keeng mata, mata!}
 {10048}{}{Keeng huele miedo en ti.}
