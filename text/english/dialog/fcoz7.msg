@@ -1,3 +1,4 @@
+
 {100}{}{You see a cowled Hubologist. Somehow, this one seems different.}
 {101}{}{You see AHS-7, the second in command.}
 {102}{}{You see a cowled Hubologist.}
