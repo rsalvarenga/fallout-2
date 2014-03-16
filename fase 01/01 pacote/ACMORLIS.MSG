@@ -49,8 +49,8 @@ XDathz está traduzindo esse arquivo.
 {210}{}{Então, garoto. Mais uma vez você está diante de mim. Continua com as mãos vazias?}
 {211}{}{Sim, Tia Morlis.}
 {212}{}{Escute, }
-{213}{}{. Pessoas estão morrendo, o gado está morrendo, e as plantações também. Everyone is either hungry, sick, or both. Our time draws near. If you do not find the GECK soon, we are doomed. Do you understand me?}
-{214}{}{Yes, Aunt Morlis.}
+{213}{}{. Pessoas estão morrendo, o gado está morrendo, e as plantações também. Todos estão com fome, doentes, ou pior. Nosso tempo está acabando. Se você não encontrar o GECK, estaremos perdidos. Você me entendeu?}
+{214}{}{Sim, Tia Morlis.}
 {215}{}{Then get yourself out of here and find the GECK! People are depending on you!}
 {216}{}{Yes, Aunt Morlis.}
 
