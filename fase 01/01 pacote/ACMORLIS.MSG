@@ -60,5 +60,5 @@ XDathz está traduzindo esse arquivo.
 {303}{}{Well... Oh, I'm sorry but I seem to have misplaced the flint. I wish you a safe journey though, child. }
 
 #added by Darek
-{304}{}{I already gave you the flint, stupid. Now stop wasting my time and get out of here!}
-{305}{}{I already gave you the flint, stupid. Oh well, at least I got my powders. Now off with you! I don't have time to gossip.}
+{304}{}{Eu já te dei a pedra, idiota. Agora, pare desperdiçar o meu tempo e dê o fora daqui!}
+{305}{}{Eu já te dei a pedra, idiota. Ah, pelo menos eu ainda tenho o pó. Agora saia daqui! Eu não tenho tempo para fofocar.}
