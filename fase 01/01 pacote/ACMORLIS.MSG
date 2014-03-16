@@ -45,7 +45,7 @@ XDathz está traduzindo esse arquivo.
 {206}{}{Então dê o fora daqui e não volte até que você tenha completado! Por que perder tempo voltando aqui, quando poderia estar dando continuidade a sua busca!?}
 {207}{}{Sim, Tia Morlis.}
 {208}{}{O fato de você estar aqui significa que completou a sua missão. Você não perderia seu precioso tempo voltando aqui de mãos vazias, não é mesmo?}
-{209}{}{Yes, Aunt Morlis. I mean no, Aunt Morlis. Uh, I've got to go, Aunt Morlis.}
+{209}{}{Sim, Tia Morlis. Quero dizer... não, Tia Morlis. Ah, eu tenho que ir, Tia Morlis.}
 {210}{}{So, child. Once again you stand before me. Are you empty-handed yet again?}
 {211}{}{Yes, Aunt Morlis.}
 {212}{}{Listen, }
