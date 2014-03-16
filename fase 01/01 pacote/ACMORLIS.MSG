@@ -36,12 +36,12 @@ XDathz está traduzindo esse arquivo.
 
 
 # new add on stuff for time limit
-{200}{}{So you've returned. Did you find the holy Thirteen?}
-{201}{}{No, Aunt Morlis, I...}
-{202}{}{Then get yourself out of here and find it! People are depending on you!}
-{203}{}{Yes, Aunt Morlis.}
-{204}{}{Well, here you are again. Have you once again failed to complete your quest?}
-{205}{}{Yes, Aunt Morlis, but...}
+{200}{}{Então você retornou. Encontrou o santo Treze?}
+{201}{}{Não, Tia Morlis, Eu...}
+{202}{}{Então saia daqui e encontre-o! As pessoas precisam de você!}
+{203}{}{Sim, Tia Morlis.}
+{204}{}{Bem, você está aqui novamente. Não conseguiu completar sua última missão?}
+{205}{}{Sim, Tia Morlis, mas...}
 {206}{}{Then get yourself out of here and don't come back until you do! Why waste time coming back here, when you could be using that time to continue your search!?}
 {207}{}{Yes, Aunt Morlis.}
 {208}{}{The fact that you are standing here must mean that you have completed your quest. You wouldn't waste precious time returning here empty-handed, would you?}
