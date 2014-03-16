@@ -1,3 +1,4 @@
+#Pacote sendo traduzido por Ricardo Alvarenga#
 {100}{}{You see a sturdy, older woman with a tired smile.}
 {101}{}{You see Ardin Buckner, the owner of Buckner house.}
 {102}{}{You see a very fit and vivacious woman in her early fifties.}
