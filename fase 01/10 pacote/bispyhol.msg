@@ -1,3 +1,3 @@
-{100}{}{You see a battered tape.}
-{101}{}{Pip Boy displays: File Found on System. Aborting download.}
-{102}{}{Pip Boy displays: Downloading data from Disk.}
+{100}{}{Você está vendo uma fita velha.}
+{101}{}{Pip Boy exibe: Arquivo Encontrado no Sistema. Abortando Download.}
+{102}{}{Pip Boy exibe: Transferindo dados do disco.}
