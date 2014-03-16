@@ -16,7 +16,7 @@ XDathz está traduzindo esse arquivo.
 {111}{}{Não me faça perder tempo. Você tem os pós?}
 {112}{}{Sim, estão aqui.}
 {113}{}{Humm, eu acho que não.}
-{114}{}{Aqui está a pedra. Agora cai fora! Eu não tenho tempo para fofocar.}
+{114}{}{Aqui está a pedra. Agora saia daqui! Eu não tenho tempo para fofocar.}
 {115}{}{Obrigado, Tia Morlis.}
 {116}{}{Outra vez me fazendo perder tempo, sobrinho inútil! Como é possível você ser
  o Escolhido?}
@@ -55,8 +55,8 @@ XDathz está traduzindo esse arquivo.
 {216}{}{Sim, Tia Morlis.}
 
 #added by killap
-{300}{}{Well, I seem to have misplaced the flint. Oh well, at least I got my powders. Now off with you! I don't have time to gossip.}
-{302}{}{Well, I can't seem to find the flint. I'm sure you took it from me when I wasn't looking though. I caught you before. Now off with you! I don't have time to gossip.}
+{300}{}{Bem, pelo visto eu perdi a pedra. Ah, pelo menos eu ainda tenho o pó. Agora saia daqui! Eu não tenho tempo para fofocar.}
+{302}{}{Bem, eu não consigo encontrar a pedra. Tenho certeza que você a escondeu enquanto eu não olhava. Eu peguei primeiro. Agora saia daqui! Eu não tenho tempo para fofocar.}
 {303}{}{Well... Oh, I'm sorry but I seem to have misplaced the flint. I wish you a safe journey though, child. }
 
 #added by Darek
