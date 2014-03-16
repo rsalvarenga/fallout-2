@@ -46,10 +46,10 @@ XDathz está traduzindo esse arquivo.
 {207}{}{Sim, Tia Morlis.}
 {208}{}{O fato de você estar aqui significa que completou a sua missão. Você não perderia seu precioso tempo voltando aqui de mãos vazias, não é mesmo?}
 {209}{}{Sim, Tia Morlis. Quero dizer... não, Tia Morlis. Ah, eu tenho que ir, Tia Morlis.}
-{210}{}{So, child. Once again you stand before me. Are you empty-handed yet again?}
-{211}{}{Yes, Aunt Morlis.}
-{212}{}{Listen, }
-{213}{}{. People are dying, cattle are dying, and crops are failing. Everyone is either hungry, sick, or both. Our time draws near. If you do not find the GECK soon, we are doomed. Do you understand me?}
+{210}{}{Então, garoto. Mais uma vez você está diante de mim. Continua com as mãos vazias?}
+{211}{}{Sim, Tia Morlis.}
+{212}{}{Escute, }
+{213}{}{. Pessoas estão morrendo, o gado está morrendo, e as plantações também. Everyone is either hungry, sick, or both. Our time draws near. If you do not find the GECK soon, we are doomed. Do you understand me?}
 {214}{}{Yes, Aunt Morlis.}
 {215}{}{Then get yourself out of here and find the GECK! People are depending on you!}
 {216}{}{Yes, Aunt Morlis.}
