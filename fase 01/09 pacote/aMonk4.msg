@@ -6,10 +6,10 @@
 {202}{}{O tempo está bom.}
 {203}{}{Vá jogar em outro lugar.}
 
-{300}{}{Hi, how can I help you?}
-{301}{}{What can you tell me about your order?}
-{302}{}{Let's barter.}
-{303}{}{Bye.}
+{300}{}{Olá, como eu posso ajudá-lo?}
+{301}{}{O que você pode me dizer sobre o seu pedido?}
+{302}{}{Vamos negociar.}
+{303}{}{Até logo.}
 
 {400}{}{Our holy mission is to collect and preserve the sacred relics of the forgotten past. Anyone is welcome here, as long as they don't damage anything.}
 {401}{}{Who is your leader?}
