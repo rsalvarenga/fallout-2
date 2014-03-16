@@ -51,8 +51,8 @@ XDathz está traduzindo esse arquivo.
 {212}{}{Escute, }
 {213}{}{. Pessoas estão morrendo, o gado está morrendo, e as plantações também. Todos estão com fome, doentes, ou pior. Nosso tempo está acabando. Se você não encontrar o GECK, estaremos perdidos. Você me entendeu?}
 {214}{}{Sim, Tia Morlis.}
-{215}{}{Then get yourself out of here and find the GECK! People are depending on you!}
-{216}{}{Yes, Aunt Morlis.}
+{215}{}{Então dê o fora daqui e encontre o GECK! Pessoas dependem de você!}
+{216}{}{Sim, Tia Morlis.}
 
 #added by killap
 {300}{}{Well, I seem to have misplaced the flint. Oh well, at least I got my powders. Now off with you! I don't have time to gossip.}
