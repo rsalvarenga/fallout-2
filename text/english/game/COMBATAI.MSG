@@ -2302,164 +2302,123 @@
 {12402}{}{Não estou enxergando... meus olhos estão sangrando... alguém ...}
 {12403}{}{A minha cara! A minha cara!}
 {12404}{}{Aahhhk...me acertou na porra da minha cabeça!}
-{12405}{}{Ain't taken a hit like that since Tommy the Balls...}
-{12406}{}{'Nother hit to the head like that an' I'm done for...}
-{12407}{}{My ear! You tore off my goddamn ear!}
-{12408}{}{Head feels like it's in a vise...}
-{12409}{}{Nrgggg! Clocked me in the skull...}
+{12405}{}{Não apanho assim desde Tommy bolas ...}
+{12406}{}{Outro tiro na cabeça com esse e estou acabado...}
+{12407}{}{Minha orelha! Arrancou minha maldita orelha!}
+{12408}{}{Sinto como se minha cabeça estivesse dentro de um torno...}
+{12409}{}{Nrgggg! Na metada da minha cabeça...}
 #
 # target hit in left arm
 #
-{12410}{}{Meu braço! You broke my fucking arm!}
-{12411}{}{Shit! My left arm's shot!}
-{12412}{}{Got me in the fucking arm...!}
-{12413}{}{That hit dislocated Meu braço!}
-{12414}{}{Owww! Fuck!}
-{12415}{}{I got blood all over my arm...!}
-{12416}{}{My gunhand!}
-{12417}{}{*Nfff*...nearly tore my arm clean off...!}
-{12418}{}{*Urkkk*...can still....hit you...with the other hand...}
-{12419}{}{Gonna need some stims for my arm. After I kill you.}
+{12410}{}{Meu braço! Você quebrou a porra do meu braço!}
+{12411}{}{Merda! Tiro no meu braço esquerdo!}
+{12412}{}{Pegou no braço ... porra!}
+{12413}{}{Esse hit deslocou meu braço!}
+{12414}{}{Owww! Foda-se!}
+{12415}{}{Tem sangue por todo o meu braço ...!}
+{12416}{}{Minha mão de pistoleiro!}
+{12417}{}{* Nfff * ... quase arrancou meu braço...!}
+{12418}{}{* Urkkk * ...ainda posso .... bater em você ... com a outra mão ...}
+{12419}{}{Vou precisar de alguns stimpacks para o meu braço. Depois de matá-lo.}
  #
 # target hit in right arm
 #
-{12420}{}{Meu braço! You broke my fucking arm!}
-{12421}{}{Shit! My right arm's shot!}
-{12422}{}{Got me in the fucking arm...!}
-{12423}{}{That hit dislocated Meu braço!}
-
-{12424}{}{Owww! Fuck!}
-{12425}{}{I got blood all over my arm...!}
-
-{12426}{}{My gunhand!}
-{12427}{}{*Nfff*...nearly tore my arm clean off...!}
-{12428}{}{Gonna need some stims for my arm. After I kill you.}
-
-{12429}{}{*Urkkk*...can still....hit you...with the other hand...}
+{12420}{}{Meu braço! Você quebrou a porra do meu braço!}
+{12421}{}{Merda! Tiro no meu braço direito!}
+{12422}{}{Pegou no braço ... porra!}
+{12423}{}{Esse hit deslocou meu braço!}
+{12424}{}{Owww! Foda-se!}
+{12425}{}{Tem sangue por todo o meu braço ...!}
+{12426}{}{Minha mão de pistoleiro!}
+{12427}{}{* Nfff * ... quase arrancou meu braço...!}
+{12428}{}{Vou precisar de alguns stimpacks para o meu braço. Depois de matá-lo.}
+{12429}{}{* Urkkk * ...ainda posso .... bater em você ... com a outra mão ...}
 #
 # target hit in torso
 #
-{12430}{}{Can't...breathe...}
+{12430}{}{Não posso...respirar..}
 {12431}{}{*Oooooffff*}
-{12432}{}{Dammit...knocked...the...wind...outta...me...}
+{12432}{}{Maldição...me...deixou...sem...ar...}
 {12433}{}{*Unfffff*}
-{12434}{}{Think...I just snapped a rib...}
-{12435}{}{Gonna need some stims for my chest. After I kill you.}
-{12436}{}{Nice...hit. Now I'm gonna break every rib in YOUR body.}
-{12437}{}{Give...me a sec...to catch my breath...then I'll kill you...}
-
-
-
+{12434}{}{Acho que acabou de quebrar uma costela...}
+{12435}{}{Vou precisar de alguns stimpacks para o meu peito. Depois de matá-lo.}
+{12436}{}{Boa pontaria... Agora eu vou quebrar todas as costelas do seu corpo.}
+{12437}{}{Dê-me um segundo ... ... para recuperar o fôlego ... então eu vou te matar ...}
 {12438}{}{*Hrkkk*}
-{12439}{}{That...was stupid...let me show you why.}
-
-{12440}{}{I'm gonna carve you like a tribal.}
-{12441}{}{Got me in the chest...}
-{12442}{}{Argghhh! Sonuvabitch...}
-{12443}{}{Lucky...shot...}
-{12444}{}{*Unnffff*...need to wear more armor over my chest...}
-{12445}{}{Clipped my shoulder...that's all...keep fighting...}
-{12446}{}{I'm going snap every bone in your body.}
-{12447}{}{I'm gonna rip out your teeth for that...}
-
-
-
-{12448}{}{Chest's on fire...}
-{12449}{}{Somebody got some stims?! My chest's bleeding bad!}
-
-{12450}{}{Shit...this tribal hits like the Masticator...}
-{12451}{}{You broke minhas costelas, now I'm gonna break your neck.}
-
-{12452}{}{That all you got? Piss poor show, tribal.}
-{12453}{}{Chest wound...that's nothing.}
-{12454}{}{Dammit! Musta broke some ribs...}
-
-{12455}{}{Think my spine just cracked...}
-{12456}{}{Let me show you how we kill people here.}
-{12457}{}{Fuck! Not Meu estômago! Anything but Meu estômago!}
-
-
-{12458}{}{*Urgggg*...think that knocked...some organs loose...}
-{12459}{}{Bleeding all over the fucking place...}
-
+{12439}{}{Isso foi uma ...estúpidez... vou te mostrar porquê.}
+{12440}{}{Vou te destripar como um canibal.}
+{12441}{}{Me acertou no peito ...}
+{12442}{}{Argghhh! Filho da puta...}
+{12443}{}{Isso foi... Sorte...}
+{12444}{}{*Unnffff*... tenho que usar uma armadura melhor.}
+{12445}{}{Deslocou meu ombro...foi só isso....continuamos a luta.}
+{12446}{}{Vou quebrar todos os ossos do seu corpo.}
+{12447}{}{Vou arrancar seus dentes por isso...}
+{12448}{}{Meu peito está pegando fogo ...}
+{12449}{}{Alguém tem alguns stimpacks? Meu peito esta sangrando muito!}
+{12450}{}{Merda ... este tribal bate como um...}
+{12451}{}{Você quebrou minhas costelas, agora eu vou quebrar seu pescoço.}
+{12452}{}{É tudo que você sabe fazer? Cai fora pobre tribal.}
+{12453}{}{Um ferimento no peito ... isso não é nada.}
+{12454}{}{Maldição! Quebrou algumas costelas ...}
+{12455}{}{Acho que quebrou minha coluna...}
+{12456}{}{Deixe eu te mostrar como nós matamos as pessoas aqui.}
+{12457}{}{Caralho! No meu estômago! Qualquer coisa, mas não no meu estômago!}
+{12458}{}{* Urgggg * ... isso foi um nocaute... alguns órgãos estão soltos ...}
+{12459}{}{Vou sujar de sangue todo esse maldito lugar ...}
 #
 # target hit in right leg
 #
-{12460}{}{You broke Minha perna! Now I'm gonna break your face.}
-{12461}{}{I'm gonna make a dishrag outta your face.}
-{12462}{}{Ahhh! Got me in the fucking knee!}
-{12463}{}{I'm gonna break both your kneecaps for that...}
-
-
-
-
-{12464}{}{Clocked me in the leg...}
-{12465}{}{You got lucky, shithead...}
-{12466}{}{Gonna have to keep off this leg for a while...}
-{12467}{}{Leg's shot...time for some payback.}
-{12468}{}{I don't need that leg to kick your ass.}
-{12469}{}{For that, I'm gonna rip off your leg and beat you with it.}
-
-
-
-
+{12460}{}{Você quebrou Minha perna! Agora eu vou quebrar a sua cara.}
+{12461}{}{Eu vou fazer um pano de prato da sua cara.}
+{12462}{}{Ahhh! Me acertou na porra do joelho!}
+{12463}{}{Eu vou quebrar ambos os seus joelhos para que ...}
+{12464}{}{Justo na perna ...}
+{12465}{}{Você teve sorte, idiota ...}
+{12466}{}{Vou ficar aleijado sem esta perna...}
+{12467}{}{Um tiro na perna...hora da vingança.}
+{12468}{}{Eu não preciso dessa perna para chutar sua bunda.}
+{12469}{}{Eu vou arrancar sua perna e bater em você com ele.}
 #
 # target hit in left leg
 #
-{12470}{}{You broke Minha perna! Now I'm gonna break your face.}
-{12471}{}{I'm gonna make a dishrag outta your face.}
-{12472}{}{Ahhh! Got me in the fucking knee!}
-{12473}{}{I'm gonna break both your kneecaps for that...}
-
-
-
-
-{12474}{}{Clocked me in the leg...}
-{12475}{}{You got lucky, shithead...}
-{12476}{}{Gonna have to keep off this leg for a while...}
-{12477}{}{Leg's shot...time for some payback.}
-{12478}{}{I don't need that leg to kick your ass.}
-{12479}{}{For that, I'm gonna rip off your leg and beat you with it.}
-
-
-
+{12470}{}{Você quebrou Minha perna! Agora eu vou quebrar a sua cara.}
+{12471}{}{Eu vou fazer um pano de prato da sua cara.}
+{12472}{}{Ahhh! Me acertou na porra do joelho!}
+{12473}{}{Eu vou quebrar ambos os seus joelhos para que ...}
+{12474}{}{Justo na perna ...}
+{12475}{}{Você teve sorte, idiota ...}
+{12476}{}{Vou ficar aleijado sem esta perna...}
+{12477}{}{Um tiro na perna...hora da vingança.}
+{12478}{}{Eu não preciso dessa perna para chutar sua bunda.}
+{12479}{}{Eu vou arrancar sua perna e bater em você com ele.}
 
 #
 # target hit in eyes
 #
-{12480}{}{Ahhhh, shit! My fucking eye!}
-{12481}{}{Erggg...lucky...shot...}
-{12482}{}{Fucking world's going dark...}
-{12483}{}{Nothing...an eye patch...won't cure...}
-{12484}{}{I'm gonna cut out both your eyes for that...slowly.}
-{12485}{}{I'm blind! Help! I'm blind!}
-
-
-{12486}{}{Can't see...head spinning...}
-{12487}{}{You're gonna be a long time dying...}
-{12488}{}{Can't see a fucking thing! Where are you?! I'll kill you!}
-
-
+{12480}{}{Ahhhh, merda! A porra do meu olho!}
+{12481}{}{Erggg...Isso foi... Sorte...}
+{12482}{}{Porra..tudo esta escuro..}
+{12483}{}{Nada que...  um tapa-olho ... não vai curar ...}
+{12484}{}{Eu vou cortar seus dois olhos por isso... lentamente.}
+{12485}{}{Estou cego! Socorro! Estou cego!}
+{12486}{}{Não consigo ver...minha cabeça esta rodando...}
+{12487}{}{Vai ficar agonizando por muito tempo...}
+{12488}{}{Não consigo ver nada merda! Onde esta? Vou te matar!}
 {12489}{}{*Hrrkkkk*}
 #
 # target hit in groin
 #
-{12490}{}{*Uhhhnnnnnn*...need...to...lie...down...}
-{12491}{}{I'm...gonna cut you...you for hitting my balls...}
-
+{12490}{}{*Uhhhnnnnnn*...tenho...que...descançar...}
+{12491}{}{Eu ... vou acabar com você... por ter batido em minhas bolas ...}
 {12492}{}{*Hrkkkk*...}
-{12493}{}{My balls! My fucking balls!}
-
-{12494}{}{Low blow, asshole...}
-{12495}{}{Below the belt! Son of a bitch...!}
-{12496}{}{I ain't gonna look down. I ain't gonna look down.}
-{12497}{}{You wait. I'm gonna tell Tommy the Balls to come get you!}
-{12498}{}{Ain't been hurt that bad since that whore clocked me...}
-
-
-
-
-{12499}{}{*Unnfffff*...I think my balls...are...in...my...stomach...}
+{12493}{}{Minhas bolas! Minhas maldidas bolas do saco!}
+{12494}{}{Golpe baixo...}
+{12495}{}{Golpe baixo! Filho da puta!}
+{12496}{}{Não vou mirar ai embaixo! Não vou mirar ai embaixo!}
+{12497}{}{Você vai ver. Vou dizer a Tommy para buscá-la!}
+{12498}{}{Não sentia tanta dor assim desde que aquela prostituta me deixou uma marca...}
+{12499}{}{* Unnfffff * ... Eu acho que minhas bolas ... estão ... dentro .. do meu estômago ... ...}
 #
 #
 ###############################################################
@@ -2476,62 +2435,42 @@
 #
 #  running away
 #
-{14000}{}{Get him Zomak!}
-{14001}{}{Leave me alone!}
-
-{14002}{}{Stop bothering me.}
-{14003}{}{You humans always act this way.}
-{14004}{}{Is this the only way you can deal with the unknown?}
-{14005}{}{Simple answers for simple minds.}
-{14006}{}{I can't believe that you're acting this way.}
-
-
-
-
-{14007}{}{Shoo! Go away!}
-{14008}{}{I should have known better than to talk to a human.}
-{14009}{}{Must you destroy everything you don't understand?}
-
-
+{14000}{}{Buscar para Zomak!}
+{14001}{}{Me deixe sozinho!}
+{14002}{}{Pare de me enxer o saco.}
+{14003}{}{Vocês humanos sempre agindo dessa maneira.}
+{14004}{}{É esta a única maneira que você pode lidar com o desconhecido?}
+{14005}{}{Respostas simples para mentes simples.}
+{14006}{}{Eu não posso acreditar que você está agindo dessa maneira.}
+{14007}{}{Shoo! Cai fora daqui!}
+{14008}{}{Eu deveria ter pensado melhor antes de falar com um ser humano.}
+{14009}{}{Você deve destruir tudo o que você não entende?}
 #
 # moving in to attack
 #
-{14020}{}{This is going to hurt me more than you.}
-{14021}{}{I don't like having to do this.}
-{14022}{}{Normally, I eschew violence, but in your case, I'll make an exception.}
-{14023}{}{I'm really going to have to floss after this.}
-{14024}{}{You don't even *smell* good.}
-{14025}{}{This is going to make such a mess.}
-{14026}{}{You've pressed me too far this time.}
-{14027}{}{Too bad, I almost liked you.}
-
-
-
-
-
-
-
-
-{14028}{}{Now you'll have to die.}
-{14029}{}{I was so hoping that it wouldn't come to this.}
-
+{14020}{}{Isso vai doer mais em mim do que em você.}
+{14021}{}{Eu não gosto de ter que fazer isso.}
+{14022}{}{Normalmente, eu evitar a violência, mas no seu caso, vou abrir uma exceção.}
+{14023}{}{Eu realmente vou ter que usar o fio dental depois disso.}
+{14024}{}{Você não precisa nem ter um bom cheiro.}
+{14025}{}{Isso vai fazer um desastre.}
+{14026}{}{Você me pressionou demais desta vez.}
+{14027}{}{Que pena, eu quase gostei de você.}
+{14028}{}{Agora vai ter que morrer.}
+{14029}{}{Esperava que não teria que fazer isso.}
 #
 # attacking
 #
-{14040}{}{Have at you then.}
+{14040}{}{Então eu irei por você.}
 {14041}{}{Touche!}
 {14042}{}{En Garde!}
 {14043}{}{Hai-Kee-Baaa!}
-{14044}{}{I shall have you!}
-
-{14045}{}{Put up your dukes.}
-{14046}{}{Uh, draw, Pilgrim-that's how you say it isn't it?}
-
+{14044}{}{Vou te pegar!}
+{14045}{}{Prepare suas mãos.}
+{14046}{}{Uh, é como desenhar um passaro, não é?}
 {14047}{}{Hai-Yah!}
-{14048}{}{This hardly feels sporting.}
-{14049}{}{Leave the earthman to me! Always wanted to say that.}
-
-
+{14048}{}{Isso pode ser considerado apenas como um esporte.}
+{14049}{}{Deixe o terráqueo para mim! Sempre quis dizer isso.}
 #
 # target being missed
 #
@@ -2545,15 +2484,6 @@
 {14067}{}{Faster that you thought huh?}
 {14068}{}{Not bad for an old rodent huh?}
 {14069}{}{Try using the *other* end.}
-
-
-
-
-
-
-
-
-
 
 #
 ###############################################################
@@ -3336,7 +3266,7 @@
 {32733}{}{Star Father! Help me!}
 
 {32734}{}{Isso dói!}
-{32735}{}{Just leave me alone!}
+{32735}{}{Just Me deixe sozinho!}
 
 {32736}{}{Ohhh, pain!}
 #
@@ -4911,7 +4841,7 @@
 
 {40925}{}{Dirty sonuvabitch...}
 {40926}{}{*Huf*...I...*Huf*...need more...*Huf*.... action points.}
-{40927}{}{You're gonna be a long time dying...}
+{40927}{}{Vai ficar agonizando por muito tempo...}
 {40928}{}{You're one dead sonuvabitch to pick a fight with us...}
 {40929}{}{Time for Cassidy to show you how we do things in the big city...}
 
