@@ -1,10 +1,10 @@
-{100}{}{You see a monk.}
-{101}{}{This monk looks like a trader.}
+{100}{}{Você vê um monge.}
+{101}{}{Esse monge parece ser um comerciante.}
 
-{200}{}{Welcome traveler.}
-{201}{}{Peace to you.}
-{202}{}{Nice weather.}
-{203}{}{Go play somewhere else.}
+{200}{}{Seja bem-vindo viajante.}
+{201}{}{Desejo paz para você.}
+{202}{}{O tempo está bom.}
+{203}{}{Vá jogar em outro lugar.}
 
 {300}{}{Hi, how can I help you?}
 {301}{}{What can you tell me about your order?}
