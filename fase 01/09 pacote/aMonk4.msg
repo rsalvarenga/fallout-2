@@ -15,8 +15,8 @@
 {401}{}{Quem é o seu líder?}
 {402}{}{Qual o tipo de relíquia?}
 {403}{}{Ele pode ser encontrado no terceiro andar. Se você desejar saber mais sobre nós, eles é o primeiro a falar com você.}
-{404}{}{All sorts, but most of our Memorabilia consist of ancient tomes. So much information can be obtained from those texts. It is our mission to preserve this knowledge so that a future generation may use it to build a new world of peace and joy.}
+{404}{}{Todos os tipos, mas a maioria de nossos Memorabilia consistem em ancient tomes. Muitas informações podem ser obtidas nesses arquivos. Nossa missão é preservar esse conhecimento para a geração futura e usá-lo para construir um mundo de paz e alegria.}
 {405}{}{Certo.}
 {406}{}{Tudo bem.}
 
-{500}{}{Stop that!}
+{500}{}{Pare ai!}
