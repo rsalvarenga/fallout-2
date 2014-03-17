@@ -1,18 +1,18 @@
-{100}{}{You see a computer terminal.}
+{100}{}{Você está vendo um terminal de computador.}
 {101}{}{You see the control center computer terminal.}
-{102}{}{You see a standard computer terminal. It appears to be functional and ready for input.}
-{103}{}{The terminal indicates that the security force field at the vault entrance has been activated
- now that power has been restored.}
-{104}{}{The terminal indicates that all security systems in the vault are off line due to power
- failure.}
+{102}{}{Você está vendo um terminal de computador padrão. Parece ser funcional e pronto para a acessar.}
+{103}{}{O terminal indica que o campo de força de segurança na entrada do vault foi ativada
+ com sucesso após a energia ter sido restaurada.}
+{104}{}O terminal indica que todos os sistemas de segurança do vault estão offline, devido à falta de 
+ energia.}
 {105}{}{Turn the force field off.}
 {106}{}{Turn the force field on.}
-{107}{}{Done.}
-{108}{}{You give the command to deactivate the force field.}
-{109}{}{Done.}
-{110}{}{You give the command to activate the force field.}
-{111}{}{Done.}
+{107}{}{Concluído.}
+{108}{}{Você dará o comando para desativar o campo de força.}
+{109}{}{Concluído.}
+{110}{}{Você dará o comando para ativar o campo de força.}
+{111}{}{Concluído.}
 
-{112}{}{The terminal indicates that the field is off by manual override.}
-{113}{}{The terminal indicates that the field system has been compromised.}
-{114}{}{The terminal indicates that the field system is off.}
+{112}{}{O terminal indica que o campo está desligado por acionamento manual.}
+{113}{}{O terminal indica que o sistema de campo tenha sido comprometida.}
+{114}{}{O terminal indica que o sistema está fora de campo.}
