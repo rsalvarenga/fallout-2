@@ -2474,17 +2474,16 @@
 #
 # target being missed
 #
-{14060}{}{Hah, you clumsy biped!}
-{14061}{}{Off balance again!}
-{14062}{}{What was that?}
-{14063}{}{This is not a charade!}
-{14064}{}{What? You again?}
-{14065}{}{Were you really trying? How sad.}
-{14066}{}{It meant so much to you to hit me didn't it?}
-{14067}{}{Faster that you thought huh?}
-{14068}{}{Not bad for an old rodent huh?}
-{14069}{}{Try using the *other* end.}
-
+{14060}{}{Hah, você é um bípede desajeitado!}
+{14061}{}{De novo desequilibrado!}
+{14062}{}{O que foi isso?}
+{14063}{}{Isto não é uma farsa!}
+{14064}{}{O que? você outra vez!}
+{14065}{}{Você estava realmente tentando? Como é triste.}
+{14066}{}{Me alcançar é importante para você?}
+{14067}{}{Mais rápido do que você pensou, não é?}
+{14068}{}{Nada mal para um velho roedor hein?}
+{14069}{}{Tente usar o * outro lado *.}
 #
 ###############################################################
 #
@@ -2501,9 +2500,9 @@
 #
 # target hit in head
 #
-{18000}{}{Not the face...}
+{18000}{}{Na cara não...}
 {18001}{}{Nffff}
-{18002}{}{Good thing my brains are already shot...}
+{18002}{}{Ainda bem que meu cérebro já são filmados ...}
 
 #
 # target hit in left arm
@@ -2522,36 +2521,30 @@
 {18031}{}{Nfff}
 {18032}{}{Ernhhh}
 {18033}{}{Hrggg}
-{18034}{}{Should kept my hand up...}
-{18035}{}{No pain, no pain...}
+{18034}{}{Deveria levantar suas mãos...}
+{18035}{}{Não tenho dor, Não tenho dor..}
 #
 # target hit in right leg
 #
-{18060}{}{No hitting below the belt!}
-
-{18061}{}{You leg-hitting bitch...}
+{18060}{}{Nada de golpe abaixo da cintura!}
+{18061}{}{Atacando as pernas sua vadia!}
 #
 # target hit in left leg
 #
-{18070}{}{No hitting below the belt!}
-
-{18071}{}{You leg-hitting bitch...}
+{18070}{}{Nada de golpe abaixo da cintura!}
+{18071}{}{Atacando as pernas sua vadia!}
 #
 # target hit in eyes
 #
-{18080}{}{Aiming for the eyes, huh?}
+{18080}{}{Apontando para os olhos, não é?}
 {18081}{}{Nfff}
-{18082}{}{There goes the eye of the tiger...}
-
+{18082}{}{Lá vai o olho do tigre ...}
 #
 # target hit in groin
 #
-{18090}{}{No hitting below the belt!}
-{18091}{}{I knew I should have worn my cup.}
-{18092}{}{You'll pay for that, you groin-kicking bitch!}
-
-
-
+{18090}{}{Nada de golpe abaixo da cintura!}
+{18091}{}{Eu sabia que deveria ter usado o meu copo.}
+{18092}{}{Você vai pagar por isso, vou encher você de chutes puta!}
 #
 ############################################
 # 18100 Boxer (Combat Messages)
@@ -2560,56 +2553,39 @@
 #  running away
 #
 {18100}{}{Adrian! Adrian!}
-{18101}{}{Coulda been a contender!}
-{18102}{}{Ain't gonna be no rematch!}
-{18103}{}{Better go practice some more...}
-{18104}{}{I knew I should have taken more buffout...}
-{18105}{}{Let me go get some Psycho, and Eu voltarei.}
-{18106}{}{Time to get outta here.}
-{18107}{}{Maybe I can go find some easier fight somewhere else.}
-
-
-
-
-
-
-
+{18101}{}{Podia ter sido um concorrente!}
+{18102}{}{Não vai haver revanche!}
+{18103}{}{Devo praticar um pouco mais...}
+{18104}{}{Eu sabia que deveria ter tomado mais esteroides ...}
+{18105}{}{Deixa eu tomar um pouco de Psycho e voltarei.}
+{18106}{}{Hora de sair daqui.}
+{18107}{}{Talvez eu possa encontrar alguma luta mais fácil em outro lugar.}
 #
 # moving in to attack
 #
-{18120}{}{You want some of this?!}
-{18121}{}{You're going down!}
-
-
+{18120}{}{Você quer um pouco disso!}
+{18121}{}{Você vai beijar a lona!}
 {18122}{}{Time to make you a bitch...}
 {18123}{}{Gonna beat you until you're ugly...}
-
 {18124}{}{Gonna make you ugly...}
 {18125}{}{Time to get critical...}
 {18126}{}{Gonna take my time hurting you...}
-
 {18127}{}{Gonna beat you like a dog...}
 #
 # attacking
 #
 {18140}{}{Who's your Daddy?}
 {18141}{}{You want some of this?}
-
-
 {18142}{}{Ernhhh}
 {18143}{}{Hrghhh}
 {18144}{}{Hrggg}
 {18145}{}{Eat this!}
-{18146}{}{You're going down!}
-
+{18146}{}{Você vai beijar a lona!}
 {18147}{}{Bitch!}
 {18148}{}{Make you a bitch...}
-{18149}{}{Ain't gonna be no rematch!}
+{18149}{}{Não vai haver revanche!}
 {18150}{}{Get critical!}
 {18151}{}{Fight past that shit!}
-
-
-
 {18152}{}{SUPER... NUCLEAR... TORNADO... FIST... }
 {18153}{}{I must break you. }
 {18154}{}{Gonna beat you like a dog...}
@@ -4786,7 +4762,7 @@
 #
 {40890}{}{Hitting me in the balls...THAT'S a new one.}
 {40891}{}{Hell, you got my family jewels!}
-{40892}{}{No hitting below the belt!}
+{40892}{}{Nada de golpe abaixo da cintura!}
 
 
 
@@ -5255,7 +5231,7 @@
 {41370}{}{This old ghoul's more spry than you bargained for huh?}
 
 {41371}{}{You sure *talk* tough.}
-{41372}{}{What was that?}
+{41372}{}{O que foi isso?}
 
 {41373}{}{Dis is not a chawade.}
 {41374}{}{Dis wequires toto concentwation.}
