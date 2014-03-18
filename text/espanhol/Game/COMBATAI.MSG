@@ -2516,7 +2516,7 @@
 # target being missed
 #
 {18160}{}{¡Demasiado lento!}
-{18161}{}{Sólo a la red.}
+{18161}{}{Parece que temos um cego aqui ..}
 {18162}{}{Yo golpeo como una mariposa... tú golpeas como mi abuela.}
 {18163}{}{La basura como tú no podría golpear ni la parte ancha de un granero.}
 {18164}{}{¡Ja! Si intentases golpear al aire, fallarías.}

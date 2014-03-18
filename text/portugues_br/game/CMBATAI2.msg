@@ -1798,7 +1798,7 @@
 {26042}{}{Seu coração é o meu!}
 {26043}{}{Eu adoro fazer isso!}
 {26044}{}{Suas armas serão meus troféus!}
-{26045}{}{Morte e desmembramento. Minhas duas das coisas favoritas!}
+{26045}{}{Morte e desmembramento. Minhas duas coisas favoritas!}
 {26046}{}{Eu mesmo vou te matar!}
 {26047}{}{Seus ossos vou sair pra fora!}
 {26048}{}{Sangue e escuridão!}
@@ -1969,6 +1969,7 @@
 #
 # target being missed
 #
+
 {32160}{}{Só os covardes usam armas.}
 {32161}{}{Tem medo de enfrentar um lutador de verdade?}
 {32162}{}{Seu kung fu não é bom aqui.}
@@ -2448,10 +2449,8 @@
 # target hit in eyes
 #
 {33280}{}{Eu acho que você arrancou minha retina!}
-
 {33281}{}{Meu humor aquoso! Meu vítreo}
 {33282}{}{Estou cego! Estou cego!}
-
 #
 # target hit in groin
 #
@@ -2857,7 +2856,7 @@
 #
 # target being missed
 #
-{36760}{}{Por que você luta?}
+{36760}{}{Por que você luta assim?}
 {36761}{}{Isso é o melhor que os humanos podem fazer?}
 {36762}{}{Você não tem o poder!}
 {36763}{}{Você me faz rir muito!}
