@@ -3772,29 +3772,29 @@
 {36841}{}{Tente isso com outros dos seu tamanho.}
 {36842}{}{Eu só preciso de sua cabeça, pode ficar com o resto.}
 {36843}{}{Não é tão divertido quando é você que vai morrer né?}
-{36844}{}{The reward is as good as mine.}
-{36845}{}{You're not so tough.}
-{36846}{}{This is gonna hurt you more than it does me.}
-{36847}{}{I love my job.}
-{36848}{}{I think it's fate meeting like this.}
-{36849}{}{I wanna see what the inside of you looks like.}
-{36850}{}{Your mommy ain't here to save you.}
-{36851}{}{Here's a gift from the people you murdered.}
-{36852}{}{Do you feel lucky?}
-{36853}{}{Catch!}
-{36854}{}{Die!}
-{36855}{}{No mercy!}
-{36856}{}{You'd better start praying.}
-{36857}{}{I'm sorry I have to do this. Just kidding.}
+{36844}{}{A recompensa é tão boa quanto eu.}
+{36845}{}{Você não é tão duro.}
+{36846}{}{Isso vai doer mais em você do que em mim.}
+{36847}{}{Eu amo meu trabalho.}
+{36848}{}{Eu acho que isso foi coisa do destino.}
+{36849}{}{Eu quero ver o que a dentro de você.}
+{36850}{}{Sua mamãezinha não esta aqui para te salvar.}
+{36851}{}{Aqui esta um presente das pessoas que você assassinou.}
+{36852}{}{Você se sente com sorte?}
+{36853}{}{Vou te capturar!}
+{36854}{}{Morre!}
+{36855}{}{Sem Piedade!}
+{36856}{}{É melhor começar a rezar.}
+{36857}{}{Me desculpe, mas eu tenho que fazer isso.}
 {36858}{}{Prepare para morrer!}
-{36859}{}{I hope you made out a will.}
+{36859}{}{Espero que tenha feito seu testamento.}
 #
 # target being missed
 #
-{36860}{}{Whoa! Be careful with that you might hurt someone.}
-{36861}{}{Hey nAi! That almost hit me!}
-{36862}{}{Would it help if I painted a target on myself?}
-{36863}{}{Not even close.}
+{36860}{}{Whoa! Tenha cuidado ou vai acabar machucando alguém.}
+{36861}{}{Hey hey! Quase me bateu!}
+{36862}{}{Ajudaria se eu pintar um alvo em mim mesmo?}
+{36863}{}{Não passou nem perto.}
 {36864}{}{Excuse me, were you aiming at me?}
 {36865}{}{That rock you hit wasn't even armed.}
 {36866}{}{I hope that wasn't your best shot.}
@@ -3811,7 +3811,6 @@
 {36877}{}{Now that was a fatal mistake.}
 {36878}{}{Either I'm lucky or you're a bad shot.}
 {36879}{}{The safest spot to be is right in front of you.}
-
 #
 ###############################################################
 #
@@ -4682,7 +4681,7 @@
 
 
 
-{41310}{}{No, no, no. You go ahead. I'll catch up-later.}
+{41310}{}{No, no, no. You go ahead. I'll Vou te capturar up-later.}
 {41311}{}{I'm late for my root-canal. See you later.}
 {41312}{}{And then we get inside the giant rabbit and....}
 {41313}{}{Jesus Christ! Run for it!!!!!}
@@ -5395,7 +5394,7 @@
 
 
 
-{42159}{}{Die! Uh, please?}
+{42159}{}{Morre! Uh, please?}
 #
 # target being missed
 #
