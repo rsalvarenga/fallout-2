@@ -1,5 +1,5 @@
-{100}{}{You see a weird contraption next to a force field.}
-{101}{}{You see a force-field emitter.}
-{102}{}{This is the weirdest wall you have ever seen.}
-{103}{}{This is a force-field emitter. It gives the power to the force field.}
-{104}{}{The emitter makes a whizzing sound and explodes.}
+{100}{}{Você está vendo um objeto estranho ao lado do campo de força.}
+{101}{}{Você está vendo um emissor do campo de força.}
+{102}{}{Esta é a parede mais estranha que você já viu.}
+{103}{}{Este é um emissor de campo de força. Ele dá energia para o campo de força.}
+{104}{}{O emissor emite um som whizzing e explode.}
