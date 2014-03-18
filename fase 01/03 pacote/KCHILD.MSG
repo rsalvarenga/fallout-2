@@ -18,7 +18,7 @@
 #  The following lines are for describing the NPC when      #
 #  glanced and and examined.                                #
 #############################################################
-{100}{}{You see one of Klamath's Children.}
+{100}{}{You see one of Klamath's Children.} - 
 {101}{}{You see one of Klamath's Children.}
 
 #############################################################
