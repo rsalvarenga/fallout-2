@@ -1,3 +1,4 @@
+# Noob-Saibot está traduzindo este arquivo.
 #############################################################
 #  Message File: ACMynoc.msg                                #
 #                                                           #
@@ -19,8 +20,8 @@
 #  glanced and and examined.                                #
 #############################################################
 
-{100}{}{You see the bridge guard.}
-{101}{}{You see Mynoc, the bridge guard.}
+{100}{}{Você vê o guarda da ponte.} # You see the bridge guard.
+{101}{}{Você vê Mynoc, o guarda da ponte.} # You see Mynoc, the bridge guard.
 
 #############################################################
 #  The following lines are for the dialog which the NPC     #
@@ -28,27 +29,27 @@
 #  Tool.                                                    #
 #############################################################
 
-{150}{}{Before you stands a large warrior of your village,
- holding a spear.}
-{151}{}{[TALK]}
-{152}{}{Hello, Chosen One. Off to find the GECK?}
-{153}{}{Yes.}
-{154}{}{Yes. But before I go, I would like to ask you some
- questions.}
-{155}{}{Not just yet. I'm going to look around a little
- bit more.}
-{156}{}{Well, may the gods watch over you.}
-{157}{}{Thank you, goodbye.}
-{158}{}{What do you want to know?}
-{159}{}{What can you tell me of the men who trade with our
- village?}
-{160}{}{What can you tell me about this object I have from
- a vault?}
-{161}{}{Nothing, never mind.}
-{162}{}{Very well, but don't waste too much time. Without the GECK,
- we're doomed.}
-{163}{}{I know, don't worry -- I've got it all under control.}
-{164}{}{Why?}
+{150}{}{Na sua frente está um grande guerreiro da sua vila,
+ segurando uma lança.} # Before you stands a large warrior of your village, holding a spear
+{151}{}{[FALAR]} # [TALK]
+{152}{}{Olá, Escolhido. Está indo encontrar o GECK?} # Hello, Chosen One. Off to find the GECK?
+{153}{}{Sim.} # Yes
+{154}{}{Sim. Mas antes de ir, queria te fazer algumas
+ perguntas.} # Yes. But before I go, I would like to ask you some questions.
+{155}{}{Ainda não. Eu vou dar mais uma olhada
+ por aí.} # Not just yet. I'm going to look around a little bit more.
+{156}{}{Bem, que os deuses te protejam.} # Well, may the gods watch over you.
+{157}{}{Obrigado. Adeus.} # Thank you, goodbye.
+{158}{}{O que você quer saber?} # What do you want to know?
+{159}{}{O que você pode me dizer sobre o homem que negocia com
+ nossa vila?} # What can you tell me of the men who trade with our village?
+{160}{}{O que você pode me dizer sobre esse objeto que eu tenho de
+ um vault?} # What can you tell me about this object I have from a vault?
+{161}{}{Nada, deixa pra lá.} # Nothing, never mind.
+{162}{}{Muito bem, mas não perca muito tempo. Sem o GECK, estamos
+ perdidos.} #Very well, but don't waste too much time. Without the GECK, we're doomed.
+{163}{}{Eu sei, não se preocupa -- Tá tudo sobre controle.} # I know, don't worry -- I've got it all under control.
+{164}{}{Porquê?} # Why?
 {165}{}{I must be going. Goodbye.}
 {166}{}{The traders? They come from Klamath about every two months. There
  won't be another here for a month or more, but Klamath's only a few days
