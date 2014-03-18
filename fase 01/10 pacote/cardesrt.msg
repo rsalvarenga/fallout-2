@@ -1,1 +1,0 @@
-{100}{}{Seu carro está sem gasolina. Espero que você esteja carregando um pouco de combustível sobressalente.}

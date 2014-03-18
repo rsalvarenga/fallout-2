@@ -1,0 +1,460 @@
+#############################################################
+#  Message File: Generic.msg                                #
+#                                                           #
+#  Note: Characters within curly braces (like line 100)     #
+#        will be read in as a message string. Caution       #
+#        should be used when making comments. All comments  #
+#        should be prepended with a pound symbol for        #
+#        visual ease. This does not comment out the line    #
+#        though.                                            #
+#                                                           #
+#  Purpose: This message file contains the information      #
+#           concerning doors in a locked state, trapped     #
+#           state, locked and trapped state.                #
+#                                                           #
+#  Log: Please note any changes that have been made to this #
+#       file and comment which lines have changed.          #
+#                                                           #
+#  Created: October 1, 1997                                 #
+#                                                           #
+#  Updated:                                                 #
+#############################################################
+
+#############################################################
+#  The following lines are for giving out experience points #
+#  to the player.                                           #
+#############################################################
+
+# Player gains [x] of experience points
+{100}{}{Você ganhou }
+{101}{}{ pontos de experiência.}
+
+
+#############################################################
+#  The following lines are for what the player received     #
+#  experience for (ie, picking a lock, disarming traps).    #
+#############################################################
+{102}{}{Você desarmou a armadilha com sucesso.}
+{103}{}{Você falhou em desarmar a armadilha.}
+{104}{}{Você acidentalmente acionou a armadilha.}
+
+# Prepend Lines with NPC name
+{105}{}{ desarmou a armadilha com sucesso.}
+{106}{}{ falhou em desarmar a armadilha.}
+{107}{}{ acidentalmente acionou a armadilha.}
+
+{200}{}{Valeu.}
+{201}{}{Bom dia.}
+{202}{}{Valeu.}
+{203}{}{Valeu!}
+{204}{}{No thank you.}#isso é um "de nada" ou um "que mané valeu o quê!"
+{205}{}{No thanks.}#idem
+{206}{}{Claro.}
+{207}{}{Sim.}
+{208}{}{Não.}
+{209}{}{Certo..}
+
+#############################################################
+#  The following lines are generic noises that the player   #
+#  makes when he/she has a low i.q. level.                  #
+#############################################################
+{300}{}{Ug.}
+{301}{}{Og.}
+{302}{}{Ooga.}
+{303}{}{Urg.}
+
+#############################################################
+#  The following lines are generic non-spoken dialogs       #
+#############################################################
+{350}{}{[FIM]}
+{351}{}{[TCHAU]}
+{352}{}{[MAIS]}
+{353}{}{[CONTINUAR]}
+{354}{}{[COMBATE]}
+{355}{}{[DAR DINHEIRO]}
+
+#############################################################
+#  The following lines are generic departure dialogs        #
+#############################################################
+{375}{}{Tchau.}
+{376}{}{Até logo.}
+
+#############################################################
+#  The following lines are for special events in the        #
+#  dude_obj                                                 #
+#############################################################
+{400}{}{Você morreu devido a injeção letal do Dr. Troy.}
+
+{450}{}{The coast is clear. Let's move out!}#não sei que coast é esse. suponho que seja: A barra tá limpa.
+
+#############################################################
+#  The following lines are for Miscelleous things needed    #
+#  throughout the game.                                     #
+#############################################################
+
+{900}{}{A velha porta parece poder ser destruída
+ com um explosivo bem-posicionado.}
+{901}{}{Você vê a carreta que levará os escravos para Den.}
+
+{905}{}{Au! Au!}
+
+{910}{}{Você levou um choque do chão eletrizado.}
+{911}{}{ levou um choque do chão eletrizado.}
+{912}{}{A barra de energia cai pra zero e então volta para 50% quando
+ os geradores reservas se ligam.}
+{913}{}{Ouve-se um fraco ruído quando a energia se distibui pela base.}
+
+{920}{}{Você esbarra nos restos de Nagor, que morreu tentar salvar seu cachorro.}
+{921}{}{Nagor morreu tentando arrastar o corpo de seu cachorro de volta pra vila.}
+
+{930}{}{Auuuuuuuuul!}
+
+{950}{}{Você gasta um tempo praticando alguns golpes. Sua habilidade corpo-a-corpo aumentou em 5%.}
+
+{951}{}{O molerat lutador entra para o golpe fatal.}#The fighting molerat goes in for the death blow.AF... NÃO CONSEGUI AJEITAR A FRASE BEM.
+{952}{}{A partida acabou.}
+
+
+#############################################################
+#  Quest Information. Mainly used for solving quests        #
+#############################################################
+
+{1000}{}{Você passou no teste para a Cidadania.}#citzenship test
+{1001}{}{Você informou do vício de Jet em Redding para McClure.}
+{1002}{}{You freed up trade with Redding.}
+{1003}{}{Você desarmou o campo de força.}#force fields
+{1004}{}{Você invadiu o computador.}#hack into the computer. sei lá, usar Hackeou fica estranho.
+{1005}{}{Você reparou o poço.}
+{1006}{}{Você levou Hakeswill à justiça.}
+{1007}{}{Você entregou o excavator chip.}
+{1008}{}{Você resolveu o problema do Widow Rooney.}
+{1009}{}{Você passou nos testes de Arroyo.}trials of
+{1010}{}{Você deu ao Dr. Troy a fórmula para o antídoto.}
+{1011}{}{Você destruiu o reator.}
+{1012}{}{ATENÇÃO! Complete Reactor MELTDOWN!}#Reator em fusão?
+{1013}{}{ATENÇÃO! TOXINAS liberadas nos dutos de ar.}
+{1014}{}{Você limpou a Mina Wanamingo.}
+{1015}{}{You lived through the puzzle room.}
+{1016}{}{Opa, eu quase me esqueci do GECK. Espero que tenha um por aqui.}
+{1017}{}{The door blasts open from your GECK code.}
+{1018}{}{Você acabou com a Gangue do Frog Morton.}
+
+{1050}{}{Você fez antídoto a partir da toxina de escorpião.}
+{1051}{}{Você misturou o xander root com broc flower e fez um healing powder.}
+
+{1099}{}{O GECK é muito valioso para sua vila para você largá-lo aqui.}
+
+#############################################################
+#  These are for converting numeric values to number words. #
+#  You want it to go further, add 'em yourself.             #
+#############################################################
+{2000}{}{zero}
+{2001}{}{um}
+{2002}{}{dois}
+{2003}{}{três}
+{2004}{}{quatro}
+{2005}{}{cinco}
+{2006}{}{seis}
+{2007}{}{sete}
+{2008}{}{oito}
+{2009}{}{nove}
+{2010}{}{dez}
+{2011}{}{onze}
+{2012}{}{doze}
+{2013}{}{treze}
+{2014}{}{quatorze}
+{2015}{}{quinze}
+{2016}{}{dezesseis}
+{2017}{}{dezessete}
+{2018}{}{dezoito}
+{2019}{}{dezenove}
+{21020}{}{vinte}
+{2021}{}{vinte e um}
+{2022}{}{vinte e dois}
+{2023}{}{vinte e três}
+{2024}{}{vinte e quatro}
+{2025}{}{vinte e cinco}
+{2026}{}{vinte e seis}
+{2027}{}{vinte e sete}
+{2028}{}{vinte e oito}
+{2029}{}{vinte e nove}
+{2030}{}{trinta}
+{2031}{}{trinta e um}
+{2032}{}{trinta e dois}
+{2033}{}{trinta e três}
+{2034}{}{trinta e quatro}
+{2035}{}{trinta e cinco}
+{2036}{}{trinta e seis}
+{2037}{}{trinta e sete}
+{2038}{}{trinta e oito}
+{2039}{}{trinta e nove}
+{2040}{}{quarenta}
+{2041}{}{quarenta e um}
+{2042}{}{quarenta e dois}
+{2043}{}{quarenta e três}
+{2044}{}{quarenta e quatro}
+{2045}{}{quarenta e cinco}
+{2046}{}{quarenta e seis}
+{2047}{}{quarenta e sete}
+{2048}{}{quarenta e oito}
+{2049}{}{quarenta e nove}
+{2050}{}{cinqüenta}
+{2051}{}{cinqüenta e um}
+{2052}{}{cinqüenta e dois}
+{2053}{}{cinqüenta e três}
+{2054}{}{cinqüenta e quatro}
+{2055}{}{cinqüenta e cinco}
+{2056}{}{cinqüenta e seis}
+{2057}{}{cinqüenta e sete}
+{2058}{}{cinqüenta e oito}
+{2059}{}{cinqüenta e nove}
+{2060}{}{sessenta}
+{2061}{}{sessenta e um}
+{2062}{}{sessenta e dois}
+{2063}{}{sessenta e três}
+{2064}{}{sessenta e quatro}
+{2065}{}{sessenta e cinco}
+{2066}{}{sessenta e seis}
+{2067}{}{sessenta e sete}
+{2068}{}{sessenta e oito}
+{2069}{}{sessenta e nove}
+{2070}{}{setenta}
+{2071}{}{setenta e um}
+{2072}{}{setenta e dois}
+{2073}{}{setenta e três}
+{2074}{}{setenta e quatro}
+{2075}{}{setenta e cinco}
+{2076}{}{setenta e seis}
+{2077}{}{setenta e sete}
+{2078}{}{setenta e oito}
+{2079}{}{setenta e nove}
+{2080}{}{oitenta}
+{2081}{}{oitenta e um}
+{2082}{}{oitenta e dois}
+{2083}{}{oitenta e três}
+{2084}{}{oitenta e quatro}
+{2085}{}{oitenta e cinco}
+{2086}{}{oitenta e seis}
+{2087}{}{oitenta e sete}
+{2088}{}{oitenta e oito}
+{2089}{}{oitenta e nove}
+{2090}{}{noventa}
+{2091}{}{noventa e um}
+{2092}{}{noventa e dois}
+{2093}{}{noventa e três}
+{2094}{}{noventa e quatro}
+{2095}{}{noventa e cinco}
+{2096}{}{noventa e seis}
+{2097}{}{noventa e sete}
+{2098}{}{noventa e oito}
+{2099}{}{noventa e nove}
+{2100}{}{cem}
+
+#############################################################
+#  These are generic Reactions to the player's actions in   #
+#  the game to other NPC's. NPC's float these lines.        #
+#############################################################
+
+######
+#  Caught Pickpocketing (Warning)  (3000-3299)
+######
+
+# Tough Guard (3000-3024)
+{3000}{}{}
+
+# Guard (3025-3049)
+{3025}{}{}
+
+# Tough Citizen (3050-3074)
+{3050}{}{Se você tentar fazer isso de novo, eu mato você.}
+{3051}{}{Eu não tenho nada pra ser roubado, seu idiota.}
+{3052}{}{Eu não acho que nos conhecemos *tão* bem.}
+{3053}{}{Toque nisso de novo e você vai pagar caro.}
+{3054}{}{Tire suas mãos de mim}
+{3055}{}{Faça isso de novo e eu corto sua cabeça fora.}
+{3056}{}{Tira a mão!}
+{3057}{}{Está procurando por encrenca?}
+{3058}{}{Toque-me de novo e você morre.}
+{3059}{}{Só problemas são de graça.}
+{3060}{}{Ei! Sai fora.}
+{3061}{}{Cuidado!}
+{3062}{}{Você quer morrer?}
+{3063}{}{Tente isso de novo, e eu quebro sua cara.}
+{3064}{}{Isso é meu; tira a mão!}
+
+# Citizen (3075-3099)
+{3075}{}{}
+
+# Custom (3100-3299)
+{3100}{}{}
+
+######
+#  Caught Stealing from Something (Warning)   (3300-3599)
+######
+
+# Tough Guard (3300-3324)
+{3300}{}{}
+
+# Guard (3325-3349)
+{3325}{}{Por que você não coloca tudo de volta no lugar onde achou?}
+{3326}{}{Sabe, não é legal pegar o que não é seu.}
+{3327}{}{Sai fora daí, punk!}#uaeheauh eu substituiria punk por malaco
+{3328}{}{Não venha me dizer que você "só está procurando pelas suas chaves." Saia daqui!}
+{3329}{}{Seja lá o que estiver procurando, não está aí. Entendeu?}
+
+# Tough Citizen (3350-3374)
+{3350}{}{}
+
+# Citizen (3375-3399)
+{3375}{}{}
+
+# Custom (3400-3599)
+{3400}{}{}
+
+######
+#  Caught Lockpicking Door (Warning)   (3600-3899)
+######
+
+# Tough Guard (3600-3624)
+{3600}{}{}
+
+# Guard (3625-3649)
+{3625}{}{Ei, você! Por que está bisbilhotando aí?}
+{3626}{}{Se você não tiver uma chave nas mãos, é melhor sai daí.}
+{3627}{}{Está trancado por alguma razão, punk.}
+{3628}{}{Saia daí antes que haja problemas pra você!}
+
+# Tough Citizen (3650-3674)
+{3650}{}{}
+
+# Citizen (3675-3699)
+{3675}{}{}
+
+# Custom (3700-3899)
+{3700}{}{}
+
+######
+#  Caught Sneaking (Warning)    (3900-4199)
+######
+
+# Tough Guard (3900-3925)
+{3900}{}{}
+
+# Guard (3925-3949)
+{3925}{}{Ei, você! O que está fazendo aí?}
+{3926}{}{Você não deveria estar aqui!}
+{3927}{}{Se acha que pode simplesmente andar nas minhas costas, pode esquecer!}
+{3928}{}{É melhor não estar planejando no que eu acho que está planejando, forasteiro.}
+{3929}{}{O quê? Pensa que não o notei? Saia daqui!}
+
+# Tough Citizen (3950-3974)
+{3950}{}{}
+
+# Citizen (3975-3999)
+{3975}{}{}
+
+# Custom (4000-4199)
+{4000}{}{}
+
+######
+#  Being Attacked by the player (Warning)    (4200-4499)
+######
+
+# Tough Guard (4200-4225)
+{4200}{}{}
+
+# Guard (4225-4249)
+{4225}{}{}
+
+# Tough Citizen (4250-4274)
+{4250}{}{}
+
+# Citizen (4275-4299)
+{4275}{}{}
+
+# Custom (4300-4499)
+{4300}{}{}
+
+######
+#  Call for Help Guards  (4500-4799)
+######
+
+# Tough Guard (4500-4525)
+{4500}{}{}
+
+# Guard (4525-4549)
+{4525}{}{}
+
+# Tough Citizen (4550-4574)
+{4550}{}{}
+
+# Citizen (4575-4599)
+{4575}{}{}
+
+# Custom (4600-4799)
+{4600}{}{}
+
+######
+# Call for Help Others    (4800-5099)
+######
+
+# Tough Guard (4800-4825)
+{4800}{}{}
+
+# Guard (4825-4849)
+{4825}{}{}
+
+# Tough Citizen (4850-4874)
+{4850}{}{}
+
+# Citizen (4875-4899)
+{4875}{}{}
+
+# Custom (4900-5099)
+{4900}{}{}
+
+######
+#  Attack Player  [War Cries]   (5100-5399)
+######
+
+# Tough Guard (5100-5125)
+{5100}{}{}
+
+# Guard (5125-5149)
+{5125}{}{}
+
+# Tough Citizen (5150-5174)
+{5150}{}{}
+
+# Citizen (5175-5199)
+{5175}{}{}
+
+# Custom (5200-5399)
+{5200}{}{}
+
+# Watched Comments(5400-5599)
+{5400}{}{Fique longe daí.}
+
+# For Repair Bots
+{9000}{}{Reparos Completos.}
+{9001}{}{Rearmar Completo.}#Rearming Complete?
+{9002}{}{Reparando Danos Estruturais.}
+
+# default options for party members
+{10000}{}{Diga-me uma coisa.}
+{10001}{}{Você deve se curar agora.}
+{10002}{}{Eu preciso que você espere aqui até que eu volte.}
+{10003}{}{Guarde sua arma.}
+{10004}{}{Fique perto de mim.}
+{10005}{}{Não fique muito longe.}
+{10006}{}{Nós precisamos nos dispersar um pouco.}
+{10007}{}{É só isso por enquanto.}
+{10008}{}{Nós precisamos mudar a distância entre nós.}
+{10009}{}{Eu preciso falar com você sobre seu equipamento.}
+{10010}{}{Pensando bem, acho que a distância está boa por enquanto.}
+{10011}{}{Na verdade, acho que não tem nada que eu precise saber agora sobre seu equipamento.}
+{10012}{}{Eu preciso que você remova essa armadura que está vestindo.}
+{10013}{}{Eu preciso saber que tipo de armas você pode usar.}
+
+# default join me again message
+{10100}{}{Vamos lá.}
