@@ -212,7 +212,7 @@
 {810}{}{Urrrrrgh.}
 
 {900}{}{Você achou meu filho, Torr? Estou tão preocupada com ele.}
-{910}{}{Já enconteou o meu Smiley?}
+{910}{}{Já encontrou o meu Smiley?}
 {920}{}{Já achou meu filho, Torr, ou meu amigo, Smiley o caçador?}
 {930}{}{Meu pobre Torr saiu de casa.}
 
