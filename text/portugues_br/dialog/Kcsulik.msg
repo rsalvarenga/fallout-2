@@ -629,9 +629,9 @@
 {3080}{}{Você não ser meu amigo. Vovô Osso diz pra não falar com você.}
 
 #added by killap - patch
-{3200}{}{Yes, I spoke with Mrs. Buckner regarding your debt. I just now need to make all the arrangements with Maida. I'll check with you again after I speak  with her.}
+{3200}{}{Sim, eu falei com a Sra. Buckner em relação a sua dívida. Eu só preciso agora acertar todos os detalhes com Maida. Vou falar com você de novo depois que eu falar com ela.}
 
 #added by killap - warns the player if something is wrong with the NPC
-{3500}{}{We and I think something be wrong with us. You better be having a look at this limb of ours.}
-{3501}{}{We and I think something be wrong with us. We be glowing like the sun.}
-{3502}{}{We and I think something be wrong with us. We be feeling poisoned.}
+{3500}{}{Algo estar errado com a equipe. É melhor dar uma olhada em toda sua equipe.}
+{3501}{}{Algo esta errado com a equipe. Nós estamos brilhante como o sol.}
+{3502}{}{Algo esta errado com a equipe. Nós estamos sentindo envenenado.}

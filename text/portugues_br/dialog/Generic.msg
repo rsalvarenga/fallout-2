@@ -47,8 +47,8 @@
 {201}{}{Bom dia.}
 {202}{}{Valeu.}
 {203}{}{Valeu!}
-{204}{}{No thank you.}#isso é um "de nada" ou um "que mané valeu o quê!"
-{205}{}{No thanks.}#idem
+{204}{}{Não, te agradeço.}
+{205}{}{Não, obrigado.}#idem
 {206}{}{Claro.}
 {207}{}{Sim.}
 {208}{}{Não.}
@@ -458,3 +458,12 @@
 
 # default join me again message
 {10100}{}{Vamos lá.}
+
+#added by killap - default msgs
+{20000}{}{Isso não faz nada.}
+
+#added by killap - default msgs
+{20100}{}{Não há bloqueio nesta porta.}
+
+#added by killap
+{30000}{}{Você roubou de sua própria tribo.}
