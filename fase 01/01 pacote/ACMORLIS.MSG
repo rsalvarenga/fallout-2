@@ -1,37 +1,38 @@
-XDathz está traduzindo esse arquivo.
-{100}{}{Aquela é a Morlis, uma de suas tias... a que nunca gostou de você.}
-{101}{}{Por que você fica me encomodando, sobrinho? Não vê que estou ocupada?}
-{301}{}{Por que você fica me encomodando, sobrinha? Não vê que estou ocupada?}
-{102}{}{Humm, certo. Me desculpe.}
-{103}{}{O que é isso? Você sabe que eu tenho muito o que fazer!}
-{104}{}{Humm, Mynoc disse...}
-{105}{}{Mynoc disse o que? Saia daqui, garoto!}
-{106}{}{Isso, humm, você poderia ter uma pedra.}
-{107}{}{Eu tenho. Você quer um pouco, não é mesmo?}
-{108}{}{Bem, sim.}
-{109}{}{Bem... Eu quero três doses de pó curativo. Momentos ruins estão se aproximando, 
- e preciso estar preparada. Traga-os para mim e eu te darei a pedra. Agora, 
+# XDathz está traduzindo esse arquivo.
+# Noob-Saibot fez pequenas correções e alterações (Apenas sugestões, pra deixar a conversa mais natural, como é falada)
+{100}{}{Você vê Morlis, uma de suas tias -- a que nunca gostou de você.}
+{101}{}{Por que você está me incomodando, sobrinho? Não vê que estou ocupada?}
+{301}{}{Por que você está me incomodando, sobrinha? Não vê que estou ocupada?}
+{102}{}{Hmm, ok. Desculpa.}
+{103}{}{Que é? Você sabe que eu tô ocupada!}
+{104}{}{Hmm... O Mynoc disse...}
+{105}{}{Mynoc disse o que? Some daqui!}
+{106}{}{Que... hm.. você poderia ter um pouco de sílex...}
+{107}{}{Eu tenho. Você quer um pouco. É isso?}
+{108}{}{Bem... sim.}
+{109}{}{Bem... Eu quero três sacos de Healing Powder. As coisas vão ficar feias, 
+ e eu vou me preparar. Traga-os para mim, e eu te dou o sílex. Agora 
  vá pega-los!}
 {110}{}{Sim, senhora!}
-{111}{}{Não me faça perder tempo. Você tem os pós?}
+{111}{}{Não me faça perder tempo. Você trouxe os sacos?}
 {112}{}{Sim, estão aqui.}
-{113}{}{Humm, eu acho que não.}
-{114}{}{Aqui está a pedra. Agora saia daqui! Eu não tenho tempo para fofocar.}
-{115}{}{Obrigado, Tia Morlis.}
+{113}{}{Hmmm.. eu acho que não.}
+{114}{}{Aqui está o sílex. Agora saia daqui! Eu não tenho tempo pra ficar de fofoca.}
+{115}{}{Valeu, Tia Morlis.}
 {116}{}{Outra vez me fazendo perder tempo, sobrinho inútil! Como é possível você ser
  o Escolhido?}
 {117}{}{Sim, Tia Morlis.}
-{118}{}{Ah, Tia Morlis, aqui está os três.}
+{118}{}{Ah, Tia Morlis, aqui estão os três.}
 
 {150}{}{Tia Morlis, eu estou em uma perigosa missão para salvar nossa vila.
- Minhas chances de sucesso aumentariam se você 
- me desse os pós curativos e a pedra. Não é verdade?}
-{151}{}{O que você acha que está fazendo, garoto? Essa não é a forma que o Escolhido deve agir. Agora saia da minha frente!}
-{152}{}{Se essa pedra é tão importante assim que você está disposto a desrespeitar o nome do Escolhido, aqui está. Pegue 
- a pedra e saia da minha frente.}
+ Minhas chances de sucesso aumentariam se eu 
+ ficasse com os sacos e você me desse o sílex. Não concorda?}
+{151}{}{O que você acha que está fazendo, jovem? Não é assim que o Escolhido deve agir. Agora saia da minha frente!}
+{152}{}{Se essa pedra é importante o suficiente pra você estar disposto a desrespeitar o nome do Escolhido, aqui está. Pegue 
+ o sílex e saia da minha frente.}
 {153}{}{Sim, Tia Morlis.}
-{154}{}{Bem... Ah, muito bem. Aqui está a pedra. Tenha uma boa viagem, garoto.}
-{155}{}{Não, eu não acredito. Agora pare de desperdiçar meu tempo e dê o fora daqui!}
+{154}{}{Bem... Ahn, muito bem. Aqui está o sílex. Eu te desejo uma boa viagem, jovem.}
+{155}{}{Não, eu não concordo. Agora pare de desperdiçar meu tempo e dê o fora daqui!}
 {156}{}{Sim, Tia Morlis.}
 
 
@@ -40,13 +41,13 @@ XDathz está traduzindo esse arquivo.
 {201}{}{Não, Tia Morlis, Eu...}
 {202}{}{Então saia daqui e encontre-o! As pessoas precisam de você!}
 {203}{}{Sim, Tia Morlis.}
-{204}{}{Bem, você está aqui novamente. Não conseguiu completar sua última missão?}
+{204}{}{Bem, você está aqui denovo. Não conseguiu completar sua última missão?}
 {205}{}{Sim, Tia Morlis, mas...}
-{206}{}{Então dê o fora daqui e não volte até que você tenha completado! Por que perder tempo voltando aqui, quando poderia estar dando continuidade a sua busca!?}
+{206}{}{Então dê o fora daqui e não volte até que você tenha completado! Pra que perder tempo voltando aqui, quando poderia estar usando esse tempo pra continuar a sua busca!?}
 {207}{}{Sim, Tia Morlis.}
-{208}{}{O fato de você estar aqui significa que completou a sua missão. Você não perderia seu precioso tempo voltando aqui de mãos vazias, não é mesmo?}
+{208}{}{O fato de você estar aqui deve significar que completou a sua missão. Você não perderia tempo precioso voltando aqui de mãos vazias, não é mesmo?}
 {209}{}{Sim, Tia Morlis. Quero dizer... não, Tia Morlis. Ah, eu tenho que ir, Tia Morlis.}
-{210}{}{Então, garoto. Mais uma vez você está diante de mim. Continua com as mãos vazias?}
+{210}{}{Então, jobem. Mais uma vez você está diante de mim. Continua com as mãos vazias?}
 {211}{}{Sim, Tia Morlis.}
 {212}{}{Escute, }
 {213}{}{. Pessoas estão morrendo, o gado está morrendo, e as plantações também. Todos estão com fome, doentes, ou pior. Nosso tempo está acabando. Se você não encontrar o GECK, estaremos perdidos. Você me entendeu?}
@@ -55,10 +56,10 @@ XDathz está traduzindo esse arquivo.
 {216}{}{Sim, Tia Morlis.}
 
 #added by killap
-{300}{}{Bem, pelo visto eu perdi a pedra. Ah, pelo menos eu ainda tenho o pó. Agora saia daqui! Eu não tenho tempo para fofocar.}
-{302}{}{Bem, eu não consigo encontrar a pedra. Tenho certeza que você a escondeu enquanto eu não olhava. Eu peguei primeiro. Agora saia daqui! Eu não tenho tempo para fofocar.}
-{303}{}{Well... Oh, I'm sorry but I seem to have misplaced the flint. I wish you a safe journey though, child. }
+{300}{}{Bem, pelo visto eu perdi o sílex. Ah, pelo menos tenho esses sacos de Healing Powder Agora. Agora saia daqui! Eu não tenho tempo pra fofocar.}
+{302}{}{Bem, eu não consigo encontrar o sílex. Tenho certeza que você pegou ele de mim enquanto eu não olhava. Eu já te peguei fazendo isso antes. Agora saia daqui! Eu não tenho tempo para fofocar.}
+{303}{}{Bem... eu acho que perdi o sílex. Me desculpe. Porém te desejo uma boa viagem, jovem.}
 
 #added by Darek
-{304}{}{Eu já te dei a pedra, idiota. Agora, pare desperdiçar o meu tempo e dê o fora daqui!}
-{305}{}{Eu já te dei a pedra, idiota. Ah, pelo menos eu ainda tenho o pó. Agora saia daqui! Eu não tenho tempo para fofocar.}
+{304}{}{Eu já te dei a pedra, idiota. Agora, pare de desperdiçar o meu tempo e dê o fora daqui!}
+{305}{}{Eu já te dei a pedra, idiota. Ah, pelo menos eu tenho os sacos agora. Agora saia daqui! Eu não tenho tempo para fofocar.}
