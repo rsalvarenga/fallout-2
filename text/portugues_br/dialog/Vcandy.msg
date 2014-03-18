@@ -248,3 +248,9 @@
 {347}{}{ mangos por tudo, e temos um trato. O procedimento não funciona no seu cérebro robô, camarada. O que você diz?}
 {348}{}{Legal! Eu sempre quis parecer com o Kryten! Aqui está o dinheiro e a combat armor.}
 {349}{}{Muito bem. Lá vamos nós.}
+
+# Added by Seraph:
+{350}{}{Você perdeu -4 Max HP.}
+# Added by killap:
+{351}{}{Wahh? Não estou me sentindo bem. Preciso dormir agora.}
+{352}{}{Ugh...okay. Tchau.}

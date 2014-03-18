@@ -143,8 +143,7 @@ preparado para a sua missão?}
 {239}{}{Isso com certeza é desagradável. O que eu devo fazer?}
 
 
-
-##### verificar porque temos estas linhas a mais
+#verificar depois, tem na tradu espanhol mais nao no ingles
 #{240}{}{Tengo un verti-, eh, una máquina voladora.}
 #{241}{}{Si destruyes la máquina, encontraremos tu máquina voladora. Date prisa, no quedamos muchos de nosotros.}
 #######
