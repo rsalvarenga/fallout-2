@@ -3795,22 +3795,22 @@
 {36861}{}{Hey hey! Quase me bateu!}
 {36862}{}{Ajudaria se eu pintar um alvo em mim mesmo?}
 {36863}{}{Não passou nem perto.}
-{36864}{}{Excuse me, were you aiming at me?}
-{36865}{}{That rock you hit wasn't even armed.}
-{36866}{}{I hope that wasn't your best shot.}
-{36867}{}{This is going to be easier than I thought.}
-{36868}{}{You better put that thing down before you hurt yourself.}
-{36869}{}{Ha! You missed me!}
-{36870}{}{Close, but not close enough.}
-{36871}{}{You should try aiming next time.}
-{36872}{}{My mother's a better shot than you.}
-{36873}{}{Your hands must be shaking pretty hard for you to miss.}
-{36874}{}{Now that was a wild shot.}
+{36864}{}{Me desculpe, mas você estava apontando para mim?}
+{36865}{}{Voce me acertou com essa pedra nem estava armado.}
+{36866}{}{Espero que isso não seja o seu melhor tiro.}
+{36867}{}{Isso vai ser mais facil do que eu pensava.}
+{36868}{}{Melhor você largar essa coisa antes que se machuque.}
+{36869}{}{Ha! Você errou!}
+{36870}{}{Perto, mas não perto o suficiente.}
+{36871}{}{Da próxima vez tente apontar melhor.}
+{36872}{}{Minha mãe faz melhor que você.}
+{36873}{}{Suas mãos devem estar tremendo muito para você errar assim.}
+{36874}{}{Isso sim é uma merda de tiro.}
 {36875}{}{Eu nem sequer tento esquivar disso.}
-{36876}{}{Looks like you need more practice.}
-{36877}{}{Now that was a fatal mistake.}
-{36878}{}{Either I'm lucky or you're a bad shot.}
-{36879}{}{The safest spot to be is right in front of you.}
+{36876}{}{Parece que precisa praticar mais.}
+{36877}{}{Isso foi um erro fatal.}
+{36878}{}{Ou eu tenho sorte ou você é um desastre.}
+{36879}{}{O lugar mais seguro pra ficar é bem na sua frente.}
 #
 ###############################################################
 #
@@ -3855,345 +3855,218 @@
 #
 # target hit in head
 #
-{40000}{}{Spirits want out of skull, oh mahn de skull hurt!}
-
-{40001}{}{De dark come early now.}
-{40002}{}{Pretty scar on me face now.}
-{40003}{}{That almost broke Grampy-bone.}
-{40004}{}{Hah, Grampy-bone stop most of blAi!}
-
-
-
-{40005}{}{Sulik not need de teeth.}
-{40006}{}{Sulik still have one ear to hear de pain!}
-{40007}{}{Grampy-bone fall out, must find de Grampy!}
-{40008}{}{Can you hear de spirit-bells ringing?}
-{40009}{}{You see de bright night-stars too?}
-
-
-
-
+{40000}{}{Espíritos querer sair do crânio, ah cara, crânio dói!}
+{40001}{}{Escuridão chegar cedo agora.}
+{40002}{}{Grande cicatriz na minha cara agora.}
+{40003}{}{Essa quase quebrar Vovô-osso}
+{40004}{}{Rá, Vovô-osso bloquear o impacto!}
+{40005}{}{Sulik não precisar de dentes mesmo.}
+{40006}{}{Sulik ainda ter uma orelha pra ouvir sofrimento!}
+{40007}{}{Vovô-osso cair, mim precisa achar vovô!}
+{40008}{}{Você poder ouvir som do espírito-sino}
+{40009}{}{Você ver brilho das estrelas também?}
 #
 # target hit in left arm
 #
-{40010}{}{Me bone so white.}
-{40011}{}{Still de weapon can be used.}
-
-{40012}{}{One arm is extra for de man.}
-{40013}{}{Unngg.}
-{40014}{}{That not hurt...much.}
-{40015}{}{Sulik, be thinkin' that you not want to hurt him.}
-
-{40016}{}{Sulik now be takin' de turn.}
-{40017}{}{Now we see how you and we like dat.}
-
-{40018}{}{Sulik not need all de fingas.}
-{40019}{}{Big de scar on me arm.}
+{40010}{}{Meu osso ser tão branco.}
+{40011}{}{Ainda poder usar a arma.}
+{40012}{}{Um braço ser extra pro homem.}
+{40013}{}{Arrrg.}
+{40014}{}{Essa não machucar... muito.}
+{40015}{}{Sulik achar que você não quer machucar ele.}
+{40016}{}{Sulik ataca agora.}
+{40017}{}{Agora nós ver como você e nós gosta disso.}
+{40018}{}{Sulik nem precisar de todos os dedos mesmo.}
+{40019}{}{Grande ser a cicratriz no meu braço.}
  #
 # target hit in right arm
 #
-{40020}{}{Now we be takin' your arm too.}
-{40021}{}{Tiny rat-brother be hittin' me harder.}
-{40022}{}{Sulik wonder, is mosquito season now?}
-
-
-
-{40023}{}{We not feel de pain...yet.}
-{40024}{}{Uh oh. Sulik not feel de fingers.}
-{40025}{}{Grampy-bone tell de we to be strong.}
-{40026}{}{Go home and not hit us in de arm again!}
-{40027}{}{Your heart be not in de fight!}
-{40028}{}{You hurt de arm dat we roll with.}
-{40029}{}{We only need de one arm for you.}
-
-
-
-
-
+{40020}{}{Agora nós tomar seu braço também.}
+{40021}{}{Pequenino irmão-rato estar me machucando forte.}
+{40022}{}{Sulik pensar, ser época de mosquito agora?}
+{40023}{}{Nós não sentir dor... ainda.}
+{40024}{}{Oh, oh. Sulik não sentir os dedos.}
+{40025}{}{Vovô-osso dizer que nós precisa ser forte.}
+{40026}{}{Vá pra casa e não acertar nós no braço de novo!}
+{40027}{}{Seu coração não estar na luta!}
+{40028}{}{You hurt de arm dat we roll with.}#?roll with the arm? que isso? o braço que ele toca uma?
+{40029}{}{Nós só precisar de um braço pra acabar com você.}
 #
 # target hit in torso
 #
 {40030}{}{Oof!}
-{40031}{}{De air not come so easy now.}
-{40032}{}{We feel warm and sleepy now.}
-{40033}{}{We share too much blood now.}
-{40034}{}{Grampy-bone show us de way!}
-{40035}{}{We and I not killed so easy.}
-{40036}{}{We not feel any pain from that.}
-{40037}{}{De spirits make us strong.}
-{40038}{}{You not hurt de inner heart dat way.}
-
-
-
-
-
-
-
-
-{40039}{}{Sulik have too much blood anyway.}
-{40040}{}{We think you not at peace wit us.}
-{40041}{}{De legs, day feel like day be gone.}
-{40042}{}{Hard to breath for us as if we be takin' de dragon-hit.}
-{40043}{}{We think dis not so good.}
-{40044}{}{Grampy-bone say this what insides look like.}
-{40045}{}{De lizard-bro' dat we eat before, wants out now.}
-{40046}{}{We like de insides just de way day are man!}
-{40047}{}{We never get used to dis part.}
-{40048}{}{Grampy-bone say de spirits don't want us yet.}
-{40049}{}{You do de bad ting to us.}
-{40050}{}{We and I had de bad tings happen to us.}
-{40051}{}{We not want de red, red wine come out.}
-{40052}{}{You hurt us, we be hurtin' you back.}
-
-
-
-
-
-
-
-
-
-
-
-
-
-{40053}{}{Aiiiiiieeeeee!}
-{40054}{}{Shing-ding-ding!}
-{40055}{}{De dark-spirit ride on our shoulder.}
-
-{40056}{}{De sky so bright now.}
-{40057}{}{Grampy-bone not be lettin' us die.}
-{40058}{}{We not be feelin' so mellow.}
-{40059}{}{We and I have de hole goin' true de middle.}
-
-
-
+{40031}{}{Respirar estar mais difícil agora.}
+{40032}{}{Nós sentir calor e estar com sono agora.}
+{40033}{}{Nós dividir muito sangue agora.}
+{40034}{}{Vovô-osso mostra o caminho pra nós!}
+{40035}{}{Nós e eu não morrer tão fácil.}
+{40036}{}{Nós não sentir muita dor nessa.}
+{40037}{}{Espíritos fazer nós forte.}
+{40038}{}{Nós não machucar o coração desse jeito.}
+{40039}{}{Sulik ter muito sangue mesmo...}
+{40040}{}{Nós achar que você não estar em paz com nós.}
+{40041}{}{O dia parece estar acabado.}
+{40042}{}{Difícil de respirar ou nós estar tomando golpe-do-dragão?}
+{40043}{}{Nós achar que isso não ser tão bom.}
+{40044}{}{Vovô-osso diz que isso ser o que parece.}
+{40045}{}{O irmão-lagarto que nós comer antes quer sair agora.}
+{40046}{}{Nós gostar do lado de dentro do jeito que ele ser, cara!}
+{40047}{}{Nós nunca acostuma com isso.}
+{40048}{}{Vovô-osso diz que os espíritos não querer nós ainda.}
+{40049}{}{Você fazer coisas má com nós.}
+{40050}{}{Nós e eu estar sofrendo coisas más.}
+{40051}{}{Nós não querer que o vermelho, vermelho, vinho sai pra fora.}
+{40052}{}{Você machucar nós, nós machucar você de volta.}
+{40053}{}{Aaaaaiiiiii!}
+{40054}{}{Shing-ding-ding!}#?lol
+{40055}{}{O espírito-da-sombra estar no nosso ombro.}
+{40056}{}{O céu estar tão claro agora.}
+{40057}{}{Vovô-osso não deixar nós morrer.}
+{40058}{}{Nós não sentir muito bem.}
+{40059}{}{Nós e eu estar com buraco bem no meio do corpo.}
 #
 # target hit in right leg
 #
-{40060}{}{We not be doin' de spirit dance now.}
-
-{40061}{}{Oh man, you tear off de toe.}
-{40062}{}{De foot burn us now.}
-{40063}{}{We kick rock, hurt us more dan you.}
-{40064}{}{We only be needin' de one leg to kill you, man.}
-{40065}{}{We not need to be workin' now.}
-{40066}{}{We see how you be likin' de limp.}
-
-
-
-
-{40067}{}{Oh dat hurt us.}
-{40068}{}{Aaaaiiiiieeeeeee!}
-{40069}{}{We be needin' some serious herb now.}
-
+{40060}{}{Nós não vai fazer a dança do espírito agora.}
+{40061}{}{Ah, cara! Você tirar o dedão fora.}
+{40062}{}{O pé queimar! O pé queimar!}
+{40063}{}{Nós chuta pedras, machucar mais que você.}
+{40064}{}{Nós só precisa de uma perna pra matar você, cara.}
+{40065}{}{Nós não precisa trabalhar agora.}
+{40066}{}{Nós percebe como você gostar de ver nós mancar.}
+{40067}{}{Ai, essa doer muito.}
+{40068}{}{Aaaaaaaaaaiiiii!}
+{40069}{}{Nós precisa de um pouco de erva agora.}
 #
 # target hit in left leg
 #
-{40070}{}{We not be movin' and groovin' now, man.}
-{40071}{}{Where de herb when we need it?}
-{40072}{}{You have to be hurtin' for dat one now.}
-{40073}{}{Leg-bone white as Grampy-bone.}
-{40074}{}{De leg be hurtin' us now.}
-{40075}{}{Dat not be nice to my leg.}
-{40076}{}{Grampy-bone send de pains to your leg now.}
-{40077}{}{We not be doin' the limbo man, can't get as low as we can.}
-{40078}{}{We want to be jumpin' man.}
-{40079}{}{You want to be makin' our leg nice and smooth?}
-
-
-
-
-
-
-
-
-
-
+{40070}{}{Nós não vai conseguir mais dançar, cara.}
+{40071}{}{Onde estar erva quando nós precisa dela?}
+{40072}{}{Você me machucar bem nessa.}
+{40073}{}{Osso da perna ser branco como vovô-osso.}
+{40074}{}{A perna machucar nós agora.}
+{40075}{}{Isso não ser legal com minha perna.}
+{40076}{}{Vovô-osso mandar sofrimento pra sua perna agora.}
+{40077}{}{Nós não estar com pressa mesmo.}
+{40078}{}{Nós quer pular, cara.}
+{40079}{}{Você quer deixar nossa perna legal?}
 #
 # target hit in eyes
 #
-{40080}{}{It be dark now.}
-{40081}{}{We still hear you.}
-{40082}{}{Grampy-bone still see you.}
-
-{40083}{}{You take eye, Sulik take life.}
-{40084}{}{You punctured our eye. That be hurtin' us.}
-{40085}{}{Hah, you leave me de one eye still.}
-{40086}{}{We still see you, in our mind.}
-{40087}{}{We become more powerful than you can imagine now, man.}
-{40088}{}{We be seein' clear for de first time now bro'.}
-{40089}{}{Grampy-bone do de seein' for us now.}
-
-
-
-
-
-
+{40080}{}{Estar escuro agora.}
+{40081}{}{Nós ainda pode ouvir você.}
+{40082}{}{Vovô-osso ainda ver você.}
+{40083}{}{Você tirar osso, Sulik tirar vida.}
+{40084}{}{Você furar nosso olho. Isso machucar nós.}
+{40085}{}{Rá, você ainda deixar um olho.}
+{40086}{}{Nós ainda pode ver você, na nossa mente.}
+{40087}{}{Nós estar mais forte que você pode imaginar agora, cara.}
+{40088}{}{Nós enxergar claro pela primeira vez agora.}
+{40089}{}{Vovô-osso faz o olhar pra nós.}
 #
 # target hit in groin
 #
 {40090}{}{Unnh!.}
-{40091}{}{We be livin' in de women's hut now.}
-
-{40092}{}{Aaiiiiiiiiieeeeeeee!}
-{40093}{}{We not be needin' more kids anyhow.}
-{40094}{}{You not be makin' our wives happy wit dat.}
-{40095}{}{We think you hit us here because you're small.}
-{40096}{}{You aim for our big target, man.}
-{40097}{}{Grampy-bone say we cut you off and make de sandwich for you.}
-{40098}{}{We need a little off de top anyway.}
-{40099}{}{We and I need some more o' de herb now, man.}
-
-
-
-
-
-
-
+{40091}{}{Nós viver na cabana das mulher agora.}
+{40092}{}{Aaaaaaaiiiiiiiii!}
+{40093}{}{Nós não precisar de mais criança mesmo.}
+{40094}{}{Você não deixar nossas mulher feliz com isso.}
+{40095}{}{Nós acha que você acertou nós porque o seu ser pequeno.}
+{40096}{}{Você mirar no nosso alvo grande, cara.}
+{40097}{}{Vovô-osso diz pra nós cortar você e fazer sanduíche.}
+{40098}{}{Nós precisava de uma circuncisão mesmo.}
+{40099}{}{Nós e mim precisa de um poco mais de erva, cara.}
 #
 #  running away-Note: All of these can be 30 lines long (no more than 400 total lines for the NPC)
 #
-{40100}{}{Sulik come back with bigger weapon.}
-{40101}{}{Sulik's magic Fraco.}
-{40102}{}{Bad magic too strong.}
-{40103}{}{Ancestor warn Sulik to leave.}
-{40104}{}{Sulik have urgent appointment elsewhere.}
-
-{40105}{}{Sulik need to go now.}
-{40106}{}{Sulik need to bleed lizard now.}
-{40107}{}{Sulik confuse enemy by leaving now.}
-{40108}{}{Sulik goes to get help.}
-{40109}{}{Run away!}
-{40110}{}{Sulik think this fight not worth it.}
-{40111}{}{Sulik have bad feeling about this.}
-{40112}{}{Sulik come back later.}
-{40113}{}{Sulik need to take little break.}
-{40114}{}{Sulik go watch rear for attack.}
-{40115}{}{Sulik advance in reverse.}
-{40116}{}{Sulik not afraid of men, but these are evil demons!}
-
-{40117}{}{Sulik not fight demons-who-walk-as-men.}
-{40118}{}{Sulik not have lucky Gecko-claw, must find.}
-
-{40119}{}{Sulik forget something, be back soon.}
+{40100}{}{Sulik volta com arma maior.}
+{40101}{}{Mágica do Sulik ser fraca.}
+{40102}{}{Mágica má muito forte.}
+{40103}{}{Antigos diz pro Sulik ir embora.}
+{40104}{}{Sulik tem assunto pra resolver em outro lugar.}
+{40105}{}{Sulik tem que ir agora.}
+{40106}{}{Sulik precisa sangrar lagarto agora.}
+{40107}{}{Sulik confunde inimigo correndo agora.}
+{40108}{}{Sulik vai buscar ajuda.}
+{40109}{}{Corre!}
+{40110}{}{Sulik acha que a luta não vale a pena.}
+{40111}{}{Sulik tem mau pressentimento.}
+{40112}{}{Sulik volta mais tarde.}
+{40113}{}{Sulik precisa de desncanso.}
+{40114}{}{Sulik vigia retaguarda.}
+{40115}{}{Sulik ataca por trás.}
+{40116}{}{Sulik não ter medo de homens, mas esses ser demônios do mal.}
+{40117}{}{Sulik não vai lutar contra demônios-que-anda-igual-homem.}
+{40118}{}{Sulik não estar com garra-de-gecko da sorte, precisar achar.}
+{40119}{}{Sulik esqueceu um coisa, volta daqui a poco.}
 #
 # moving in to attack
 #
-{40120}{}{Yah, man, can you feel de rhythm?}
-{40121}{}{We got de power nAi!}
-{40122}{}{We and I have de strong magic now.}
-{40123}{}{Grampy-bone can taste your fear.}
-{40124}{}{We be ready to eat of your heart.}
-{40125}{}{We be smellin' de fear on you, man.}
-
-
-
-
-
-
-{40126}{}{Sulik be singin' de battle-song.}
-{40127}{}{De spirits, day watchen' over us now.}
-{40128}{}{We be watchin' you go down.}
-{40129}{}{You be takin' de long walk, man.}
-{40130}{}{De old-bones be eatin' your soul soon.}
-{40131}{}{We be havin' de seven-demon bags!}
-
-
-
-
-
-{40132}{}{Come to us now, man.}
-{40133}{}{We be crushin' you into de jelly now.}
-
-{40134}{}{We be breakin' you up.}
-{40135}{}{We bring de pain to you and yours.}
-{40136}{}{De pain come on you now, man.}
-{40137}{}{We be shooing you away now, man.}
-{40138}{}{You best be runnin'.}
-{40139}{}{We be ready to take a few heads now, man.}
-
-
-
-
-
+{40120}{}{Rá, cara, poder sentir o ritmo?}
+{40121}{}{Nós ter o poder agora!}
+{40122}{}{Nós e mim ter mágica forte agora.}
+{40123}{}{Vovô-osso sentir seu medo.}
+{40124}{}{Nós pronto pra comer seu coração.}
+{40125}{}{Nós sentir seu medo, cara.}
+{40126}{}{Sulik cantar música de guerra.}
+{40127}{}{Espíritos olhar por nós agora.}
+{40128}{}{Nós ver você caindo.}
+{40129}{}{Você ir pro outro mundo, cara.}
+{40130}{}{Ossos-antigo comer sua alma em breve.}
+{40131}{}{We be havin' de seven-demon bags!}#?
+{40132}{}{Cai dentro, cara.}
+{40133}{}{Nós massacrar você como gelatina agora.}
+{40134}{}{Nós quebrar você.}
+{40135}{}{Nós trazer a dor pra você.}
+{40136}{}{A dor ir até você agora, cara.}
+{40137}{}{Nós espantar você agora, cara.}
+{40138}{}{Melhor você correr.}
+{40139}{}{Nós prontos pra tirar algumas cabeçar agora, cara.}
 #
 # attacking
 #
-{40140}{}{We be crushin' you.}
-{40141}{}{Grampy say we must be killin' nAi!}
-{40142}{}{Grampy be lovin' de sound o' bone crunchin', man.}
-{40143}{}{Grampy-bone be helpin' me nAi!}
-{40144}{}{The spirits be helpin' me nAi!}
-{40145}{}{You and me be watchin' all de blood fly now.}
-{40146}{}{We make de friend for Grampy-bone out of your bones!}
-{40147}{}{Grampy-bone be tellin' us to do de killin' dis time.}
-{40148}{}{We be startin' to do de hurt-dance.}
-{40149}{}{We be startin' de bad dance on de enemy-head now, man.}
-{40150}{}{We be lettin' de bad hatred out to play.}
-{40151}{}{Grampy be wonderin' what color de bad-blood is.}
-
-
-
-
-
-
-
-
-
-
-
-{40152}{}{U-Suthuuuuu!}
-{40153}{}{We be washin' de spear in your blood.}
-{40154}{}{We be wantin' de fresh meat, we be glad you here.}
-{40155}{}{You want next dance wit Grampy and us?}
-
-
-
-{40156}{}{We be here to dance.}
-{40157}{}{We do be ready to do da hurtin'.}
-{40158}{}{We be gettin' a taste for your blood now.}
-{40159}{}{Grampy-bone be tellin' us to kill and den be killin' again.}
-
-
-
+{40140}{}{Nós vai massacrar você.}
+{40141}{}{Vovô diz que nós deve matar agora!}
+{40142}{}{Vovô amar som de crânio quebrando, cara.}
+{40143}{}{Vovô-osso me ajudar agora!}
+{40144}{}{Espíritos me ajudar agora!}
+{40145}{}{Você e mim ver sangue voar agora.}
+{40146}{}{Nós fazer amigo pra vovô-osso dos seus ossos!}
+{40147}{}{Vovô-osso diz que nós deve começar a matança.}
+{40148}{}{Nós começar a fazer a dança-da-dor.}
+{40149}{}{Nós começar a dança má na cabeça do inimigo agora, cara.}
+{40150}{}{Nós deixar o ódio se divertir agora.}
+{40151}{}{Vovô tentar imaginar que cor ter sangue-mau.}
+{40152}{}{Iiiiiiáaaaa!}
+{40153}{}{Nós lavar lança no seu sangue.}
+{40154}{}{Nós querer carne fresca, que bom você estar aqui.}
+{40155}{}{Você quer entrar na próxima dança com vovô e nós?}
+{40156}{}{Nós aqui pra dançar.}
+{40157}{}{Nós pronto pra ferir.}
+{40158}{}{Nós provar seu sangue agora.}
+{40159}{}{Vovô osso diz matar você e depois matar de novo.}
 #
 # target being missed
 #
-{40160}{}{We be havin' de stronger magic.}
-{40161}{}{We be safe from de-man here.}
-
-
-{40162}{}{Sulik have strong magic.}
-{40163}{}{We have de best magic.}
-{40164}{}{You not be hittin' us.}
-{40165}{}{Grampy-bone make you miss.}
-{40166}{}{You attack like de little girl.}
-{40167}{}{You be attackin' us or some spirits near us?}
-{40168}{}{You be aimin' at us? Really?}
-{40169}{}{You be needin' more o' de sacred herb, man.}
-{40170}{}{We make de happy at you for missin' us.}
-{40171}{}{You be confused about what you're doin'?}
-{40172}{}{You best be practicin'.}
-{40173}{}{We be wonderin' what that was?}
-
-
-
-
-
-
-
-
-
-{40174}{}{You make us laugh.}
-{40175}{}{We tink you should go back to huntin' de mice until you be knowin' more.}
-{40176}{}{Grampy-bone wonder why de bad-ones so stupid.}
-{40178}{}{We be wonderin' if you be wantin' to start over.}
-{40179}{}{We tink you must be dumber than you be lookin', but Grampy-bone not be thinkin' that possible.}
-
-
-
-
+{40160}{}{Nós ter mágia mais forte agora.}
+{40161}{}{Nós salvo de homem mau aqui.}
+{40162}{}{Sulik ter magia forte.}
+{40163}{}{Nós ter magia mais forte.}
+{40164}{}{Você não machucar nós.}
+{40165}{}{Vovô-osso fazer você errar.}
+{40166}{}{Você bater como garotinha.}
+{40167}{}{Você atacar nós ou espíritos perto de nós?}
+{40168}{}{Você mirar em nós? Sério?}
+{40169}{}{Você precisar de mais erva sagrada, cara.}
+{40170}{}{Nós feliz por você errar.}
+{40171}{}{Você confuso do que estar fazendo?}
+{40172}{}{Você precisar praticar.}
+{40173}{}{Nós tentar descobrir o que foi isso...}
+{40174}{}{Você fazer nós rir.}
+{40175}{}{Nós achar que você deve voltar a caçar rato até aprender mais.}
+{40176}{}{Vovô-osso não saber por que maus ser tão esúpidos.}
+{40178}{}{Você não querer comerçar de novo?}
+{40179}{}{Nós achar que você mais estúpido que parece, mas vovô-osso achar que isso não ser possível.}
 #
 ############################################
 # 40800 Old Man Cassidy
@@ -4202,24 +4075,21 @@
 # target hit in head
 #
 {40800}{}{*Nffff*}
-{40801}{}{*Hrkkk*...Gotta...head wound...here...}
-{40802}{}{*Nfff* Nearly...took...*nfff*...minha cabeça clean off...}
-{40803}{}{Head...hurts...like...the...devil...}
-{40804}{}{Nearly...nearly got me...with that one...head spinning...}
-{40805}{}{Can't...black out...gotta stay conscious...}
-{40806}{}{Another hit to the head like that, an' I'm a goner...}
-{40807}{}{Thank god for that metal plate in minha cabeça, or I'd be dead...}
-
-
+{40801}{}{*Hrkkk*...Tenho...uma ferida...na cabeça...}
+{40802}{}{*Nfff* Quase...arrancou...*nfff*...minha cabeça...}
+{40803}{}{Minha cabeça...dói... seu imbécil...}
+{40804}{}{Quase acertou minha cabeça... tudo esta rodando...}
+{40805}{}{Não é possível ... tudo esta ficando escuro ... tenho que ficar consciente ...}
+{40806}{}{Outro tiro como esse na cabeça e eu estou perdido.}
+{40807}{}{Graças a Deus por essa placa de metal na Minha Cabeça, ou eu estaria morto ...}
 #
 # target hit in left arm
 #
-{40810}{}{Dammit! I got knifed in that arm back in '03!}
-
-{40811}{}{*Hrkkkk* Left arm...hurts like the devil...}
-{40812}{}{Left arm's...useless...}
-{40813}{}{Think that broke...my arm...}
-{40814}{}{Can't...feel my left arm...}
+{40810}{}{Maldição! Fui esfaqueado no braço em 2203!}
+{40811}{}{* Hrkkkk * braço esquerdo ... dói pra caralho...}
+{40812}{}{Braço esquerdo ... inútil ...}
+{40813}{}{Acho que meu braço quebrou...}
+{40814}{}{Não estou sentindo... o braço esquerdo...}
 {40815}{}{*Nfff*...nice try...my arm's...taken worse...}
 {40816}{}{*Nfff*...just my arm...it's just my arm...}
 {40817}{}{*Nfff*...another...Maldição arm wound...}
@@ -4228,7 +4098,6 @@
 # target hit in right arm
 #
 {40820}{}{Dammit! I got shot in that arm back in '01!}
-
 {40821}{}{*Hrkkkk*...right arm's...useless...}
 {40822}{}{*Nffff*...nice try...my arm's...taken worse...}
 {40823}{}{Think that broke my arm...}
@@ -4243,14 +4112,11 @@
 {40830}{}{*Hrrrk*}
 {40831}{}{*Hrkkk*...nearly got my Maldição spleen...}
 {40832}{}{Feels like that shattered some ribs...}
-
 {40833}{}{*Nffff*...gotta stay conscious...heart pounding...}
-{40834}{}{Can't...black out...gotta stay conscious...}
+{40834}{}{Não é possível ... black out ... tenho que ficar consciente ...}
 {40835}{}{Hell, a chest wound...}
 {40836}{}{Hit opened up that old chest wound...}
 {40837}{}{Gonna need some extra stitches across my chest...}
-
-
 {40838}{}{*Unffff*...knocked...the wind outta me...}
 {40839}{}{*Hrkkk*...dammit...chest...wound...Maldição...heart's seizing up...}
 {40840}{}{Keep breathing, Cassidy...just a chest wound...}
@@ -4261,7 +4127,6 @@
 {40845}{}{*Unffff* Another...goddamn chest wound...}
 {40846}{}{*Nfff* Need some help...I've been hit in the chest...bad...}
 {40847}{}{Anybody got some stims?! I've taken a hit in the chest!}
-
 {40848}{}{*Unnffff* That snapped a rib...or two...}
 {40849}{}{*Nfff*}
 {40850}{}{*Hrkkkk*}
@@ -4269,10 +4134,8 @@
 {40852}{}{*Hrnnn*...chest's...gonna need a lotta stitches...}
 {40853}{}{Think...my lung's been pierced...}
 {40854}{}{Ignore the pain, Cassidy...it's just a chest wound...hang in there...}
-
 {40855}{}{*Urkkkk* that hit...heart's...pounding...}
 {40856}{}{That took some meat outta my shoulder...}
-
 {40857}{}{*Unnnffff*...stomach...}
 {40858}{}{Felt my spine crack...}
 {40859}{}{Felt a rib snap...}
@@ -4280,12 +4143,9 @@
 # target hit in right leg
 #
 {40860}{}{Dammit! I got shot in that leg back in '99.}
-
 {40861}{}{*Nfff*...nice...try...my leg's taken worse.}
 {40862}{}{That opened up the old wound in my leg...}
 {40863}{}{Gonna have to keep off my right leg...}
-
-
 {40864}{}{*Nffff*...right leg's...useless...}
 {40865}{}{Can't...feel...my right leg...}
 {40866}{}{*Nfff*...another...goddamn leg wound...}
@@ -4294,12 +4154,9 @@
 # target hit in left leg
 #
 {40870}{}{Dammit! I got shot in that leg back in '95.}
-
 {40871}{}{*Nfff*...nice...try...my leg's taken worse.}
 {40872}{}{That opened up the old wound in my leg...}
 {40873}{}{Gonna have to keep off my left leg...}
-
-
 {40874}{}{*Nffff*...left leg's...useless...}
 {40875}{}{Can't...feel...my left leg...}
 {40876}{}{*Nff*...another...goddamn leg wound...}
@@ -4320,18 +4177,12 @@
 {40890}{}{Hitting me in the balls...THAT'S a new one.}
 {40891}{}{Hell, you got my family jewels!}
 {40892}{}{Nada de golpe abaixo da cintura!}
-
-
-
 {40893}{}{My pecker's taken worse.}
 {40894}{}{Hit me in the jimmy again, and I'm gonna kill you twice.}
-
 {40895}{}{*Hrrrkkk*}
 {40896}{}{*Nffff*}
 {40897}{}{I'm gonna have to get a cup if this keeps up.}
 {40898}{}{Stay away from my groin, you bastard!}
-
-
 {40899}{}{*Hrrrkk...we playing...rochambeau...?!}
 #
 #  running away
@@ -4341,24 +4192,14 @@
 {40902}{}{Next time for you, you sonuvabitch...}
 {40903}{}{Next time I'm packing a goddamn rocket launcher...and more stims.}
 {40904}{}{If I was just twenty years younger, I coulda made it through this fight...}
-
-
-
-
 {40905}{}{Bastards really working me over...}
 {40906}{}{Thought that Maldição yellow streak of mine had faded...}
 {40907}{}{True grit is knowing when to haul ass.}
 {40908}{}{Gotta know when to hold 'em, when to fold 'em, and when to run away.}
-
-
-
 {40909}{}{Gotta get to some cover...}
 {40910}{}{Wait 'til I get my second wind...}
 {40911}{}{Goddamn old war wound's opened up again...}
 {40912}{}{Sorry, friend, I can't take much more of this...}
-
-
-
 #
 # moving in to attack
 #
@@ -4367,19 +4208,11 @@
 {40922}{}{Time to correct another mistake of mother nature...}
 {40923}{}{The bomb shoulda weeded all you trash out...}
 {40924}{}{I'm gonna beat your sorry ass into oblivion.}
-
-
-
-
-
 {40925}{}{Dirty sonuvabitch...}
 {40926}{}{*Huf*...I...*Huf*...need more...*Huf*.... action points.}
 {40927}{}{Vai ficar agonizando por muito tempo...}
 {40928}{}{You're one dead sonuvabitch to pick a fight with us...}
 {40929}{}{Time for Cassidy to show you how we do things in the big city...}
-
-
-
 #
 # attacking
 #
@@ -4388,10 +4221,6 @@
 {40942}{}{Nothing wrong with you a critical to the eyes won't cure.}
 {40943}{}{Gonna kill you, then kill you again...}
 {40944}{}{I got your number, you little cocksucker...}
-
-
-
-
 {40945}{}{You're a stubborn one...}
 {40946}{}{Yellow-gut summabitch...}
 {40947}{}{You ain't got the sand to take me down...}
@@ -4407,24 +4236,10 @@
 {40957}{}{Gonna grind you into a thin red paste...}
 {40958}{}{I'm gonna reduce you to an undertaker's nightmare.}
 {40959}{}{Gonna blast you into ground round...}
-
-
-
-
-
-
-
-
-
-
-
-
-
 #
 # target being missed
 #
 {40960}{}{Looks like your bark is worse than your bite...}
-
 {40961}{}{Not today, friend.}
 {40962}{}{You're slower than a dead turtle.}
 {40963}{}{Sand in your eyes?}
@@ -4438,27 +4253,12 @@
 {40971}{}{Too bad YOU can't reload the game and try again...}
 {40972}{}{That woulda connected if you had some skill.}
 {40973}{}{Some advice: Next time, hit the target you're aiming at.}
-
-
-
-
-
-
-
-
-
-
-
-
 {40974}{}{Close one...}
 {40975}{}{Close one, but no cigar.}
 {40976}{}{You ain't gonna get a second chance.}
-
 {40977}{}{Lento ass sonuvabitch...}
 {40978}{}{Looks like Cassidy's gonna have to show you how we do things in the big city.}
 {40979}{}{Looks like you need to lay off the sauce before gettin' inta combat.}
-
-
 #
 ############################################
 # 41200 Lenny
@@ -4468,40 +4268,28 @@
 #
 {41200}{}{My brains hurt.}
 {41201}{}{Dare goath by doath!}
-
 {41202}{}{You hurt my ass-neck.}
 {41203}{}{I see stars.}
 {41204}{}{Oh dear, I think I lost more hair.}
 {41205}{}{That crunch couldn't have been good.}
 {41206}{}{Just a little more off the top.}
 {41207}{}{You crunched my face!}
-
-
-
-
 {41208}{}{Have a piece of my mind.}
 {41209}{}{Uh oh. I can't remember anything.}
 #
 # target hit in left arm
 #
 {41210}{}{My breaststroke's never going to be the same.}
-
 {41211}{}{Hah, hah. Wrong arm, ya' putz!}
 {41212}{}{Ack! Isso dói.}
 {41213}{}{Medic! Oh, that's me. Heh, heh.}
 {41214}{}{That hand was going bad anyhow.}
-
-
 {41215}{}{Youch!}
 {41216}{}{You disarmed me!}
 {41217}{}{I only need one finger for you.}
 {41218}{}{There goes my thumb!}
 {41219}{}{That skin was starting to rot anyway.}
-
-
-
-
- #
+#
 # target hit in right arm
 #
 {41220}{}{That's really going to affect my swing.}
@@ -4509,47 +4297,29 @@
 {41222}{}{You disarmed me!}
 {41223}{}{There goes my game of eight-ball.}
 {41224}{}{That's gonna kill me on the court.}
-
-
-
-
 {41225}{}{No more fastball for me.}
 {41226}{}{You broke my brittle bones!}
 {41227}{}{That crunching sound isn't good.}
 {41228}{}{I really like my elbow the way it was.}
 {41229}{}{Maldição, there go some fingers.}
-
-
-
-
 #
 # target hit in torso
 #
 {41230}{}{Medic! I need a...Oh, that's me. Oops.}
-
 {41231}{}{I've got ribs.}
 {41232}{}{Arrrg! Meu estômago!}
 {41233}{}{There goes my gall bladder!}
 {41234}{}{Heh heh...went right through me...didn't feel a thing.}
-
-
 {41235}{}{Physician heal thyself.}
 {41236}{}{Uh oh, that's a bad one.}
 {41237}{}{Hey, we've got a bleeder, and it's me!}
 {41238}{}{Anyone wanna see some anatomy?}
 {41239}{}{Nothing trims you down like a disembowelment.}
 {41240}{}{To understand life, you must fuck death...in the gallbladder.}
-
-
-
-
 {41241}{}{Arrrrrrgh! My spine.}
 {41242}{}{That's one way to lose ugly pounds and inches.}
 {41243}{}{My legs, I can't feel my legs!}
 {41244}{}{It's getting so cold all of a sudden.}
-
-
-
 {41245}{}{Not another Maldição scar.}
 {41246}{}{Like I really needed *that* flensing.}
 {41247}{}{Now, I'll have to patch my skin again.}
@@ -4560,85 +4330,50 @@
 {41252}{}{Maldição, anyone got some duct-tape?}
 {41253}{}{(Soluço, Soluço, wheeeeeeeeze)}
 {41254}{}{Entry wound, exit wound, collect the hole set!}
-
-
-
-
-
-
-
-
-
 {41255}{}{Maldição, I've been filleted.}
 {41256}{}{That was my bad side anyway.}
 {41257}{}{You cut my nipple off!}
 {41258}{}{No thanks, I've already shaved there.}
 {41259}{}{Even better than liposuction!}
-
-
-
-
 #
 # target hit in right leg
 #
 {41260}{}{That leg was going bad anyhow.}
-
 {41261}{}{Agora você pode me chamar compacto.}
 {41262}{}{Just need a parrot and an eye-patch now.}
 {41263}{}{Gee, it feels as though it's still attached.}
-
-
 {41264}{}{Just call me gimpy.}
 {41265}{}{I don't need those toes anyhow.}
 {41266}{}{No more line dancing for this old ghoul.}
 {41267}{}{Shattered just like dry-rotted wood.}
 {41268}{}{I wonder if I can reattach that somehow.}
 {41269}{}{Not my blue suede shoes!}
-
-
-
-
-
 #
 # target hit in left leg
 #
 {41270}{}{No more Mr. Hustle.}
 {41271}{}{That shin was starting to dry-rot anyway.}
 {41272}{}{Thanks for taking care of that for me, it was gangrenous.}
-
-
 {41273}{}{Hey, that makes me the gimp.}
 {41274}{}{There goes my electric hustle.}
 {41275}{}{Anyone got a board and some nails to hammer this back together?}
 {41276}{}{Who needs kneecaps anyway?}
 {41277}{}{There go my toes!}
-
-
-
-
 {41278}{}{Ouch, shin-splint!}
 {41279}{}{I can't feel my toes!}
-
 #
 # target hit in eyes
 #
 {41280}{}{Guess I'll need an eyepatch-just call me Nick Dangerous.}
-
 {41281}{}{Arrrr, matey, brings a tear to me one good eye.}
 {41282}{}{Eye, yai, my, eye!}
 {41283}{}{Quem apagou a luz?}
 {41284}{}{I've got my eye on you, uh, can I have it back now?}
 {41285}{}{I can still find you with my super-hearing.}
 {41286}{}{Hah, that was my glass-eye!}
-
-
-
-
 {41287}{}{Eye'll get you for that.}
 {41288}{}{Mother? It's getting dark.}
 {41289}{}{Eye've had it with you!}
-
-
 #
 # target hit in groin
 #
@@ -4646,20 +4381,12 @@
 {41291}{}{No more writing my name in the snow.}
 {41292}{}{Chopped nuts anyone?}
 {41293}{}{I'd never sing Bass anyway.}
-
-
-
-
 {41294}{}{Oy-vey!}
 {41295}{}{Mazel tov!}
 {41296}{}{I kind of liked being a gentile.}
 {41297}{}{Like *that's* going to cramp my style.}
 {41298}{}{From a bull to a steer in one blow.}
 {41299}{}{I feel like I should be guarding a harem now.}
-
-
-
-
 #
 #  running away
 #
@@ -4668,52 +4395,31 @@
 {41302}{}{No one told me it would be dangerous!}
 {41303}{}{What do you mean they're armed!?}
 {41304}{}{Run awaaaaaay!}
-
-
-
-
-
 {41305}{}{Run for it!}
 {41306}{}{Incoming!!!!!!}
 {41307}{}{My super-powers are useless against this foe!}
 {41308}{}{Uh, I've got to talk to a man about a horse.}
 {41309}{}{I'll be right back. Don't wait up.}
-
-
-
 {41310}{}{No, no, no. You go ahead. I'll Vou te capturar up-later.}
 {41311}{}{I'm late for my root-canal. See you later.}
 {41312}{}{And then we get inside the giant rabbit and....}
 {41313}{}{Jesus Christ! Run for it!!!!!}
 {41314}{}{For the love of God, get me out of here!}
 {41315}{}{Just let me live through this one.}
-
-
-
-
-
 {41316}{}{Oh, please, please, please, please.}
 {41317}{}{Feets don't fail me nAi!}
 {41318}{}{I'm gonna make like a shepherd and get the flock out of here!}
 {41319}{}{I'm makin' like a banana and splittin'!}
-
-
-
 #
 # moving in to attack
 #
 {41320}{}{I've got a bad feeling about this.}
 {41321}{}{My spidey-sense is definitely tingling.}
-
-
 {41322}{}{It's only a rabbit.}
 {41323}{}{It's got teeth how many inches long?}
 {41324}{}{Yeah, they've gotta be scared now.}
-
-
 {41325}{}{Watch out, here I come.}
 {41326}{}{Ready or not, here I come!}
-
 {41327}{}{Lenny to the rescue!}
 {41328}{}{Be vewy quiet. Wew hunting Wabbits.}
 {41329}{}{I'm not sure that this is such a great idea.}
@@ -4727,42 +4433,21 @@
 {41337}{}{Não podemos todos nós ficar juntos?}
 {41338}{}{Someone's going to get hurt, probably me.}
 {41339}{}{Tell, me when I have to open my eyes.}
-
-
-
-
-
-
-
-
-
-
-
-
 #
 # attacking
 #
 {41340}{}{Hai-Keeba!}
 {41341}{}{He shoots, he scores!}
-
 {41342}{}{...and the crowd goes wild!}
 {41343}{}{Tremble in fear, mighty Lenny now is here!}
 {41344}{}{Yah, that's right, who's the badass nAi!}
 {41345}{}{I'll give you *such* a pinch!}
 {41346}{}{I'll moiderize ya'!}
 {41347}{}{I'm gonna git you sucka!}
-
-
-
-
-
 {41348}{}{Nobody messes with *crazy* Lenny.}
 {41349}{}{You just better stop it or, or I'll, uh....}
 {41350}{}{I did it, I actually did it!}
 {41351}{}{You hate me, you really hate me!}
-
-
-
 {41352}{}{Haii-yah!}
 {41353}{}{Now you are the learner.}
 {41354}{}{Oh, dear, oh me, oh my.}
@@ -4783,25 +4468,17 @@
 {41366}{}{Yes!}
 {41367}{}{You suck!}
 {41368}{}{Betcha didn't expect that move didja?}
-
 {41369}{}{Swing, batta, batta. Swing!}
 {41370}{}{This old ghoul's more spry than you bargained for huh?}
-
 {41371}{}{You sure *talk* tough.}
 {41372}{}{O que foi isso?}
-
 {41373}{}{Dis is not a chawade.}
 {41374}{}{Dis wequires toto concentwation.}
 {41375}{}{You can do better than *that*.}
-
-
 {41376}{}{Oh, come now.}
 {41377}{}{Was Isso é o melhor que você pode fazer? Was it really?}
 {41378}{}{I just don't think you're trying.}
 {41379}{}{Your heart's not in this is it?}
-
-
-
 #
 ############################################
 # 41600 Marcus
@@ -4815,14 +4492,10 @@
 {41603}{}{I've taken worse.}
 {41604}{}{You call that a hit?}
 {41605}{}{Human, you've got a lot of nerve.}
-
-
 {41606}{}{Enough playing nice.}
 {41607}{}{Okay, that does it. You're dead.}
-
 {41608}{}{Ay-yi-yi!}
 {41609}{}{I think you took off an ear!}
-
 #
 # target hit in left arm
 #
@@ -4830,16 +4503,13 @@
 {41611}{}{My humerus!}
 {41612}{}{That stings!}
 {41613}{}{I think you smacked my funnybone.}
-
 {41614}{}{Okay, this isn't funny.}
 {41615}{}{My bicep!}
 {41616}{}{My tricep!}
 {41617}{}{Ow, my wrist.}
 {41618}{}{If I can't type anymore, you're dead.}
 {41619}{}{That's my writing hand!}
-
-
- #
+#
 # target hit in right arm
 #
 {41620}{}{Ow, my shooting hand.}
@@ -4848,10 +4518,6 @@
 {41623}{}{I've taken worse in practice.}
 {41624}{}{Was that supposed to hurt?}
 {41625}{}{Did a bee just sting me?}
-
-
-
-
 {41626}{}{I think you grazed me.}
 {41627}{}{Ouch! Dammit!}
 {41628}{}{My bicep!}
