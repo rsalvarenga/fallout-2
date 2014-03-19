@@ -93,9 +93,9 @@
 {273}{}{Isso é legal, mas eu preciso de uma coisa de você.}
 {274}{}{Posso ver que você está ocupada. Eu volto depois. Tchau.}
 
-{280}{}{Ele saiu ontem à noite. Eu fiquei brava com ele depois de ter perdido uma das nossas últimas brahmins. Nós não podemos
- perder mais nenhuma, mas tudo o que ele diz é que os homens-inseto as pegam. Aquele tolo.}
-{281}{}{Torr foi?}
+{280}{}{Ele se foi a noite passada. Eu fiquei com raiva dele depois que perdeu os últimos Brahmins. Nós simplesmente 
+ não podemos nos dar ao luxo de perder mais, tudo que ele falava era sobre os homens-insetos leva-los. Aquele garoto idiota.}
+{281}{}{Torr se foi?}
 {282}{}{Acho que os Duntons tem algo a ver com o sumiço das brahmins. Você não deveria ser tão
  dura com o Torr. Pra onde você acha que ele pode ter ido?}
 {283}{}{Pra onde você acha que ele pode ter ido?}
@@ -118,12 +118,12 @@
 {320}{}{Torr afirmava que tinham homens-insetos que estava roubando nossas brahmins. Disse
  algo sobre provar pra nós. Queria tanto que alguém trouxesse meu garoto de volta...}
 {321}{}{Torr canyon. }#acho que pode ficar assim mesmo
-{322}{}{No go Torr.}#?
+{322}{}{Não procurarei por Torr.}#?
 {323}{}{Parece que aquele canyon parece um bom lugar pra começar a procurar. Vou achar o seu garoto
  Sra. Buckner.}
 {324}{}{Eu adoraria ajudar -- se não estivesse tão ocupado. Tenho certeza de que Torr consegue se virar sozinho.
  Tchau.}
-{325}{}{ go Torr.}#? procurar torr?
+{325}{}{ irei procurar Torr.}#? procurar torr?
 
 {330}{}{Bem, ele disse que era uma expedição. Me disse que achava que sabia de onde vêm todos os Golden Geckos
  e que queria achar o local. Pensou que talvez fosse um tipo de fonte mágica ou talvez
