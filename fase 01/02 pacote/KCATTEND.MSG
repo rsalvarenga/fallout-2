@@ -1,4 +1,7 @@
-# Pacote sendo traduzido por Ricardo #
+#############################################################
+#  Prostituta (Klamath)   		                            #
+#  Traduzido por Ricardo Alvarenga                          #
+#############################################################
 
 #{100}{}{You see an attractive young woman.}
 #{101}{}{You see a bath attendant.}
@@ -8,16 +11,16 @@
 #{105}{}{You?re being mentally undressed by this woman.}
 #{106}{}{You see a young woman.}
 
-{100}{}{Você ve uma jovem muito atraente.}
-{101}{}{Você ve uma atendente da casa de banho.}
-{102}{}{Você ve uma das garotas da Big Nose Sallys.}
-{103}{}{Você ve uma mulher com o olhar entediado.}
-{104}{}{Você ve uma mulher que não tira os olhos de você.}
+{100}{}{Você vê uma jovem muito atraente.}
+{101}{}{Você vê uma atendente da casa de banho.}
+{102}{}{Você vê uma das garotas do narigudo do Sallys.}
+{103}{}{Você vê uma mulher com o olhar entediado.}
+{104}{}{Você vê uma mulher que não tira os olhos de você.}
 {105}{}{Êsta mulher esta te comendo com os olhos.}
-{106}{}{Você ve uma mulher jovem.}
+{106}{}{Você vê uma mulher jovem.}
 
 #{110}{}{That was quick.}
-#{111}{}{Been a long time, honey?}#
+#{111}{}{Been a long time, honey?}
 #{112}{}{Maybe it will last longer next time.}
 #{113}{}{It?s not a race, you know.}
 #{114}{}{Do your friends call you ?Speedy??}
@@ -47,10 +50,10 @@
 {121}{}{Se saiu muito bem. Você é um genio. Proxímo!}
 {122}{}{Oh yeah, baby, never had it like that before. (yawn)}
 {123}{}{You?re the best. Come back soon.}
-{124}{}{I?m sure you?ll make some tribal gal very happy.}
-{125}{}{No, honey, size doesn?t matter at all. That was nice.}
-{126}{}{Aren?t you just a hunk o? hunk o? burnin? love.}
-{127}{}{What a cute little feller you got there.}
+{124}{}{Tenho certeza que vai fazer uma tribal muito feliz.}
+{125}{}{Não, amorzinho. O tamanho não importa. Se saiu bem.}
+{126}{}{És um pedaço de homem (queimando de amor).}
+{127}{}{O que um sujeito tão bonitinho como esse faz aqui.}
 
 #{130}{}{Size does matter! Sweet mystery of life?.}
 #{131}{}{I?m putting in for overtime next time you come around.}
@@ -59,7 +62,7 @@
 #{134}{}{Wow! Did the earth move for you, too?}
 #{135}{}{Now I know what Catherine the Great felt like.}
 
-{130}{}{O tamanho importa! oh grande mistério da vida...}
+{130}{}{O tamanho importa! Oh grande mistério da vida...}
 {131}{}{Da próxima vez que vier, te deixarei ficar um pouco mais.}
 {132}{}{Está claro que valeu a pena.}
 {133}{}{Acho que vou pegar o resto do dia de folga}
