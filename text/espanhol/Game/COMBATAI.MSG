@@ -4062,7 +4062,7 @@
 # target hit in right leg
 #
 {40860}{}{¡Maldición! No me habían disparado en esa pierna desde el 99.}
-{40861}{}{*Nfff*... buen... intento... mi pierna las ha recibido peores.}
+{40861}{}{Vou ter que proteger  melhor a minha perna direita ...}
 {40862}{}{Eso ha abierto la vieja herida de mi pierna...}
 {40863}{}{Voy a tener que proteger mi pierna derecha...}
 {40864}{}{*Nffff*... la pierna derecha es... inútil...}
@@ -4073,7 +4073,7 @@
 # target hit in left leg
 #
 {40870}{}{¡Maldición! No me habían disparado en esa pierna desde el 95.}
-{40871}{}{*Nfff*... buen... intento... mi pierna las ha recibido peores.}
+{40871}{}{Vou ter que proteger  melhor a minha perna direita ...}
 {40872}{}{Eso ha abierto la vieja herida de mi pierna...}
 {40873}{}{Voy a tener que proteger mi pierna izquierda...}
 {40874}{}{*Nffff*... la pierna izquierda es... inútil...}
@@ -4112,7 +4112,7 @@
 {40903}{}{La próxima vez me traeré un jodido lanzacohetes... y más estimulantes.}
 {40904}{}{Si tuviera veinte años menos, podría haber ganado esta pelea...}
 {40905}{}{Los bastardos me han dado una auténtica paliza...}
-{40906}{}{Pensaba que esa maldita mala racha mía se había desvanecido...}
+{40906}{}{Pensei que essa maldita mala amarela havia sumido...}
 {40907}{}{El auténtico coraje es saber cuando largarse perdiendo el culo.}
 {40908}{}{Tengo que diferenciar cuándo quedarme, cuándo abandonar, y cuando salir huyendo.}
 {40909}{}{Tengo que ponerme a cubierto...}
@@ -4144,7 +4144,7 @@
 {40946}{}{Tonto hijoputa...}
 {40947}{}{No tienes lo que se necesita para acabar conmigo...}
 {40948}{}{Te voy a arrancar hasta el alma...}
-{40949}{}{No suelo toparme con quien responde en una pelea. ¿Eres de esos?}
+{40949}{}{Nada melhor que quebrar alguns ossos para fazer se sentir vivo.}
 {40950}{}{Nada como romper huesos para hacer sentirse vivo a un hombre...}
 {40951}{}{No te preocupes, yo consolaré a tu viuda cuando tú no estés...}
 {40952}{}{Parece que vas a beneficiarte de uno o dos golpes...}
@@ -4158,7 +4158,7 @@
 #
 # target being missed
 #
-{40960}{}{Perro ladrador poco mordedor...}
+{40960}{}{Cão que late não morde...}
 {40961}{}{Hoy no, amigo.}
 {40962}{}{Eres más lento que una tortuga muerta.}
 {40963}{}{¿Arena en los ojos?}
@@ -4186,7 +4186,7 @@
 # target hit in head
 #
 {41200}{}{Me duelen los sesos.}
-{41201}{}{¡Ahora sí que voy a palmarla!}
+{41201}{}{Agora sim vou te dar umas palmadas!}
 {41202}{}{Ahí tenía piel de escroto.}
 {41203}{}{Veo las estrellas.}
 {41204}{}{Vaya, creo que he perdido un poco más de pelo.}
