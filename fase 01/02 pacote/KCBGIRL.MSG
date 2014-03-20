@@ -1,117 +1,117 @@
 #############################################################
-#  Prostituta (Klamath)   	   	                            #
+#  Prostituta (Klamath)   	   	                           #
 #  Traduzido por Ricardo Alvarenga                          #
 #############################################################
 
 #{100}{}{You see an attractive young woman.}
 #{101}{}{You see a bath attendant.}
-#{102}{}{You see one of Big Nose Sally’s girls.}
+#{102}{}{You see one of Big Nose SallyÂ’s girls.}
 #{103}{}{You see a bored looking woman.}
 #{104}{}{You see a woman checking you out.}
-#{105}{}{You’re being mentally undressed by this woman.}
+#{105}{}{YouÂ’re being mentally undressed by this woman.}
 #{106}{}{You see a young woman.}
 
-{100}{}{Você vê uma jovem muito atraente.}
-{101}{}{Você vê uma atendente da casa de banho.}
-{102}{}{Você vê uma das garotas da Big Nose Sallys.}
-{103}{}{Você vê uma mulher com o olhar entediado.}
-{104}{}{Você vê uma mulher que não tira os olhos de você.}
-{105}{}{Êsta mulher esta te comendo com os olhos.}
-{106}{}{Você vê uma mulher jovem.}
+{100}{}{VocÃª vÃª uma jovem muito atraente.}
+{101}{}{VocÃª vÃª uma atendente da casa de banho.}
+{102}{}{VocÃª vÃª uma das garotas da Big Nose Sallys.}
+{103}{}{VocÃª vÃª uma mulher com o olhar entediado.}
+{104}{}{VocÃª vÃª uma mulher que nÃ£o tira os olhos de vocÃª.}
+{105}{}{ÃŠsta mulher esta te comendo com os olhos.}
+{106}{}{VocÃª vÃª uma mulher jovem.}
 
 #{110}{}{You see an attractive young woman. Her face is covered with a light dusting of some kind of
 # white powder.}
 #{111}{}{You see a middle-aged woman with an ample bosom.}
 #{112}{}{You see an attractive woman wearing partially fastened clothing.}
-#{113}{}{You see a woman looking you over appraisingly…with a grimace on her face.}
+#{113}{}{You see a woman looking you over appraisinglyÂ…with a grimace on her face.}
 
-{110}{}{Você vê uma jovem atraente. Seu rosto esta coberto com algum tipo de pó branco.}
-{111}{}{Você vê uma mulher de meia idade com um farto seio.}
-{112}{}{Você vê uma mulher atraente vestindo uma roupa bem decotada.}
-{113}{}{Você vê uma mulher que esta avaliando você com um olhar bem observador.}
+{110}{}{VocÃª vÃª uma jovem atraente. Seu rosto esta coberto com algum tipo de pÃ³ branco.}
+{111}{}{VocÃª vÃª uma mulher de meia idade com um farto seio.}
+{112}{}{VocÃª vÃª uma mulher atraente vestindo uma roupa bem decotada.}
+{113}{}{VocÃª vÃª uma mulher que esta avaliando vocÃª com um olhar bem observador.}
 
 #{120}{}{That was quick.}
 #{121}{}{Been a long time, honey?}
 #{122}{}{Maybe it will last longer next time.}
-#{123}{}{It’s not a race, you know.}
-#{124}{}{Do your friends call you ‘Speedy’?}
+#{123}{}{ItÂ’s not a race, you know.}
+#{124}{}{Do your friends call you Â‘SpeedyÂ’?}
 #{125}{}{If all my customers were that quick, I could go home early.}
-#{126}{}{It’s more fun if you wait ‘til I help you.}
-#{127}{}{If you waited until I undressed, I bet you’d like it more.}
+#{126}{}{ItÂ’s more fun if you wait Â‘til I help you.}
+#{127}{}{If you waited until I undressed, I bet youÂ’d like it more.}
 
-{120}{}{O que! Isso foi rápido.}
-{121}{}{Faz muito tempo que você não é acariciado?}
+{120}{}{O que! Isso foi rÃ¡pido.}
+{121}{}{Faz muito tempo que vocÃª nÃ£o Ã© acariciado?}
 {122}{}{Tomara que da proxima vez dure um pouco mais.}
-{123}{}{Sabe, isso não é uma corrida.}
-{124}{}{Seus amigos te chamam de 'flash'? Porque nunca vi nada tão rapido.}
-{125}{}{Se todos os meus clientes fossem assim tão rapidos, eu poderia chegar em casa mais cedo.}
-{126}{}{Seria mais divertido se esperar pelo menos que eu toque em você.}
-{127}{}{Se você divesse esperado até que eu tirasse a minha roupa, com certeza iria gostar mais.}
+{123}{}{Sabe, isso nÃ£o Ã© uma corrida.}
+{124}{}{Seus amigos te chamam de 'flash'? Porque nunca vi nada tÃ£o rapido.}
+{125}{}{Se todos os meus clientes fossem assim tÃ£o rapidos, eu poderia chegar em casa mais cedo.}
+{126}{}{Seria mais divertido se esperar pelo menos que eu toque em vocÃª.}
+{127}{}{Se vocÃª divesse esperado atÃ© que eu tirasse a minha roupa, com certeza iria gostar mais.}
 
-#{130}{}{That was real nice. You’re a real man, all right.}
-#{131}{}{That was special. You’re wonderful. Next!}
+#{130}{}{That was real nice. YouÂ’re a real man, all right.}
+#{131}{}{That was special. YouÂ’re wonderful. Next!}
 #{132}{}{Oh yeah, baby, never had it like that before. (yawn)}
-#{133}{}{You’re the best. Come back soon.}
-#{134}{}{I’m sure you’ll make some tribal gal very happy.}
-#{135}{}{No, honey, size doesn’t matter at all. That was nice.}
-#{136}{}{Aren’t you just a hunk o’ hunk o’ burnin’ love.}
+#{133}{}{YouÂ’re the best. Come back soon.}
+#{134}{}{IÂ’m sure youÂ’ll make some tribal gal very happy.}
+#{135}{}{No, honey, size doesnÂ’t matter at all. That was nice.}
+#{136}{}{ArenÂ’t you just a hunk oÂ’ hunk oÂ’ burninÂ’ love.}
 #{137}{}{What a cute little feller you got there.}
 
-{130}{}{É isso aí, se saiu muito bem! Você é um homem de verdade.}
-{131}{}{Se saiu muito bem. Você é um genio. Proxímo!}
+{130}{}{Ã‰ isso aÃ­, se saiu muito bem! VocÃª Ã© um homem de verdade.}
+{131}{}{Se saiu muito bem. VocÃª Ã© um genio. ProxÃ­mo!}
 {132}{}{Oh yeah, baby, nunca estive assim antes. (bocejo)}
-{133}{}{Você é o melhor. Volte sempre.}
+{133}{}{VocÃª Ã© o melhor. Volte sempre.}
 {134}{}{Tenho certeza que vai fazer uma tribal muito feliz.}
-{135}{}{Não, amorzinho. O tamanho não importa. Se saiu bem.}
-{136}{}{És um pedaço de homem (queimando de amor).}
-{137}{}{O que um sujeito tão bonitinho como esse faz aqui.}
+{135}{}{NÃ£o, amorzinho. O tamanho nÃ£o importa. Se saiu bem.}
+{136}{}{Ã‰s um pedaÃ§o de homem (queimando de amor).}
+{137}{}{O que um sujeito tÃ£o bonitinho como esse faz aqui.}
 
-#{140}{}{Size does matter! Sweet mystery of life…. }
-#{141}{}{I’m putting in for overtime next time you come around.}
-#{142}{}{You sure get your money’s worth.}
-#{143}{}{I’m taking the rest of the day off.}
+#{140}{}{Size does matter! Sweet mystery of lifeÂ…. }
+#{141}{}{IÂ’m putting in for overtime next time you come around.}
+#{142}{}{You sure get your moneyÂ’s worth.}
+#{143}{}{IÂ’m taking the rest of the day off.}
 #{144}{}{Wow! Did the earth move for you, too?}
 #{145}{}{Now I know what Catherine the Great felt like.}
 
-{140}{}{O tamanho importa! Oh grande mistério da vida...}
-{141}{}{Da próxima vez que vier, te deixarei ficar um pouco mais.}
-{142}{}{Está claro que valeu a pena.}
+{140}{}{O tamanho importa! Oh grande mistÃ©rio da vida...}
+{141}{}{Da prÃ³xima vez que vier, te deixarei ficar um pouco mais.}
+{142}{}{EstÃ¡ claro que valeu a pena.}
 {143}{}{Acho que vou pegar o resto do dia de folga}
-{144}{}{Wow! Será que a terra se move pra você também?}
+{144}{}{Wow! SerÃ¡ que a terra se move pra vocÃª tambÃ©m?}
 {145}{}{Agora sei como a Catherine a grande se sentia.}
 
-#{150}{}{Well, a buck’s a buck, I guess.}
+#{150}{}{Well, a buckÂ’s a buck, I guess.}
 #{151}{}{That was, uh, different, I guess.}
 #{152}{}{That was real special. Next!}
-#{153}{}{No, you can’t use my perfume.}
+#{153}{}{No, you canÂ’t use my perfume.}
 #{154}{}{Well, at least your mustache is smaller than most of my customers'.}
-#{155}{}{You’re sure you’re a gal?}
+#{155}{}{YouÂ’re sure youÂ’re a gal?}
 
-{150}{}{Bem, é dinheiro, suponho.}
+{150}{}{Bem, Ã© dinheiro, suponho.}
 {151}{}{Uau! Essa foi uhh...diferente.}
-{152}{}{Se saiu muito bem. Próximo!}
-{153}{}{Não, você não pode usar meu perfume.}
-{154}{}{Bem, pelo menos o seu bigode é menor que a da maioria dos meus clientes.}
-{155}{}{Tem certeza que é uma mulher?}
+{152}{}{Se saiu muito bem. PrÃ³ximo!}
+{153}{}{NÃ£o, vocÃª nÃ£o pode usar meu perfume.}
+{154}{}{Bem, pelo menos o seu bigode Ã© menor que a da maioria dos meus clientes.}
+{155}{}{Tem certeza que Ã© uma mulher?}
 
 #{160}{}{That was kinda nice.}
 #{161}{}{That was different, but not a bad different.}
-#{162}{}{I think I’d like to try that again sometime.}
+#{162}{}{I think IÂ’d like to try that again sometime.}
 #{163}{}{We should do that off-the-clock sometime.}
 #{164}{}{That was sweet, sugar.}
-#{165}{}{Wow! My life’s going to be a lot different from here on in.}
-#{166}{}{I didn’t know it could be like that.}
+#{165}{}{Wow! My lifeÂ’s going to be a lot different from here on in.}
+#{166}{}{I didnÂ’t know it could be like that.}
 
 {150}{}{Essa foi bem legal!}
-{151}{}{Foi bem diferente, e não foi tão mal.}
+{151}{}{Foi bem diferente, e nÃ£o foi tÃ£o mal.}
 {152}{}{Acho que devemos repetir quando voltar.}
 {153}{}{Acho que deviamos fazer isso algum dia, depois que sair do trabalho.}
 {154}{}{Foi muito educado um doce.}
-{155}{}{Wow! Minha vida será bem diferente a partir de agora.}
-{156}{}{Eu não imaginava que seria assim.}
+{155}{}{Wow! Minha vida serÃ¡ bem diferente a partir de agora.}
+{156}{}{Eu nÃ£o imaginava que seria assim.}
 
 #{170}{}{You should go talk to Big Nose Sally.}
-#{171}{}{Aren’t you a cutey?}
+#{171}{}{ArenÂ’t you a cutey?}
 #{172}{}{Love you long-time!}
 #{173}{}{Come up and see me sometime.}
 #{174}{}{You know how to whistle doncha?}
@@ -123,25 +123,25 @@
 #{180}{}{Scrub a-dub-dub...}
 #{181}{}{Looks like you could use a wash.}
 #{182}{}{Oh, a tribal; I just love exotics.}
-#{183}{}{I don’t usually do tribals.}
+#{183}{}{I donÂ’t usually do tribals.}
 #{184}{}{Like what you see, baby?}
 #{185}{}{You want me?}
 #{186}{}{Gotta pay to play, sugar.}
 
-{170}{}{Você deveria ir falar com o narigudo do Sally.}
-{171}{}{Você é um encanto.}
+{170}{}{VocÃª deveria ir falar com a nariguda Sally.}
+{171}{}{VocÃª Ã© um encanto.}
 {172}{}{Te amo a muito tempo!}
 {173}{}{Venha me ver outro dia.}
-{174}{}{Vejo que você sabe assobiar, certo?}
+{174}{}{Vejo que vocÃª sabe assobiar, certo?}
 {175}{}{Eu costumava ser pura como a neve, mas me deixei levar.}
 {176}{}{(Assovios)}
 {177}{}{Hola! Tigre.}
 {178}{}{Hey, baaaaaby...}
-{179}{}{Se quer um pouco de ação, va falar com Sally.}
+{179}{}{Se quer um pouco de aÃ§Ã£o, va falar com Sally.}
 {180}{}{Esfrega ai embaixo...}
 {181}{}{Acho que devo te dar um banho.}
-{182}{}{Oh, a um tribal; acho isso tão exótico.}
-{183}{}{Não estou acostumada com tribals.}
-{184}{}{Gosta do que vê?}
-{185}{}{Você me quer?}
-{186}{}{Tem que pagar se quer jogar, doçura.}
+{182}{}{Oh, a um tribal; acho isso tÃ£o exÃ³tico.}
+{183}{}{NÃ£o estou acostumada com tribals.}
+{184}{}{Gosta do que vÃª?}
+{185}{}{VocÃª me quer?}
+{186}{}{Tem que pagar se quer jogar, doÃ§ura.}
