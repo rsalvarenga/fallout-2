@@ -13,7 +13,7 @@
 
 {100}{}{Você vê uma jovem muito atraente.}
 {101}{}{Você vê uma atendente da casa de banho.}
-{102}{}{Você vê uma das garotas a nariguda do Sally.}
+{102}{}{Você vê uma das garotas de Sally Nariz Grande.}
 {103}{}{Você vê uma mulher com o olhar entediado.}
 {104}{}{Você vê uma mulher que não tira os olhos de você.}
 {105}{}{Êsta mulher esta te comendo com os olhos.}
@@ -117,7 +117,7 @@
 #{175}{}{You want me?}
 #{176}{}{Gotta pay to play, sugar.}
 
-{160}{}{Você deveria ir falar com a nariguda da Sally.}
+{160}{}{Você deveria ir falar com a Sally Nariz Grande.}
 {161}{}{Você é um encanto.}
 {162}{}{Te amo a muito tempo!}
 {163}{}{Venha me ver outro dia.}
