@@ -4602,7 +4602,7 @@
 {41761}{}{Avísame cuando quieras asustarme.}
 {41762}{}{El siguiente.}
 {41763}{}{Pide otro turno.}
-{41764}{}{¡Bzzt! ¡A eso se le llama fallar!}
+{41764}{}{¡Bzzt! ¡Oh! Você estava apontando pra MIM!}
 {41765}{}{¿Alguna vez os rendís?}
 {41766}{}{Bostezo.}
 {41767}{}{Novatos.}
