@@ -4362,7 +4362,7 @@
 {41344}{}{¡Sí, eso es, ahora yo soy el tipo duro!}
 {41345}{}{¡Te voy a meter en un buen aprieto!}
 {41346}{}{¡Te voy a masacrar!}
-{41347}{}{¡Te voy a volver imbécil, capullo!}
+{41347}{}{Você chama isso de ataque?}
 {41348}{}{Nadie se mete con "loco" Lenny.}
 {41349}{}{Será mejor que pares, o yo, eh....}
 {41350}{}{¡Lo hice, realmente lo hice!}
