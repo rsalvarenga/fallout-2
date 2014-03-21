@@ -16,8 +16,8 @@
 #{114}{}{Me }
 #{115}{}{Goway}
 
-{110}{}{Olá, meu nome é Whiskey Bob. Qual é o seu, mano?}
-{111}{}{Olha que preciosidade, meu nome é Bob, Whiskey Bob. Qual é o seu?}
+{110}{}{Olá, meu nome é Whiskey Bob. Qual é o seu, cara?}
+{111}{}{Olha que raridade, meu nome é Bob, Whiskey Bob. Qual é o seu?}
 {112}{}{Whicky Gob? Zug, zug?}
 {113}{}{Nariz brilhante (heh, heh)}
 {114}{}{Eu }
@@ -28,7 +28,7 @@
 # take you back to Trapper Town and I'll show you my etchings (heh, heh). Bye, cutie.}
 
 {120}{}{Você não é muito inteligente, certo!? Bem, de qualquer forma, obrigado pela conversa. Até mais.}
-{121}{}{Amore, me parte o coração toda vez que vejo você abrir a boca. Talvez em um outro momento 
+{121}{}{Amore, me parte o coração toda vez que vejo você abrir a boca. Talvez em um outro momento
  te leve ao bairro dos caçadores para lhe ensinar alguns termos (heh, heh). Até mais, amore.}
 
 #{130}{}{Well, mister, maybe I'll be seeing you around here later. Bye.}
@@ -129,8 +129,9 @@
 #{222}{}{I don't want to help you with this. Sorry, Bob.}
 #{223}{}{$50 doesn't sound like nearly enough for a job like that.}
 
-{220}{}{Tudo que você tem que fazer é encontrar uma pequena cabana ao sul da cidade. Entre nela e despeje um pouco de lenha no alambique.
-  Depois volte aqui que eu lhe entregarei seu dinheiro. Mas deve fazer isso antes de terminar o dia de amanhã ou meu lote de whisky ira perder. }
+{220}{}{Tudo que você tem que fazer é encontrar uma pequena cabana ao sul da cidade. Entre nela e despeje um
+ pouco de lenha no alambique. Depois volte aqui que eu lhe entregarei seu dinheiro. Mas, deve fazer isso antes
+ de terminar o dia de amanhã ou meu lote de whisky ira perder.}
 {221}{}{Isso parece muito fácil. OK, eu vou fazer.}
 {222}{}{Não vou te ajudar a fazer isso, sinto muito Bob.}
 {223}{}{$50 não parece suficiente para um trabalho como esse.}
@@ -235,7 +236,8 @@ estiver feito.}
 #{321}{}{That sounds horrible.}
 
 {320}{}{Dizem que as criaturas se parecem com homens gigantes na forma de insetos, com casca e tudo, e
- estão multilando os brahmins durante a noite. Tudo que encontramos são os cadáveres dos brahmins rasgados e horrivelmente multilados.}
+ estão multilando os brahmins durante a noite. Tudo que encontramos são os cadáveres dos brahmins rasgados
+ e horrivelmente multilados.}
 {321}{}{Isso soa horrível.}
 
 #{330}{}{A few people have seen the bugmen, but the one who's got the best look was Torr, the Buckner's
@@ -271,67 +273,119 @@ estiver feito.}
 #{352}{}{Afraid of rats. Hmm, must be different rats than the ones we have at home. I've heard enough.
 # Good-bye.}
 
-{350}{}{Bem, bem de volta ao Trapper Town, há oeste do centro da cidade, possúi uma seção traseira que
- esta infestada por ratos. Quanto mais fundo for, mais grande eles ficam. Alguns dizem que há um espirito de
- um rato gigante que está guiando todos os outros. Alguns caçadores nem se quer ousam passar alí. 
- Dizem que é muito perigoso.}
-{351}{}{Caçadores assustados com ratos! Diga-me sobre outras coisas.}
+{350}{}{Bem, de trás de Trapper Town, há oeste do centro da cidade, possúi uma seção traseira que
+ esta infestada por ratos. Quanto mais fundo for, mais grandes eles ficam. Alguns dizem que há um espirito de
+ um rato gigante que está guiando todos os outros. Alguns caçadores nem se quer ousam passar alí. Dizem que 
+ é muito perigoso.}
+{351}{}{Caçadores assustados com ratos! Me diga outra coisa vai.}
 {352}{}{Medo de ratos. Hmm, devem ser ratos diferentes dos que temos em casa. Bem, ja é o suficiente. Tchau.} 
  
-{360}{}{Not 'A den,' - 'The Den.' You'll not find a greater hive of scum and villainy. Now where did I
- hear that? In any case, it's a rough sort of place a few days travel south of Klamath. Anything can
- be had there for a price...even slaves. But you have to be very careful there -? lots of short tempers
- attached to dangerous weapons. I don't think they have much to do with us, though; we're too poor here.}
-{361}{}{I think I'd be safe enough there; I know how to handle myself. Let me ask you about something
- else, though.}
-{362}{}{I've heard enough for now, Whiskey Bob. Goodbye.}
+#{360}{}{Not 'A den,' - 'The Den.' You'll not find a greater hive of scum and villainy. Now where did I
+# hear that? In any case, it's a rough sort of place a few days travel south of Klamath. Anything can
+# be had there for a price...even slaves. But you have to be very careful there -? lots of short tempers
+# attached to dangerous weapons. I don't think they have much to do with us, though; we're too poor here.}
+#{361}{}{I think I'd be safe enough there; I know how to handle myself. Let me ask you about something
+# else, though.}
+#{362}{}{I've heard enough for now, Whiskey Bob. Goodbye.}
 
-{370}{}{Lately, we've had a couple of people go missing. A trader, named Vic, who specialized in
- pre-war stuff, and one of our best trappers.}
-{371}{}{Tell me more about the trader some call?Vic?}
-{372}{}{I want to know more about the trapper.}
-{373}{}{Let me ask you about something else.}
-{374}{}{That's all I need to know. Goodbye, Whiskey Bob.}
+{360}{}{Não é um 'den' qualquer. É o 'The Den'. Não encontrará nunca um lugar como este. Tão cheio de maldade
+ e violência. Onde ouvi isso? Bem, em todo caso, não é um bom lugar e fica poucos dias de viagem ao sul de Klamath. Se pode
+ comprar qualquer coisa por um preço justo e adequado... até escravos. Mas deve ter muito cuidado lá... Tem muita gente
+ armada e com gênio ruim. Não acredito que eles gostam de nós, pois, somos muito pobres.}
+{361}{}{Acho que estarei seguro lá, sei como cuidar de mim. Deixe-me perguntar outra coisa.}
+{362}{}{Ja é o suficiente, Whiskey Bob. Tchau.}
 
-{380}{}{Well, Vic was quite a fella. He didn't like to work too much, so he would specialize in
- expensive pre-war things and then go sell them to the Den -- or even hawk them to stupid tribals as
- religious artifacts (chuckles to himself). Oops, no offense. Anyhow, I haven't seen him for a while.
- Last I heard, he went south to sell some stuff. Maybe to the Den.}
-{381}{}{What about the missing trapper?}
-{382}{}{Let me ask you about something else, Bob.}
-{383}{}{Thanks, I've got to think on what you've told me. Goodbye, Whiskey Bob.}
+#{370}{}{Lately, we've had a couple of people go missing. A trader, named Vic, who specialized in
+# pre-war stuff, and one of our best trappers.}
+#{371}{}{Tell me more about the trader some call?Vic?}
+#{372}{}{I want to know more about the trapper.}
+#{373}{}{Let me ask you about something else.}
+#{374}{}{That's all I need to know. Goodbye, Whiskey Bob.}
 
-{390}{}{The real person to tell you about the missing trapper would be Mrs. Buckner. She and Smiley
- were pretty close. He went north to look for the cave of the golden geckos and hasn't been seen since.
- That was a while back, too.}
-{391}{}{What about the missing trader?}
-{392}{}{Hmm, interesting. Tell me about something else, though.}
-{393}{}{That's enough for me for now. Goodbye, Whiskey Bob.}
+{370}{}{Atualmente temos duas pessoas desaparecidas, um comerciante chamado Vic que se especializou 
+ em material pré-guerra e um de nossos melhores caçadores.}
+{371}{}{Diga-me mais sobre esse comerciante chamado Vic?}
+{372}{}{Quero saber mais sobre o caçador.}
+{373}{}{Vamos falar de outra coisa.}
+{374}{}{É tudo que precisava saber, obrigado, Whiskey Bob.}
 
-{400}{}{I sure wish you had kept your word to me. You didn't get to my still in time and my latest
- batch of hootch is plum ruined! I don't want to have anything more to do with you and I hope no one
- else does, either.}
-{401}{}{But I, I thought I had more time?.}
-{402}{}{It probably tastes the same whether I refueled the still or not.}
-{403}{}{Your hootch tastes like dogpiss anyway.}
-{404}{}{The fuel didn't seem to provide a flame of the correct temperature for proper fermentation.}
+#{380}{}{Well, Vic was quite a fella. He didn't like to work too much, so he would specialize in
+# expensive pre-war things and then go sell them to the Den -- or even hawk them to stupid tribals as
+# religious artifacts (chuckles to himself). Oops, no offense. Anyhow, I haven't seen him for a while.
+# Last I heard, he went south to sell some stuff. Maybe to the Den.}
+#{381}{}{What about the missing trapper?}
+#{382}{}{Let me ask you about something else, Bob.}
+#{383}{}{Thanks, I've got to think on what you've told me. Goodbye, Whiskey Bob.}
 
-{410}{}{I don't want to hear your damn excuses. Just get the heck out of my sight! But I'll tell you
- one thing; everyone's going to know just how worthless your word is before I'm through.}
+{380}{}{Bem, Vic era um bom amigo. Ele não gostava muito de trabalhar depois que se especializou em 
+ objetos caros da pré-guerra e só os vendia em Den -- ou mesmo mendigar artefatos religiosos com esses
+ estúpidos Tribais (sorrindo de si mesmo). Oops, sem ofensas. De qualquer forma, não vejo ele há 
+ muito tempo. A última vez que ouvi falar dele, ele estava indo para o sul vender algumas coisas. Talvez em Den.}
+{381}{}{E o caçador desaparecido?}
+{382}{}{Deixe-me perguntar sobre outra coisa, Bob.}
+{383}{}{Obrigado, preciso pensar no que me disse. Tchau, Whiskey Bob.}
 
-{420}{}{A Garden of Eden Creation Kit? Why I think I saw one of those listed on a page of an old
- catalog I was looking through while I was sitting down, out back. But I don't know much more about it
- than that.}
-{421}{}{Really? I'd like to see that catalog.}
+#{390}{}{The real person to tell you about the missing trapper would be Mrs. Buckner. She and Smiley
+# were pretty close. He went north to look for the cave of the golden geckos and hasn't been seen since.
+# That was a while back, too.}
+#{391}{}{What about the missing trader?}
+#{392}{}{Hmm, interesting. Tell me about something else, though.}
+#{393}{}{That's enough for me for now. Goodbye, Whiskey Bob.}
 
-{430}{}{Uh, (embarrassed) I kind of used that page to take care of some business, if you know what I
- mean.}
-{431}{}{Business? Oh, that kind of business. I prefer old newspaper, myself. Oh well, tell me something
- else, then.}
-{432}{}{Damn, I thought I was so close. I guess that's enough disappointment for now. Goodbye, Bob.}
+{390}{}{A pessoa que deveria falar sobre o caçador desaparecido seria a Sra. Buckner. Ela e Smiley estavam
+ bem próximos. Ele foi ao norte procurar a caverna dos Golden Geckos e desde então não o vejo. Isso já faz algum tempo também.}
+{391}{}{E o comerciante desaparecido?}
+{392}{}{Hmm, interessante. vamos falar sobre outras coisas.}
+{393}{}{Por enquanto isso é o suficiente pra mim. Até mais, Whiskey Bob.}
 
-{500}{}{Howdy, what can I do for you?}
-{501}{}{What is going on around here?}
-{502}{}{Nothing, thanks.}
+#{400}{}{I sure wish you had kept your word to me. You didn't get to my still in time and my latest
+# batch of hootch is plum ruined! I don't want to have anything more to do with you and I hope no one
+# else does, either.}
+#{401}{}{But I, I thought I had more time?.}
+#{402}{}{It probably tastes the same whether I refueled the still or not.}
+#{403}{}{Your hootch tastes like dogpiss anyway.}
+#{404}{}{The fuel didn't seem to provide a flame of the correct temperature for proper fermentation.}
 
-{550}{}{Bob doesn't seem to want to talk to you.}
+{400}{}{Pensei que você iria manter sua palavra, você não reabasteceu meu alambique a tempo e meu
+ ultimo lote de Whisky se perdeu! Não quero voltar a fazer negócios com você e espero que ninguem mais queira.}
+{401}{}{Mas eu, eu pensei que eu tivesse mais tempo?}
+{402}{}{Ele provavelemente teria o mesmo gosto eu reabastecendo ou não.}
+{403}{}{De qualquer forma, seu whisky tem gosto de mijo de cachorro.}
+{404}{}{O combustível parece não forncecer uma temperatura adequada para a fermentação adequada.}
+
+#{410}{}{I don't want to hear your damn excuses. Just get the heck out of my sight! But I'll tell you
+# one thing; everyone's going to know just how worthless your word is before I'm through.}
+
+{410}{}{Eu não quero ouvir suas desculpas esfarrapadas. Suma da minha frente! Mas, te digo uma coisa:
+ Todo mundo vai saber o quanto vale sua palavra depois de tudo isso.}
+
+#{420}{}{A Garden of Eden Creation Kit? Why I think I saw one of those listed on a page of an old
+# catalog I was looking through while I was sitting down, out back. But I don't know much more about it
+# than that.}
+#{421}{}{Really? I'd like to see that catalog.}
+
+{420}{}{Um Garden of Eden Creation Kit? Acho que vi um nome desses em uma página de um velho catálogo que
+ eu estava olhando enquanto estava sentado nos fundos. Mas não sei muito sobre o que é isso.}
+{421}{}{Sério! Gostaria de dar uma olhada nesse catálogo.}
+
+#{430}{}{Uh, (embarrassed) I kind of used that page to take care of some business, if you know what I
+# mean.}
+#{431}{}{Business? Oh, that kind of business. I prefer old newspaper, myself. Oh well, tell me something
+# else, then.}
+#{432}{}{Damn, I thought I was so close. I guess that's enough disappointment for now. Goodbye, Bob.}
+
+{430}{}{Éh, (envergonhado) eu meio que uso essa página para certos assuntos, sabe o que quero dizer néh.}
+{431}{}{Assuntos! Ah, sei, certos assuntos. Eu prefiro jornal velho. Ah bem, vamos falar de outra coisa.}
+{432}{}{Porra! Eu pensei que estava tão perto. Acho que é decepção suficiente por hoje. Tchau, Bob.}
+
+#{500}{}{Howdy, what can I do for you?}
+#{501}{}{What is going on around here?}
+#{502}{}{Nothing, thanks.}
+
+{500}{}{Olá, o que posso fazer por você?}
+{501}{}{O que faz por aqui?}
+{502}{}{Nada, obrigado.}
+
+#{550}{}{Bob doesn't seem to want to talk to you.}
+
+{550}{}{Bob não quero falar com você.}
