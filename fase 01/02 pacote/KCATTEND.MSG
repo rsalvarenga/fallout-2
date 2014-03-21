@@ -1,5 +1,5 @@
 #############################################################
-#  Prostituta (Klamath)   		                         #
+#  Prostituta (Klamath)   		                              #
 #  Traduzido por Ricardo Alvarenga                          #
 #############################################################
 
@@ -133,4 +133,4 @@
 {173}{}{Não estou acostumada com tribals.}
 {174}{}{Gosta do que ve?}
 {175}{}{Você me quer?}
-{176}{}{Tem que pagar se quer jogar, doçura.}
+{176}{}{Tem que pagar se quiser brincar, doçura.}
