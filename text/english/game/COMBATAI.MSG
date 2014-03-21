@@ -4775,7 +4775,7 @@
 #
 # target hit in right leg
 #
-{42060}{}{ignore the pain in my leg ignore the pain in my leg}
+{42060}{}{ignorar a dor na minha perna... ignorar a dor na minha perna}
 {42061}{}{Aighh! There's blood all over Minha perna! Help! Stimpack! Help!}
 {42062}{}{Minha perna! Minha perna! I'VE BEEN HIT IN THE LEG! HELP! HELP!}
 {42063}{}{Aieeeee! I can't feel my right leg!}
@@ -4787,7 +4787,7 @@
 #
 # target hit in left leg
 #
-{42070}{}{ignore the pain in my leg ignore the pain in my leg}
+{42070}{}{ignorar a dor na minha perna ignorar a dor na minha perna}
 {42071}{}{Aighh! There's blood all over Minha perna! Help! Stimpack! Help!}
 {42072}{}{Minha perna! Minha perna! I'VE BEEN HIT IN THE LEG! HELP! HELP!}
 {42073}{}{Aieeee! I can't feel my left leg!}
