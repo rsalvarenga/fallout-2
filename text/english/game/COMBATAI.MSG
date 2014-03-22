@@ -4776,53 +4776,52 @@
 # target hit in right leg
 #
 {42060}{}{ignorar a dor na minha perna... ignorar a dor na minha perna}
-{42061}{}{Aighh! There's blood all over Minha perna! Help! Stimpack! Help!}
-{42062}{}{Minha perna! Minha perna! I'VE BEEN HIT IN THE LEG! HELP! HELP!}
-{42063}{}{Aieeeee! I can't feel my right leg!}
-{42064}{}{Owwww! My shin!}
-{42065}{}{*Urkkk*...right leg...feels like it's on fire...}
-{42066}{}{Oh no! That wasn't Minha perna! Noooooo!}
-{42067}{}{You're going to be getting a call from my podiatrist!}
-{42068}{}{Aighh! There goes my leg. I'll have to crawl out of here using my hips.}
+{42061}{}{Aighh! Há sangue por toda parte da minha perna! Ajuda! Stimpack! Ajuda!}
+{42062}{}{Minha perna! Minha perna! EU FUI ATINGIDO NA PERNA! AJUDA! AJUDA!}
+{42063}{}{Aieeeee! Eu não posso sentir minha perna direita!}
+{42064}{}{Owwww! Minha perna!}
+{42065}{}{* Urkkk * ... perna direita ... parece que está pegando fogo ...}
+{42066}{}{Oh não! Essa era minha perna! Nããão!}
+{42067}{}{Você vai estar recebendo um telefonema do meu podólogo!}
+{42068}{}{Aighh! Lá se vai minha perna. Eu vou ter que rastejar para fora da aqui, usando meus quadris.}
 #
 # target hit in left leg
 #
 {42070}{}{ignorar a dor na minha perna ignorar a dor na minha perna}
-{42071}{}{Aighh! There's blood all over Minha perna! Help! Stimpack! Help!}
-{42072}{}{Minha perna! Minha perna! I'VE BEEN HIT IN THE LEG! HELP! HELP!}
-{42073}{}{Aieeee! I can't feel my left leg!}
-{42074}{}{Owwww! My shin!}
-{42075}{}{*Urkkk*...left leg...feels like it's on fire...}
-{42076}{}{Oh no! That wasn't Minha perna! Noooooo!}
-{42077}{}{You're going to be getting a call from my podiatrist!}
-{42078}{}{Aighh! There goes my leg. I'll have to crawl out of here using my hips.}
+{42071}{}{Aighh! Há sangue por toda parte da minha perna! Ajuda! Stimpack! Ajuda!}
+{42072}{}{Minha perna! Minha perna! EU FUI ATINGIDO NA PERNA! AJUDA! AJUDA!}
+{42073}{}{Aieeeee! Eu não posso sentir minha perna esquerda!}
+{42074}{}{Owwww! Minha perna!}
+{42075}{}{* Urkkk * ... perna esquerda... parece que está pegando fogo ...}
+{42076}{}{Oh não! Essa era minha perna! Nããão!}
+{42077}{}{Você vai estar recebendo um telefonema do meu podólogo!}
+{42078}{}{Aighh! Lá se vai minha perna. Eu vou ter que rastejar para fora da aqui, usando meus quadris.}
 #
 # target hit in eyes
 #
-{42080}{}{Yuh-yuh-you...huh-huh-hit me in the uh-uh-eye...}
-{42081}{}{Meus olho! Meus olho! Help! Somebody help!}
-{42082}{}{Aighh! Eu não posso ver! Help! Stimpack! Help!}
+{42080}{}{Yuh-yuh-lo ... me acertou no olho ...}
+{42081}{}{Meus olho! Meus olho! Ajuda! Alguém me ajude!}
+{42082}{}{Aighh! Eu não posso ver! Ajuda! Stimpack! Ajuda!}
 {42083}{}{Meus olho! Meus olho!}
-{42084}{}{I'm blind! And not from masturbating!}
+{42084}{}{Estou cego! Não vou poder me masturbar!}
 {42085}{}{Owwwww! Meus olho! Meus olho!}
-{42086}{}{Aieeeee! I got hit in the eye! Everybody, look at me!}
-{42087}{}{My eye's bleeding! merda!}
-{42088}{}{Great. There goes a few Perception points.}
-{42089}{}{Can anybody tell me if that was my eyeball that just shot out of minha cabeça?}
-
+{42086}{}{Aieeeee! Eu fui atingido no olho! Todo mundo, olhe para mim!}
+{42087}{}{Meu olho esta sangrando! Merda!}
+{42088}{}{Grande. Lá se vai alguns pontos de Percepção.}
+{42089}{}{Alguém pode me dizer se esse foi o meu globo ocular ou apenas um tiro de  na minha Cabeça?}
 #
 # target hit in groin
 #
-{42090}{}{ignore the pain in my balls ignore the pain in my balls}
-{42091}{}{Not my balls!}
-{42092}{}{Aiiieeee! I've been shot in my Diccoli!}
-{42093}{}{I've been Bobbit-ized!}
-{42094}{}{please let my balls be okay please let my balls be okay}
-{42095}{}{Help! I got hit in the groin! Help!}
-{42096}{}{I'm going to need fifteen stimpacks once the pain from my groin reaches my brain.}
-{42097}{}{My groin! Little Myron...speak to me, pal! Speak to me!}
-{42098}{}{Looks like it's prosthetic city when I go to the whorehouse again...}
-{42099}{}{Hitting people in the balls is MY shtick. Thanks a lot.}
+{42090}{}{ignorar a dor em minhas bolas... ignorar a dor em minhas bolas}
+{42091}{}{Nas bolas não!}
+{42092}{}{Aiiieeee! Levei um tiro no saco!}
+{42093}{}{Acho que cortou!}
+{42094}{}{Por favor não acerte nas partes abaixo okay.}
+{42095}{}{Ajuda! Fui atingido na virilha! Ajuda!}
+{42096}{}{Eu vou precisar de quinze stimpacks uma vez que a dor atingiu o cérebro.}
+{42097}{}{Minha virilha! Myron ... fale comigo, amigo! Fale comigo!}
+{42098}{}{Acho que vou precisar uma prótese antes voltar a frequentar a putaria.}
+{42099}{}{Vou dar suas bolas para outras pessoas.}
 #
 #  running away
 #
