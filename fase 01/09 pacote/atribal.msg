@@ -1,7 +1,7 @@
 #{100}{}{You see a Tribal.}
 {100}{}{Você vê um Tribal.}
 #{101}{}{You see a strong looking man.}
-{101}{}{Você vê um homem aparentementeforte.}
+{101}{}{Você vê um homem aparentemente forte.}
 
 #{200}{}{Greetings.}
 {200}{}{Saudações.}
