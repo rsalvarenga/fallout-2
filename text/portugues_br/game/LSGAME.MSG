@@ -1,0 +1,56 @@
+#
+# ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
+#
+# Text labels and messages used in LOADSAVE.C
+#
+# (These MUST match "text message" enumeration on the top of LOADSAVE.C)
+#
+# ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
+
+# System
+{100}{}{CARREGAR}              # Titles
+{101}{}{ESCOLHA UM SLOT DE CARGA RÁPIDA}
+{102}{}{SALVAR}
+{103}{}{ESCOLHA UM SLOT SALVAMENTO RÁPIDO}
+{104}{}{OK}
+{105}{}{CANCELAR}
+{106}{}{Erro ao carregar a lista de jogos salvos!} # Line 1
+{107}{}{Salve o diretório do jogo:}    # Line 2
+{108}{}{Não existe ou está corrompido.} # Line 3
+{109}{}{SALVAR}
+{110}{}{CARREGAR}
+{111}{}{- VAZIO -}
+{112}{}{- ARQUIVO SALVO CORROMPIDO -}
+{113}{}{- VERSÃO VELHA -}
+{114}{}{Vazio.}
+{115}{}{Erro!}
+{116}{}{VERSÃO VELHA.}
+{117}{}{JAN}                            # Months
+{118}{}{FEV}
+{119}{}{MAR}
+{120}{}{ABR}
+{121}{}{MAI}
+{122}{}{JUN}
+{123}{}{JUL}
+{124}{}{AGO}
+{125}{}{SET}
+{126}{}{OUT}
+{127}{}{NOV}
+{128}{}{DEZ}
+{129}{}{Nível}
+{130}{}{DESCRIÇÃO}
+{131}{}{Salve do jogo já existe, sobrescrever?}
+{132}{}{Erro durante o salvamento do jogo!}             # Line 1
+{133}{}{Não foi possível salvar jogo.}           # Line 2
+{134}{}{Erro ao carregar o jogo!}            # Line 1
+{135}{}{Não foi possível carregar o jogo.}           # Line 2
+{136}{}{O Arquivo salvo do jogo é uma versão mais antiga.}
+{137}{}{Mapa}
+
+{140}{}{Jogo Salvo.}
+{141}{}{Jogo Carregado.}
+#
+# Demo versions only
+#
+{200}{}{Sorry you can't save or load} # 1
+{201}{}{in the demo version.}         # 2
