@@ -13,7 +13,7 @@
 {102}{}{SALVAR}
 {103}{}{ESCOLHA UM SLOT SALVAMENTO RÁPIDO}
 {104}{}{OK}
-{105}{}{CANCELAR}
+{105}{}{CANCEL}
 {106}{}{Erro ao carregar a lista de jogos salvos!} # Line 1
 {107}{}{Salve o diretório do jogo:}    # Line 2
 {108}{}{Não existe ou está corrompido.} # Line 3

@@ -169,7 +169,6 @@
 {616}{}{IMPRIMIR}
 {617}{}{JUGADOR}
 {618}{}{BLANK.GCD}
-
 #
 # ASCII text file printing text
 #
@@ -308,7 +307,6 @@
 {2004}{}{Antipático}
 {2005}{}{Odiado}
 {2006}{}{Vilipendiado}
-
 {2100}{}{Todo el mundo aquí querría ser como tú. Eres el hijo predilecto y tomado como un ejemplo brillante de lo que una persona debería ser.}
 {2101}{}{En esta zona, la gente te señala y te saluda donde quiera que vas. Todo el mundo ha oído hablar de ti, y les ha gustado lo que han oído.}
 {2102}{}{Aunque no te reciban con los brazos abiertos, la mayoría de la gente al menos te guiñará el ojo en muestra de reconocimiento. Te has hecho un sitio aquí.}
@@ -329,19 +327,16 @@
 {3006}{}{Espada de Desesperación}
 {3007}{}{Azote del Yermo}
 {3008}{}{Semilla del Diablo}
-
 #
 # Karma section titles.
 #
 {4000}{}{Reputación}
 {4001}{}{Adicciones}
-
 #
 # Karma section descriptions.
 #
 {4100}{}{Representa tu reputación en un lugar concreto.}
 {4101}{}{Cosas a las que te has vuelto adicto.}
-
 #
 # Special Demo version only text
 #

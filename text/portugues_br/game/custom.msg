@@ -9,7 +9,7 @@
 {5}{}{Usar drogas}
 
 {10}{}{Concluído}
-{11}{}{Cancelar}
+{11}{}{CANCEL}
 
 #
 # Use Explosão options.
