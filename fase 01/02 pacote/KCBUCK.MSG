@@ -97,16 +97,16 @@
 {206}{}{Você já disse olá para Sulik?}
 {207}{}{Ultimamente o negócio de caçar anda bem.}
 {208}{}{Parece que as coisas vão mudar.}
-{209}{}{Got me a good trapline south of here.}
-{210}{}{If you're smart, you'll stay away from the Duntons.}
-{211}{}{If you're anxious, try the Bathhouse.}
-{212}{}{Head west to Trapper Town, if you want a place to sack out later.}
-{213}{}{Welcome, friend.}
-{214}{}{Hope you like our city.}
-{215}{}{Klamath is the place to be.}
-{216}{}{Nice to have you here.}
-{217}{}{(raises his mug to you)}
-{218}{}{(winks at you)}
-{219}{}{Don't go wandering at night.}
-{220}{}{There's bugmen out in the hills.}
-{221}{}{One of our best trappers is missing.}
+{209}{}{Tenho algumas armadilhar ao sul daqui.}
+{210}{}{Se você for esperto ficara longe dos Duntons.}
+{211}{}{Se estiver inquieto vá a casa de banho (Bathhouse).}
+{212}{}{A oeste esta o bairro dos caçadores(Trapper Town), se estiver procurando um lugar para dormir.}
+{213}{}{Bem vindo, amigo.}
+{214}{}{Espero que goste da nossa cidade.}
+{215}{}{Klamath é um bom lugar.}
+{216}{}{Fico feliz em vê-lo.}
+{217}{}{(Levanta a caneca pra você)}
+{218}{}{(Pisca pra você)}
+{219}{}{Não saia por ai durante a noite.}
+{220}{}{Tem homens-insetos nas colinas.}
+{221}{}{Um de nossos melhores caçadores desapareceu.}
