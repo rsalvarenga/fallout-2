@@ -1,4 +1,7 @@
-#
+###########
+#Traduzido por: rsalvarenga
+###########
+
 # FALLOUT BATTLECRIES
 # When the Bomb Drops, the real fun begins - So let's get to Work!!!
 #
@@ -4825,84 +4828,84 @@
 #
 #  running away
 #
-{42100}{}{We are SO screwed.}
-{42101}{}{We are SO fucked.}
-{42102}{}{Game over, man! Game over!}
-{42103}{}{merda! I'm outta here!}
-{42104}{}{Don't hurt me! Don't hurt me!}
-{42105}{}{Aieeeee! There's a spark in my hair! Get it out! Get it out!}
-{42106}{}{These fights are a lot more fun from a distance.}
-{42107}{}{Everybody, give me all the cash, and I'll go secure our escape route!}
-{42108}{}{Get in there! I'm covering you! Really!}
-{42109}{}{Over here! I see a fight in the other direction! I'll go handle it!}
-{42110}{}{I gotta get the hell outta here.}
-{42111}{}{Don't hit me! I'm a hemophiliac!}
-{42112}{}{Don't hit me! Don't hit me!}
-{42113}{}{Time to be rear tactical observer...}
-{42114}{}{I should have brought my asthma spray. I feel an attack coming on.}
+{42100}{}{Estamos ferrados.}
+{42101}{}{Estamos fudidos.}
+{42102}{}{Game over, cara! Game Over!}
+{42103}{}{merda! Eu sou daqui!}
+{42104}{}{Não me machuque! Não me machuque!}
+{42105}{}{Aieeeee! Meu cabelo parece pegar fogo!}
+{42106}{}{Essas lutas são muito mais divertidas à distância.}
+{42107}{}{Todo mundo me passe a grana que e eu vou garantir a nossa rota de fuga!}
+{42108}{}{Entra ai! Eu te cubro! É serio!}
+{42109}{}{Por aqui! Eu vejo uma briga do outro lado! Vou cuidar disso!}
+{42110}{}{Eu tenho que dar o fora daqui.}
+{42111}{}{Não me bata! Eu tenho problema de rins!}
+{42112}{}{Não me bata! Não me bata!}
+{42113}{}{Hora de observador de longe...}
+{42114}{}{Eu deveria ter trazido meu spray de asma. Sinto que esta vindo uma crise de asma.}
 {42115}{}{Aieeeeee!}
-{42116}{}{gotta get out of here gotta get out of here gotta get out of here}
-{42117}{}{Feet don't fail me nAi!}
+{42116}{}{Tem que sair daqui tem que sair daqui tem que sair daqui}
+{42117}{}{Pés não vão falhar agora!}
 #
 # moving in to attack
 #
-{42120}{}{I haven't been in a fight since fifth grade.}
-{42121}{}{I'm right behind you!}
-{42122}{}{I'm watching your back!}
-{42123}{}{These fights sure are a lot more fun from a distance...}
-{42124}{}{I think I'd rather be rear tactical observer.}
-{42125}{}{I'm ready to rock and roll. Whatever that means.}
-{42126}{}{I'm gonna rip off your head and...uh...crap, I forget the rest.}
-{42127}{}{Let' see: I'm going to rip off your neck, merda down your head...crap. That's not right, either.}
-{42128}{}{You're going down like a two chip whore.}
-{42129}{}{Anybody covering me? Anybody?!}
+{42120}{}{Eu não brigo desde a quinta série.}
+{42121}{}{Estou bem atrás de você!}
+{42122}{}{Estou vigiando ao redor!}
+{42123}{}{Essas lutas com certeza são muito mais divertidas a distância ...}
+{42124}{}{Prefiro observar de longe.}
+{42125}{}{Estou pronto para o rock and roll. O que quer que isso signifique.}
+{42126}{}{Vou arrancar sua cabeça e ... uh ... um porcaria, esqueci o resto.}
+{42127}{}{Vamos ver: Vou começar pelo pescoço, cagar na sua cabeça...}
+{42128}{}{Vou te tratar como uma prostituta.}
+{42129}{}{Alguém me de cubertura?}
 {42130}{}{Hiiiiiyaaaaaa!!!}
-{42131}{}{Lemme at 'em! Lemme at 'em!}
+{42131}{}{Deixe isso para mim! Deixe isso para mim!}
 {42132}{}{Myron! He's one bad mutha...}
-{42133}{}{Good thing all those years of AD&D has taught me a few things about courage.}
+{42133}{}{Ainda bem que todos esses anos jogando Fallout me ensinou-algumas coisas sobre coragem.}
 #
 # attacking
 #
-{42140}{}{You're an overdose waiting to happen.}
-{42141}{}{Are you experienced?}
+{42140}{}{Você é uma overdose esperando para acontecer.}
+{42141}{}{Você tem experiência?}
 {42142}{}{Prove isto!}
-{42143}{}{Feel lucky, punk?}
-{42144}{}{I saw DeNiro do this in an old movie once...}
-{42145}{}{You're going down like a two chip whore.}
-{42146}{}{Er...take this!}
+{42143}{}{Você esta com sorte, escoria?}
+{42144}{}{Vi Robert DeNiro fazer isso em um filme antigo, uma vez ...}
+{42145}{}{Vou te tratar como uma prostituta.}
+{42146}{}{Er...Tome isso!}
 {42147}{}{Er...Tome isso!}
-{42148}{}{You want some of Myron, huh? Then...uh...you'll GET some! Yeah!}
-{42149}{}{Anybody covering me?! Anybody?!}
-{42150}{}{You're lucky I'm a 20 lb. Fracoling, or you'd be dead right now.}
-{42151}{}{please die please die please die}
-{42152}{}{I work hard, and I fight...well, actually, I don't work that hard. Nevermind.}
-{42153}{}{These fights sure are a lot more fun from a distance.}
-{42154}{}{I still think I should be rear tactical observer.}
-{42155}{}{You can take two weeks and kiss my lily white ASS.}
-{42156}{}{I can't believe I'm actually in a fight.}
-{42157}{}{I haven't been in a fight since fifth grade.}
-{42158}{}{You bit off more than you can chew, assface.}
-{42159}{}{Morre! Uh, please?}
+{42148}{}{Quer um pouco de Myron, hein? Então ... uh ... você vai ter! Yeah!}
+{42149}{}{Alguém me de cubertura!}
+{42150}{}{Você tem sorte de eu ser uns 20kg. mais leve, ou você estaria morto agora.}
+{42151}{}{Por favor morra, por favor morra..}
+{42152}{}{Eu trabalho duro, e eu luto ... bem, na verdade, eu não trabalho tanto assim.}
+{42153}{}{Essas lutas com certeza são muito mais divertido à distância.}
+{42154}{}{Prefiro observar de longe.}
+{42155}{}{Você pode ficar duas semanas livre se beijar minha bunda.}
+{42156}{}{Eu não posso acreditar que estou realmente em uma luta.}
+{42157}{}{Eu não entro em uma briga desde a quinta série.}
+{42158}{}{Você mordeu mais do que pode mastigar, cara de cu.}
+{42159}{}{Morre! Eh, por favor?}
 #
 # target being missed
 #
-{42160}{}{Yikes!}
-{42161}{}{Aieeeee...oh, wait you missed. Forget that screaming part.}
+{42160}{}{Caramba!}
+{42161}{}{Aieeeee ... oh, espere que você errou. Esqueça aquela parte do grito.}
 {42162}{}{Você não vale nada!}
-{42163}{}{That was WAY too close...}
-{42164}{}{Would somebody help me out, please?!}
-{42165}{}{I think I just peed in my pants.}
-{42166}{}{Help! That almost got me!}
-{42167}{}{Don't hurt me! Don't hurt me!}
-{42168}{}{Don't attack me! Don't attack me!}
-{42169}{}{I'm too young to die I'm too young to die I'm too young to die}
-{42170}{}{please attack someone else please attack someone else}
-{42171}{}{Whoa. Made my Dodging roll.}
-{42172}{}{Hey! Are you trying to kill me?! Cut it out!}
-{42173}{}{No, don't! Don't...oh, whew. You missed.}
-{42174}{}{I'm going to need some new underwear when this fight's over.}
-{42175}{}{Can't we talk about this?}
-{42176}{}{Ha! You missed, dipshit!}
+{42163}{}{Isso foi muito perto ...}
+{42164}{}{Será que alguém pode me ajude, por favor!}
+{42165}{}{Acho que fiz xixi nas calças.}
+{42166}{}{Ajuda! Isso quase me pegou!}
+{42167}{}{Não me machuque! Não me machuque!}
+{42168}{}{Não me ataque! Não me ataque!}
+{42169}{}{Eu sou muito jovem para morrer... Eu sou muito jovem para morrer... Sou muito jovem para morrer}
+{42170}{}{por favor ataque outro... por favor ataque outro...}
+{42171}{}{Caramba. Foi por pouco.}
+{42172}{}{Hey! Você está tentando me matar! Pare com isso!}
+{42173}{}{Não, não! Não ... oh, ufa. Você errou.}
+{42174}{}{Eu vou precisar de uma nova cueca quando isso terminar.}
+{42175}{}{Não podemos falar sobre isso?}
+{42176}{}{Ha! Você perdeu, idiota!}
 {42177}{}{Zoiks!}
 #
 ############################################
@@ -4944,7 +4947,7 @@
 #  running away
 #
 {44100}{}{BA - NAN - NAS}
-{44101}{}{Going back to jungle}
+{44101}{}{Voltando à selva}
 #
 # moving in to attack
 #The chimpanzee and abnormal brain will not attack
@@ -4955,82 +4958,56 @@
 #
 # target hit in Brain Casing
 #
-{44400}{}{Brain casing ruptured.}
-{44401}{}{Leak detected in brain casing.}
-
-{44402}{}{Fluid levels decreasing.}
-{44403}{}{Brain connection failing.}
-{44404}{}{Brain wave activity temporarily interrupted.}
-
-
-{44405}{}{EEG levels dropping.}
-{44406}{}{Internal sensors indicate damage to brain.}
-{44407}{}{Fissure detected in brain casing.}
-{44408}{}{Biogel pressure falling. Shutdown imminent.}
-
-
-
+{44400}{}{Invólucro do cérebro rompida.}
+{44401}{}{Detectado vazamento no revestimento do cérebro.}
+{44402}{}{Níveis de fluido diminuindo.}
+{44403}{}{Conexão do cérebro falhando.}
+{44404}{}{Atividade das ondas cerebrais temporariamente interrompida.}
+{44405}{}{Níveis de EEG caindo.}
+{44406}{}{Sensores internos indicam danos ao cérebro.}
+{44407}{}{Fissura detectado no revestimento do cérebro.}
+{44408}{}{Pressão Biogel caindo. Desconexão iminente.}
 #
 # target hit in left manipulator
 #
-{44410}{}{Left extender hit.}
-{44411}{}{Left manipulator damaged.}
-{44412}{}{Computing damage to left manipulator.}
-
-
-{44413}{}{Manipulator impaired.}
+{44410}{}{Extensor Esquerda danificado.}
+{44411}{}{Extensor direito danificado.}
+{44412}{}{Computando danos no manipulador esquerda.}
+{44413}{}{Manipulador prejudicado.}
 #
 # target hit in right manipulator
 #
-{44420}{}{Sensors register damage to right manipulator.}
-{44421}{}{Servos malfunction in manipulator.}
-{44422}{}{Rotator mechanism severely damaged.}
-{44423}{}{Repair systems report damage to right retractor circuit.}
-
-
-
-
+{44420}{}{Os Sensores registam danos ao manipulador direita.}
+{44421}{}{Mal funcionamento dos servidores do manipulador.}
+{44422}{}{Mecanismo de Rotação severamente danificado.}
+{44423}{}{Os sistems informam danos no circuito retrator direito.}
 #
 # target hit in frame
 #
-{44430}{}{Initiating repair sequence.}
-{44431}{}{Auto gyro sequencer hit. Compensating.}
-{44432}{}{Hydraulic pressure falling. Leak detected in reservoirs.}
-{44433}{}{Secondary relays damaged. Adjusting to compensate.}
-{44434}{}{Primary interface link severed. Activating backup systems.}
-{44435}{}{Restrictor coils severed. Factory service required.}
-
-
-
-
-
-
-{44436}{}{Systems malfunction.}
-{44437}{}{Power systems fluctuating. Activating reserve power.}
-{44438}{}{Main hull integrity compromised. Main circuits exposed.}
-{44439}{}{Power conditioning unit damage. Operating at 75 percent capacity.}
-
-
-
+{44430}{}{Iniciando seqüência de reparo.}
+{44431}{}{Impacto no sequenciador de auto giro. Compensação.}
+{44432}{}{Pressão hidráulica caindo. Vazamento detectado em reservatórios.}
+{44433}{}{Relés secundários danificado. Ajustar para compensar.}
+{44434}{}{Ligação da interface primária cortada. Ativando sistemas de backup.}
+{44435}{}{Bobinas de Restrição cortada. Restauração de fábrica necessário.}
+{44436}{}{Mau funcionamento dos sistemas.}
+{44437}{}{Sistemas energéticos flutuando. Ativando energia de reserva.}
+{44438}{}{Integridade do casco principal comprometida. Principais circuitos expostos.}
+{44439}{}{Danos à unidade de condicionamento de energia. Operando em 75% da capacidade.}
 #
 # target hit in right motivator
 #
-{44460}{}{Right motivator hit. Damage minimal.}
-{44461}{}{Right bogie out of alignment.}
-{44462}{}{Right drive wheel damaged.}
-
-
-
-{44463}{}{Right tread hit.}
+{44460}{}{Motivador direito atingido. Danos mínimos.}
+{44461}{}{Bogie direito fora do alinhamento.}
+{44462}{}{Roda direita danificada.}
+{44463}{}{Piso direito atingido.}
 #
 # target hit in left motivator
 #
-{44470}{}{Left motivator hit. Damage minimal.}
-{44471}{}{Left bogie knocked out of alignment.}
-
-
-{44472}{}{Left drive wheel bent.}
-{44473}{}{Left tread hit.}
+{44470}{}{Motivador esquerdo atingido. Danos mínimos.}
+{44471}{}{Bogie esquerdo fora do alinhamento.}
+{44472}{}{Roda esquerda danificada.}
+{44473}{}{Piso esquerdo atingido.}
 #
 # target hit in the sensors
 #
@@ -5038,89 +5015,58 @@
 {44481}{}{Lens damaged on main sensors. Switching to infrared.}
 {44482}{}{Imaging scanners hit. Picture resolution deteriorated.}
 {44483}{}{Targeting systems impaired. Auto tracking disabled.}
-
-
-
-
 #
 # target hit in regulator
 #
 {44490}{}{Regulator hit. Fluid levels dropping.}
 {44491}{}{Damage to regulator registered.}
 {44492}{}{Regulator fused. Rerouting functions.}
-
-
-
 #
 #  running away
 #
-{44500}{}{Engaging self preservation program.}
-{44501}{}{Analysis of enemy complete. Suggested attack plan: Retreat.}
-{44502}{}{Returning to factory for repairs.}
-{44503}{}{Initiating evacuation protocol.}
-{44504}{}{Battle analysis complete: Retreat recommended.}
-
-
-
-
-
-{44505}{}{Retreating.}
-{44506}{}{Evasive maneuvers engaged.}
-{44507}{}{Leaving hostile territory.}
-
-
+{44500}{}{Executando Programa de auto-preservação.}
+{44501}{}{Análise do inimigo completa. Plano de ataque sugerido: Retirada.}
+{44502}{}{Retornando à base para reparos.}
+{44503}{}{Iniciando protocolo de evacuação.}
+{44504}{}{Batalha análise completa: Retirada recomendado.}
+{44505}{}{Recuando.}
+{44506}{}{Ativando Manobras evasivas.}
+{44507}{}{Abandonando território hostil.}
 #
 # moving in to attack
 #
-{44520}{}{Analyzing enemy.}
-{44521}{}{Moving to attack positions.}
-
-{44522}{}{Target acquired.}
-{44523}{}{Computing threat level of target.}
-{44524}{}{Switching to combat mode.}
-{44525}{}{Target selected for termination.}
-{44526}{}{Scanning enemy capabilities. Adjusting attack pattern to compensate.}
-{44527}{}{Closing distance to optimal firing range.}
-
-
-
-
-
-{44528}{}{Moving to attack range.}
+{44520}{}{Analisando inimigo.}
+{44521}{}{Movendo-se para posições de ataque.}
+{44522}{}{Alvo adquirido.}
+{44523}{}{Computando nível de ameaça do alvo.}
+{44524}{}{Alternar para o modo de combate.}
+{44525}{}{Alvo selecionado para a eliminação.}
+{44526}{}{Digitalização de capacidades inimigas. Ajuste padrão de ataque para compensar.}
+{44527}{}{Fechando a distância de tiro ideal.}
+{44528}{}{Movendo-se para alcance de ataque.}
 #
 # attacking
 #
-{44540}{}{Switching to combat mode.}
-
-{44541}{}{Attack pattern Omega initiated.}
-{44542}{}{Terminating hostile entity.}
-{44543}{}{Initiating attack sequence.}
-{44544}{}{Positive lock on target confirmed.}
-
-
-
-{44545}{}{Now attacking target.}
-{44546}{}{Optimal attack range reached.}
-{44547}{}{Resuming assault on target.}
-
-
-{44548}{}{Commencing attack.}
-{44549}{}{Now eliminating threat.}
+{44540}{}{Alternar para o modo de combate.}
+{44541}{}{Padrão de ataque Omega iniciada.}
+{44542}{}{Acabando com entidade hostil.}
+{44543}{}{Seqüência de ataque inicial.}
+{44544}{}{Bloqueio do alvo confirmada.}
+{44545}{}{Atacar alvo agora.}
+{44546}{}{Alcance de ataque ideal.}
+{44547}{}{Iniciando ataque sobre o alvo.}
+{44548}{}{Começando ataque.}
+{44549}{}{Eliminando ameaça.}
 #
 # target being missed
 #
-{44560}{}{Engaging evasive maneuvers.}
-
-{44561}{}{Defensive protocol Beta initiated.}
-{44562}{}{Enemy's targeting capability inferior. Reassessing threat level.}
-{44563}{}{Enemy missed. Recalculating enemy's offensive capability.}
-{44564}{}{Analysis: enemy effectiveness minimal.}
-{44565}{}{Analysis: evasive maneuvers successful.}
-
-
-
-
-{44566}{}{Unit is undamaged.}
+{44560}{}{Ativando manobras evasivas.}
+{44561}{}{Protocolo defensivo Beta iniciado.}
+{44562}{}{Capacidade de segmentação do Inimigo: baixo. Reajustar nível de ameaça.}
+{44563}{}{Erro do Inimigo. Recálculo capacidade ofensiva do inimigo.}
+{44564}{}{Análise: eficácia inimigo mínima.}
+{44565}{}{Análise: exito na manobras evasiva.}
+{44566}{}{Unidade não danificada.}
 #
 ############################################
 # 44800 Goris
@@ -5128,262 +5074,166 @@
 #
 # target hit in head
 #
-{44800}{}{I'm thick skulled but that still hurt.}
-{44801}{}{I've got one hell of a headache.}
-
-
-{44802}{}{Umph. Not the head!}
-{44803}{}{I can do head shots too you knAi!}
-
-{44804}{}{Arrrgh! Dizzy...}
+{44800}{}{Tenho a cabeça dura, mas isso dói.} 
+{44801}{}{Agora tenho uma maldita dor de cabeça.} 
+{44802}{}{Umph. Na cabeça não!}
+{44803}{}{Eu também posso machucar sua cabeça!}
+{44804}{}{Arrrgh! Tonnnto...}
 #
 # target hit in left arm
 #
-{44810}{}{I'll kill you with my other arm.}
-{44811}{}{I don't need both arms to ruin your day!}
-{44812}{}{I don't use that arm anyway.}
-{44813}{}{Ouch! I can use a sling over here.}
-{44814}{}{One arm down, one to go!}
-
-
-
-
-
- #
+{44810}{}{Vou te matar com meu outro braço.} 
+{44811}{}{Não preciso dos meus dois braços para acabar com seu dia!} 
+{44812}{}{De qualquer maneira eu não usava este braço.} 
+{44813}{}{Ouch! Vai ter que usar um cabresto.} 
+{44814}{}{Um braço a menos, ainda tenho outro!} 
+#
 # target hit in right arm
 #
-{44820}{}{Hey, that's my fighting arm!}
-{44821}{}{Maldição that arm hurts!}
-{44822}{}{I can take the likes of you with only one arm.}
-
-
-
-{44823}{}{Right arm... arrgh!}
-{44824}{}{You hit my arm. I tear off your arm!}
-
+{44820}{}{Ei, esse é meu braço de luta!} 
+{44821}{}{Maldição, nesse braço dói!}
+{44822}{}{Posso acabar com você sem a necessidade dos meus braços.} 
+{44823}{}{Meu braço direito...arrgh!} 
+{44824}{}{Você machucou meu braço. Agora vou arrancar o seu!}
 #
 # target hit in torso
 #
-{44830}{}{Umph... can't... breathe.}
-{44831}{}{I'm minus a couple of ribs after that one.}
-
-{44832}{}{Ouch! I hate gut shots.}
-{44833}{}{Arrgghh! Chest pains!}
-{44834}{}{Solar plexus... eegad that hurts!}
-{44835}{}{Is this a fight or are you just trying to get my attention?}
-{44836}{}{Let me know if that was supposed to hurt. I'll cry for you.}
-{44837}{}{Did your mama teach you how to fight?}
-{44838}{}{Oh the pain (yawn). Please Não me machuque mais.}
-{44839}{}{You call that a hit. Let me show you how it's done!}
-{44840}{}{I'm going to kick your ass for that one.}
-{44841}{}{Whoa! That stings a bit.}
-{44842}{}{I left the vault for this!?}
-{44843}{}{I'm going to need a vacation.}
-
-
-
-
-
-
-
-
-
-
-{44844}{}{Yeeeouch! That hurts!}
-{44845}{}{That didn't hurt at all.}
-{44846}{}{Where's a stimpak when you need one?}
-{44847}{}{As soon as I can move again, you've had it!}
-{44848}{}{I am impervious to pain!}
-{44849}{}{I'm going to do the monster mash on your face!}
-
-
-
+{44830}{}{Umph...Não posso...respirar.}
+{44831}{}{Um par de costelas a menos.}
+{44832}{}{Ouch! Odeio tiros no estômago.}
+{44833}{}{Arrgghh! Dores no peito!} 
+{44834}{}{Meus estômago...isso sim é que é dor!}
+{44835}{}{Isso é uma luta ou você está apenas tentando chamar minha atenção?}
+{44836}{}{Isso é o Maximo de pode fazer? Vou te mostrar como se faz!}
+{44837}{}{Sua mãe que te ensinou a lutar?}
+{44838}{}{Oh a dor (bocejo). Por favor, não me machuque mais.}
+{44839}{}{Você chama isso de golpe. Vou te mostrar como se faz!}
+{44840}{}{Eu vou chutar o seu traseiro por isso.}
+{44841}{}{Whoa! Isso dói um pouquinho.}
+{44842}{}{Deixou o refúgio por isso?}
+{44843}{}{Eu vou precisar de um período de férias.}
+{44844}{}{Yeeeouch! Isso dói!}
+{44845}{}{Isso não doeu nada}
+{44846}{}{Onde estão os stimpacks quando preciso deles?}
+{44847}{}{Vai ter o que merece quando eu voltar a me mexer}
+{44848}{}{Eu sou imune à dor!}
+{44849}{}{Vou desfigurar sua cara por isso!}
 
 #
 # target hit in right leg
 #
-{44860}{}{Great. I'll be the only Deathclaw at home with a limp.}
-
-{44861}{}{Ouch! My leg...}
-{44862}{}{You'll pay with your leg for what you did to mine.}
-
-{44863}{}{I'll miss that leg...}
-{44864}{}{I don't need two legs to kill you.}
-
+{44860}{}{Genial.}
+{44861}{}{Ouch! Minha perna...} 
+{44862}{}{Vai pagar por isso.}
+{44863}{}{Vou sentir falta dessa perna ...} 
+{44864}{}{Não preciso de duas pernas para matar você.}
 #
 # target hit in left leg
 #
-{44870}{}{Great. A bum leg.}
-{44871}{}{Maldição it! The leg...}
-{44872}{}{Not the leg... can't walk right as it is.}
-{44873}{}{You cripple my leg, I cripple your leg.}
-
-
-{44874}{}{Arrggh! That knee hurts!}
+{44870}{}{Grande. Uma perna machucada.}
+{44871}{}{Maldição! Minha perna...} 
+{44872}{}{Na perna não...como vou andar assim.} 
+{44873}{}{Quebrou minha perna, agora vou quebrar a sua.} 
+{44874}{}{Arrggh! Isso dói o joelho!}
 #
 # target hit in eyes
 #
-{44880}{}{Can't see!}
-{44881}{}{Not the eyes!}
-
-{44882}{}{Blood... in eyes... can't see.}
-{44883}{}{I can't see you, but I can smell you.}
-{44884}{}{I'm going to need glasses after that one!}
-
-
+{44880}{}{Não posso ver!}
+{44881}{}{Não nos olhos!}
+{44882}{}{Sangue...nos olhos... não posso ver.}
+{44883}{}{Eu não posso vê-lo, mas posso sentir seu cheiro.}
+{44884}{}{Vou precisar de óculos depois disso!}
 #
 # target hit in groin
 #
-{44890}{}{The groin is such a cheap shot!}
-
-{44891}{}{No... hitting... below... the belt!}
-{44892}{}{That's fighting dirty. How about if I hit you in the crotch?}
-
-{44893}{}{I HATE groin shots! Unngh...}
-{44894}{}{Crotch shot... good thing I'm not human!}
-
+{44890}{}{Na virilha é golpe baixo!} 
+{44891}{}{Não atire... a baixo...cintura!}
+{44892}{}{Isso é golpe baixo...que tal se eu der um chute no seu saco?} 
+{44893}{}{Odeio tiros abaixo da cintura..} 
+{44894}{}{Um tiro bem no meio das pernas...ainda bem que não sou humano!}
 #
 #  running away
 #
-{44900}{}{Time to bail!}
-
-{44901}{}{I'm leaving!}
-{44902}{}{Retreat!}
-{44903}{}{Fall back!}
-{44904}{}{I'm out of here!}
-{44905}{}{Feet don't fail me nAi!}
-{44906}{}{Out of the way, I'm moving out!}
-{44907}{}{I'm not retreating, this is a strategic withdrawal.}
-{44908}{}{I've had enough of this merda!}
-{44909}{}{I've got to get out of here!}
-
-
-
-
-
-
+{44900}{}{Hora de correr!}
+{44901}{}{Hora de cair fora!}
+{44902}{}{Retirada!}
+{44903}{}{Voltando!}
+{44904}{}{Vou sair daqui!}
+{44905}{}{Pés, não vão falhar agora né!}
+{44906}{}{Fora do caminho, quero passar!}
+{44907}{}{Não estou fugindo, estou me posicionando estrategicamente.}
+{44908}{}{Eu já tive o suficiente desta merda!}
+{44909}{}{Tenho que sair daqui!}
 #
 # moving in to attack
 #
-{44920}{}{Come here so I can hit you!}
-{44921}{}{You're all mine!}
-
-
-{44922}{}{It's you or me... and I vote you!}
-{44923}{}{It's your funeral!}
-{44924}{}{Come and get it!}
-{44925}{}{Prepare to meet your doom!}
-{44926}{}{Best kiss your ass goodbye while you still can.}
-{44927}{}{I'm going to paint you red!}
+{44920}{}{Vem aqui para que eu possa te acertar!}
+{44921}{}{Você é meu!}
+{44922}{}{Só eu e você...mano a mano}
+{44923}{}{É seu funeral!}
+{44924}{}{Vem pegar!}
+{44925}{}{Prepare para enfrentar pesadelo!}
+{44926}{}{Melhor beijar seu rabo enquanto ainda pode.}
+{44927}{}{Vou te fazer sangrar por tudo quanto é buraco!}
 {44928}{}{Que comece a festa!}
-{44929}{}{I'm heading in!}
-{44930}{}{I'll see you on the front line!}
-{44931}{}{Time to reach out and touch someone!}
-{44932}{}{Advance and annihilate!}
-{44933}{}{I'm going to fall on you like ugly on a human!}
-{44934}{}{Time to get physical!}
-
-
-
-
-
-
-
-
-
-
-
-{44935}{}{Getting up close and personal.}
-{44936}{}{Bad ass moving in!}
-
-{44937}{}{Incoming!}
-{44938}{}{Locked on target and homing!}
-{44939}{}{There's a storm coming!}
-
-
+{44929}{}{Estou indo em!}
+{44930}{}{Nos vemos na linha da frente!}
+{44931}{}{Hora de sair e matar alguém!}
+{44932}{}{Avançar e aniquilar!}
+{44933}{}{Vou pra cima de você com tudo!}
+{44934}{}{Hora de pegar pesado!}
+{44935}{}{Agora ficou pessoal.}
+{44936}{}{Idiota ao ponto de morrer!}
+{44937}{}{Atacando!}
+{44938}{}{Alvo atingido!}
+{44939}{}{Há uma tempestade chegando!}
 #
 # attacking
 #
-{44940}{}{I'm going to hurt you... bad!}
-{44941}{}{This is going to hurt you a lot more than it does me!}
-{44942}{}{Do unto others before they do unto you!}
-{44943}{}{If there's a part of you that doesn't hurt, it's Próximo.!}
-{44944}{}{Contact sports. I love it!}
-{44945}{}{Tell me your name so I can contact your Próximo. of kin.}
-{44946}{}{I'm the one who put the 'death' in deathclaw!}
-{44947}{}{It's better to give than to receive!}
-{44948}{}{I hope you're enjoying this as much as I am!}
-{44949}{}{Did that hurt? If not I can do it harder Próximo. time.}
-{44950}{}{We have a bleeder over here!}
-{44951}{}{It'll take more than a stimpak to fix you when I'm done.}
-{44952}{}{I hope you have medical insurance. You're going to need it.}
-{44953}{}{Here a rip, there a rip, everywhere a rip rip...}
-{44954}{}{I don't care who started it, I intend to finish it!}
-{44955}{}{I love the sound of tearing flesh, don't you?}
-{44956}{}{Just warming up, the best is yet to come.}
-{44957}{}{Just sharpening my claws.}
-{44958}{}{Ooops! Hope you didn't need that!}
-{44959}{}{If you fall over and stay there I'll go away!}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+{44940}{}{Vou te machucar...e MUITO!}
+{44941}{}{Vai doer mais em você do que em mim!}
+{44942}{}{Faça aos outros antes que eles façam a você!}
+{44943}{}{Se há uma parte de você que não dói, essa vai ser a próxima!}
+{44944}{}{Esportes de contato. Adoro!}
+{44945}{}{Me diga seu nome para eu possa procurar seu parente mais próximo.}
+{44946}{}{Eu sou a razão pelo qual todos conhecem como Deathclaw!}
+{44947}{}{É melhor dar que receber!}
+{44948}{}{Espero que esteja gostando tanto quanto eu!}
+{44949}{}{Esta doendo? Senão posso te golpear mais duramente.}
+{44950}{}{Temos um sangrando por aqui!}
+{44951}{}{Vou precisar de muito mais do que um stimpack, quando isso tudo terminar!}
+{44952}{}{Espero que tenha seguro de vida. Vai precisar!}
+{44953}{}{Um rasgo aqui...um rasgo ali...rasgado em tudo quanto é parte!}
+{44954}{}{Não interessa quem começou, EU vou de terminar!}
+{44955}{}{Adoro o som dos ossos quebrando, você não?}
+{44956}{}{Só estou brincando, o melhor vem agora.}
+{44957}{}{Estou afiando minhas garras.}
+{44958}{}{Oooops! Espero que não precise disto!}
+{44959}{}{Vou embora somente quanto cair e não se levantar!}
 
 #
 # target being missed
 #
-{44960}{}{Would it help you if I just stood here?}
-{44961}{}{Glasses. You should look into getting some glasses.}
-{44962}{}{You need me to paint a target for you?}
-{44963}{}{Why are you aiming over there when I'm over here?}
-{44964}{}{I hope you aren't making a career out of this.}
-{44965}{}{How did you manage to miss something as big as I am?}
-
-
-
-
-
-
-{44966}{}{Ha! Argh grrnnngh thppppt! (Deathclaw ridicule)}
-{44967}{}{I'm a nimble little merda aint I?}
-{44968}{}{You should be glad your mãe didn't see you do that.}
-{44969}{}{You really should consider getting more practice.}
-{44970}{}{How embarrassing. I won't tell anyone how lame you are.}
-{44971}{}{So, you're trained to miss the target?}
-{44972}{}{Doesn't that just piss you off?}
-{44973}{}{Don't cry. Maybe you'll get lucky Próximo. time.}
-{44974}{}{Way to go, Grace. What do you do for an encore?}
-{44975}{}{That was a shinning example of missing the target.}
-{44976}{}{I'm beginning to think you're not cut out for this.}
-{44977}{}{Are you trying to make me laugh myself to death?}
-{44978}{}{You fanned the air on that one!}
-{44979}{}{Did you just miss me or what!}
-
-
-
-
-
-
-
-
-
-
-
-
+{44960}{}{Poderia parar de se mover para que eu possa acerta?}
+{44961}{}{Garrafas. Deveria trazer algumas garrafas.}
+{44962}{}{Não vai rir quanto te acertar, vai doer e muito!}
+{44963}{}{Arrg! Grng! Ghrr! Thpt! (Palavras de quatro letras de Deathclaw)}
+{44964}{}{Acho que não devia se dedicar profissionalmente à luta.}
+{44965}{}{Como posso errar algo tão gordo como você!}
+{44966}{}{Ai sim...na distancia adequada, vai ter problemas.}
+{44967}{}{Você é um merdinha ágil hein.}
+{44968}{}{Fico feliz por minha mão não ver isso.}
+{44969}{}{Por que eu estou atacando aqui quando você está ali?}
+{44970}{}{Que vergonha. Por favor, não conte a ninguém que eu fiz isso.}
+{44971}{}{Isso realmente me irrita!}
+{44972}{}{Ok. Eu Errei poderia acontecer a qualquer um!}
+{44973}{}{Eu vou acertar você da próxima vez.}
+{44974}{}{É assim que se faz, Grace!}
+{44975}{}{Isso foi um exemplo brilhante de erro ao alvo!}
+{44976}{}{Estou começando a pensar que não sou muito bom com isso.}
+{44977}{}{Arrggh! Não posso acreditar que errei!}
+{44978}{}{Acertei o vendo! Pufs, nunca errei tanto!}
+{44979}{}{Errei de novo!}
 
 #
 ############################################
@@ -5454,19 +5304,19 @@
 #
 #  running away
 #
-{60000}{}{Offense System Override.}
+{60000}{}{Sistema ofensiivo excedido}
 #
 # moving in to attack
 #
-{60020}{}{Offense System Initialized.}
+{60020}{}{Sistema ofensiivo inicializado.}
 
 #
 # attacking
 #
-{60040}{}{Whrrr. Click. Click. Woof!}
-{60041}{}{Arg! Click. Woof!}
+{60040}{}{Whrrr. Clic. Clic. Woof!}
+{60041}{}{Arg! Clic. Woof!}
 #
 # target being missed
 #
-{60060}{}{Offensive Action Evaded.}
+{60060}{}{Ação ofensiva evadida.}
 #

@@ -2956,7 +2956,6 @@
 # target hit in right leg
 #
 {44860}{}{Genial.}
-
 {44861}{}{Ouch! Minha perna...} 
 {44862}{}{Vai pagar por isso.}
 {44863}{}{Vou sentir falta dessa perna ...} 
@@ -2988,8 +2987,7 @@
 #
 #  running away
 #
-{44900}{}{Time to bail!}
-
+{44900}{}{Hora de correr!}
 {44901}{}{Hora de cair fora!}
 {44902}{}{Retirada!}
 {44903}{}{Voltando!}
@@ -3031,7 +3029,7 @@
 {44943}{}{Se há uma parte de você que não dói, essa vai ser a próxima!}
 {44944}{}{Esportes de contato. Adoro!}
 {44945}{}{Me diga seu nome para eu possa procurar seu parente mais próximo.}
-{44946}{}{Eu sou a razão pelo qual todos conhecem como Garra mortal!}
+{44946}{}{Eu sou a razão pelo qual todos conhecem como Deathclaw!}
 {44947}{}{É melhor dar que receber!}
 {44948}{}{Espero que esteja gostando tanto quanto eu!}
 {44949}{}{Esta doendo? Senão posso te golpear mais duramente.}
@@ -3051,7 +3049,7 @@
 {44960}{}{Poderia parar de se mover para que eu possa acerta?}
 {44961}{}{Garrafas. Deveria trazer algumas garrafas.}
 {44962}{}{Não vai rir quanto te acertar, vai doer e muito!}
-{44963}{}{Arrg! Grng! Ghrr! Thpt! (Palavras de quatro letras de Garra mortal)}
+{44963}{}{Arrg! Grng! Ghrr! Thpt! (Palavras de quatro letras de Deathclaw)}
 {44964}{}{Acho que não devia se dedicar profissionalmente à luta.}
 {44965}{}{Como posso errar algo tão gordo como você!}
 {44966}{}{Ai sim...na distancia adequada, vai ter problemas.}
