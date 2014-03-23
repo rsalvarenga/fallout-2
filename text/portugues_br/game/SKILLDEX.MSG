@@ -1,0 +1,13 @@
+#
+#   Messages from skilldex.c
+#
+{100}{}{PERÍCIAS}
+{101}{}{CANCEL}
+{102}{}{SIGILOSO}
+{103}{}{GAZUA}
+{104}{}{ROUBAR}
+{105}{}{ARMAD.}
+{106}{}{P. SOC.}
+{107}{}{MÉDICO}
+{108}{}{CIÊNCIA}
+{109}{}{REPARAR}
