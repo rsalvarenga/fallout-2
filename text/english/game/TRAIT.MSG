@@ -4,26 +4,26 @@
 #
 #   TRAIT NAMES
 #
-{100}{}{Fast Metabolism}
-{101}{}{Bruiser}
-{102}{}{Small Frame}
-{103}{}{One Hander}
-{104}{}{Finesse}
-{105}{}{Kamikaze}
-{106}{}{Heavy Handed}
-{107}{}{Fast Shot}
-{108}{}{Bloody Mess}
-{109}{}{Jinxed}
-{110}{}{Good Natured}
-{111}{}{Chem Reliant}
-{112}{}{Chem Resistant}
-{113}{}{Sex Appeal}  # was: Night Person
-{114}{}{Skilled}
-{115}{}{Gifted}
+{100}{}{Fast Metabolism} #Fast Metabolism
+{101}{}{Bruiser} #Bruiser
+{102}{}{Small Frame} #Small Frame
+{103}{}{One Hander} #One Hander
+{104}{}{Finesse}	#Finesse
+{105}{}{Kamikaze}	#Kamikaze
+{106}{}{Heavy Handed}	#Heavy Handed
+{107}{}{Fast Shot}	#Fast Shot
+{108}{}{Bloody Mess}	#Bloody Mess
+{109}{}{Jinxed}	#Jinxed
+{110}{}{Good Natured}	#Good Natured
+{111}{}{Chem Reliant}	#Chem Reliant
+{112}{}{Chem Resistant}	#Chem Resistant
+{113}{}{Sex Appeal}  # Sex Appeal # was: Night Person
+{114}{}{Skilled}	#Skilled Talentoso
+{115}{}{Gifted}	#Gifted Super dotado
 #
 #   TRAIT DESCRIPTIONS
 #
-{200}{}{Your metabolic rate is twice normal.  This means that you are much less resistant to radiation and poison, but your body heals faster.}
+{200}{}{A sua taxa metabólica é o dobro do normal. Isso significa que você é muito menos resistente à radiação e veneno, mas o seu corpo recupera depressa.}
 {201}{}{A little slower, but a little bigger.  You may not hit as often, but they will feel it when you do!  Your total action points are lowered, but your Strength is increased.}
 {202}{}{You are not quite as big as the other villagers, but that never slowed you down.  You can't carry as much, but you are more agile.}
 {203}{}{One of your hands is very dominant.  You excel with single-handed weapons, but two-handed weapons cause a problem.}
