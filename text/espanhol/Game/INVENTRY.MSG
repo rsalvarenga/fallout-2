@@ -34,5 +34,4 @@
 {30}{}{Peso}
 {31}{}{No puedes llevar tanto peso.}
 {32}{}{Pesa demasiado para llevarlo.}
-
 {50}{}{Ahí no encuentras nada para quedarte.}
