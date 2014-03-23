@@ -11,7 +11,7 @@
 {100}{}{OK}
 {101}{}{OPÇÕES}
 {102}{}{CANCEL}
-{103}{}{IMPRIMIR}
+{103}{}{PRINT}
 {104}{}{IDADE}
 {105}{}{SEXO}
 {106}{}{NOME}
@@ -20,7 +20,7 @@
 {109}{}{CARACT.}
 {110}{}{KARMA}
 {111}{}{MORTES}
-{112}{}{PONTS. HAB.}
+{112}{}{PONTOS} #PONTOS DE PERÍCIAS
 {113}{}{Level:}
 {114}{}{Exp:}
 {115}{}{Próximo Nível:}
@@ -149,10 +149,10 @@
 {604}{}{OK}
 {605}{}{Tem certeza de que deseja}      # line 1
 {606}{}{apagar o personagem atual?}                 # line 2
-{607}{}{ foi salvo com sucesso.}
-{608}{}{ foi carregado com êxito.}
-{609}{}{already exists.}
-{610}{}{Do you wish to overwrite?}
+{607}{}{foi salvo com sucesso.}
+{608}{}{foi carregado com êxito.}
+{609}{}{já existe.}
+{610}{}{Você deseja substituir?}
 {611}{}{Erro ao salvar}
 {612}{}{Erro ao carregar}
 {613}{}{Arquivo de caracteres inválidos.}
@@ -165,8 +165,8 @@
 # ASCII text file printing text
 #
 {620}{}{FALLOUT}                   # Title line 1
-{621}{}{VAULT-13 PERSONNEL RECORD} # Title line 2
-{622}{}{hours} # Title line 3
+{621}{}{VAULT-13 RECORDE PESSOAL} # Title line 2
+{622}{}{horas} # Title line 3
 # -
 # -
 #{000}{}{      Strength: 00        Hit Points: 000/000          Sequence: 00}
@@ -237,7 +237,7 @@
 {1002}{}{Campeão}
 {1003}{}{Assassino de crianças}
 {1004}{}{Víciado em Nuka Cola}
-{1005}{}{Víciado em Esteroides}
+{1005}{}{Víciado em Buffout}
 {1006}{}{Víciado em Mentats}
 {1007}{}{Víciado em Psycho}
 {1008}{}{Víciado em RadAway}
