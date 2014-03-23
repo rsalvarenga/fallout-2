@@ -1,21 +1,45 @@
-{100}{}{You see one of two very similar looking men--they could be twins.
- Both are heavily muscled and have beetling brows.}
-{101}{}{You see either Chuck or Buck Dunton, they both look so much alike that you're not sure which one you're looking at right now.}
-{102}{}{You see a tall, heavily muscled man whose face, beneath his beetling brow, is habitually
- twisted into a bully's smirking scowl. He looks just like his brother.}
+#############################################################
+#  Irmão Dunton (Klamath)        		                    #
+#  Traduzido por Ricardo S. Alvarenga                       #
+#############################################################
 
-{110}{}{You just better push off, or my brother and I are going to pound your little head into jam.}
-{111}{}{Hey, take it easy. I was just kidding around. I'm really sorry. Don't hit me, please.
- Besides, I wanted to ask you two about something.}
-{112}{}{Uh, sorry, Mr. Dunton, sir. I'll be leaving now.}
-{113}{}{I need some information, and you just better tell me what I need to know.}
-{114}{}{You and your brother? Are you afraid to take me on all alone? (Cluck, cluck, cluck)}
+#{100}{}{You see one of two very similar looking men--they could be twins.
+# Both are heavily muscled and have beetling brows.}
+#{101}{}{You see either Chuck or Buck Dunton, they both look so much alike that you're not sure which one you're looking at right now.}
+#{102}{}{You see a tall, heavily muscled man whose face, beneath his beetling brow, is habitually
+# twisted into a bully's smirking scowl. He looks just like his brother.}
 
-{120}{}{Just get out before we smash you flat and turn you into drymeat.}
-{121}{}{Hey, I'm really sorry. I didn't mean to upset you. I'm just stupid. I'll come back later when
- you're not so sick of looking at me.}
-{122}{}{Oh, okay, sorry. Don't hit me. Please.}
-{123}{}{At least I won't have to look at your butt-ugly faces anymore.}
+{100}{}{Você vê dois homens muito parecidos...eles podem ser gêmeos.
+ Ambos são musculosos e têm sobrancelhas bem grossas.}
+{101}{}{Você quer ver Chuck ou Buck Dunton, eles se parecem tanto que você não tem certeza de qual deles está olhando agora.}
+{102}{}{Você vê um homem alto e musculoso, que, debaixo dessa testa marrenta,
+ se mostra um valetão. Ele se parece com seu irmão.}
+ 
+#{110}{}{You just better push off, or my brother and I are going to pound your little head into jam.}
+#{111}{}{Hey, take it easy. I was just kidding around. I'm really sorry. Don't hit me, please.
+# Besides, I wanted to ask you two about something.}
+#{112}{}{Uh, sorry, Mr. Dunton, sir. I'll be leaving now.}
+#{113}{}{I need some information, and you just better tell me what I need to know.}
+#{114}{}{You and your brother? Are you afraid to take me on all alone? (Cluck, cluck, cluck)}
+
+{110}{}{É melhor não empurrar, ou meu irmão e eu vamos esmagar sua cabeça.}
+{111}{}{Ei, vá com calma. Eu só estava brincando. Eu sinto muito. Não me bata, por favor.
+ Alias, gostaria de fazer duas perguntas.}
+{112}{}{Uh, desculpe, Sr. Dunton, Sr. eu vou sair agora.}
+{113}{}{Preciso de algumas informações, e é melhor que me diga.}
+{114}{}{Você e seu irmão!? Tem medo de me encarar sozinho? (cacarejar, cacarejar, cacarejar)}
+
+#{120}{}{Just get out before we smash you flat and turn you into drymeat.}
+#{121}{}{Hey, I'm really sorry. I didn't mean to upset you. I'm just stupid. I'll come back later when
+# you're not so sick of looking at me.}
+#{122}{}{Oh, okay, sorry. Don't hit me. Please.}
+#{123}{}{At least I won't have to look at your butt-ugly faces anymore.}
+
+{120}{}{Basta! É melhor sair ou vou transformar você em carne seca.}
+{121}{}{Ei, eu sinto muito. Eu não queria incomodá-lo. Sou um estúpido.
+ Voltarei mais tarde quando minha presença não encomodar.}
+{122}{}{Oh, okay, Desculpe. Não me bata. Por favor.}
+{123}{}{Pelo menos não vou ter que olhar para suas caras de bunda feia mais.}
 
 {130}{}{What do you want to know from us?}
 {131}{}{I don't think we need to tell you anything. What the heck do you want, anyway?}
