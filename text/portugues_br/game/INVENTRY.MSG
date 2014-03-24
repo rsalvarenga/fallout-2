@@ -8,13 +8,13 @@
 {4}{}{IN}
 {5}{}{AG}
 {6}{}{SO}
-{7}{}{Pontos de Vida}
+{7}{}{Pts Vida}
 {8}{}{Armadura}
-{9}{}{ Normal}
-{10}{}{ Laser}
-{11}{}{ Fogo}
-{12}{}{ Plasma}
-{13}{}{ Explosivo}
+{9}{}{Normal}
+{10}{}{Laser}
+{11}{}{Fogo}
+{12}{}{Plasma}
+{13}{}{Explosivo}
 {14}{}{nenhum item}
 {15}{}{Dmg:}
 {16}{}{Rng:}
