@@ -27,8 +27,8 @@
 #  The following lines are for describing the NPC when      #
 #  glanced and and examined.                                #
 #############################################################
-{100}{}{You see a tribesman.} # 
-{101}{}{You see a tribeswoman.} # 
+{100}{}{Você vê um tribal.} # You see a tribesman.
+{101}{}{Você vê uma tribal.} # You see a tribeswoman.
 
 #############################################################
 #  The following lines are for the dialog which the NPC     #
@@ -36,63 +36,64 @@
 #  Tool.                                                    #
 #############################################################
 
-{150}{}{} # Before you stands a large warrior of your village, wearing
- pants fashioned from animal hides.
-{151}{}{[TALK]} # 
-{152}{}{Hello, Chosen One, can I help you in your quest?} # 
-{153}{}{I'm just looking around the village one last time before I leave.} # 
-{154}{}{What can you tell me of the traders who trade with us?} # 
-{155}{}{Could you tell me where I can find more healing powder?} # 
-{156}{}{Gods give you speed to bring back Eden before it is too late.} # 
-{157}{}{I do have a question for you.} # 
-{158}{}{Goodbye, my friend.} # 
-{159}{}{Oh, you're testing me. Go see Hakunin in the northern corner of the village. He makes our
- medicines.} # 
-{160}{}{Thank you. Goodbye.} # 
-{161}{}{Well, I've seen them when Mynoc has us guard the bridge, but he does all the dealing.
- Talk to him at the Great Bridge.} # 
-{162}{}{Thank you. Goodbye.} # 
-{163}{}{Could tell me where the Great Bridge is located?} # 
-{164}{}{One more question, if I may.} # 
-{165}{}{Chosen One? The Great Bridge is at the southern end of the village. You know,
- you've been there many times.} # 
-{166}{}{Thank you. Goodbye.} # 
-{167}{}{One more question, if I may.} # 
-{168}{}{Of course, what is it?} # 
-{169}{}{Could you tell me where I can find some healing herbs?} # 
-{170}{}{What can you tell me of the traders who trade with us?} # 
-{171}{}{Never mind.} # 
-{172}{}{Ah, dull one. They say you are the Chosen One. I must say the spirit
- of the Founder works in strange ways.} # 
-{173}{}{Oon Ga.} # 
-{174}{}{ Have a safe journey, dull one -- for our sake.} # 
-{175}{}{????} # 
-{176}{}{You betray us.  You must die.} # 
-{177}{}{A traitor to your own people!} # 
-{178}{}{Why do you do this?} # 
-{179}{}{Death to the evil one!} # 
-{180}{}{They are nothing to us! They scavenge the dying corpse
- of the wastes to live.} # 
-{181}{}{Could you tell me where I can find some healing herbs?} # 
-{182}{}{Thank you. Goodbye.} # 
-{183}{}{One more question, if I may.} # 
+{150}{}{Na sua frente está um grande guerreiro da sua vila, usando
+ uma calça feita com couro animal.} # Before you stands a large warrior of your village, wearing pants fashioned from animal hides.
+{151}{}{[FALAR]} # [TALK]
+{152}{}{Olá, Escolhido. Posso te ajudar com alguma coisa?} # Hello, Chosen One, can I help you in your quest?
+{153}{}{Eu estou apenas dando uma olhada na aldeia uma última vez antes de ir.} # I'm just looking around the village one last time before I leave.
+{154}{}{O que você pode me dizer dos comerciantes que visitam nossa vila?} # What can you tell me of the traders who trade with us?
+{155}{}{Você pode me dizer onde eu posso achar mais Healing Powder?} # Could you tell me where I can find more healing powder?
+{156}{}{Que os Deuses te deem velocidade para trazer de volta o Eden,
+ antes que seja tarde de mais.} # Gods give you speed to bring back Eden before it is too late.
+{157}{}{Eu tenho uma pergunta pra você.} # I do have a question for you.
+{158}{}{Adeus, meu amigo.} # Goodbye, my friend.
+{159}{}{Ah, você está me testando. Fale com o Hakunin ao norte, no canto da vila.
+ Ele faz os nossos medicamentos.} # Oh, you're testing me. Go see Hakunin in the northern corner of the village. He makes our medicines.
+{160}{}{Obrigado. Adeus.} # Thank you. Goodbye.
+{161}{}{Bem, eu os vejo quando Mynoc nos coloca para proteger a ponte,
+ mas ele faz toda a negociação. Fale com ele na Grande Ponte.} # Well, I've seen them when Mynoc has us guard the bridge, but he does all the dealing. Talk to him at the Great Bridge.
+{162}{}{Obrigado. Adeus.} # Thank you. Goodbye.
+{163}{}{Você pode me dizer onde a Grande Ponte fica?} # Could tell me where the Great Bridge is located?
+{164}{}{Tenho mais uma pergunta, se puder responder.} # One more question, if I may.
+{165}{}{Escolhido? A Grande Ponte fica ao sul, no fim da vila. Você sabe,
+ você já esteve lá várias vezes.} # Chosen One? The Great Bridge is at the southern end of the village. You know, you've been there many times.
+{166}{}{Obrigado. Adeus.} # Thank you. Goodbye.
+{167}{}{Tenho mais uma pergunta, se puder responder.} # One more question, if I may.
+{168}{}{Claro. O que é?} # Of course, what is it?
+{169}{}{Você pode me dizer onde eu posso encontrar alguns medicamentos?} # Could you tell me where I can find some healing herbs?
+{170}{}{O que você pode me dizer dos comerciantes que visitam nossa vila?} # What can you tell me of the traders who trade with us?
+{171}{}{Deixa pra lá.} # Never mind.
+{172}{}{Ah, o tapado. Eles dizem que você é o Escolhido. Eu devo dizer que o espírito
+ do fundador escreve certo com linhas tortas.} # Ah, dull one. They say you are the Chosen One. I must say the spirit of the Founder works in strange ways.
+{173}{}{Aan Ta...} # Oon Ga.
+{174}{}{Vá em segurança, tapado -- para o nosso bem.} # Have a safe journey, dull one -- for our sake.
+{175}{}{????} # ????
+{176}{}{Você nos traiu! Você deve morrer!} # You betray us.  You must die.
+{177}{}{Você traiu o nosso povo!} # A traitor to your own people!
+{178}{}{Porque você faz isso?} # Why do you do this?
+{179}{}{Morte ao maligno!} # Death to the evil one!
+{180}{}{Eles não são nada para nós! Eles pilham os cadáveres do deserto
+ para sobreviver.} # They are nothing to us! They scavenge the dying corpse of the wastes to live.
+{181}{}{Você pode me dizer onde eu posso encontrar alguns medicamentos?} # Could you tell me where I can find some healing herbs?
+{182}{}{Obrigado. Adeus.} # Thank you. Goodbye.
+{183}{}{Tenho mais uma pergunta, se puder responder.} # 
 
 # Starting Dialog after 1st Hakunin Movie
-{300}{}{Hello again, Chosen One. May the warrior spirits protect and guide you.} # 
+{300}{}{Olá novamente, Escolhido. Que os espíritos guerreiros te protejam e iluminem seu caminho.} # Hello again, Chosen One. May the warrior spirits protect and guide you.
 
 # Starting Dialog after 2nd Hakunin Movie
-{301}{}{Are you having difficulties, Chosen One? You must not fail us - please hurry.} # 
+{301}{}{Você está tendo dificuldades, Escolhido? Você não pode falhar - por favor, se apresse.} # Are you having difficulties, Chosen One? You must not fail us - please hurry.
 
 # Starting Dialog after 3rd Hakunin Movie
-{302}{}{Why do you wait so long? We must have the GECK soon. Chosen One, our village is dying.} # 
+{302}{}{Porque você demora tanto? Nós precisamos do GECK logo. Escolhido, nossa vila está morrendo.} # Why do you wait so long? We must have the GECK soon. Chosen One, our village is dying.
 
 # Starting Dialog after 4th Hakunin Movie
-{303}{}{Chosen One, our village is almost dead. Why have you not brought the holy GECK to us yet?} # 
+{303}{}{Escolhido, nossa vila já está quase morta. Porque você não nos trouxe o GECK ainda?} # Chosen One, our village is almost dead. Why have you not brought the holy GECK to us yet?
 
 
 
 #############################################################
-#  TELL - ME - ABOUTS                                       #
+#  TELL - ME - ABOUTS  - NÃO IMPLEMENTADO NO JOGO...        #
 #############################################################
 
 #                      #
@@ -102,9 +103,9 @@
 #      (970-979)       #
 #                      #
 #                      #
-{970}{}{That is my name.} # 
-{971}{}{You are talking to me.} # 
-{972}{}{What a silly question. That's me.} # 
+{970}{}{Esse é meu nome.} # 
+{971}{}{Você está falando comigo.} # 
+{972}{}{Mas que pergunta boba. Este sou eu.} # 
 
 #                      #
 #                      #
@@ -113,9 +114,9 @@
 #      (980-989)       #
 #                      #
 #                      #
-{980}{}{I don't know anything about that.} # 
-{981}{}{Sorry. No clue.} # 
-{982}{}{Never heard of it.} # 
+{980}{}{Eu não sei nada sobre isso.} # 
+{981}{}{Desculpa. Não faço idéia.} # 
+{982}{}{Nunca ouvi falar disto.} # 
 
 
 {1000}{}{Elder} # 
