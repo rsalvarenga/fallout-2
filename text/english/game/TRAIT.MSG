@@ -4,35 +4,35 @@
 #
 #   TRAIT NAMES
 #
-{100}{}{Fast Metabolism} #Fast Metabolism
-{101}{}{Bruiser} #Bruiser
-{102}{}{Small Frame} #Small Frame
-{103}{}{One Hander} #One Hander
-{104}{}{Finesse}	#Finesse
+{100}{}{Metabolismo Acelerado} #Fast Metabolism
+{101}{}{Brutamonte} #Bruiser
+{102}{}{Franzino} #Small Frame
+{103}{}{Mão Dominante} #One Hander
+{104}{}{Destreza}	#Finesse
 {105}{}{Kamikaze}	#Kamikaze
-{106}{}{Heavy Handed}	#Heavy Handed
-{107}{}{Fast Shot}	#Fast Shot
-{108}{}{Bloody Mess}	#Bloody Mess
-{109}{}{Jinxed}	#Jinxed
-{110}{}{Good Natured}	#Good Natured
-{111}{}{Chem Reliant}	#Chem Reliant
-{112}{}{Chem Resistant}	#Chem Resistant
-{113}{}{Sex Appeal}  # Sex Appeal # was: Night Person
-{114}{}{Skilled}	#Skilled Talentoso
-{115}{}{Gifted}	#Gifted Super dotado
+{106}{}{Mão Pesada}	#Heavy Handed
+{107}{}{Veloz}	#Fast Shot
+{108}{}{Sanguinário}	#Bloody Mess
+{109}{}{Azarado}	#Jinxed
+{110}{}{Diplomata}	#Good Natured
+{111}{}{Viciado}	#Chem Reliant
+{112}{}{Res. Drogas}	#Chem Resistant
+{113}{}{Sexy}  # Sex Appeal # was: Night Person
+{114}{}{Talentoso}	#Skilled Talentoso
+{115}{}{Super Dotado}	#Gifted Super dotado
 #
 #   TRAIT DESCRIPTIONS
 #
 {200}{}{A sua taxa metabólica é o dobro do normal. Isso significa que você é muito menos resistente à radiação e veneno, mas o seu corpo recupera depressa.}
-{201}{}{A little slower, but a little bigger.  You may not hit as often, but they will feel it when you do!  Your total action points are lowered, but your Strength is increased.}
-{202}{}{You are not quite as big as the other villagers, but that never slowed you down.  You can't carry as much, but you are more agile.}
-{203}{}{One of your hands is very dominant.  You excel with single-handed weapons, but two-handed weapons cause a problem.}
-{204}{}{Your attacks show a lot of finesse.  You don't do as much damage, but you cause more critical hits.}
-{205}{}{By not paying attention to any threats, you can act a lot faster in a turn.  This lowers your armor class to just what you are wearing, but you sequence much faster in a combat turn.}
-{206}{}{You swing harder, not better.  Your attacks are very brutal, but lack finesse.  You rarely cause a good critical, but you always do more melee damage.}
-{207}{}{You don't have time to aim for a targeted attack, because you attack faster than normal people.  It costs you one less action point for guns and thrown weapons.}
-{208}{}{By some strange twist of fate, people around you die violently.  You always see the worst way a person can die.}
-{209}{}{The good thing is that everyone around you has more critical failures in combat, the bad thing is so do you!}
+{201}{}{Um pouco mais lento, mas um pouco maior. Você não pode lutar com frequência, mas eles vão sentir dor quando lutar! Seus pontos de ação totais são reduzidos, mas sua força é maior.}
+{202}{}{Você não é tão grande como os outros aldeões, mas isso nunca te deixou pra baixo. Você não pode carregar muito peso, mas você é mais ágil.}
+{203}{}{Uma das suas mãos é muito dominante. Você se destacar com armas de uma mão, mas as armas de duas mãos são um problema.}
+{204}{}{Seus ataques mostram muita destreza. Você não faz tanto dano, mas tem mais acertos críticos.}
+{205}{}{Por não prestar atenção a todas as ameaças, você pode agir muito mais rápido em um turno. Isso diminui sua classe de armadura para apenas o que você está vestindo, mas sua reação é muito mais rápida no combate.}
+{206}{}{Você bate com mais força. Seus ataques são brutais, mas falta destreza. Você raramente causa dano crítico, mas sempre faz mais em corpo-a-corpo.}
+{207}{}{Você não tem tempo para apontar precisamente porque você dispara mais rápido do que as pessoas normais. Armas de fogo e armas de arremesso te custam 1 P.A.}
+{208}{}{Por uma estranha ironia do destino, as pessoas ao seu redor morrem violentamente. Você sempre vê a pior forma como uma pessoa pode morrer.}
+{209}{}{A coisa boa é que todos ao seu redor possui falhas mais críticas em combate, a única coisa ruim é que você também!}
 {210}{}{You studied less-combative skills as you were growing up.  Your combat skills start at a lower level, but First Aid, Doctor, Speech and Barter are substantially improved.}
 {211}{}{You are more easily addicted to chems.  Your chance to be addicted by chem use is twice normal, but you recover faster from their ill effects.}
 {212}{}{Chems only affect you half as long as normal, but your chance to be addicted is also only 50% of normal.}
