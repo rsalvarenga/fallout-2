@@ -18,11 +18,11 @@
 {109}{}{CARACT.}
 {110}{}{KARMA}
 {111}{}{MORTES}
-{112}{}{PONTOS} #PONTOS DE PERÍCIAS
+{112}{}{  PONTOS:} #PONTOS DE PERÍCIAS
 {113}{}{Level:}
 {114}{}{Exp:}
 {115}{}{Próximo Nível:}
-{116}{}{   PONTOS:}
+{116}{}{  PONTOS:}
 {117}{}{PERÍCIAS}
 {118}{}{Você deve usar todos os pontos} # 1
 {119}{}{antes de iniciar o jogo!}         # 2
@@ -44,7 +44,7 @@
 {135}{}{Impossível diminuir}  # 2
 {136}{}{Não tem pontos disponíveis.}
 {137}{}{Base:}
-{138}{}{PONT. HAB.}
+{138}{}{  PONTOS:} #PONTOS DE PERÍCIAS
 {139}{}{CARACTERÍSTICAS}
 {140}{}{Você já tem o máximo de} # 1
 {141}{}{três habilidades destacadas!}               # 2
