@@ -33,9 +33,9 @@
 {207}{}{Você não tem tempo para apontar precisamente porque você dispara mais rápido do que as pessoas normais. Armas de fogo e armas de arremesso te custam 1 P.A.}
 {208}{}{Por uma estranha ironia do destino, as pessoas ao seu redor morrem violentamente. Você sempre vê a pior forma como uma pessoa pode morrer.}
 {209}{}{A coisa boa é que todos ao seu redor possui falhas mais críticas em combate, a única coisa ruim é que você também!}
-{210}{}{You studied less-combative skills as you were growing up.  Your combat skills start at a lower level, but First Aid, Doctor, Speech and Barter are substantially improved.}
-{211}{}{You are more easily addicted to chems.  Your chance to be addicted by chem use is twice normal, but you recover faster from their ill effects.}
-{212}{}{Chems only affect you half as long as normal, but your chance to be addicted is also only 50% of normal.}
-{213}{}{You've got the "right" stuff.  Members of the opposite sex are attracted to you, but those of the same sex tend to become quite jealous.}
-{214}{}{Since you spent more time improving your skills than a normal person, you gain 5 additional skill points per experience level. The tradeoff is that you do not gain as many extra abilities. You gain a perk every four levels.}
-{215}{}{You have more innate abilities than most, so you have not spent as much time honing your skills.  Your primary statistics are each +1, but you lose -10% on all skills to start, and receive 5 less skill points per level.}
+{210}{}{Você estudou habilidades pacíficas quando você estava crescendo. Suas habilidades de combate começam em um nível mais baixo, mas suas habilidades em Primeiros Socorros, Médico, fala e negociação são melhores.}
+{211}{}{Ficará mais facilmente viciados em drogas. Sua chance de ser viciado em drogas é o dobro do normal, mas se recupera antes dos efeitos colaterais.}
+{212}{}{As drogas afetam apenas a metade do tempo normal, mas a sua chance de ser viciado é também apenas 50% do normal.}
+{213}{}{Você é um garanhão". Os membros do sexo oposto se setiram atraídos por você, mas aqueles do mesmo sexo tendem a ficar bastante ciumento.}
+{214}{}{Você passou mais tempo melhorando suas habilidades, ganha 5 pontos de habilidade adicionais por nível de experiência. A desvantagem é que você não ganhar o máximo de habilidades extras.}
+{215}{}{Você tem mais habilidades do que a maioria. Suas estatísticas primárias aumentam em +1, mas você perde 10% em todas as habilidades para começar, e recebe menos 5 pontos de perícia por nível.}

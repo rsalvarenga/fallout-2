@@ -36,8 +36,8 @@
 {127}{}{Adicionar perícias adicionais. A cada três nível de experiência, você pode escolher uma perícia adicional.}
 {128}{}{Estes são os efeitos das escolhas que você faz durante o jogo.}
 {129}{}{Um contador que controla o tipo e número de criaturas que você já matou, ou morreu na sua presença.}
-{130}{}{Pontos de habilidade}
-{131}{}{Use os pontos de habilidades para aumentar o nível de uma perícia. É preciso mais pontos para aumentar essas habilidades. Dominar uma habilidade pode necessitar de muito tempo e esforço.}
+{130}{}{Pontos de perícias}
+{131}{}{Use os pontos de perícias para aumentar o nível de uma perícia. É preciso mais pontos para aumentar essas habilidades. Dominar uma habilidade pode necessitar de muito tempo e esforço.}
 {132}{}{No nível máximo.}        # 1
 {133}{}{Impossível aumentar.}  # 2
 {134}{}{No nível mínimo.}        # 1
@@ -50,8 +50,8 @@
 {141}{}{três habilidades destacadas!}               # 2
 {142}{}{Você deve selecionar todas as habilidades }  # 1
 {143}{}{antes de começar o jogo!}       # 2
-{144}{}{Pontos de Habilidade}
-{145}{}{Pontos de Habilidades são habilidades especiais para seu personagem. Para cada ponto você ganha 20%. Você deve escolher três habilidades em destaque.}
+{144}{}{Pontos de perícias}
+{145}{}{Pontos de perícias são habilidades especiais para seu personagem. Para cada ponto você ganha 20%. Você deve escolher três habilidades em destaque.}
 {146}{}{CARACTERÍSTICAS}
 {147}{}{As Características descrevem seu personagem mais detalhadamente. Todas elas terão efeitos positivos e negativos.acterísticas terão efeitos positivos e negativos. Você pode escolher até duas características durante a criação do personagem.}
 {148}{}{Você já tem o máximo de} # 1

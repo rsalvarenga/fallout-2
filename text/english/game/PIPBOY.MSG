@@ -1,11 +1,9 @@
 #
-# ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
 #
 # Text labels and messages used in PIPBOY.C
 #
 # (These MUST match "text message" enumeration on the top of PIPBOY.C)
 #
-# ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
 
 #
 # Special holiday dates
@@ -43,7 +41,7 @@
 # Alarm clock
 #
 {300}{}{ALARM CLOCK}
-{301}{}{Hit Points}
+{301}{}{Pts. de Vida}
 {302}{}{Rest for ten minutes}
 {303}{}{Rest for thirty minutes}
 {304}{}{Rest for an hour}
