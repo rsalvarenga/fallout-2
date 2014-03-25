@@ -207,18 +207,29 @@
 {230}{}{Sábias palavras - será melhor não contar nada a ninguém, porque se o fizer, nos deixaria muito nervosos. E você não quer ver-nos nervosos.}
 {231}{}{Sinto muito, não direi nada, eu prometo, Sr. Dunton, Sr. Tchau.}
 {232}{}{Não se preocupe, não vou contar nada. Agora me diga outra coisa.}
-{233}{}{Não quero ve-los com raiva? O que não quero é ver suas caras feias. Tchau.}
+{233}{}{Ve-los com raiva!? O que não quero é ver suas caras feias. Tchau.}
 
-{240}{}{Well, it's a pleasure doing business with you. Heh, heh, heh. Need anything else?}
-{241}{}{Hmm...I think I forgot to barter for something.}
-{242}{}{Yes, I do.}
-{243}{}{No, I think that's it for now, Chuck.}
-{244}{}{No, I think that's it for now, Buck.}
+#{240}{}{Well, it's a pleasure doing business with you. Heh, heh, heh. Need anything else?}
+#{241}{}{Hmm...I think I forgot to barter for something.}
+#{242}{}{Yes, I do.}
+#{243}{}{No, I think that's it for now, Chuck.}
+#{244}{}{No, I think that's it for now, Buck.}
 
-{250}{}{Hey there, partner. Still counting on you for tonight. What can I do for you?}
-{251}{}{Uh, I've reconsidered. I don't think I want to help you tonight.}
-{252}{}{Yup. I'll be there. Let me ask you something, though.}
-{253}{}{Sure I will. Goodbye.}
+{240}{}{Bem, é um prazer fazer negócios com você. he..he..eh precisa de mais alguma coisa?}
+{241}{}{Hmm...Eu acho que esqueci de trocar algo.}
+{242}{}{Sim, eu sei.}
+{243}{}{Não, isso é tudo por enquanto, Chuck
+{244}{}{Não, isso é tudo por enquanto, Buck.}
+
+#{250}{}{Hey there, partner. Still counting on you for tonight. What can I do for you?}
+#{251}{}{Uh, I've reconsidered. I don't think I want to help you tonight.}
+#{252}{}{Yup. I'll be there. Let me ask you something, though.}
+#{253}{}{Sure I will. Goodbye.}
+
+{250}{}{Ei sócio, contamos com você está noite. O que posso fazer por você?}
+{251}{}{Eh, vou reconsiderar. Não quero ajuda-los esta noite.}
+{252}{}{Yup! eu estarei lá, deixe-me perguntar uma coisa.}
+{253}{}{Claro que vou. Tchau.}
 
 {259}{}{Well, if it isn't our burly-armed chum.}
 {260}{}{Hey there. How's your arm coming? Ready to go again?}
