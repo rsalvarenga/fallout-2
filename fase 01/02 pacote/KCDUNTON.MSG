@@ -1,5 +1,5 @@
 #############################################################
-#  Irmão Dunton (Klamath)        		                    #
+#  Irmãos Dunton (Klamath)                                   #
 #  Traduzido por Ricardo S. Alvarenga                       #
 #############################################################
 
@@ -41,93 +41,173 @@
 {122}{}{Oh, okay, Desculpe. Não me bata. Por favor.}
 {123}{}{Pelo menos não vou ter que olhar para suas caras de bunda feia mais.}
 
-{130}{}{What do you want to know from us?}
-{131}{}{I don't think we need to tell you anything. What the heck do you want, anyway?}
-{132}{}{So, what's the little wimp want from us, anyway?}
-{133}{}{Either of you ever hear about something called a Garden of Eden Creation Kit?}
-{134}{}{I'd like to barter.}
-{135}{}{Any work around here?}
-{136}{}{Uh, just which Dunton are you, anyway?}
-{137}{}{Have you heard anything about brahmin mutilations around here?}
-{138}{}{I guess I don't need anything after all. Goodbye.}
+#{130}{}{What do you want to know from us?}
+#{131}{}{I don't think we need to tell you anything. What the heck do you want, anyway?}
+#{132}{}{So, what's the little wimp want from us, anyway?}
+#{133}{}{Either of you ever hear about something called a Garden of Eden Creation Kit?}
+#{134}{}{I'd like to barter.}
+#{135}{}{Any work around here?}
+#{136}{}{Uh, just which Dunton are you, anyway?}
+#{137}{}{Have you heard anything about brahmin mutilations around here?}
+#{138}{}{I guess I don't need anything after all. Goodbye.}
 
-{140}{}{You went way over the line. I think you just better get out of here before we teach you a lesson.}
-{141}{}{I'm sorry, I just got so excited working with you two. I'll leave now. Goodbye.}
-{142}{}{Line? What line? It was your idea in the first place.}
-{143}{}{You two are just too yellow to do what needed to be done.}
+{130}{}{O que você quer saber sobre nós?}
+{131}{}{Acredito que nós não precisamos dizer nada. De qualquer forma, o que diabos você quer?}
+{132}{}{Então seria covardia nossa, de qualquer forma o que quer de nós?}
+{133}{}{Algum de vocês já ouviu falar sobre uma coisa chamada de Garden of Eden Creation Kit?}
+{134}{}{Eu gostaria de fazer uma troca.}
+{135}{}{Tem algum trabalho por aqui?}
+{136}{}{É, qual dos Dunton é você?}
+{137}{}{Você já ouviu falar alguma coisa sobre as mutilações brahmins por aqui?}
+{138}{}{Afinal de contas, depois de tudo isso acho que não preciso de mais nada. Tchau.}
 
-{150}{}{Well, we have a good supply of our world famous Dunton's Drymeat on hand. Tasty and delicious -
- good for you, too.}
-{151}{}{Uh, that's great. }
-{152}{}{Drymeat? That doesn't sound like what I need. Tell me something else.}
-{153}{}{I don't think I need to barter after all. Goodbye.}
+#{140}{}{You went way over the line. I think you just better get out of here before we teach you a lesson.}
+#{141}{}{I'm sorry, I just got so excited working with you two. I'll leave now. Goodbye.}
+#{142}{}{Line? What line? It was your idea in the first place.}
+#{143}{}{You two are just too yellow to do what needed to be done.}
 
-{160}{}{You had your chance, pal.}
-{161}{}{I don't think there's any work for you here.}
-{162}{}{Well, there is one thing that we could use some help with. (Heh, heh, heh)}
-{163}{}{What's that Chuck?}
-{164}{}{What's that Buck?}
-{165}{}{Uh, what's that?}
-{166}{}{Oh, yeah. Well, tell me something else then.}
-{167}{}{Hey, wait - I really do want to help you guys out. Tell me about that job again.}
-{168}{}{Well, I guess I missed out. I'll be going then. Goodbye.}
-{169}{}{Okay. Bye.}
+{140}{}{Você passou da conta. Eu acho melhor sair daqui antes de ensinar-lhe uma lição.}
+{141}{}{Me desculpe, Eu estava tão empolgado em trabalhar com vocês dois. Vou sair agora. Tchau.}
+{142}{}{Conta, que conta? Foi você quem começou.}
+{143}{}{Vocês dois são muito covardes pra fazer o que tem que ser feito.}
 
-{170}{}{You worthless sack of gecko shit! Just what the hell are doing in our sight again?}
-{171}{}{I just wanted to apologize. I didn't mean to screw up. I'm just not as good at rustling as you
- two. Besides, I need something from you.}
-{172}{}{Well, you're right - I could have done a better job. I guess I'm not a natural rustler like
- you two are. I need something, though.}
-{173}{}{Gecko shit? Are we talking about what you eat, or what you use for brains?}
+#{150}{}{Well, we have a good supply of our world famous Dunton's Drymeat on hand. Tasty and delicious - good for you, too.}
+#{151}{}{Uh, that's great. }
+#{152}{}{Drymeat? That doesn't sound like what I need. Tell me something else.}
+#{153}{}{I don't think I need to barter after all. Goodbye.}
 
-{180}{}{Back again, huh? Well, what can we help you with, business partner?}
-{181}{}{Hey there, pal. That sure was a sweet job we pulled on that dumb-ass Torr, huh? Let me get your
- cut of the action.}
-{182}{}{That was a sweet deal. Let me know when you've got another job like that one lined up. I need
- something else right now, though. }
-{183}{}{I'm here for my cut, partners.}
-{184}{}{What we did made me ashamed of myself. Cheating an idiot? Why don't you cowards take on someone
- who can defend themselves for a change? Goodbye.}
-{185}{}{I guess I don't really need anything right now. Goodbye.}
+{150}{}{Bem, temos uma boa oferta de primeira mão de nossa mais famosa Carne seca de Dunton. Saborosa e deliciosa - e muito boa para sua saúde também.}
+{151}{}{Uh, seria ótimo. }
+{152}{}{Carne Seca? Isso não é o que preciso. Diga-me outra coisa.}
+{153}{}{Depois de tudo isso, não quero trocar nada. Tchau.}
 
-{190}{}{OK - here's the $50 and a little something extra for you, as well. A few sticks of Dunton's
- Drymeat. Thanks again, partner.}
-{191}{}{Thanks. Hey, there's something else that I want to know.}
-{192}{}{I can sure use that money. Mmm, (bite) tasty jerky, too. Thanks. Goodbye.}
+#{160}{}{You had your chance, pal.}
+#{161}{}{I don't think there's any work for you here.}
+#{162}{}{Well, there is one thing that we could use some help with. (Heh, heh, heh)}
+#{163}{}{What's that Chuck?}
+#{164}{}{What's that Buck?}
+#{165}{}{Uh, what's that?}
+#{166}{}{Oh, yeah. Well, tell me something else then.}
+#{167}{}{Hey, wait - I really do want to help you guys out. Tell me about that job again.}
+#{168}{}{Well, I guess I missed out. I'll be going then. Goodbye.}
+#{169}{}{Okay. Bye.}
 
-{198}{}{OK, here's the deal. We need some help in, uh, liberating some brahmin from that idiot Torr. You shouldn't have trouble with that. Just talk him out of them. What do you say?}
-{199}{}{Now I remember. Thanks. }
-{200}{}{Meet us at the brahmin grazing area, just to the east of town, at 6:00 PM tonight.}
-{201}{}{Meet us at the brahmin grazing area, just to the east of town, at 6:00 PM tomorrow night.}
-{202}{}{OK, I'll take care of Torr. }
-{203}{}{OK, I'll find Torr at the grazing area and take care of him for you. }
-{204}{}{I don't think I want to do that after all.}
-{205}{}{OK, I'll be there. Goodbye.}
-{206}{}{In the meantime, though, there's something that I want to know.}
-{207}{}{Goodbye.}
+{160}{}{Você teve sua chance amigo.}
+{161}{}{Não há trabalho pra você aqui.}
+{162}{}{Bem, há uma coisa que poderia nos ajudar. (Heh, heh, heh)}
+{163}{}{Com o que Chuck?}
+{164}{}{Com o que Buck?}
+{165}{}{É, com o que?}
+{166}{}{Oh, yeah. Bem, então vamos falar de outra coisa.}
+{167}{}{Hey, espera... Eu realmente quero ajudar vocês. Conte-me sobre esse trabalho novamente.}
+{168}{}{Bem, Acho que perdi a oportunidade. Ja estou indo embora. Tchau.}
+{169}{}{Okay. Até mais.}
 
-{208}{}{I'm Chuck Dunton. What are you? Dumb?}
-{209}{}{I'm Buck Dunton. What are you? Dumb?}
-{210}{}{Do I look especially ugly? I'm Chuck Dunton.}
-{211}{}{Do I look especially ugly? I'm Buck Dunton.}
-{212}{}{Are you slow in the head? I'm Chuck Dunton.}
-{213}{}{Are you slow in the head? I'm Buck Dunton.}
-{214}{}{You just can't get it straight. Damn simpleton tribals. I'm Chuck, you dumb-ass.}
-{215}{}{You just can't get it straight. Damn simpleton tribals. I'm Buck, you dumb-ass.}
-{216}{}{I'm Big Nose Sally Dunton. Do you like my dress? I'm Chuck Dunton, you stupid tribal.}
-{217}{}{I'm Big Nose Sally Dunton. Do you like my dress? I'm Buck Dunton, you stupid tribal.}
-{218}{}{Uh, okay. Yeah, I thought so. Sorry.}
-{219}{}{Don't worry. I have it now. I need something from you, uh, Mr. Dunton.}
-{220}{}{Yeah, whoever. Look, just tell me what I need to know.}
-{221}{}{Well, you're both so damn stupid and ugly. Besides, I don't give a flying fuck which Dunton
- I'm yelling at. Goodbye, asshole.}
-{222}{}{Uh, yeah. Well, tell me about the job.}
+#{170}{}{You worthless sack of gecko shit! Just what the hell are doing in our sight again?}
+#{171}{}{I just wanted to apologize. I didn't mean to screw up. I'm just not as good at rustling as you
+# two. Besides, I need something from you.}
+#{172}{}{Well, you're right - I could have done a better job. I guess I'm not a natural rustler like
+# you two are. I need something, though.}
+#{173}{}{Gecko shit? Are we talking about what you eat, or what you use for brains?}
 
-{230}{}{Word to the wise - you just better not say nuthin' to nobody. 'Cause if'n you do, that would
- make us very angry. You don't want to see us angry.}
-{231}{}{Sorry, I won't tell anyone. I promise, Mr. Dunton, sir. Goodbye.}
-{232}{}{Don't worry, I won't tell anyone. Now tell me something else.}
-{233}{}{Don't want to see you angry? I don't want to see your ugly mugs at all. Goodbye.}
+{170}{}{Maldito saco de merda de gecko! O que diabos está fazendo aqui de novo?}
+{171}{}{Eu só queria pedir desculpas. Eu não quero incomoda-los. Eu só não sou tão bom em roubar como vocês dois.
+ Além do mais, preciso de algo de você.}
+{172}{}{Bem, você está certo. Poderia ter feito um trabalho melhor. Eu acho que não sou um ladrão nato como vocês dois são. No entanto, preciso de uma coisa.}
+{173}{}{Merda de gecko? Estamos falando sobre o que você come ou o que você usa para no lugar do cérebro?}
+
+#{180}{}{Back again, huh? Well, what can we help you with, business partner?}
+#{181}{}{Hey there, pal. That sure was a sweet job we pulled on that dumb-ass Torr, huh? Let me get your
+# cut of the action.}
+#{182}{}{That was a sweet deal. Let me know when you've got another job like that one lined up. I need
+# something else right now, though. }
+#{183}{}{I'm here for my cut, partners.}
+#{184}{}{What we did made me ashamed of myself. Cheating an idiot? Why don't you cowards take on someone
+# who can defend themselves for a change? Goodbye.}
+#{185}{}{I guess I don't really need anything right now. Goodbye.}
+
+{180}{}{Outra vez aquí? Bem, no que podemos ajudá-lo, parceiro de negócios?}
+{181}{}{Olá, amigo. Fizemos um bom trabalho com esse idiota do Torr hein? Vejamos a sua parte da ação.}
+{182}{}{Este foi um bom negócio. Estou ancioso pra saber quando vai ter outro trabalho semelhante. Agora preciso de outra coisa.}
+{183}{}{Estou aqui pela minha parte, parceiro.}
+{184}{}{O que fizemos me faz ter vergonha de mim mesmo. Enganando um idiota? Por que vocês não brincam com
+ alguém que possa se defender, seus covardes? Tchau.}
+{185}{}{No momento não preciso de nada. Até mais.}
+
+#{190}{}{OK - here's the $50 and a little something extra for you, as well. A few sticks of Dunton's
+# Drymeat. Thanks again, partner.}
+#{191}{}{Thanks. Hey, there's something else that I want to know.}
+#{192}{}{I can sure use that money. Mmm, (bite) tasty jerky, too. Thanks. Goodbye.}
+
+{190}{}{OK - aqui está os $50 e um extra pra você alguns espetos de carne seca Dunton}
+{191}{}{Obrigado. Eh..tem uma coisa que queria perguntar.}
+{192}{}{Me veio na hora certa este dinheiro. Mmm...(mastigando). Saborosa carne seca. Obrigado. Tchau.}
+
+#{198}{}{OK, here's the deal. We need some help in, uh, liberating some brahmin from that idiot Torr. You shouldn't have trouble with that. Just talk him out of them. What do you say?}
+#{199}{}{Now I remember. Thanks. }
+#{200}{}{Meet us at the brahmin grazing area, just to the east of town, at 6:00 PM tonight.}
+#{201}{}{Meet us at the brahmin grazing area, just to the east of town, at 6:00 PM tomorrow night.}
+#{202}{}{OK, I'll take care of Torr. }
+#{203}{}{OK, I'll find Torr at the grazing area and take care of him for you. }
+#{204}{}{I don't think I want to do that after all.}
+#{205}{}{OK, I'll be there. Goodbye.}
+#{206}{}{In the meantime, though, there's something that I want to know.}
+#{207}{}{Goodbye.}
+
+{198}{}{Ok, o assunto é esse: Necessitamos de ajuda para, eh...roubar alguns brahmins do idiota do Torr. Não deve ter problemas em faze-lo. Deve apenas afasta-lo deles. O que me diz?}
+{199}{}{Agora me lembro. Obrigado. }
+{200}{}{Encontre-nos na área de pastagem dos brahmins a leste da cidade, esta noite as 6:00 PM.}
+{201}{}{Encontre-nos na área de pastagem dos brahmins a leste da cidade, amanhã a noite as 06:00 PM.}
+{202}{}{OK, eu cuidarei de Torr. }
+{203}{}{OK, irei buscar Torr na zona de pastagem dos brahmins e cuidarei dele.}
+{204}{}{Depois de tudo, acho que não quero fazer isso.}
+{205}{}{OK, eu estarei lá. Goodbye.}
+{206}{}{Nesse meio tempo, gostaria de perguntar-lhe algo mais.}
+{207}{}{Tchau.}
+
+#{208}{}{I'm Chuck Dunton. What are you? Dumb?}
+#{209}{}{I'm Buck Dunton. What are you? Dumb?}
+#{210}{}{Do I look especially ugly? I'm Chuck Dunton.}
+#{211}{}{Do I look especially ugly? I'm Buck Dunton.}
+#{212}{}{Are you slow in the head? I'm Chuck Dunton.}
+#{213}{}{Are you slow in the head? I'm Buck Dunton.}
+#{214}{}{You just can't get it straight. Damn simpleton tribals. I'm Chuck, you dumb-ass.}
+#{215}{}{You just can't get it straight. Damn simpleton tribals. I'm Buck, you dumb-ass.}
+#{216}{}{I'm Big Nose Sally Dunton. Do you like my dress? I'm Chuck Dunton, you stupid tribal.}
+#{217}{}{I'm Big Nose Sally Dunton. Do you like my dress? I'm Buck Dunton, you stupid tribal.}
+#{218}{}{Uh, okay. Yeah, I thought so. Sorry.}
+#{219}{}{Don't worry. I have it now. I need something from you, uh, Mr. Dunton.}
+#{220}{}{Yeah, whoever. Look, just tell me what I need to know.}
+#{221}{}{Well, you're both so damn stupid and ugly. Besides, I don't give a flying fuck which Dunton
+# I'm yelling at. Goodbye, asshole.}
+#{222}{}{Uh, yeah. Well, tell me about the job.}
+
+{208}{}{Eu sou Chuck Dunton. O que quer? Idiota!}
+{209}{}{Eu sou Buck Dunton. O que quer? Idiota!}
+{210}{}{Pareço feio? Eu sou Chuck Dunton.}
+{211}{}{Pareço feio? Eu sou Buck Dunton.}
+{212}{}{Você pensa baixo, certo? Eu sou Chuck Dunton.}
+{213}{}{Você pensa baixo, certo? Eu sou Buck Dunton.}
+{214}{}{Você é incapaz de entender, malditos Tribais. Eu sou Chuck, seu imbecil.}
+{215}{}{Você é incapaz de entender, malditos Tribais. Eu sou Buck, seu imbecil.}
+{216}{}{Eu sou Sally 'Nariz Grande' Dunton gostou do meu vestido? Eu sou Chuck Dunton, seu estupido tribal.}
+{217}{}{Eu sou Sally 'Nariz Grande' Dunton gostou do meu vestido? Eu sou Buck Dunton, seu estupido tribal.}
+{218}{}{É, tudo bem sim, eu pensei que... desculpa.}
+{219}{}{Não se preocupe, eu entendi, preciso de uma coisa, eh, Sr. Dunton.}
+{220}{}{É, seja o que for, só me diga o que preciso saber.}
+{221}{}{Bem, os dois são estupidos e feios. Além disso, eu não dou a mínima com qual Dunton estou falando. Tchau, idotas.}
+{222}{}{É, sim, bem. diga-me sobre o trabalho.}
+
+#{230}{}{Word to the wise - you just better not say nuthin' to nobody. 'Cause if'n you do, that would
+# make us very angry. You don't want to see us angry.}
+#{231}{}{Sorry, I won't tell anyone. I promise, Mr. Dunton, sir. Goodbye.}
+#{232}{}{Don't worry, I won't tell anyone. Now tell me something else.}
+#{233}{}{Don't want to see you angry? I don't want to see your ugly mugs at all. Goodbye.}
+
+{230}{}{Sábias palavras - será melhor não contar nada a ninguém, porque se o fizer, nos deixaria muito nervosos. E você não quer ver-nos nervosos.}
+{231}{}{Sinto muito, não direi nada, eu prometo, Sr. Dunton, Sr. Tchau.}
+{232}{}{Não se preocupe, não vou contar nada. Agora me diga outra coisa.}
+{233}{}{Não quero ve-los com raiva? O que não quero é ver suas caras feias. Tchau.}
 
 {240}{}{Well, it's a pleasure doing business with you. Heh, heh, heh. Need anything else?}
 {241}{}{Hmm...I think I forgot to barter for something.}
