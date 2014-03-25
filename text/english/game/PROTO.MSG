@@ -126,22 +126,22 @@
 #
 # Use text
 #
-{480}{}{You see: %s.}
+{480}{}{Você vê: %s.}
 
 #
 # Use Container text
 #
-{485}{}{You search the %s.}
-{486}{}{You close the %s.}
+{485}{}{Você procura o %s.}
+{486}{}{Você fechar o %s.}
 {487}{}{It is locked.} # new
 
 #
 # Look text
 #
-{490}{}{You see: %s.}
-{491}{}{You see a dead: %s.}
-{492}{}{You see the remains of: %s.}
-{493}{}{You see nothing out of the ordinary.}
+{490}{}{Você vê: %s.}
+{491}{}{Você vê um morto: %s.}
+{492}{}{Você vê os restos de: %s.}
+{493}{}{Você vê nada fora do comum.}
 
 #
 # Examine text
@@ -224,11 +224,11 @@
 #
 # Dialog messages
 #
-{650}{}{[DONE]}
-{651}{}{[MORE]}
-{652}{}{More}
-{653}{}{[BACK]}
-{654}{}{Back}     # changed number from 653
+{650}{}{[OK]}
+{651}{}{[MAIS]}
+{652}{}{mais}
+{653}{}{[VOLTAR]}
+{654}{}{Voltar}     # changed number from 653
 {655}{}{Go on}    # new
 {656}{}{Err...}   # new
 {660}{}{You can't see there.}
