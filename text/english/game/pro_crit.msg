@@ -1,30 +1,30 @@
-{100}{}{Hero Male}
+{100}{}{Herói}
 {101}{}{}
-{200}{}{Hero Female}
+{200}{}{Heroína}
 {201}{}{}
-{300}{}{Villager}
-{400}{}{Villager}
+{300}{}{Aldeão}
+{400}{}{Aldeã}
 {500}{}{Radscorpion}
-{501}{}{A small mutated scorpion.}
+{501}{}{Um pequeno escorpião mutante.}
 {600}{}{Radscorpion}
-{601}{}{A mutated scorpion.}
+{601}{}{Um escorpião mutado.}
 {700}{}{Deathclaw}
-{701}{}{An immature Deathclaw.}
+{701}{}{Um Deathclaw imaturo.}
 {800}{}{Deathclaw}
-{801}{}{An immature Deathclaw.}
+{801}{}{Um Deathclaw imaturo.}
 {900}{}{Dog}
-{901}{}{A canine, probably of a mixed breed.}
+{901}{}{Um canino, provavelmente de uma raça mista.}
 {1000}{}{Brahmin}
-{1001}{}{A two headed, mutant cow.}
+{1001}{}{Vaca mutante de duas cabeças.}
 {1100}{}{Rat}
-{1101}{}{A typical large rat.}
+{1101}{}{Um grande e típico rato.}
 {1200}{}{Mantis}
-{1201}{}{A mutated Mantis.}
-{1300}{}{Elder}
+{1201}{}{Um Mantis mutado.}
+{1300}{}{Anciã}
 {1400}{}{Hakunin}
 {1500}{}{Mynoc}
 {1600}{}{Spore Plant}
-{1601}{}{A carnivorous plant.}
+{1601}{}{Uma planta carnivora.}
 {1700}{}{Cute Slave}
 {1800}{}{Handsome Slave}
 {1900}{}{Healthy Slave}
@@ -91,7 +91,7 @@
 {8000}{}{Little Gecko}
 {8100}{}{Tough Lil Gecko}
 {8200}{}{Wild Dog}
-{8201}{}{A mixed breed feral dog.}
+{8201}{}{Um cão feroz de raça mista.}
 {8300}{}{Golden Gecko}
 {8400}{}{Deathclaw}
 {8500}{}{Deathclaw Spawn}
@@ -125,7 +125,7 @@
 {11300}{}{Tough Pig Rat}
 {11400}{}{Weak Brahmin}
 {11401}{}{A two-headed, mutant cow.}
-{11500}{}{A.Pwr.Armor (don't use)}
+{11500}{}{A.Pwr.Armor (não use)}
 {11600}{}{Mutated Rat}
 {11601}{}{A tough mutant rat.}
 {11700}{}{Mutated Mole Rat}
@@ -135,18 +135,18 @@
 {11900}{}{Super Mutant}
 {12000}{}{Powerful Mutant}
 {12100}{}{Melchoir}
-{12200}{}{Hero Andro (don't use)}
-{12300}{}{Hero Andro (don't use)}
-{12400}{}{Hero Male (don't use)}
-{12500}{}{Hero Female (don't use)}
-{12600}{}{Hero Male (don't use)}
-{12700}{}{Hero Female (don't use)}
-{12800}{}{Hero Male (don't use)}
-{12900}{}{Hero Female (don't use)}
-{13000}{}{Hero Male (don't use)}
-{13100}{}{Hero Female (don't use)}
-{13200}{}{Hero Male (don't use)}
-{13300}{}{Hero Female (don't use)}
+{12200}{}{Hero Andro (não use)}
+{12300}{}{Hero Andro (não use)}
+{12400}{}{Herói (não use)}
+{12500}{}{Heroína (não use)}
+{12600}{}{Herói (não use)}
+{12700}{}{Heroína (não use)}
+{12800}{}{Herói (não use)}
+{12900}{}{Heroína (não use)}
+{13000}{}{Herói (não use)}
+{13100}{}{Heroína (não use)}
+{13200}{}{Herói (não use)}
+{13300}{}{Heroína (não use)}
 {13400}{}{Vault City Guard}
 {13500}{}{Vault City Guard}
 {13600}{}{Cyberdog}
@@ -190,7 +190,7 @@
 {17400}{}{Dar}
 {17500}{}{Dalia}
 {17600}{}{Gordon}
-{17700}{}{test (don't use)}
+{17700}{}{test (não use)}
 {17800}{}{Reactor Ghoul}
 {17900}{}{Generic Ghoul}
 {18000}{}{Matt}
@@ -205,7 +205,7 @@
 {18900}{}{B. Hunter Lead (19-?)}
 {19000}{}{Bounty Hunter (19-?)}
 {19100}{}{Bess}
-{19101}{}{A two headed, mutant cow.}
+{19101}{}{Vaca mutante de duas cabeças.}
 {19200}{}{Balthas}
 {19300}{}{Grisham}
 {19400}{}{Phil}
