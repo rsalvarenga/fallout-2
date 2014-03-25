@@ -1,0 +1,186 @@
+#
+# Miscellaneous game engine messages.
+#
+# Defined in game.h
+#
+{0}{}{Tem certeza de que deseja sair?}
+{1}{}{Versão demo}
+{2}{}{O Personagem padrão será usado.}
+{3}{}{Captura de tela salva.}
+{4}{}{Jogo de carga rápida carregado com êxito.}
+{5}{}{Jogo salvo rápido, salvos com sucesso.}
+{6}{}{Limite de tempo de demonstração ultrapassado.}
+{7}{}{Pipboy não disponível em combate!}
+{8}{}{Erro ao salvar imagem.}
+{9}{}{INTRO}
+{10}{}{NOVO JOGO}
+{11}{}{CARREGAR}
+{12}{}{OPÇÕES}
+{13}{}{CREDITOS}
+{14}{}{SAIR}
+{15}{}{Pts. de Ação}
+{16}{}{Pts. de Vida}
+{17}{}{A opção de sensor de movimento não está instalado.}
+{18}{}{O sensor de movimento não tem cargas.}
+{20}{}{Copyright (c) 1998 Interplay Productions. Todos os direitos reservados. (Traduzido por fallout2br)}
+
+{30}{}{Você deseja continuar jogando?}
+
+{50}{}{Fallout 2 requer o CD!}
+
+#
+# Game config text. Defined in gconfig.c
+#
+{100}{}{Erro ao salvar o arquivo de configuração!}
+{101}{}{Configurações de jogo não foram salvas.}
+#
+# Some radiation messages used in critter.c
+#
+{1000}{}{Você se sente muito enjoado.}
+{1001}{}{Você se sente muito enjoado e vômita um pouco, se sente um pouco cansado.}
+{1002}{}{Você está muito cansado, o vômito não parar e seu tempo de recuperação é prejudicado.}
+{1003}{}{Você está sangrando violentamente. Você está muito doente, e seu cabelo está caindo.}
+{1004}{}{Você está sangrando violentamente sem parar. O vômito é manchado de sangue. Sua pele está se despregando de seus ossos.}
+{1005}{}{Sangramento no seu intestino e diarreia grave. Você se sente inchado e com intensa agonia.}
+{1006}{}{Você morreu de doenças provocadas pela radiação.}
+{1007}{}{Você recebeu uma grande quantidade de radiação.}
+{1008}{}{O contador Geiger está tocando.}
+{1009}{}{O contador Geiger toca freneticamente.}
+#
+# Message used in actions.c
+#
+{2000}{}{Você não pode chegar lá.}
+{2001}{}{A porta está presa.}
+#
+# poison messages from critter.c
+#
+{3000}{}{Você foi envenenado!}
+{3001}{}{Você recebe dano de veneno.}
+{3002}{}{Você se sente um pouco melhor.}
+{3003}{}{Você se sente melhor.}
+#
+# from queue.c
+#
+{4000}{}{Devido ao seu manuseio inepto, o explosivo detona prematuramente.}
+#
+# from combatai.c
+#
+{5000}{}{usa}
+{5001}{}{está sem munição para a}
+{5002}{}{recarregar}
+#
+# from gdialog.c - new tell me about stuff
+#
+{6000}{}{Sobre o que quer perguntar?}
+
+#
+# from pipboy.c -- Fallout 2
+#
+{7000}{}{Você não está usando o PipBoy!}
+
+#
+# from anim.c -- Fallout 2
+#
+{8000}{}{Você está sobrecarregado.}  # Carrying too much weight
+{8001}{}{%s está sobrecarregado..}
+
+#
+# from worldmap.c -- Fallout 2
+#
+{8500}{}{Você ganha %d pontos de experiência pelo uso bem sucedido de sua habilidade.}
+
+#
+# from party.c -- Fallout 2
+#
+{9000}{}{%s ganhou novas habilidades.} # Party Member has gained experience/level
+# Individuals
+
+{9010}{}{Uau. De repente, senti uma rajada de experiência.} # pMMyron_PID
+{9011}{}{Sube de nível, baby! Sobe!}
+{9012}{}{Sinto um grande distúrbio na força. Como se todas as minhas habilidades ganhassem pontos percentuais.}
+{9013}{}{Me sinto mais forte, mais inteligente.}
+{9020}{}{Caramba! Sinto que eu poderia ter passado um obstáculo então teria obtido experiência e mais poder!} # pMMarcus_PID
+{9021}{}{Aaagggh! Meus músculos incham ..... meus atributos ... crescem .... Alto nível de experiência...}
+{9022}{}{Me dê um diploma, porque eu acabado me formar!}
+{9023}{}{Ei, eu me sinto mais poderoso! Isso significa que eu conseguir um aumento de salário?}
+{9030}{}{Agora eu lembro de tudo...} # pMMacRae_PID
+{9031}{}{Heh. Acho que você pode me ensinar novos truques.}
+{9032}{}{Parece que toda essa viagem valeu a pena.}
+{9033}{}{Eu aprendi alguns truques novos.}
+{9040}{}{O avô ensina. Nós aprendemos.} # pMSulik_PID
+{9041}{}{Aprendemos mais com os espíritos, Jovem.}
+{9042}{}{Aprendemos agora.}
+{9043}{}{Um grande espírito entra em Sulik agora.}
+{9044}{}{Agora somos como um avô do ocidente, o jovem.}
+{9045}{}{Nós ser o avô agora.}
+{9050}{}{Oh, sim... Eu realmente aprendi alguma coisa com isso.} # pMLenny_PID
+{9051}{}{A culpa por tudo isso vai me matar.}
+{9052}{}{Eu não posso acreditar que eu sobrevivi até aqui.}
+{9060}{}{Woof!} # pMCyberdog_PID
+{9061}{}{Woof!}
+{9062}{}{Woof!}
+{9063}{}{Woof!}
+{9064}{}{Woof! Woof!}
+
+{9070}{}{Eu aprendi algumas coisas novas!} # pMDoc_PID
+{9071}{}{Eu aprendi algumas coisas novas!}
+
+{9080}{}{Eu acredito que ganhei um pouco mais de conhecimento!} # pMGoris_PID
+{9081}{}{A clareza de conhecimento é um dom.}
+{9082}{}{Parece que estou amadurecendo bem.}
+{9083}{}{Estou superando até mesmo Gruthar no conhecimento.}
+{9084}{}{Eu sou o mais forte de minha raça.}
+{9085}{}{Agora eu sou o mais poderoso entre minha raça.}
+
+{9090}{}{Eu aprendi algumas coisas novas!} # pMDavin_PID
+{9091}{}{Eu aprendi algumas coisas novas!}
+
+{9100}{}{Eu aprendi algumas coisas novas!} # pMMaria_PID
+{9101}{}{Eu aprendi algumas coisas novas!}
+
+{9110}{}{Eu aprendi algumas coisas novas!} # pMLaddie_PID
+{9111}{}{Eu aprendi algumas coisas novas!}
+
+{9120}{}{ANÁLISE DE DADOS COMPLETA. ATUALIZANDO TODOS OS SISTEMAS.} # pMRoboBrain_PID  -- CyberBrain
+{9121}{}{NOVOS DADOS COLETADOS. MELHORAR OS SISTEMAS DE SEGMENTAÇÃO.}
+{9122}{}{SISTEMA DE MODIFICAÇÃO CONCLUÍDO.}
+{9123}{}{SISTEMA DE MIRA RECALIBRADO. 20% DE AUMENTO NA PRECISÃO.}
+{9124}{}{DESEMPENHO IDEAL ALCANÇADO.}
+{9130}{}{Chefe! Acho que finalmente estou pegando o jeito disso.} # pMVic_PID
+{9131}{}{Na verdade, estou ficando cada vez melhor! Eu disse que não iria te decepcionar, chefe.}
+{9132}{}{Ei ... espere ... agora eu entendo. Eu não acho que eu estou apontando com precisão.}
+{9133}{}{Veja, chefe! Você pode ensinar a um cachorro velho novos truques!}
+{9134}{}{Quer saber, chefe? Eu acho que eu realmente estou aprendendo uma coisa ou duas.}
+{9135}{}{Estou ficando muito bom nisso. Veja, chefe. Todas as coisas boas ficar melhor com o tempo.}
+{9140}{}{Eu aprendi algumas coisas novas!} # pMBess_PID
+{9141}{}{Eu aprendi algumas coisas novas!}
+{9150}{}{Eu aprendi algumas coisas novas!} # pMChicken_PID
+{9151}{}{Eu aprendi algumas coisas novas!}
+{9160}{}{Eu aprendi algumas coisas novas!} # pMKarl_PID
+{9161}{}{Eu aprendi algumas coisas novas!}
+{9170}{}{Eu aprendi algumas coisas novas!} # pMJonny_PID
+{9171}{}{Eu aprendi algumas coisas novas!}
+{9180}{}{Eu aprendi algumas coisas novas!} # pMLloyd_PID
+{9181}{}{Eu aprendi algumas coisas novas!}
+{9190}{}{Woof WOOF!} # pMDogMeat_PID
+{9191}{}{Woof WOOF WOOOOF!}
+{9192}{}{Woof WOOF WOOOOF!}
+{9193}{}{Woof WOOF WOOOOF!}
+{9194}{}{Woof WOOF WOOOOF!}
+{9195}{}{Wa-WOOOOF!}
+
+{9200}{}{} # pMRoboBrain_PID -- Human
+
+{9210}{}{} # pMRoboBrain_PID -- Abnormal
+
+{9220}{}{} # pMRoboBrain_PID -- Chimp
+
+{9230}{}{} # pMPariahDog_PID
+
+{9240}{}{Iniciando a atualização do programa, Mestre ... Atualização completa.}  # pMK9_PID
+{9241}{}{Instalação e atualização de software, Mestre ... Versão 2.0 instalado.}
+{9242}{}{Realizando modificações de hardware, Mestre ... Sistemas nominal.}
+{9243}{}{Realizando modificações de hardware, Mestre ... Sistemas ótimo!!}
+
+
+{9250}{}{} # pMCarTrunk_PID

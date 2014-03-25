@@ -94,29 +94,24 @@
 #
 {9000}{}{%s ha ganado nuevas habilidades.} # Party Member has gained experience/level
 # Individuals
-
 {9010}{}{¡Caray! De repente he sentido un subidón de experiencia.} # pMMyron_PID
 {9011}{}{¡Sube de nivel, nena! ¡Sube!}
 {9012}{}{Siento una gran perturbación en la Fuerza. Como si todas mis habilidades hubieran ganado puntos porcentuales.}
 {9013}{}{Me siento más duro, más fuerte. Más listo.}
-
 {9020}{}{¡Caramba! ¡Me siento como si hubiera pasado una barrera arbitraria de experiencia y hubiera obtenido más poder!} # pMMarcus_PID
 {9021}{}{¡Aaagggh! Mis músculos.. se hinchan... Mis atributos... crecen.... Gano nivel...}
 {9022}{}{Dame un diploma y un estúpido gorro con borla, ¡porque me acabo de graduar!}
 {9023}{}{¡Vaya, me siento más poderoso! ¿Eso significa un aumento de sueldo?}
-
 {9030}{}{Ahora lo recuerdo todo...} # pMMacRae_PID
 {9031}{}{Je. Supongo que se le puede enseñar nuevos trucos a un perro viejo.}
 {9032}{}{Parece que tanto viajar ha servido de algo.}
 {9033}{}{He aprendido nuevos trucos.}
-
 {9040}{}{El Abuelo enseña. Nosotros aprendemos.} # pMSulik_PID
 {9041}{}{Aprendemos más de los espíritus, hombre.}
 {9042}{}{Aprendemos ahora.}
 {9043}{}{El Gran Espíritu entra en Sulik ahora.}
 {9044}{}{Ahora somos uno con el Abuelo Hueso, hombre.}
 {9045}{}{Ahora somos el Abuelo.}
-
 {9050}{}{Oh, sí... realmente he aprendido algo de esto.} # pMLenny_PID
 {9051}{}{La culpa por todo esto va a matarme.}
 {9052}{}{No puedo creer que haya sobrevivido hasta aquí.}
@@ -151,7 +146,6 @@
 {9122}{}{ADAPTACION DE SISTEMA COMPLETADA.}
 {9123}{}{SISTEMAS DE APUNTADO RECALIBRADOS. 20% DE AUMENTO EN PRECISION.}
 {9124}{}{FUNCIONAMIENTO OPTIMO ALCANZADO.}
-
 {9130}{}{¡Jefe! Creo que por fin le he cogido el tranquillo a esto.} # pMVic_PID
 {9131}{}{¡Estoy mejorando! Te dije que no te decepcionaría, Jefe.}
 {9132}{}{Oye... espera... ya lo pillo. No creo que esté apuntando con la suficiente precisión.}
