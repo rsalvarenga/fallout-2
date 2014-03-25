@@ -18,8 +18,8 @@
 {12}{}{OPÇÕES}
 {13}{}{CREDITOS}
 {14}{}{SAIR}
-{15}{}{Action Points}
-{16}{}{Hit Points}
+{15}{}{Pts. de Ação}
+{16}{}{Pts. de Vida}
 {17}{}{The motion sensor option is not installed.}
 {18}{}{The motion sensor has no charges remaining.}
 {20}{}{Copyright(c) 1998 Interplay Productions.  All rights reserved.}
