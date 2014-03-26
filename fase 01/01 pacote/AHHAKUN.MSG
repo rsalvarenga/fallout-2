@@ -66,39 +66,39 @@
 {162}{}{Você está certo, Hakunin, e se você for sábio você não vai esquecer disto.} # That's right, Hakunin, and you'd be a real wise man not to forget it.
 {163}{}{Minha cabeça dói só de te ouvir. Até mais.} # My head aches from within listening to you. I'm gone. 
 {164}{}{Booka!} # Booka!
-{165}{hak013}{Limpe sua alma como fará para banir os demônios de meu jardim.} # Cleanse your soul as you would banish demons from my garden.
-{166}{}{It shall be done, wise one. I will come seek your forgiveness after I have purified your garden.} # 
-{167}{}{You're trying to say that weeding your garden will be good for me, right? Well, okay, I'll give it a try.} # 
-{168}{}{I kinda like my soul the way it is. Bye.} # 
-{169}{}{I'm not worthy. I'll take my leave now.} # 
-{170}{hak014}{Chosen, once again the wholeness of your being is like a land blessed.} # 
-{171}{}{Thank you.} # 
-{172}{}{You mean I'm better, right?} # 
-{173}{hak015}{To make one whole instills a sense of fullness that you would be well to understand, Chosen.} # 
-{174}{}{Wait, don't tell me. I'm better and you felt good doing it, right? Thanks.} # 
-{175}{}{You are wise and kind, Holy One.} # 
-{176}{hak017}{In what way may I touch the chosen soul, Seed of the Dweller?} # 
-{177}{}{Uh, where exactly is your garden?} # 
-{178}{}{I'm hurt. Can you heal me?} # 
-{179}{}{Oh, nothing. Goodbye.} # 
-{180}{hak018}{Ahh. You return the spirit of the Dweller to the world and bring a smile to the soul of an old man in passing. For this, I give you powders of healing. Remember, they fog the mind as they cleanse the body.} # 
-{181}{}{Thank you.} # 
-{182}{hak018a}{And also, will I mix the broc flower with the xander root together whenever you bring both to me. May your pathways be true and your heart follow suit. } # 
-{183}{}{Where can I find these things?} # 
-{184}{}{Thank you.} # 
-{185}{}{I'm almost sorry to go. I can just about understand you now. Bye.} # 
-{186}{hak019}{Ah, Chosen, my garden is well- how is yours?} # 
-{187}{}{I'm all right.} # 
-{188}{}{I need healing.} # 
-{189}{}{Where did you say the plants were?} # 
-{190}{}{I don't have a garden- what the hell are you talking about this time?} # 
-{191}{}{I'd like you to make some healing powder for me.} # 
-{192}{}{Oh, never mind. I've got to go.} # 
-{193}{}{Ow?} # 
-{194}{}{Ooog! Bak!} # 
-{195}{hak020}{The pleasure of these words fills me. Alas, the gods whisper for my ear. Goodbye.} # 
-{196}{}{Bye.} # 
-{197}{}{Still mixing the herbs, huh? See you later.} # 
+{165}{hak013}{Limpe sua alma, da mesma maneira que deve banir os demônios de meu jardim. Arranque o mal pela raíz. } # Cleanse your soul as you would banish demons from my garden.
+{166}{}{Eu farei isso, sábio. Eu buscarei seu perdão depois de ter purificado seu jardim.} # It shall be done, wise one. I will come seek your forgiveness after I have purified your garden.
+{167}{}{Você tá tentando me dizer que capinar seu jardim vai ser bom pra mim, certo? Ok, eu vou tentar.} # You're trying to say that weeding your garden will be good for me, right? Well, okay, I'll give it a try.
+{168}{}{Eu curto minha alma do jeito que está. Adeus.} # I kinda like my soul the way it is. Bye.
+{169}{}{Eu não sou digno. Vou me retirar agora.} # I'm not worthy. I'll take my leave now.
+{170}{hak014}{Escolhido, novamente a totalidade do seu ser está abençoada, como a terra.} # Chosen, once again the wholeness of your being is like a land blessed.
+{171}{}{Obrigado.} # Thank you. 
+{172}{}{Você quer dizer que eu tô melhor, né?} # You mean I'm better, right?
+{173}{hak015}{Para fazer um inteiro, é necessário que tenhamos um senso de plenitude. Você faria bem em entender, Escolhido.} # To make one whole instills a sense of fullness that you would be well to understand, Chosen.
+{174}{}{Pera, deixa comigo. Eu estou melhor e você se sente bem por isso, certo? Obrigado.} # Wait, don't tell me. I'm better and you felt good doing it, right? Thanks.
+{175}{}{Você é sábio e bondoso, Santo Xamã.} # You are wise and kind, Holy One.
+{176}{hak017}{De que forma posso tocar a alma escolhida, Semente do Fundador?} # In what way may I touch the chosen soul, Seed of the Dweller?
+{177}{}{Ahn... Onde exatamente fica o seu jardim?} # Uh, where exactly is your garden?
+{178}{}{Estou ferido. Você pode me curar?} # I'm hurt. Can you heal me?
+{179}{}{É.. Deixa pra lá. Adeus.} # Oh, nothing. Goodbye.
+{180}{hak018}{Ahh... Você retorna o espírito do Fundador para o mundo, e leva um sorriso até a alma de um homem velho, enquanto passa. Como recompensa, eu te dou alguns sacos de Healing Powder. Mas lembre-se: Eles embaçam a mente enquanto curam o corpo.} # Ahh. You return the spirit of the Dweller to the world and bring a smile to the soul of an old man in passing. For this, I give you powders of healing. Remember, they fog the mind as they cleanse the body.
+{181}{}{Obrigado.} # Thank you.
+{182}{hak018a}{Farei também a mistura de broc flower com xander root, sempre que você trouxer ambos para mim. Que seus caminhos sejam verdadeiros, e que seu coração siga o exemplo.} # And also, will I mix the broc flower with the xander root together whenever you bring both to me. May your pathways be true and your heart follow suit. 
+{183}{}{Onde posso achar essas coisas?} # Where can I find these things?
+{184}{}{Obrigado.} # Thank you.
+{185}{}{Estou até triste de ir embora. Eu estava quase começando a te entender... Adeus.} # I'm almost sorry to go. I can just about understand you now. Bye.
+{186}{hak019}{Ah, Escolhido. Meu jardim está bem - como vai o seu?} # Ah, Chosen, my garden is well- how is yours?
+{187}{}{Eu estou bem.} # I'm all right.
+{188}{}{Eu preciso de cura.} # I need healing.
+{189}{}{Onde você disse que estavam as plantas mesmo?} # Where did you say the plants were?
+{190}{}{Eu não tenho jardim nenhum - de que diabos você está falando agora?} # I don't have a garden- what the hell are you talking about this time?
+{191}{}{Eu gostaria que você fizesse um pouco de Healing Powder pra mim.} # I'd like you to make some healing powder for me.
+{192}{}{Ah, esquece. Eu tenho que ir.} # Oh, never mind. I've got to go.
+{193}{}{Ow?} # Ow?
+{194}{}{Ooog! Bak!} # Ooog! Bak!
+{195}{hak020}{O prazer dessas palavras me preenche. Infelizmente, os deuses pedem por minha orelhas. Adeus.} # The pleasure of these words fills me. Alas, the gods whisper for my ear. Goodbye.
+{196}{}{Adeus.} # Bye.
+{197}{}{Ainda misturando essas ervas aí, né? Ok. Te vejo depois.} # Still mixing the herbs, huh? See you later.
 {198}{hak021}{We all have gardens. May your journeys act as tending. Be well. I must seek audience with the gods now.} # 
 {199}{}{See ya.} # 
 {200}{}{I'm betting you carry your audience with you wherever you go. Be well.} # 
