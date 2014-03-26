@@ -1,5 +1,5 @@
 #############################################################
-#  Irmãos Dunton (Klamath)                                   #
+#  IrmÃ£os Dunton (Klamath)                                   #
 #  Traduzido por Ricardo S. Alvarenga                       #
 #############################################################
 
@@ -9,11 +9,11 @@
 #{102}{}{You see a tall, heavily muscled man whose face, beneath his beetling brow, is habitually
 # twisted into a bully's smirking scowl. He looks just like his brother.}
 
-{100}{}{Você vê dois homens muito parecidos...eles podem ser gêmeos.
- Ambos são musculosos e têm sobrancelhas bem grossas.}
-{101}{}{Você quer ver Chuck ou Buck Dunton, eles se parecem tanto que você não tem certeza de qual deles está olhando agora.}
-{102}{}{Você vê um homem alto e musculoso, que, debaixo dessa testa marrenta,
- se mostra um valetão. Ele se parece com seu irmão.}
+{100}{}{VocÃª vÃª dois homens muito parecidos...eles podem ser gÃªmeos.
+ Ambos sÃ£o musculosos e tÃªm sobrancelhas bem grossas.}
+{101}{}{VocÃª quer ver Chuck ou Buck Dunton, eles se parecem tanto que vocÃª nÃ£o tem certeza de qual deles estÃ¡ olhando agora.}
+{102}{}{VocÃª vÃª um homem alto e musculoso, que, debaixo dessa testa marrenta,
+ se mostra um valetÃ£o. Ele se parece com seu irmÃ£o.}
  
 #{110}{}{You just better push off, or my brother and I are going to pound your little head into jam.}
 #{111}{}{Hey, take it easy. I was just kidding around. I'm really sorry. Don't hit me, please.
@@ -22,12 +22,12 @@
 #{113}{}{I need some information, and you just better tell me what I need to know.}
 #{114}{}{You and your brother? Are you afraid to take me on all alone? (Cluck, cluck, cluck)}
 
-{110}{}{É melhor não empurrar, ou meu irmão e eu vamos esmagar sua cabeça.}
-{111}{}{Ei, vá com calma. Eu só estava brincando. Eu sinto muito. Não me bata, por favor.
+{110}{}{Ã‰ melhor nÃ£o empurrar, ou meu irmÃ£o e eu vamos esmagar sua cabeÃ§a.}
+{111}{}{Ei, vÃ¡ com calma. Eu sÃ³ estava brincando. Eu sinto muito. NÃ£o me bata, por favor.
  Alias, gostaria de fazer duas perguntas.}
 {112}{}{Uh, desculpe, Sr. Dunton, Sr. eu vou sair agora.}
-{113}{}{Preciso de algumas informações, e é melhor que me diga.}
-{114}{}{Você e seu irmão!? Tem medo de me encarar sozinho? (cacarejar, cacarejar, cacarejar)}
+{113}{}{Preciso de algumas informaÃ§Ãµes, e Ã© melhor que me diga.}
+{114}{}{VocÃª e seu irmÃ£o!? Tem medo de me encarar sozinho? (cacarejar, cacarejar, cacarejar)}
 
 #{120}{}{Just get out before we smash you flat and turn you into drymeat.}
 #{121}{}{Hey, I'm really sorry. I didn't mean to upset you. I'm just stupid. I'll come back later when
@@ -35,11 +35,11 @@
 #{122}{}{Oh, okay, sorry. Don't hit me. Please.}
 #{123}{}{At least I won't have to look at your butt-ugly faces anymore.}
 
-{120}{}{Basta! É melhor sair ou vou transformar você em carne seca.}
-{121}{}{Ei, eu sinto muito. Eu não queria incomodá-lo. Sou um estúpido.
- Voltarei mais tarde quando minha presença não encomodar.}
-{122}{}{Oh, okay, Desculpe. Não me bata. Por favor.}
-{123}{}{Pelo menos não vou ter que olhar para suas caras de bunda feia mais.}
+{120}{}{Basta! Ã‰ melhor sair ou vou transformar vocÃª em carne seca.}
+{121}{}{Ei, eu sinto muito. Eu nÃ£o queria incomodÃ¡-lo. Sou um estÃºpido.
+ Voltarei mais tarde quando minha presenÃ§a nÃ£o encomodar.}
+{122}{}{Oh, okay, Desculpe. NÃ£o me bata. Por favor.}
+{123}{}{Pelo menos nÃ£o vou ter que olhar para suas caras de bunda feia mais.}
 
 #{130}{}{What do you want to know from us?}
 #{131}{}{I don't think we need to tell you anything. What the heck do you want, anyway?}
@@ -51,35 +51,35 @@
 #{137}{}{Have you heard anything about brahmin mutilations around here?}
 #{138}{}{I guess I don't need anything after all. Goodbye.}
 
-{130}{}{O que você quer saber sobre nós?}
-{131}{}{Acredito que nós não precisamos dizer nada. De qualquer forma, o que diabos você quer?}
-{132}{}{Então seria covardia nossa, de qualquer forma o que quer de nós?}
-{133}{}{Algum de vocês já ouviu falar sobre uma coisa chamada de Garden of Eden Creation Kit?}
+{130}{}{O que vocÃª quer saber sobre nÃ³s?}
+{131}{}{Acredito que nÃ³s nÃ£o precisamos dizer nada. De qualquer forma, o que diabos vocÃª quer?}
+{132}{}{EntÃ£o seria covardia nossa, de qualquer forma o que quer de nÃ³s?}
+{133}{}{Algum de vocÃªs jÃ¡ ouviu falar sobre uma coisa chamada de Garden of Eden Creation Kit?}
 {134}{}{Eu gostaria de fazer uma troca.}
 {135}{}{Tem algum trabalho por aqui?}
-{136}{}{É, qual dos Dunton é você?}
-{137}{}{Você já ouviu falar alguma coisa sobre as mutilações brahmins por aqui?}
-{138}{}{Afinal de contas, depois de tudo isso acho que não preciso de mais nada. Tchau.}
+{136}{}{Ã‰, qual dos Dunton Ã© vocÃª?}
+{137}{}{VocÃª jÃ¡ ouviu falar alguma coisa sobre as mutilaÃ§Ãµes brahmins por aqui?}
+{138}{}{Afinal de contas, depois de tudo isso acho que nÃ£o preciso de mais nada. Tchau.}
 
 #{140}{}{You went way over the line. I think you just better get out of here before we teach you a lesson.}
 #{141}{}{I'm sorry, I just got so excited working with you two. I'll leave now. Goodbye.}
 #{142}{}{Line? What line? It was your idea in the first place.}
 #{143}{}{You two are just too yellow to do what needed to be done.}
 
-{140}{}{Você passou da conta. Eu acho melhor sair daqui antes de ensinar-lhe uma lição.}
-{141}{}{Me desculpe, Eu estava tão empolgado em trabalhar com vocês dois. Vou sair agora. Tchau.}
-{142}{}{Conta, que conta? Foi você quem começou.}
-{143}{}{Vocês dois são muito covardes pra fazer o que tem que ser feito.}
+{140}{}{VocÃª passou da conta. Eu acho melhor sair daqui antes de ensinar-lhe uma liÃ§Ã£o.}
+{141}{}{Me desculpe, Eu estava tÃ£o empolgado em trabalhar com vocÃªs dois. Vou sair agora. Tchau.}
+{142}{}{Conta, que conta? Foi vocÃª quem comeÃ§ou.}
+{143}{}{VocÃªs dois sÃ£o muito covardes pra fazer o que tem que ser feito.}
 
 #{150}{}{Well, we have a good supply of our world famous Dunton's Drymeat on hand. Tasty and delicious - good for you, too.}
 #{151}{}{Uh, that's great. }
 #{152}{}{Drymeat? That doesn't sound like what I need. Tell me something else.}
 #{153}{}{I don't think I need to barter after all. Goodbye.}
 
-{150}{}{Bem, temos uma boa oferta de primeira mão de nossa mais famosa Carne seca de Dunton. Saborosa e deliciosa - e muito boa para sua saúde também.}
-{151}{}{Uh, seria ótimo. }
-{152}{}{Carne Seca? Isso não é o que preciso. Diga-me outra coisa.}
-{153}{}{Depois de tudo isso, não quero trocar nada. Tchau.}
+{150}{}{Bem, temos uma boa oferta de primeira mÃ£o de nossa mais famosa Carne seca de Dunton. Saborosa e deliciosa - e muito boa para sua saÃºde tambÃ©m.}
+{151}{}{Uh, seria Ã³timo. }
+{152}{}{Carne Seca? Isso nÃ£o Ã© o que preciso. Diga-me outra coisa.}
+{153}{}{Depois de tudo isso, nÃ£o quero trocar nada. Tchau.}
 
 #{160}{}{You had your chance, pal.}
 #{161}{}{I don't think there's any work for you here.}
@@ -92,16 +92,16 @@
 #{168}{}{Well, I guess I missed out. I'll be going then. Goodbye.}
 #{169}{}{Okay. Bye.}
 
-{160}{}{Você teve sua chance amigo.}
-{161}{}{Não há trabalho pra você aqui.}
-{162}{}{Bem, há uma coisa que poderia nos ajudar. (Heh, heh, heh)}
+{160}{}{VocÃª teve sua chance amigo.}
+{161}{}{NÃ£o hÃ¡ trabalho pra vocÃª aqui.}
+{162}{}{Bem, hÃ¡ uma coisa que poderia nos ajudar. (Heh, heh, heh)}
 {163}{}{Com o que Chuck?}
 {164}{}{Com o que Buck?}
-{165}{}{É, com o que?}
-{166}{}{Oh, yeah. Bem, então vamos falar de outra coisa.}
-{167}{}{Hey, espera... Eu realmente quero ajudar vocês. Conte-me sobre esse trabalho novamente.}
+{165}{}{Ã‰, com o que?}
+{166}{}{Oh, yeah. Bem, entÃ£o vamos falar de outra coisa.}
+{167}{}{Hey, espera... Eu realmente quero ajudar vocÃªs. Conte-me sobre esse trabalho novamente.}
 {168}{}{Bem, Acho que perdi a oportunidade. Ja estou indo embora. Tchau.}
-{169}{}{Okay. Até mais.}
+{169}{}{Okay. AtÃ© mais.}
 
 #{170}{}{You worthless sack of gecko shit! Just what the hell are doing in our sight again?}
 #{171}{}{I just wanted to apologize. I didn't mean to screw up. I'm just not as good at rustling as you
@@ -110,11 +110,11 @@
 # you two are. I need something, though.}
 #{173}{}{Gecko shit? Are we talking about what you eat, or what you use for brains?}
 
-{170}{}{Maldito saco de merda de gecko! O que diabos está fazendo aqui de novo?}
-{171}{}{Eu só queria pedir desculpas. Eu não quero incomoda-los. Eu só não sou tão bom em roubar como vocês dois.
- Além do mais, preciso de algo de você.}
-{172}{}{Bem, você está certo. Poderia ter feito um trabalho melhor. Eu acho que não sou um ladrão nato como vocês dois são. No entanto, preciso de uma coisa.}
-{173}{}{Merda de gecko? Estamos falando sobre o que você come ou o que você usa para no lugar do cérebro?}
+{170}{}{Maldito saco de merda de gecko! O que diabos estÃ¡ fazendo aqui de novo?}
+{171}{}{Eu sÃ³ queria pedir desculpas. Eu nÃ£o quero incomoda-los. Eu sÃ³ nÃ£o sou tÃ£o bom em roubar como vocÃªs dois.
+ AlÃ©m do mais, preciso de algo de vocÃª.}
+{172}{}{Bem, vocÃª estÃ¡ certo. Poderia ter feito um trabalho melhor. Eu acho que nÃ£o sou um ladrÃ£o nato como vocÃªs dois sÃ£o. No entanto, preciso de uma coisa.}
+{173}{}{Merda de gecko? Estamos falando sobre o que vocÃª come ou o que vocÃª usa para no lugar do cÃ©rebro?}
 
 #{180}{}{Back again, huh? Well, what can we help you with, business partner?}
 #{181}{}{Hey there, pal. That sure was a sweet job we pulled on that dumb-ass Torr, huh? Let me get your
@@ -126,20 +126,20 @@
 # who can defend themselves for a change? Goodbye.}
 #{185}{}{I guess I don't really need anything right now. Goodbye.}
 
-{180}{}{Outra vez aquí? Bem, no que podemos ajudá-lo, parceiro de negócios?}
-{181}{}{Olá, amigo. Fizemos um bom trabalho com esse idiota do Torr hein? Vejamos a sua parte da ação.}
-{182}{}{Este foi um bom negócio. Estou ancioso pra saber quando vai ter outro trabalho semelhante. Agora preciso de outra coisa.}
+{180}{}{Outra vez aquÃ­? Bem, no que podemos ajudÃ¡-lo, parceiro de negÃ³cios?}
+{181}{}{OlÃ¡, amigo. Fizemos um bom trabalho com esse idiota do Torr hein? Vejamos a sua parte da aÃ§Ã£o.}
+{182}{}{Este foi um bom negÃ³cio. Estou ancioso pra saber quando vai ter outro trabalho semelhante. Agora preciso de outra coisa.}
 {183}{}{Estou aqui pela minha parte, parceiro.}
-{184}{}{O que fizemos me faz ter vergonha de mim mesmo. Enganando um idiota? Por que vocês não brincam com
- alguém que possa se defender, seus covardes? Tchau.}
-{185}{}{No momento não preciso de nada. Até mais.}
+{184}{}{O que fizemos me faz ter vergonha de mim mesmo. Enganando um idiota? Por que vocÃªs nÃ£o brincam com
+ alguÃ©m que possa se defender, seus covardes? Tchau.}
+{185}{}{No momento nÃ£o preciso de nada. AtÃ© mais.}
 
 #{190}{}{OK - here's the $50 and a little something extra for you, as well. A few sticks of Dunton's
 # Drymeat. Thanks again, partner.}
 #{191}{}{Thanks. Hey, there's something else that I want to know.}
 #{192}{}{I can sure use that money. Mmm, (bite) tasty jerky, too. Thanks. Goodbye.}
 
-{190}{}{OK - aqui está os $50 e um extra pra você alguns espetos de carne seca Dunton}
+{190}{}{OK - aqui estÃ¡ os $50 e um extra pra vocÃª alguns espetos de carne seca Dunton}
 {191}{}{Obrigado. Eh..tem uma coisa que queria perguntar.}
 {192}{}{Me veio na hora certa este dinheiro. Mmm...(mastigando). Saborosa carne seca. Obrigado. Tchau.}
 
@@ -154,14 +154,14 @@
 #{206}{}{In the meantime, though, there's something that I want to know.}
 #{207}{}{Goodbye.}
 
-{198}{}{Ok, o assunto é esse: Necessitamos de ajuda para, eh...roubar alguns brahmins do idiota do Torr. Não deve ter problemas em faze-lo. Deve apenas afasta-lo deles. O que me diz?}
+{198}{}{Ok, o assunto Ã© esse: Necessitamos de ajuda para, eh...roubar alguns brahmins do idiota do Torr. NÃ£o deve ter problemas em faze-lo. Deve apenas afasta-lo deles. O que me diz?}
 {199}{}{Agora me lembro. Obrigado. }
-{200}{}{Encontre-nos na área de pastagem dos brahmins a leste da cidade, esta noite as 6:00 PM.}
-{201}{}{Encontre-nos na área de pastagem dos brahmins a leste da cidade, amanhã a noite as 06:00 PM.}
+{200}{}{Encontre-nos na Ã¡rea de pastagem dos brahmins a leste da cidade, esta noite as 6:00 PM.}
+{201}{}{Encontre-nos na Ã¡rea de pastagem dos brahmins a leste da cidade, amanhÃ£ a noite as 06:00 PM.}
 {202}{}{OK, eu cuidarei de Torr. }
 {203}{}{OK, irei buscar Torr na zona de pastagem dos brahmins e cuidarei dele.}
-{204}{}{Depois de tudo, acho que não quero fazer isso.}
-{205}{}{OK, eu estarei lá. Goodbye.}
+{204}{}{Depois de tudo, acho que nÃ£o quero fazer isso.}
+{205}{}{OK, eu estarei lÃ¡. Goodbye.}
 {206}{}{Nesse meio tempo, gostaria de perguntar-lhe algo mais.}
 {207}{}{Tchau.}
 
@@ -184,19 +184,19 @@
 
 {208}{}{Eu sou Chuck Dunton. O que quer? Idiota!}
 {209}{}{Eu sou Buck Dunton. O que quer? Idiota!}
-{210}{}{Pareço feio? Eu sou Chuck Dunton.}
-{211}{}{Pareço feio? Eu sou Buck Dunton.}
-{212}{}{Você pensa baixo, certo? Eu sou Chuck Dunton.}
-{213}{}{Você pensa baixo, certo? Eu sou Buck Dunton.}
-{214}{}{Você é incapaz de entender, malditos Tribais. Eu sou Chuck, seu imbecil.}
-{215}{}{Você é incapaz de entender, malditos Tribais. Eu sou Buck, seu imbecil.}
+{210}{}{PareÃ§o feio? Eu sou Chuck Dunton.}
+{211}{}{PareÃ§o feio? Eu sou Buck Dunton.}
+{212}{}{VocÃª pensa baixo, certo? Eu sou Chuck Dunton.}
+{213}{}{VocÃª pensa baixo, certo? Eu sou Buck Dunton.}
+{214}{}{VocÃª Ã© incapaz de entender, malditos Tribais. Eu sou Chuck, seu imbecil.}
+{215}{}{VocÃª Ã© incapaz de entender, malditos Tribais. Eu sou Buck, seu imbecil.}
 {216}{}{Eu sou Sally 'Nariz Grande' Dunton gostou do meu vestido? Eu sou Chuck Dunton, seu estupido tribal.}
 {217}{}{Eu sou Sally 'Nariz Grande' Dunton gostou do meu vestido? Eu sou Buck Dunton, seu estupido tribal.}
-{218}{}{É, tudo bem sim, eu pensei que... desculpa.}
-{219}{}{Não se preocupe, eu entendi, preciso de uma coisa, eh, Sr. Dunton.}
-{220}{}{É, seja o que for, só me diga o que preciso saber.}
-{221}{}{Bem, os dois são estupidos e feios. Além disso, eu não dou a mínima com qual Dunton estou falando. Tchau, idotas.}
-{222}{}{É, sim, bem. diga-me sobre o trabalho.}
+{218}{}{Ã‰, tudo bem sim, eu pensei que... desculpa.}
+{219}{}{NÃ£o se preocupe, eu entendi, preciso de uma coisa, eh, Sr. Dunton.}
+{220}{}{Ã‰, seja o que for, sÃ³ me diga o que preciso saber.}
+{221}{}{Bem, os dois sÃ£o estupidos e feios. AlÃ©m disso, eu nÃ£o dou a mÃ­nima com qual Dunton estou falando. Tchau, idotas.}
+{222}{}{Ã‰, sim, bem. diga-me sobre o trabalho.}
 
 #{230}{}{Word to the wise - you just better not say nuthin' to nobody. 'Cause if'n you do, that would
 # make us very angry. You don't want to see us angry.}
@@ -204,10 +204,10 @@
 #{232}{}{Don't worry, I won't tell anyone. Now tell me something else.}
 #{233}{}{Don't want to see you angry? I don't want to see your ugly mugs at all. Goodbye.}
 
-{230}{}{Sábias palavras - será melhor não contar nada a ninguém, porque se o fizer, nos deixaria muito nervosos. E você não quer ver-nos nervosos.}
-{231}{}{Sinto muito, não direi nada, eu prometo, Sr. Dunton, Sr. Tchau.}
-{232}{}{Não se preocupe, não vou contar nada. Agora me diga outra coisa.}
-{233}{}{Ve-los com raiva!? O que não quero é ver suas caras feias. Tchau.}
+{230}{}{SÃ¡bias palavras - serÃ¡ melhor nÃ£o contar nada a ninguÃ©m, porque se o fizer, nos deixaria muito nervosos. E vocÃª nÃ£o quer ver-nos nervosos.}
+{231}{}{Sinto muito, nÃ£o direi nada, eu prometo, Sr. Dunton, Sr. Tchau.}
+{232}{}{NÃ£o se preocupe, nÃ£o vou contar nada. Agora me diga outra coisa.}
+{233}{}{Ve-los com raiva!? O que nÃ£o quero Ã© ver suas caras feias. Tchau.}
 
 #{240}{}{Well, it's a pleasure doing business with you. Heh, heh, heh. Need anything else?}
 #{241}{}{Hmm...I think I forgot to barter for something.}
@@ -215,51 +215,76 @@
 #{243}{}{No, I think that's it for now, Chuck.}
 #{244}{}{No, I think that's it for now, Buck.}
 
-{240}{}{Bem, é um prazer fazer negócios com você. he..he..eh precisa de mais alguma coisa?}
+{240}{}{Bem, Ã© um prazer fazer negÃ³cios com vocÃª. he..he..eh precisa de mais alguma coisa?}
 {241}{}{Hmm...Eu acho que esqueci de trocar algo.}
 {242}{}{Sim, eu sei.}
-{243}{}{Não, isso é tudo por enquanto, Chuck
-{244}{}{Não, isso é tudo por enquanto, Buck.}
+{243}{}{NÃ£o, isso Ã© tudo por enquanto, Chuck
+{244}{}{NÃ£o, isso Ã© tudo por enquanto, Buck.}
 
 #{250}{}{Hey there, partner. Still counting on you for tonight. What can I do for you?}
 #{251}{}{Uh, I've reconsidered. I don't think I want to help you tonight.}
 #{252}{}{Yup. I'll be there. Let me ask you something, though.}
 #{253}{}{Sure I will. Goodbye.}
 
-{250}{}{Ei sócio, contamos com você está noite. O que posso fazer por você?}
-{251}{}{Eh, vou reconsiderar. Não quero ajuda-los esta noite.}
-{252}{}{Yup! eu estarei lá, deixe-me perguntar uma coisa.}
+{250}{}{Ei parceiro, contamos com vocÃª estÃ¡ noite. O que posso fazer por vocÃª?}
+{251}{}{Eh, vou reconsiderar. NÃ£o quero ajuda-los esta noite.}
+{252}{}{Yup! eu estarei lÃ¡, deixe-me perguntar uma coisa.}
 {253}{}{Claro que vou. Tchau.}
 
-{259}{}{Well, if it isn't our burly-armed chum.}
-{260}{}{Hey there. How's your arm coming? Ready to go again?}
-{261}{}{Hey there, you little squirt. What are you doing in our bar? You have to prove yourself to the
- Duntons by arm-wrestling me before we'll let you stay. (ha ha ha)}
-{262}{}{You don't look so darn tough. Why don't you arm-wrestle me, Chuck Dunton, for the right to drink
- in our bar?}
-{263}{}{You don't look so darn tough. Why don't you arm-wrestle me, Buck Dunton, for the right to drink
- in our bar?}
-{264}{}{Hey there, goody-two-shoes. You've gotta earn your admittance to our bar. You've gotta
- arm-wrestle me, Chuck Dunton.}
-{265}{}{Hey there, goody-two-shoes. You've gotta earn your admittance to our bar. You've gotta
- arm-wrestle me, Buck Dunton.}
+#{259}{}{Well, if it isn't our burly-armed chum.}
+#{260}{}{Hey there. How's your arm coming? Ready to go again?}
+#{261}{}{Hey there, you little squirt. What are you doing in our bar? You have to prove yourself to the
+# Duntons by arm-wrestling me before we'll let you stay. (ha ha ha)}
+#{262}{}{You don't look so darn tough. Why don't you arm-wrestle me, Chuck Dunton, for the right to drink
+# in our bar?}
+#{263}{}{You don't look so darn tough. Why don't you arm-wrestle me, Buck Dunton, for the right to drink
+# in our bar?}
+#{264}{}{Hey there, goody-two-shoes. You've gotta earn your admittance to our bar. You've gotta
+# arm-wrestle me, Chuck Dunton.}
+#{265}{}{Hey there, goody-two-shoes. You've gotta earn your admittance to our bar. You've gotta
+# arm-wrestle me, Buck Dunton.}
 
-{266}{}{Hey, looks like we've got ourselves a contender here. You've gotta arm-wrestle me, Chuck Dunton,
- if you want to drink in here.}
-{267}{}{Hey, looks like we've got ourselves a contender here. You've gotta arm-wrestle me, Buck Dunton,
- if you want to drink in here.}
+{259}{}{Bem, se nÃ£o Ã© nosso amigo forte e armado.}
+{260}{}{Ei, como estÃ¡ o seu braÃ§o? Pronto pra outra?}
+{261}{}{Ei, seu muleque. O que estÃ¡ fazendo em nosso bar? Deve mostrar que Ã© digno de estar
+ aqui, disputando uma luta corpo-a-corpo com os Dunton (ha ha ha)}
+{262}{}{Nao me parece tÃ£o durÃ£o assim. Por que nÃ£o luta corpo-a-corpo comigo, Chuck Dunton,
+ para ganhar o direito de beber em nosso bar?}
+{263}{}{Nao me parece tÃ£o durÃ£o assim. Por que nÃ£o luta corpo-a-corpo comigo, Bhuck Dunton,
+ para ganhar o direito de beber em nosso bar??}
+{264}{}{Ei bonzÃ£o. TerÃ¡ que ganhar o direito de entrar no nosso bar, terÃ¡ que lugar corpo-a-corpo comigo, Chuck Dunton.}
+{265}{}{Ei bonzÃ£o. TerÃ¡ que ganhar o direito de entrar no nosso bar, terÃ¡ que lugar corpo-a-corpo comigo, Buck Dunton.}
 
-{268}{}{Let's arm-wrestle. I guess that's the only way I'll get some peace in here.}
-{269}{}{I don't think I want to arm-wrestle you right now.}
-{270}{}{I don't want to wrestle right now. All I want is some information.}
-{271}{}{Uh, I think I'm in the wrong bar. Goodbye.}
+#{266}{}{Hey, looks like we've got ourselves a contender here. You've gotta arm-wrestle me, Chuck Dunton,
+# if you want to drink in here.}
+#{267}{}{Hey, looks like we've got ourselves a contender here. You've gotta arm-wrestle me, Buck Dunton,
+# if you want to drink in here.}
 
-{280}{}{You won this time. Well, aren't you a tricky little cuss? Quick as a gecko with its tail set
- on fire. Well, the first drink's on me.}
-{281}{}{Thanks. Maybe you can tell me something I want to know.}
-{282}{}{I just got lucky this time. Thanks.}
-{283}{}{I don't really need your beer, thanks. Let me ask you something, though.}
-{284}{}{I don't think I want your beer. Goodbye.}
+{266}{}{Hey, parece que temos um candidato aqui. VocÃª tem que lugar corpo-a-corpo com Cuck Dunton, para beber aqui.}
+{267}{}{Hey, parece que temos um candidato aqui. VocÃª tem que lugar corpo-a-corpo com Buck Dunton, para beber aqui.}
+
+#{268}{}{Let's arm-wrestle. I guess that's the only way I'll get some peace in here.}
+#{269}{}{I don't think I want to arm-wrestle you right now.}
+#{270}{}{I don't want to wrestle right now. All I want is some information.}
+#{271}{}{Uh, I think I'm in the wrong bar. Goodbye.}
+
+{268}{}{Vamos a luta corpo-a-corpo, suponho que seja a Ãºnica maneira das coisas se acalmarem.}
+{269}{}{Eu nÃ£o quero lutar corpo-a-corpo agora.}
+{270}{}{NÃ£o quero lutar corpo-a-corpo, sÃ³ quero uma informaÃ§Ã£o.}
+{271}{}{Ã‰, eu acho que estou no bar errado. Tchau.}
+
+#{280}{}{You won this time. Well, aren't you a tricky little cuss? Quick as a gecko with its tail set
+# on fire. Well, the first drink's on me.}
+#{281}{}{Thanks. Maybe you can tell me something I want to know.}
+#{282}{}{I just got lucky this time. Thanks.}
+#{283}{}{I don't really need your beer, thanks. Let me ask you something, though.}
+#{284}{}{I don't think I want your beer. Goodbye.}
+
+{280}{}{VocÃª ganhou desta vez. Bem, vocÃª Ã© um tipo corajoso. RÃ¡pido como um gecko com as costas em chamas. O primeiro copo Ã© por minha conta.}
+{281}{}{Obrigado, talvez vocÃª possa me dizer algumas coisas.}
+{282}{}{Foi apenas sorte. Obrigado.}
+{283}{}{NÃ£o quero sua cerveja. Obrigado, deixe-me perguntar umas coisas.}
+{284}{}{NÃ£o quero sua cerveja. Tchau.}
 
 {290}{}{You're lucky I didn't snap your little arm like a dried twig. (Hyuk, hyk, hyuk) Well, I guess
  there's still no challenge here in town.}
@@ -381,31 +406,60 @@
 {452}{}{Oooogly man.}
 {453}{}{ Chosen one!}
 
-{460}{}{Ooogly ann? Huh? You're just as dumb as that idiot Torr. That's good, we need a new fricking
- village idiot in town. We've just about used that Torr up.}
-{461}{}{Torr up?}
+#{460}{}{Ooogly ann? Huh? You're just as dumb as that idiot Torr. That's good, we need a new fricking
+# village idiot in town. We've just about used that Torr up.}
+#{461}{}{Torr up?}
 
-{470}{}{Chosen one, huh? Chosen most likely to be punched in the mouth. Did your momma drop you on the
- head, or did you just come out that dumb and ugly? Get the hell away from me.}
-{471}{}{Ook! }
-{472}{}{ Chosen one!}
+{460}{}{Feio Ã©? Huh? VocÃª Ã© tÃ£o idiota quanto ao Torr, isso Ã© bom, precisamos um novo mascote
+ na cidade, estavamos enjoados do Torr.}
+{461}{}{Torr chato?}
 
-{480}{}{You ready to go? Well, come on then. We don't have all damn night. We've got work to do.}
-{481}{}{Uh, yeah; I'm ready. Let's go.}
-{482}{}{I'm ready to teach that idiot herdboy a lesson.}
-{483}{}{I don't think I want to do this. See you later. }
+#{470}{}{Chosen one, huh? Chosen most likely to be punched in the mouth. Did your momma drop you on the
+# head, or did you just come out that dumb and ugly? Get the hell away from me.}
+#{471}{}{Ook! }
+#{472}{}{ Chosen one!}
 
-{490}{}{Hey, just wait until we get inside; then we can talk.}
-{500}{}{You struggle, but eventually the Dunton brother wins.}
-{510}{}{You manage to beat the Dunton brother after a tough struggle.}
+{470}{}{Escolhido, hein? Provavelmente escolhido pra de tomar um soco na cara. SerÃ¡ que sua mÃ£e deixou vocÃª cair
+ de cabeÃ§a, pra vocÃª ser tÃ£o burro e feio assim? Fique bem longe de mim.}
+{471}{}{Ssim! }
+{472}{}{ O escolhido!}
+
+#{480}{}{You ready to go? Well, come on then. We don't have all damn night. We've got work to do.}
+#{481}{}{Uh, yeah; I'm ready. Let's go.}
+#{482}{}{I'm ready to teach that idiot herdboy a lesson.}
+#{483}{}{I don't think I want to do this. See you later. }
+
+{480}{}{EstÃ¡ pronto para ir? Bem, vamos lÃ¡ entÃ£o. MaldiÃ§Ã£o nÃ³s temos trabalho a fazer e nÃ£o temos a noite toda.}
+{481}{}{Ã‰, Sim, estou pronto pra ir.}
+{482}{}{Estou pronto para ensinar uma liÃ§Ã£o para aquele estupido.}
+{483}{}{NÃ£o quero fazer isso, nos vemos depois. }
+
+#{490}{}{Hey, just wait until we get inside; then we can talk.}
+#{500}{}{You struggle, but eventually the Dunton brother wins.}
+#{510}{}{You manage to beat the Dunton brother after a tough struggle.}
+#{520}{}{Ok.}
+
+{490}{}{Ei, espere atÃ© chegarmos la dentro, ai podemos falar.}
+{500}{}{VocÃª luta, mas no final quem ganha Ã© o irmÃ£o Dunton.}
+{510}{}{VocÃª dominou a luta, mesmo sendo uma luta muito dificil contra os irmÃ£o Dunton}
 {520}{}{Ok.}
 
-{530}{}{Get the hell out of here. Some of us gots work to do.}
-{531}{}{Oh, OK. I guess I'll be moving on then. Sheesh, some people are so touchy. Goodbye.}
-{532}{}{Torr grazes his Brahmin just north of Downtown here.}
-{533}{}{When that Dumb-ass Torr gets here, you just better get rid of him.}
+#{530}{}{Get the hell out of here. Some of us gots work to do.}
+#{531}{}{Oh, OK. I guess I'll be moving on then. Sheesh, some people are so touchy. Goodbye.}
+#{532}{}{Torr grazes his Brahmin just north of Downtown here.}
+#{533}{}{When that Dumb-ass Torr gets here, you just better get rid of him.}
 
-{600}{}{Even idiot Torr has got more brains than you, thief!}
-{601}{}{ Ready to go?}
+{530}{}{Saia daqui. Temos trabalhar a fazer.}
+{531}{}{Oh, OK. EntÃ£o vou nessa. Ã“ Deus, algumas pessoas sÃ£o tÃ£o desconfiadas. Tchau.}
+{532}{}{Torr esta fazendo pastar seus brahmins bem ao norte do centro da cidade.}
+{533}{}{Quando o idiota do Torr chegar aqui, serÃ¡ melhor que se livre dele.}
 
-{700}{}{You have rustled the brahmin successfully.}
+#{600}{}{Even idiot Torr has got more brains than you, thief!}
+#{601}{}{ Ready to go?}
+
+{600}{}{AtÃ© o idota do Torr tem mais cerebro que vocÃª, LadrÃ£o!}
+{601}{}{ Pronto pra ir?}
+
+#{700}{}{You have rustled the brahmin successfully.}
+
+{700}{}{VocÃª roubou o brahmin de Torr.}
