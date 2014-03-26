@@ -20,9 +20,9 @@
 {14}{}{SAIR}
 {15}{}{Pts. de Ação}
 {16}{}{Pts. de Vida}
-{17}{}{A opção de sensor de movimento não está instalado.}
+{17}{}{O sensor de movimento não está instalado.}
 {18}{}{O sensor de movimento não tem cargas.}
-{20}{}{Copyright (c) 1998 Interplay Productions. Todos os direitos reservados. (Traduzido por fallout2br)}
+{20}{}{Copyright (c) 1998 Interplay Productions. Todos os direitos reservados.}
 
 {30}{}{Você deseja continuar jogando?}
 
