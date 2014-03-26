@@ -8,11 +8,11 @@
 #
 # Arroyo Quests
 #
-{100}{}{Kill the evil plants that infest Hakunin's garden.}
-{110}{}{Obtain flint to have Mynoc sharpen your spear.}
-{120}{}{Rescue Nagor's dog, Smoke, from the wilds.}
-{130}{}{Retrieve the GECK for Arroyo.}
-{140}{}{Find Vic the Trader.}
+{100}{}{Matar as plantas do mal que infestam o jardim de Hakunin.}
+{110}{}{Obter pederneira para Mynoc afiar sua lança.}
+{120}{}{Resgate Smoke, o cão do Nagor que esta na florestas.}
+{130}{}{Recuperar o GECK para Arroyo.}
+{140}{}{Encontre o Comerciante Vic.}
 
 #
 # Den Quests
@@ -30,17 +30,16 @@
 {210}{}{Find weakness in Tyler's gang guarding the church.}
 {211}{}{Help Lara attack Tyler's gang.}
 {212}{}{Find a way to get the orphans off the streets.}
-
 #
 # Klamath Quests
 #
-{300}{}{Refuel the still.}
-{301}{}{Rescue Smiley the Trapper.}
-{302}{}{Guard the brahmin.}
-{303}{}{Rustle the brahmin.}
-{304}{}{Kill the rat god.}
-{305}{}{Rescue Torr.}
-{306}{}{Figure out who is rustling the brahmin.}
+{300}{}{Reabasteça o imóvel.}
+{301}{}{Resgate Smiley o caçador.}
+{302}{}{Proteja os brahmin.}
+{303}{}{Roubar os brahmin.}
+{304}{}{Mate o Deus rato.}
+{305}{}{Resgate Torr.}
+{306}{}{Descobrir o que está sussurrando como brahmin.} #Figure out who is rustling the brahmin.
 
 #
 # Modoc Quests
