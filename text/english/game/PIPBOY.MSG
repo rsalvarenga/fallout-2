@@ -8,54 +8,54 @@
 #
 # Special holiday dates
 #
-{100}{}{Happy New Year's Day!}      # New years
-{101}{}{Happy Valentine's Day!}     # April fools
-{102}{}{Happy All Fool's Day!}      # April fools
-{103}{}{Happy Ship Day!}            # Shipping day!
-{104}{}{Happy Independence Day!}    # Independence day
-{105}{}{Happy Halloween!}           # Halloween
-{106}{}{Happy Thanksgiving Day!}    # Thanksgiving
-{107}{}{Merry Christmas!}           # X-mas
+{100}{}{Feliz Dia de Ano Novo!}      # New years
+{101}{}{Feliz Dia dos Namorados!}     # April fools
+{102}{}{Feliz Dia da Mentira!}      # April fools
+{103}{}{Feliz Dia do navio!}            # Shipping day!
+{104}{}{Feliz Dia da Independência!}    # Independence day
+{105}{}{Feliz Dia das Bruxas!}           # Halloween
+{106}{}{Feliz Dia de Ação de Graças!}    # Thanksgiving
+{107}{}{Feliz Natal!}           # X-mas
 
 #
 # System messages
 #
-{200}{}{MORE}
-{201}{}{BACK}
+{200}{}{MAIS}
+{201}{}{VOLTAR}
 {202}{}{STATUS}
-{203}{}{No current tasks.}
-{204}{}{CLUES}  # clues gone
-{205}{}{AUTOMAPS}
-{206}{}{VIDEO ARCHIVES}
-{207}{}{DATA}
+{203}{}{Não há tarefas atuais.}
+{204}{}{DICAS}  # clues gone
+{205}{}{AUTOMAPAS}
+{206}{}{ARQUIVOS DE VÍDEO}
+{207}{}{DADOS}
 {208}{}{}
 {209}{}{}
 {210}{}{Status}
-{211}{}{DATA}
-{212}{}{of}
-{213}{}{Page}
-{214}{}{DONE}
-{215}{}{You cannot rest at this location!}
+{211}{}{DADOS}
+{212}{}{de}
+{213}{}{Página}
+{214}{}{OK}
+{215}{}{Você não pode descansar neste local!}
 
 #
 # Alarm clock
 #
-{300}{}{ALARM CLOCK}
+{300}{}{DESPERTADOR}
 {301}{}{Pts. de Vida}
-{302}{}{Rest for ten minutes}
-{303}{}{Rest for thirty minutes}
-{304}{}{Rest for an hour}
-{305}{}{Rest for two hours}
-{306}{}{Rest for three hours}
-{307}{}{Rest for four hours}
-{308}{}{Rest for five hours}
-{309}{}{Rest for six hours}
-{310}{}{Rest until morning (0800)}
-{311}{}{Rest until noon (1200)}
-{312}{}{Rest until evening (1800)}
-{313}{}{Rest until midnight (0000)}
-{314}{}{Rest until healed}
-{315}{}{Rest until party is healed}
+{302}{}{Descanse por 10 minutos}
+{303}{}{Descanse por 30 minutos}
+{304}{}{Descanse por uma hora}
+{305}{}{Descanse por duas horas}
+{306}{}{Descanse por três horas}
+{307}{}{Descanse por quatro horas}
+{308}{}{Descanse por cinco horas}
+{309}{}{Descanse por seis horas}
+{310}{}{Descanse até a manhã seguinte (0800)}
+{311}{}{Descanse até o meio-dia (1200)}
+{312}{}{Descanse até a noite (1800)}
+{313}{}{Descanse até meia-noite (0000)}
+{314}{}{Descanse até a cura}
+{315}{}{Descanse até que o seu grupo se cure}
 
 #
 # Holodisk titles
@@ -88,35 +88,35 @@
 #
 {500}{}{InterPlay Logo}               # Not shown in Pipboy
 {501}{}{Intro}
-{502}{}{Elder Speech}
-{503}{}{Vault Suit Recovery}
-{504}{}{Arroyo Failure}
-{505}{}{Arroyo Destroyed}
-{506}{}{Starting the Car}
-{507}{}{Family Cartucci}
-{508}{}{Deathclaw Leader}
-{509}{}{Tanker to Derrick}
-{510}{}{Prisoners in Enclave}
-{511}{}{Derrick Exploding}
-{512}{}{Arroyo Dream 1}
-{513}{}{Arroyo Dream 2}
-{514}{}{Arroyo Dream 3}
-{515}{}{Arroyo Dream 4}
-{516}{}{Credits}
+{502}{}{Discurso da Anciã}
+{503}{}{Recuperação do Uniforme de Vault}
+{504}{}{Fracasso de Arroyo}
+{505}{}{Arroyo Destruída}
+{506}{}{Arrancando o carro}
+{507}{}{A Família Cartucci}
+{508}{}{Líder Deathclaw}
+{509}{}{Plataforma de Petrólio}
+{510}{}{Prisioneiros em Enclave}
+{511}{}{Explosão da Plataforma}
+{512}{}{Arroyo Sonho 1}
+{513}{}{Arroyo Sonho 2}
+{514}{}{Arroyo Sonho 3}
+{515}{}{Arroyo Sonho 4}
+{516}{}{Créditos}
 
 #
 # Things for the Mac version to speak
 #
 #
 {600}{}{Status}
-{601}{}{Clues}  # Clues gone
-{602}{}{Automaps}
-{603}{}{Archives}
-{604}{}{Alarm Clock}
+{601}{}{Pistas}  # Clues gone
+{602}{}{Automapas}
+{603}{}{Arquivos}
+{604}{}{Relógio Despertador}
 {605}{}{Doo da doo da dum dee dee doodly doo dum dum dum doo da doo da doo da doo da doo da doo da doo}
-{606}{}{Welcome to the Rob Co Pipboy 2000.}
-{607}{}{So long.}
-{608}{}{Wake up.}
+{606}{}{Bem-vindo ao Rob Co Pipboy 2000.}
+{607}{}{Até logo.}
+{608}{}{Acorde.}
 
 
 #
@@ -127,33 +127,33 @@
 # 1 ... 9 thread/quest name
 #
 {700}{}{Vault 13}
-{701}{}{Calm rebel faction.}
-{702}{}{Destroy the Mutant leader.}
-{703}{}{Destroy the source of the Mutants.}
-{704}{}{Find the Water Chip.}
-{705}{}{Find the Water Thief.}
+{701}{}{Acalmar a Facção rebelde}
+{702}{}{Destrua o líder mutante.}
+{703}{}{Destruir a fonte dos mutantes.}
+{704}{}{Encontre o Chip da Água.}
+{705}{}{Encontre o Ladrão de água.}
 #
 {710}{}{Buried Vault}
 #
 {720}{}{Shady Sands}
-{721}{}{Cure Jarvis of Radscorpion Poison.}
-{722}{}{Make Poison Antidote.}
-{723}{}{Rescue Tandi from the Raiders.}
-{724}{}{Stop the Radscorpions.}
+{721}{}{Cure Jarvis do veneno de um Radscorpion.}
+{722}{}{Faça Antídoto de veneno.}
+{723}{}{Resgate Tandi dos Raiders.}
+{724}{}{Pare os Radscorpions.}
 #
 {730}{}{Junktown}
-{731}{}{Help Saul.}
-{732}{}{Kill Killian.}
-{733}{}{Rescue Sinthia.}
-{734}{}{Save Trish.}
-{735}{}{Stop Gizmo.}
-{736}{}{Bust the Skulz gang.}
+{731}{}{Ajudar Saul.}
+{732}{}{Matar Killian.}
+{733}{}{Resgatar Sinthia.}
+{734}{}{Salvar Trish.}
+{735}{}{Parar Gizmo.}
+{736}{}{Prender a gang Skulz.}
 #
 {740}{}{Raiders}
 #
 {750}{}{Necropolis}
-{751}{}{Destroy the Super Mutants at the Watershed.}
-{752}{}{Fix the Necropolis water pump.}
+{751}{}{Destruir os Super Mutantes na Watershed.}
+{752}{}{Fixe a bomba de água de Necropolis.}
 #
 {760}{}{Hub}
 {761}{}{Destroy Deathclaw.}
@@ -192,9 +192,10 @@
 #
 {1000}{}{VAULT 13 HOLO by Ziggy}
 {1001}{}{**END-PAR**}
-{1002}{}{This holodisk gives the location of Vault 13. The       }
-{1003}{}{location has been marked on your map.                  }
-{1004}{}{**END-DISK**}
+{1002}{}{Este holodisk dá a localização do Vault 13.}
+{1003}{}{A localização foi marcada no seu mapa.}
+{1004}{}{**FIM**}
+
 # *** ***
 # GVAR_HOLODISK_MB_OUTSIDE
 {2000}{}{To: CHQ}
@@ -208,29 +209,29 @@
 {2008}{}{entrance to the base and seal the bastards in.}
 {2009}{}{}
 {2010}{}{Colonel Sanders}
-{2011}{}{**END-DISK**}
+{2011}{}{**FIM**}
 
 # *** ***
 # GVAR_HOLODISK_MB_LEVEL_1
-{3000}{}{This is Captain Pickard reporting at checkpoint 1.}
-{3001}{}{Contact with checkpoints 2 & 3 has been cut off. We}
-{3002}{}{can only assume the worst. The monsters are swarming}
-{3003}{}{up the mineshafts. All efforts to delay them have}
-{3004}{}{failed. We'll try to hold them at this position as long}
-{3005}{}{as we can.}
-{3006}{}{**END-DISK**}
+{3000}{}{Aqui é o Capitão Pickard relatando do ponto de checagem 1.}
+{3001}{}{Contato com os pontos de checagem 2 e 3 foram perdidos.}
+{3002}{}{Nós apenas podemos assumir o pior. Os monstros estão em }
+{3003}{}{abundância nos poços de mineração. Todas as tentativas de }
+{3004}{}{impedi-los falharam. Nós tentaremos segurá-los}
+{3005}{}{nessa posição o máximo possível.}
+{3006}{}{**FIM**}
 
 # *** ***
 # GVAR_HOLODISK_MB_LEVEL_2
-{4000}{}{Checkpoint 3 is under attack. We have shut down the}
-{4001}{}{mine elevators as a precaution, but I can hear them}
-{4002}{}{coming up the mineshaft. Holy shit! Huge, ugly,}
-{4003}{}{green, creatures are climbing out of the lower levels!}
-{4004}{}{This must be what the brass is after. Some kind of}
-{4005}{}{super soldier. As fast as we shoot them two more climb}
-{4006}{}{out of the mineshaft and the ones we shoot get up and}
-{4007}{}{keep coming at us! We need reinforc_}
-{4008}{}{**END-DISK**}
+{4000}{}{O ponto de checagem 3 está sob ataque. Nós desligamos}
+{4001}{}{os elevadores das minas por precaução, mas eu posso escutar}
+{4002}{}{eles vindo do poço de mineração. Puta merda! Criaturas}
+{4003}{}{imensas, horríveis e verdes estão escalando pra fora dos}
+{4004}{}{níveis inferiores! Isto deve ser o que o alto-militar se}
+{4005}{}{torna depois. Algum tipo de super soldado.Tão rápido nós}
+{4006}{}{atiramos em neles mas os eles se levantaram e continuaram}
+{4007}{}{a vir até nós! Nós precisamos de reforç...}
+{4008}{}{**FIM**}
 
 # *** ***
 # GVAR_HOLODISK_MB_LEVEL_3
@@ -247,7 +248,7 @@
 {5010}{}{mineshaft. My god! What are they? They're swarming}
 {5011}{}{our position! Send help! Repeat, this is; check point 3}
 {5012}{}{send he_}
-{5013}{}{**END-DISK**}
+{5013}{}{**FIM**}
 
 # *** ***
 # GVAR_HOLODISK_MB_LEVEL_4
@@ -281,7 +282,7 @@
 {6026}{}{as a pure sample is obtained. This will seal the}
 {6027}{}{exposed miners into the base and prevent unfriendlies}
 {6028}{}{from obtaining the virus once we are gone.}
-{6029}{}{**END-DISK**}
+{6029}{}{**FIM**}
 #
 {7000}{}{Sierra Army Depot - R & D}
 {7001}{}{Attending Physician - Dr. H. Lector}
@@ -343,7 +344,7 @@
 {7057}{}{will probably be my last log for some time,}
 {7058}{}{since I will be busy gathering up as much of my}
 {7059}{}{research as possible.}
-{7060}{}{**END-DISK**}
+{7060}{}{**FIM**}
 #
 {8000}{}{July 5, 2077}
 {8001}{}{Sierra Army Depot - Infirmary}
@@ -373,7 +374,7 @@
 {8025}{}{promise in stimulating growth in living cells.}
 {8026}{}{It is, however, unfortunate to test this new gel}
 {8027}{}{under such circumstances.}
-{8028}{}{**END-DISK**}
+{8028}{}{**FIM**}
 #
 {9000}{}{July 9, 2077}
 {9001}{}{Priority Release}
@@ -389,7 +390,7 @@
 {9011}{}{at all times.}
 {9012}{}{}
 {9013}{}{By order of General Clifton}
-{9014}{}{**END-DISK**}
+{9014}{}{**FIM**}
 
 # Sierra Base Mission Statement
 {10000}{}{Sierra Army Depot}
@@ -423,7 +424,7 @@
 {10028}{}{to be modified into an automated defense base. All }
 {10029}{}{personnel are to be relocated to neighboring installations or }
 {10030}{}{sent to the front line. }
-{10031}{}{**END-DISK**}
+{10031}{}{**FIM**}
 
 # Sierra Base GNN Transscript
 {11000}{}{Galaxy News Network}
@@ -546,7 +547,7 @@
 {11117}{}{have pushed back the Chinese invaders. Crippled by lack of }
 {11118}{}{fuel, the invaders have been pushed back to their}
 {11119}{}{home capital of Beijing.}
-{11120}{}{**END-DISK**}
+{11120}{}{**FIM**}
 
 
 # Elron Bible
@@ -768,7 +769,7 @@
 {12215}{}{Shopping Lists, Notes and Musings, How to Sue Your }
 {12216}{}{Enemies Effectively, How to Create a Cult, and Future }
 {12217}{}{Books to be Written When I'm Dead.)}
-{12218}{}{**END-DISK**}
+{12218}{}{**FIM**}
 
 {13000}{}{VAULT CITY DESIGNER NOTES}
 {13001}{}{**END-PAR**}
@@ -824,7 +825,7 @@
 {13051}{}{**END-PAR**}
 {13052}{}{Congratulations on saving the world. And thanks again}
 {13053}{}{for playing Fallout 2.}
-{13054}{}{**END-DISK**}
+{13054}{}{**FIM**}
 
 {14000}{}{VAULT CITY NORTHERN CALIFORNIA TRAVEL LOG}
 {14001}{}{**END-PAR**}
@@ -930,7 +931,7 @@
 {14101}{}{Contamination-]}
 {14102}{}{MUTATION RATE: Files have been deleted, missing the}
 {14103}{}{following strings: [-$Birthrate %-]}
-{14104}{}{**END-DISK**}
+{14104}{}{**FIM**}
 
 {15000}{}{NEW CALIFORNIA REPUBLIC INFORMATION DISK 5}
 {15001}{}{**END-PAR**}
@@ -943,7 +944,7 @@
 {15008}{}{There's nothing here about Vault 13 or a GECK, though.}
 {15009}{}{All the reports are addressed to Darion and are signed}
 {15010}{}{"F-".}
-{15011}{}{**END-DISK**}
+{15011}{}{**FIM**}
 
 {16000}{}{NEW CALIFORNIA REPUBLIC INFORMATION DISK 1}
 {16001}{}{**END-PAR**}
@@ -1016,7 +1017,7 @@
 {16068}{}{**END-PAR**}
 {16069}{}{NCRAP Pub. #A7-7893b}
 {16070}{}{This page was intentionally left blank.}
-{16071}{}{**END-DISK**}
+{16071}{}{**FIM**}
 
 {17000}{}{First Citizen Lynette;}
 {17001}{}{**END-PAR**}
@@ -1035,7 +1036,7 @@
 {17014}{}{**END-PAR**}
 {17015}{}{Your friend and ally,}
 {17016}{}{Roger Westin}
-{17017}{}{**END-DISK**}
+{17017}{}{**FIM**}
 
 # State of the Nation
 {18000}{}{Memo: State of the Nation}
@@ -1072,7 +1073,7 @@
 {18031}{}{Important: Finish writing this soon. We'll be able to }
 {18032}{}{gas those damn mutants any week now if Curling's report}
 {18033}{}{is correct.}
-{18034}{}{**END-DISK**}
+{18034}{}{**FIM**}
 
 # Word List
 {19000}{}{Memo: Word List}
@@ -1101,7 +1102,7 @@
 {19023}{}{Suttell}
 {19024}{}{Jackelope-make this the new national mascot (is this }
 {19025}{}{an American creature?)}
-{19026}{}{**END-DISK**}
+{19026}{}{**FIM**}
 
 # The Project
 {20000}{}{Memo: The Projects, Quarterly Status Brief}
@@ -1155,7 +1156,7 @@
 {20048}{}{Congratulations, ladies and gentlemen, our long years of}
 {20049}{}{work are nearly at an end.}
 {20050}{}{God bless America.}
-{20051}{}{**END-DISK**}
+{20051}{}{**FIM**}
 
 # Power Plant Operations
 {21000}{}{Memo: A.E.C., Status Brief}
@@ -1241,4 +1242,4 @@
 {21080}{}{computer (hah, hah).}
 {21081}{}{**END-PAR**}
 {21082}{}{Yours, Tom Murray, Chairman, A.E.C.}
-{21083}{}{**END-DISK**}
+{21083}{}{**FIM**}
