@@ -141,7 +141,7 @@
 {490}{}{Você vê: %s.}
 {491}{}{Você vê um morto: %s.}
 {492}{}{Você vê os restos de: %s.}
-{493}{}{Você vê nada fora do comum.}
+{493}{}{Você não vê nada fora do comum.}
 
 #
 # Examine text

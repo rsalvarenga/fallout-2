@@ -19,9 +19,9 @@
 {110}{}{KARMA}
 {111}{}{MORTES}
 {112}{}{  PONTOS:} #PONTOS DE PERÍCIAS
-{113}{}{Level:}
+{113}{}{Nível:}
 {114}{}{Exp:}
-{115}{}{Próximo Nível:}
+{115}{}{Próx. Nível:}
 {116}{}{  PONTOS:}
 {117}{}{PERÍCIAS}
 {118}{}{Você deve usar todos os pontos} # 1
