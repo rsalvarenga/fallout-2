@@ -12,7 +12,7 @@
 {9}{}{Este item só pode ser usado a partir da barra de interface.}
 {10}{}{Nada acontece.}
 # Fallout 2:
-{50}{}{Isso parece que não faz nada.}
+{50}{}{Isso não faz nada.}
 #
 # Fallout 2
 #
