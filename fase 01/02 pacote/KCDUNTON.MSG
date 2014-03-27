@@ -1,5 +1,5 @@
 #############################################################
-#  Irmãos Dunton (Klamath)                                   #
+#  Irmãos Dunton (Klamath)                                  #
 #  Traduzido por Ricardo S. Alvarenga                       #
 #############################################################
 
@@ -23,8 +23,7 @@
 #{114}{}{You and your brother? Are you afraid to take me on all alone? (Cluck, cluck, cluck)}
 
 {110}{}{É melhor não empurrar, ou meu irmão e eu vamos esmagar sua cabeça.}
-{111}{}{Ei, vá com calma. Eu só estava brincando. Eu sinto muito. Não me bata, por favor.
- Alias, gostaria de fazer duas perguntas.}
+{111}{}{Ei, vá com calma. Eu só estava brincando. Eu sinto muito. Não me bata, por favor. Alias, gostaria de fazer duas perguntas.}
 {112}{}{Uh, desculpe, Sr. Dunton, Sr. eu vou sair agora.}
 {113}{}{Preciso de algumas informações, e é melhor que me diga.}
 {114}{}{Você e seu irmão!? Tem medo de me encarar sozinho? (cacarejar, cacarejar, cacarejar)}
@@ -36,8 +35,7 @@
 #{123}{}{At least I won't have to look at your butt-ugly faces anymore.}
 
 {120}{}{Basta! É melhor sair ou vou transformar você em carne seca.}
-{121}{}{Ei, eu sinto muito. Eu não queria incomodá-lo. Sou um estúpido.
- Voltarei mais tarde quando minha presença não encomodar.}
+{121}{}{Ei, eu sinto muito. Eu não queria incomodá-lo. Sou um estúpido. Voltarei mais tarde quando minha presença não encomodar.}
 {122}{}{Oh, okay, Desculpe. Não me bata. Por favor.}
 {123}{}{Pelo menos não vou ter que olhar para suas caras de bunda feia mais.}
 
@@ -286,125 +284,232 @@
 {283}{}{Não quero sua cerveja. Obrigado, deixe-me perguntar umas coisas.}
 {284}{}{Não quero sua cerveja. Tchau.}
 
-{290}{}{You're lucky I didn't snap your little arm like a dried twig. (Hyuk, hyk, hyuk) Well, I guess
- there's still no challenge here in town.}
-{291}{}{Haven't you had enough abuse for one evening?}
-{292}{}{I want to take you on again. I'll show you this time.}
-{293}{}{Ouch. okay, okay, I've had enough. Hey, let me ask you something.}
-{294}{}{That's it for me. Goodbye.}
+#{290}{}{You're lucky I didn't snap your little arm like a dried twig. (Hyuk, hyk, hyuk) Well, I guess
+# there's still no challenge here in town.}
+#{291}{}{Haven't you had enough abuse for one evening?}
+#{292}{}{I want to take you on again. I'll show you this time.}
+#{293}{}{Ouch. okay, okay, I've had enough. Hey, let me ask you something.}
+#{294}{}{That's it for me. Goodbye.}
 
-{300}{}{Don't want to arm wrestle us? What, you think you're too good to arm-wrestle against one of the
- Dunton brothers?}
-{301}{}{I think you'd hurt me if I arm-wrestled you.}
-{302}{}{Maybe later. Right now, I need some information.}
-{303}{}{It wouldn't even be a contest. I'd win. Goodbye.}
-{304}{}{You look too wimpy. I only arm-wrestle real men. Take off, you hoser.}
 
-{310}{}{You're looking for a what? Close as I ever get to the Garden of Eden is in lovely Jenny's arms
- over at Ma's bathhouse. (hyuk, hyuk, hyuk)}
-{311}{}{Uh, thanks. Let me ask you something else, then.}
-{312}{}{I guess that's all I need to know for now. Goodbye.}
+{290}{}{Você tem sorte de eu não quebrar o seu braço como um galho seco. (Hyuk, hyk, hyuk), bem,
+ acho que não terei um desafio aqui na cidade.}
+{291}{}{Você não abusou o suficiente de mim para uma noite?}
+{292}{}{Eu quero uma revanche, desta vez vou ganhar.}
+{293}{}{Ouch. okay, okay, eu ja tive o suficiente. Eí, deixe-me fazer uma pergunta.}
+{294}{}{Ja é o suficiente pra mim. Adeus.}
 
-{320}{}{Well, I hear that they're some (hyuk, hyuk) bug-men cutting up brahmin out east of us. But I
- wouldn't believe everything you hear. (hyuk, hyuk, hyuk).}
-{321}{}{Oh, I see; thanks. There's something else I wanted to know about.}
-{322}{}{I guess that's all I need to know for now. Goodbye.}
+#{300}{}{Don't want to arm wrestle us? What, you think you're too good to arm-wrestle against one of the
+# Dunton brothers?}
+#{301}{}{I think you'd hurt me if I arm-wrestled you.}
+#{302}{}{Maybe later. Right now, I need some information.}
+#{303}{}{It wouldn't even be a contest. I'd win. Goodbye.}
+#{304}{}{You look too wimpy. I only arm-wrestle real men. Take off, you hoser.}
 
-{330}{}{Hello there. You here to barter for some of our World Famous Dunton's Drymeat?}
-{331}{}{Well? You here to buy some drymeat or what?}
-{332}{}{That sounds great. I'd like to barter.}
-{333}{}{Drymeat? That sounds interesting. Tell me more about that.}
-{334}{}{Actually, I had some questions for you.}
-{335}{}{I don't think I need anything right now thanks. Goodbye.}
-{336}{}{I was curious about all those brahmin you have out back. They don't all seem to have the same
- brand on them.}
+{300}{}{O que! Não quer lutar corpo-a-corpo com a gente? Você acha que é bom dmais para lutar corpo-a-corpo com um dos irmãos Dunton?}
+{301}{}{Acredito que me machuraria se disputar com vocês.}
+{302}{}{Talvez quem sabe depois, no momento preciso de uma informação.}
+{303}{}{Não seria justo. Eu ia ganhar. Adeus.}
+{304}{}{Você tem pinta de ser froxo. Eu só disputo corpo-a-corpo com homens de verdades. Saía, seu perdedor.}
 
-{340}{}{Huh? What the hell do you mean? They're all ours.}
-{341}{}{What I mean is that some of them look as though they have a different brand that someone's
- clumsily branded over.}
-{342}{}{Oh, I see. Heh-heh, I must have made a mistake. I'll be going now. Goodbye.}
-{343}{}{Well, I guess I just don't know much about brahmin. Must be their coloration or something.
- Fine-looking brahmin you have here.}
+#{310}{}{You're looking for a what? Close as I ever get to the Garden of Eden is in lovely Jenny's arms
+# over at Ma's bathhouse. (hyuk, hyuk, hyuk)}
+#{311}{}{Uh, thanks. Let me ask you something else, then.}
+#{312}{}{I guess that's all I need to know for now. Goodbye.}
 
-{350}{}{Well, our drymeat is an incredible blend of eleven herbs and spices. Let me tell you, it's
- finger-lickin' good. Animals love it, too. They'll chase you from all over to get some. Must be that
- rotting smell.}
-{351}{}{There's nothing else like it. Anywhere. It's you-neek. And most people are happy it's like that.}
-{352}{}{It's PEOPLE! Hyuk, hyuk, hyuk, just wanted to see your face when I said that. Heck, it's only
- part people. Hyuk, hyuk.}
-{353}{}{It's not like anything that most people would eat. It's different. Not better, just
- different.}
-{354}{}{No cruelty to animals involved here. This is all found meat. Sometimes it takes us a while to
- find it, but usually we can home in on the stink.}
-{355}{}{After a long day in the brahmin pen, we get some choice boot scrapings to flavor it with.}
-{356}{}{Well, we've found that a sauce made by us personally, if ya' know what I mean, gives it that
- down-home taste. }
-{357}{}{It's made from beef aged over six months and tenderized by the choicest horsefly maggots.}
-{358}{}{Incredible. It sounds as though you actually eat your own drymeat. Uh, what I mean to say is,
- who wouldn't? Yum-yum.}
-{359}{}{Really? That's fascinating. Tell me more.}
-{360}{}{I think that's all I need to know for now. Goodbye.}
-{361}{}{If I were starving to death, I'd rather hack off my own arm and eat it than your damn
- drymeat.}
+{310}{}{O que você esta procurando? Com certeza quem esteve em Garden of Eden esteve com a linda Jenny
+ da casa de banho nos braços(hyuk, hyuk, hyuk)}
+{311}{}{É, Obrigado, deixe-me fazer outra pergunta.}
+{312}{}{Por enquanto, é tudo que preciso saber. Adeus.}
 
-{370}{}{You here because you changed your mind? You want to help save those poor little brahmin from
- Torr?}
-{371}{}{What the heck are you doing here? You here to help us or not? We might have a job for you
- if you're interested.}
-{372}{}{Yeah, I'm interested. Tell me about this job.}
-{373}{}{I don't think I want anything to do with you two. Goodbye.}
-{374}{}{I found a pile of bug parts in that little shack over there. Do you know what they are?}
+#{320}{}{Well, I hear that they're some (hyuk, hyuk) bug-men cutting up brahmin out east of us. But I
+# wouldn't believe everything you hear. (hyuk, hyuk, hyuk).}
+#{321}{}{Oh, I see; thanks. There's something else I wanted to know about.}
+#{322}{}{I guess that's all I need to know for now. Goodbye.}
 
-{380}{}{What the heck do you want? Did you forget what you're supposed to be doing?}
-{381}{}{No. I remember. I'll get busy with our plan.}
-{382}{}{Are you crazy? They're on to us. I'm here to warn you not to go through with it. I bet they're
- watching us right now.}
-{383}{}{I forgot; would you go over the plan again for me? Please.}
-{384}{}{I found a pile of bug parts in that house over there. Do you know what they are?}
+{320}{}{Bem, eu ouvi que há alguns (hyuk, hyuk) homens-insetos matando brahmins a leste daqui. Mas, eu
+ não acredito em tudo que ouço. (hyuk, hyuk, hyuk)}
+{321}{}{Oh, Eu imagino; Obrigado. Há outra coisa que eu queria saber.}
+{322}{}{Acho que isso é tudo que eu preciso saber por agora. Tchau.}
 
-{390}{}{Bug parts? Umm, err, ah, we don't know nuthin' about no bug parts. What are you talking about?}
-{391}{}{Well, I found a pile of bug parts that had straps and buckles so that they looked as though they
- could be worn as a costume. I found them lying on the floor.}
-{392}{}{Uh, just forget it. Goodbye.}
+#{330}{}{Hello there. You here to barter for some of our World Famous Dunton's Drymeat?}
+#{331}{}{Well? You here to buy some drymeat or what?}
+#{332}{}{That sounds great. I'd like to barter.}
+#{333}{}{Drymeat? That sounds interesting. Tell me more about that.}
+#{334}{}{Actually, I had some questions for you.}
+#{335}{}{I don't think I need anything right now thanks. Goodbye.}
+#{336}{}{I was curious about all those brahmin you have out back. They don't all seem to have the same
+# brand on them.}
 
-{400}{}{Here's what's happening. You need to get Torr.}
-{401}{}{Sounds good, I'll do it.}
-{402}{}{Not a chance; I'm outa here, Dunton. Goodbye.}
-{403}{}{Are you crazy? They're on to us. I'm here to warn you not to go through with it. I bet they're
- watching us right now.}
-{404}{}{When Torr shows up, we need you to get him}
-{405}{}{ out of here for a while. You can talk to him or knock him unconscious. But don't kill him or
- you'll get people all riled up. While you do that, we'll get the brahmin. Meet us back at our shop
- tomorrow to pick up your reward.}
+{330}{}{Olá. Veio comprar a nossa mundialmente famosa carne seca Dunton?}
+{331}{}{Bem, veio comprar carne seca ou o que?}
+{332}{}{Boa idéia. Quero comprar.}
+{333}{}{Carne seca? Parece interessante, diga-me mais sobre ela.}
+{334}{}{Na verdade, eu tinha algumas perguntas para você.}
+{335}{}{No momento não preciso de nada, obrigado. Adeus.}
+{336}{}{Eu tenho uma curiosidade sobre todos esses brahmins que você tem lá fora. Eles não apresentam ter as mesmas marcas.}
 
-{410}{}{Maybe you're right. (looking around quickly) I don't like the idea of someone watching me.}
-{411}{}{You should be kinder to others of your own kind. Now go home.}
+#{340}{}{Huh? What the hell do you mean? They're all ours.}
+#{341}{}{What I mean is that some of them look as though they have a different brand that someone's
+# clumsily branded over.}
+#{342}{}{Oh, I see. Heh-heh, I must have made a mistake. I'll be going now. Goodbye.}
+#{343}{}{Well, I guess I just don't know much about brahmin. Must be their coloration or something.
+# Fine-looking brahmin you have here.}
 
-{420}{}{Nobody's watching us. We're real careful about that. You're just yellow, aren't you? Frigging
- coward. }
-{421}{}{Sorry, I guess I was just getting nervous. I'm not as cool under pressure as you two are.}
-{422}{}{Sorry, I panicked. I'll get back to work, then.}
-{423}{}{Not a chance. I'm leaving. Goodbye.}
-{424}{}{Now get back to your job and get rid of that idiot Torr!}
+{340}{}{É... Que demonios esta querendo dizer!? São todos nossos.}
+{341}{}{O que quero dizer é que alguns deles parecem ter uma marca diferente que alguém desajeitadamente colocou sobre a outra.}
+{342}{}{Oh, eu pensei.. heh-heh, devo ter me equivocado. Tenho que ir agora. Tchau.}
+{343}{}{Bem, suponho que não entendo muito de brahmins. Talvez seja sua coloração ou algo do tipo. Você tem belos brahmins.}
 
-{430}{}{You're crazy. Those are just left over from some radscorpions we killed. Yeah, that's it.
- That's the ticket. We, uh, umm, use their venom as one of the secret ingredients in our drymeat recipe.}
-{431}{}{Yeah, sure. I'll believe that as soon as the sun rises in the west.}
-{432}{}{Well, if you say so. That's good enough for me. Goodbye.}
+#{350}{}{Well, our drymeat is an incredible blend of eleven herbs and spices. Let me tell you, it's
+# finger-lickin' good. Animals love it, too. They'll chase you from all over to get some. Must be that
+# rotting smell.}
+#{351}{}{There's nothing else like it. Anywhere. It's you-neek. And most people are happy it's like that.}
+#{352}{}{It's PEOPLE! Hyuk, hyuk, hyuk, just wanted to see your face when I said that. Heck, it's only
+# part people. Hyuk, hyuk.}
+#{353}{}{It's not like anything that most people would eat. It's different. Not better, just
+# different.}
+#{354}{}{No cruelty to animals involved here. This is all found meat. Sometimes it takes us a while to
+# find it, but usually we can home in on the stink.}
+#{355}{}{After a long day in the brahmin pen, we get some choice boot scrapings to flavor it with.}
+#{356}{}{Well, we've found that a sauce made by us personally, if ya' know what I mean, gives it that
+# down-home taste. }
+#{357}{}{It's made from beef aged over six months and tenderized by the choicest horsefly maggots.}
+#{358}{}{Incredible. It sounds as though you actually eat your own drymeat. Uh, what I mean to say is,
+# who wouldn't? Yum-yum.}
+#{359}{}{Really? That's fascinating. Tell me more.}
+#{360}{}{I think that's all I need to know for now. Goodbye.}
+#{361}{}{If I were starving to death, I'd rather hack off my own arm and eat it than your damn
+# drymeat.}
 
-{440}{}{You just better keep your mouth shut if you know what's good for you.}
-{441}{}{Geez, take it easy. I was just going to tell you what a great idea I thought it was. Sheesh,
- calm down.}
-{442}{}{Sorry. I will. Goodbye.}
-{443}{}{Yeah, well, I'm taking off. Goodbye.}
-{444}{}{I got a better idea. How about you shut YOUR mouth for a change. I'm tired of hearing you flap your
- rotten gums.}
+{350}{}{Bem, Deixa eu lhe dizer: nossa carne seca é uma incrível mistura de onze ervas e especiarias. É de lamber
+ os dedos, os animais adoram também, eles são vão persegui-lo para conseguir um pouco. Deve ser pelo cheiro de podridão.}
+{351}{}{Não há nada parecido com ele em lugar nenhum. É muito es-pe-ci-al e a maioria das pessoas adoram.}
+{352}{}{É GENTE! Hyuk, Hyuk, Hyuk, só queria ver sua cara quando eu dissesse isso. Heck, só compram poucas pessoas. Hyuk, Hyuk.}
+{353}{}{É diferente das coisas que a maioria das pessoas estão acostumadas a comer. É bem diferente. Não melhor, apenas diferente.}
+{354}{}{Sem crueldade com os animais. Tudo é carne que encontramos por aí. As vezes levamos tempo para encontra-lá,
+ mas, geralmente a encontramos pelo seu fedor.}
+{355}{}{Após um longo dia no curral dos brahmins, tropeçamos em algumas coisas que podem ajudar no sabor.}
+{356}{}{Bem, descobrimos um molho feito especialmente por nós, se é que me me entende, da esse gosto caseiro.}
+{357}{}{Ele é feito de carne bovina com idade superior a seis meses, e amaciada pelas larvas de moscas varejeira.}
+{358}{}{Incrível. Soa como se você realmente o comesse. Uh, o que eu quero dizer é quem não gostaria né? Yum-yum.}
+{359}{}{Sério! Facinante. Conte-me mais.}
+{360}{}{No momento é tudo que precisava saber. Adeus.}
+{361}{}{Se estivesse morrendo de fome, eu preferiria arrancar meu próprio braço e o comer, do que provar essa maldita
+ carne seca sua.}
 
-{449}{}{Hello there, tribal. }
-{450}{}{I'm Chuck Dunton.}
-{451}{}{I'm Buck Dunton.}
-{452}{}{Oooogly man.}
-{453}{}{ Chosen one!}
+#{370}{}{You here because you changed your mind? You want to help save those poor little brahmin from
+# Torr?}
+#{371}{}{What the heck are you doing here? You here to help us or not? We might have a job for you
+# if you're interested.}
+#{372}{}{Yeah, I'm interested. Tell me about this job.}
+#{373}{}{I don't think I want anything to do with you two. Goodbye.}
+#{374}{}{I found a pile of bug parts in that little shack over there. Do you know what they are?}
+
+{370}{}{Você aqui, mudou de idéia? Você quer ajudar a recuperar aqueles pobres brahmins do Torr?}
+{371}{}{O que diabos você está fazendo aqui? Vai nos ajudar ou não? Podemos ter um trabalho para você se
+ estiver interessado.}
+{372}{}{Sim, estou interessado. Diga-me sobre o trabalho.}
+{373}{}{Eu não quero dever nada a vocês dois. Tchau.}
+{374}{}{Eu encontrei um monte de partes de insetos nesse pequeno barraco. Sabe me dizer pra que são?}
+
+#{380}{}{What the heck do you want? Did you forget what you're supposed to be doing?}
+#{381}{}{No. I remember. I'll get busy with our plan.}
+#{382}{}{Are you crazy? They're on to us. I'm here to warn you not to go through with it. I bet they're
+# watching us right now.}
+#{383}{}{I forgot; would you go over the plan again for me? Please.}
+#{384}{}{I found a pile of bug parts in that house over there. Do you know what they are?}
+
+{380}{}{O que diabos você quer? Esqueceu-se o que você deveria estar fazendo?}
+{381}{}{Não. Eu me lembro. Farei conforme nosso plano.}
+{382}{}{Você está louco!? Eles sabem de tudo. Estou aqui para avisá-lo para não seguir com o plano. Aposto que
+ eles estão nos vigiando agora.}
+{383}{}{Eu esqueci, poderia me dizer sobre plano novamente, por favor?}
+{384}{}{Eu encontrei um monte de partes de insetos naquela casa. Você sabe me dizer pra que são?}
+
+#{390}{}{Bug parts? Umm, err, ah, we don't know nuthin' about no bug parts. What are you talking about?}
+#{391}{}{Well, I found a pile of bug parts that had straps and buckles so that they looked as though they
+# could be worn as a costume. I found them lying on the floor.}
+#{392}{}{Uh, just forget it. Goodbye.}
+
+{390}{}{Partes de insetos? Umm, err, ah, não sabemos nada de esses troços de insetos. Do que está falando?}
+{391}{}{Bem, eu encontrei um monte de peças de insetos que tinham tiras e fivelas parecia que poderia ser
+ usada como uma fantasia. Encontrei-os no chão.}
+{392}{}{Uh, simplesmente esqueci. Tchau.}
+
+#{400}{}{Here's what's happening. You need to get Torr.}
+#{401}{}{Sounds good, I'll do it.}
+#{402}{}{Not a chance; I'm outa here, Dunton. Goodbye.}
+#{403}{}{Are you crazy? They're on to us. I'm here to warn you not to go through with it. I bet they're
+# watching us right now.}
+#{404}{}{When Torr shows up, we need you to get him}
+#{405}{}{ out of here for a while. You can talk to him or knock him unconscious. But don't kill him or
+# you'll get people all riled up. While you do that, we'll get the brahmin. Meet us back at our shop
+# tomorrow to pick up your reward.}
+
+{400}{}{Isso é o que está acontecendo. Você precisa sair daqui Torr.}
+{401}{}{Soa bem, vou fazer.}
+{402}{}{Não é o caso, Dunton, estou fora. Tchau.}
+{403}{}{Você está louco!? Eles sabem de tudo. Estou aqui para avisá-lo para não seguir com o plano. Aposto que
+ eles estão nos vigiando agora.}
+{404}{}{Quando Torr aparecer, precisamos de você para tirá-lo}
+{405}{}{Daqui a pouco você pode ir falar com ele ou deixa-lo inconsciente, mas não o mate, ou as pessoas ficaram
+ irritadas com você. Enquanto faz isso, teremos os brahmins. Encontre-nos de volta em nossa loja amanhã e pegue sua recompensa.}
+
+#{410}{}{Maybe you're right. (looking around quickly) I don't like the idea of someone watching me.}
+#{411}{}{You should be kinder to others of your own kind. Now go home.}
+
+{410}{}{Talvez você esteja certo. (olhando em volta rapidamente) não gosto da idéia de alguém me observando.}
+{411}{}{Você deveria ser mais gentil com as pessoas da sua própria espécie. Agora vá para casa.}
+
+#{420}{}{Nobody's watching us. We're real careful about that. You're just yellow, aren't you? Frigging
+# coward. }
+#{421}{}{Sorry, I guess I was just getting nervous. I'm not as cool under pressure as you two are.}
+#{422}{}{Sorry, I panicked. I'll get back to work, then.}
+#{423}{}{Not a chance. I'm leaving. Goodbye.}
+#{424}{}{Now get back to your job and get rid of that idiot Torr!}
+
+{420}{}{Ninguém está nos vigiando. Tomamos muito cuidado com isso. Você esta amarelando, não é? Maldito covarde.}
+{421}{}{Desculpe, eu só estava ficando nervoso. Não sou tão bom sob pressão como vocês dois.}
+{422}{}{Desculpe, entrei em pânico, voltarei ao trabalho.}
+{423}{}{Sem chance. Estou indo embora. Adeus.}
+{424}{}{Agora volte ao seu trabalho e livre-se desse idiota do Torr!}
+
+#{430}{}{You're crazy. Those are just left over from some radscorpions we killed. Yeah, that's it.
+# That's the ticket. We, uh, umm, use their venom as one of the secret ingredients in our drymeat recipe.}
+#{431}{}{Yeah, sure. I'll believe that as soon as the sun rises in the west.}
+#{432}{}{Well, if you say so. That's good enough for me. Goodbye.}
+
+{430}{}{Ficou louco! Essas são apenas algumas sobras de Radscorpions que matamos. Sim..é isso...
+ Esse é o segredo. Nós, é, um... usamos seu veneno como um dos ingredientes secretos da nossa receita de carne seca.}
+{431}{}{Sim, claro, eu acredito. assim como o sol nasce no oeste.}
+{432}{}{Bem, se você diz. Isso já é o suficiente para mim. Adeus.}
+
+#{440}{}{You just better keep your mouth shut if you know what's good for you.}
+#{441}{}{Geez, take it easy. I was just going to tell you what a great idea I thought it was. Sheesh,
+# calm down.}
+#{442}{}{Sorry. I will. Goodbye.}
+#{443}{}{Yeah, well, I'm taking off. Goodbye.}
+#{444}{}{I got a better idea. How about you shut YOUR mouth for a change. I'm tired of hearing you flap your
+# rotten gums.}
+
+{440}{}{É melhor que mantenha sua boca fechada, se sabe o que é melhor pra você.}
+{441}{}{Nossa! Acalme-se, estava apenas tentando dizer-lhe que parece ser uma ideia muito boa, Fique calmo.}
+{442}{}{Desculpe, tenho que ir. Tchau.}
+{443}{}{Sim, bem, estou indo. Tchau.}
+{444}{}{Eu tenho uma idéia melhor. E se você fechar SUA boca! Estou cansado de ouvir o bater de suas gengivas podres.}
+
+#{449}{}{Hello there, tribal. }
+#{450}{}{I'm Chuck Dunton.}
+#{451}{}{I'm Buck Dunton.}
+#{452}{}{Oooogly man.}
+#{453}{}{ Chosen one!}
+
+{449}{}{Olá! Tribal.}
+{450}{}{Eu sou Chuck Dunton.}
+{451}{}{Eu sou Buck Dunton.}
+{452}{}{Homem feeeeio.}
+{453}{}{ O escolhido!}
 
 #{460}{}{Ooogly ann? Huh? You're just as dumb as that idiot Torr. That's good, we need a new fricking
 # village idiot in town. We've just about used that Torr up.}
@@ -462,4 +567,4 @@
 
 #{700}{}{You have rustled the brahmin successfully.}
 
-{700}{}{Você roubou o brahmin de Torr.}
+{700}{}{Você roubou o brahmin de Torr com sucesso.}
