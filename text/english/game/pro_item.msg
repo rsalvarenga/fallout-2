@@ -1,11 +1,11 @@
 {100}{}{Leather Armor}
-{101}{}{Your basic all leather apparel. Finely crafted from tanned brahmin hide.}
+{101}{}{Uma roupa de couro. Finamente trabalhada a partir de couro curtido brahmin.}
 {200}{}{Metal Armor}
-{201}{}{Polished metal plates, crudely forming a suit of armor.}
+{201}{}{Placas de metal polido, de forma grosseira, formando uma armadura.}
 {300}{}{Power Armor}
-{301}{}{A self-contained suit of advanced technology armor. Powered by a micro-fusion reactor, with enough fuel to last a hundred years.}
+{301}{}{Uma armadura com tecnologia avançada. Alimentado por um reator de micro-fusão, com combustível suficiente para durar cem anos.}
 {400}{}{Knife}
-{401}{}{A sharp-bladed cutting and stabbing weapon. Min ST: 2.}
+{401}{}{Uma lâmina afiada feita para esfaqueamento. Min. FO: 2.}
 {500}{}{Club}
 {501}{}{A military or police baton. Heavy wood. Min ST: 3.}
 {600}{}{Sledgehammer}
