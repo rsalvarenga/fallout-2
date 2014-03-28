@@ -123,7 +123,6 @@
 {217}{}{Expert Excrement Expeditor}
 {218}{}{Weapon Enhanced Knockout}
 {219}{}{Jinxed}
-
 #
 #   PERK DESCRIPTIONS
 #
@@ -211,13 +210,13 @@
 {1182}{}{You pay much closer attention to the smaller details when reading. You gain 50% more skill points when reading books.}  # Comprehension
 {1183}{}{You are an expert when it comes to the fine art of handling explosives. They always go off when they're supposed to, as well as causing extra damage.}  # Demolition Expert
 {1184}{}{You can roll with the best of them.  You gain +20% to your gambling skill.}  # Gambler
-{1185}{}{With this Perk you gain +1 to your Strength.}     # Gain Strength
-{1186}{}{With this Perk you gain +1 to your Perception.}   # Gain Perception
-{1187}{}{With this Perk you gain +1 to your Endurance.}    # Gain Endurance
-{1188}{}{With this Perk you gain +1 to your Charisma.}     # Gain Charisma
-{1189}{}{With this Perk you gain +1 to your Intelligence.} # Gain Intelligence
-{1190}{}{With this Perk you gain +1 to your Agility.}      # Gain Agility
-{1191}{}{With this Perk you gain +1 to your Luck.}         # Gain Luck
+{1185}{}{With this Perk you gain +1 to your Força.}     # Gain Strength
+{1186}{}{With this Perk you gain +1 to your Percepção.}   # Gain Perception
+{1187}{}{With this Perk you gain +1 to your Resistência.}    # Gain Endurance
+{1188}{}{With this Perk you gain +1 to your Carisma.}     # Gain Charisma
+{1189}{}{With this Perk you gain +1 to your Inteligência.} # Gain Intelligence
+{1190}{}{With this Perk you gain +1 to your Agilidade.}      # Gain Agility
+{1191}{}{With this Perk you gain +1 to your Sorte.}         # Gain Luck
 {1192}{}{Your innocent demeanor makes stealing from people a little easier. You gain 20% to your Steal skill.}  # Harmless
 {1193}{}{With this Perk you immediately gain one experience level.}  # Here and Now
 {1194}{}{If both item slots are empty, each unused action point gives you a +2 instead of +1 towards your armor class at the end of your turn, plus 1/12 of your unarmed skill.}  # HtH Evade
