@@ -11,4 +11,5 @@
 #  what is happening when you first enter the map.          #
 #############################################################
 
-{100}{}{You have entered Trapper Town.}
+#{100}{}{You have entered Trapper Town.}
+{100}{}{Você entrou na cidade dos caçadores.}
