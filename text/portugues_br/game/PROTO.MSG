@@ -114,7 +114,7 @@
 {469}{}{Esta linha mostra o número de mutantes ghouls masculinos e femininos que você matou durante o curso de suas aventuras.}
 {470}{}{Esta linha mostra o número de brahmin (vacas mutantes) que você matou durante as suas viagens.}
 {471}{}{O número de Radscorpions mutantes que você matou durante a sua aventura.}
-{472}{}{O número de ratos que você matou. Inclui todos os membros da família de rato.}}
+{472}{}{O número de ratos que você matou. Inclui todos os membros da família de rato.}
 {473}{}{Este é o número de Floaters mutantes que você matou.}
 {474}{}{Seu registro de Centaurs mutantes mortos.}
 {475}{}{Este é o número de robôs que você destruídos ou desmontou.}
