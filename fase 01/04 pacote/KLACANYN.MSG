@@ -11,4 +11,6 @@
 #  what is happening when you first enter the map.          #
 #############################################################
 
-{100}{}{You have entered a canyon near Klamath.}
+#{100}{}{You have entered a canyon near Klamath.}
+
+{100}{}{Você entrou no canyon perto de Klamath.}
