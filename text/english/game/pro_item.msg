@@ -7,25 +7,25 @@
 {400}{}{Knife}
 {401}{}{Uma lâmina afiada feita para esfaqueamento. Min. FO: 2.}
 {500}{}{Club}
-{501}{}{A military or police baton. Heavy wood. Min ST: 3.}
+{501}{}{Um bastão de policial militar. Feito de madeira pesada. Min. FO: 3.}
 {600}{}{Sledgehammer}
-{601}{}{A large hammer with big handle. Very popular with the muscular crowd. Min ST: 6.}
+{601}{}{Um grande martelo. Muito popular entre as pessoas fortes. Min. FO: 6.}
 {700}{}{Spear}
-{701}{}{A razor tipped polearm. The shaft is wooden, and the tip is worked steel. Min ST: 4.}
+{701}{}{Uma lança com a ponta bem afiada. A base é de madeira e a ponta é de aço trabalhado. Min. FO: 4. }
 {800}{}{10mm Pistol}
-{801}{}{A Colt 6520 10mm autoloading pistol. Each pull of the trigger will automatically reload the firearm until the cylinder is empty. Single shot only, using the powerful 10mm round. Min ST: 3.}
+{801}{}{Uma Colt 6520 pistola 10mm carregamento automático. Cada acionamento do gatilho recarregará automaticamente a arma de fogo até que o cilindro esteja vazio. Disparo único usando o potente círculo de 10 mm. Min. FO: 3.}
 {900}{}{10mm SMG}
-{901}{}{H&K MP9 Submachinegun (10mm variant). A medium-sized SMG, capable of single shot and burst mode. Min ST: 4.}
+{901}{}{Sub-metralhadora H & K MP9 (variante de 10mm). A SMG de tamanho médio é capaz de: dar um tiro único e possui um modo de rajada. Min. FO: 4.}
 {1000}{}{Hunting Rifle}
-{1001}{}{A Colt Rangemaster semi-automatic rifle, in .223 caliber. Single-shot only. Min ST: 5.}
+{1001}{}{Um Rifle Colt Rangemaster semi-automático, de calibre .223. Tiro Único. Min. FO: 5.}
 {1100}{}{Flamer}
-{1101}{}{A Flambe 450 model flamethrower, varmiter variation. Fires a short spray of extremely hot, flammable liquid. Requires specialized fuel to work properly. Min ST: 6.}
+{1101}{}{Um Lança-Chamas modelo Flambe 450. Dispara um curto líquido inflamável extremamente quente. Requer combustível especializada para funcionar corretamente. Min. FO: 6.}
 {1200}{}{Minigun}
-{1201}{}{A Rockwell CZ53 Personal Minigun. A multi-barreled chaingun firing 5mm ammunition at over 60,000 RPM. Min ST: 7.}
+{1201}{}{Uma metralhadora pessoal Rockwell CZ53. Uma metralhadora de cano multiplo que dispara munições de 5mm a mais de 60.000 RPM. Min. FO: 7.}
 {1300}{}{Rocket Launcher}
-{1301}{}{A Rockwell BigBazooka rocket launcher. With the deluxe 3 lb. trigger. Fires AP or Explosive Rockets. Min ST: 6.}
+{1301}{}{Um lançador de foguetes Rockwell BigBazooka. Com gatilho de luxo de 3 lb. Dipara foguetes explosivos. Min. FO: 6.}
 {1400}{}{Explosive Rocket}
-{1401}{}{A rocket with a large explosive warhead.}
+{1401}{}{Um foguete com uma grande ogiva explosiva.}
 {1500}{}{Plasma Rifle}
 {1501}{}{A Winchester Model P94 Plasma Rifle. An industrial-grade energy weapon, firing superheated bolts of plasma down a superconducting barrel. Powered by Micro Fusion Cells. Min ST: 6.}
 {1600}{}{Laser Pistol}
