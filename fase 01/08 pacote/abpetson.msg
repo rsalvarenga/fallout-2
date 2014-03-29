@@ -1,32 +1,32 @@
-{100}{}{You see a young, strong looking man.}
-{101}{}{You see Mr. Peterson.}
+{100}{}{Você está vendo um jovem, homem forte e bonito.}
+{101}{}{Você está vendo o Sr. Peterson.}
 
-{200}{}{Hello, friend. Haven't seen you around here before. First time to the Abbey?}
-{201}{}{Good to see you again. What can I do for you?}
-{202}{}{Yeah. What can you tell me about this place?}
-{203}{}{I'm on a quest to find the holy GECK. Do you know anything about this?}
-{204}{}{Brother Samuel said you might know something about who is disturbing the graves. He said you heard some
- noises coming from your crops.}
-{205}{}{Nevermind, I must be going.}
+{200}{}{Olá, amigo. Ainda não te vi por aqui antes. É a primeira vez aqui em Abbey?}
+{201}{}{Que bom te ver de novo. O que posso fazer por você?}
+{202}{}{É. O que você pode me dizer sobre esse lugar?}
+{203}{}{Eu estou em uma missão para encontrar o GECK. Você sabe alguma coisa a respeito?}
+{204}{}{Irmão Samuel disse que você pode saber algo sobre quem está perturbando os túmulos. Ele disse que ouviu alguns
+ barulhos estranhos vindos de suas colheitas.}
+{205}{}{Não importa, eu preciso ir.}
 
-{300}{}{The wife and I came here a few years ago on a caravan. We liked it here so much we decided to stay and start our
- own little farm. Let me tell ya, the Abbey might not be as flashy as New Reno, or as advanced as Vault City, but as far
- as I'm concerned, this place is about as good as it gets in the wastes. The folks here are decent, and people look out
- for one another. Sure, some places might offer more safety, but at the cost of personal freedom. No thank you.}
-{301}{}{You came on a caravan? Do they come here often?}
+{300}{}{A minha esposa e eu viemos aqui há alguns anos atrás em uma caravana. Nós gostamos daqui tanto que decidimos
+ ficar e começar a nossa pequena fazenda. Deixe-me te dizer, o Abbey pode não ser tão chamativo como New Reno, ou tão avançada como Vault City, mas tanto
+ quanto eu sei, este lugar é quase tão bom quanto que ganha em lugares desertos. As pessoas aqui são decentes, e as pessoas olham para
+ fora como um outro. Claro, alguns lugares podem oferecer mais segurança, mas à custa da liberdade pessoal. Não, obrigado.}
+{301}{}{Você veio em uma caravana? Será que eles vem sempre aqui?}
 {302}{}{Not really. The Abbey's too small and isolated for the caravans to pay us much heed. Doesn't matter though, we're
  a pretty self sufficient community -- grow our own food, brew our own booze -- so we get by just fine. Anyway, Bill's the man
  to speak to about caravans, he runs the general store just southwest of here.}
-{303}{}{That sounds great and all, but I really must be going.}
-{304}{}{Interesting. I was curious about something else.}
-{305}{}{Nevermind, I must be going.}
+{303}{}{Parece ótimo e tudo mais, mas eu realmente preciso ir.}
+{304}{}{Interessante. Eu estava curioso sobre outra coisa.}
+{305}{}{Não importa, eu preciso ir.}
 
-{400}{}{What else would you like to know?}
-{401}{}{What can you tell me about the Abbey?}
-{402}{}{Do you know anything about a Garden of Eden Creation Kit?}
+{400}{}{O que mais você gostaria de saber?}
+{401}{}{O que você pode me dizer sobre a Abbey?}
+{402}{}{Você sabe alguma coisa sobre o Garden of Eden Creation Kit?}
 
 {500}{}{Sorry pal, I've never heard of it. But if it has to do with pre-war times, then I bet there's something about it
- in the monastery's computers. Unfortunately for you, those monks are real protective of their information�afraid that it'll
+ in the monastery's computers. Unfortunately for you, those monks are real protective of their informationafraid that it'll
  lead to another war or something if people learn too much. Still, it might be worth asking around there.}
 {501}{}{Thanks, I'll go do that. I've got some more questions though.}
 {502}{}{Thanks for the tip. I'll go check that out right now.}
@@ -42,7 +42,7 @@
  again. This time I crept to the window and looked out rather than rushing outside. Peering into the darkness, I saw a
  dim light, like from an old lantern or something, moving among the crops. After a couple minutes the light moved toward
  the cemetery.}
-{606}{}{I wanted to go out and confront whoever�or whatever�it was, but the wife convinced me to stay inside and check
+{606}{}{I wanted to go out and confront whoeveror whateverit was, but the wife convinced me to stay inside and check
  on things in the morning. So the next morning, I see some of my crops had been eaten and there's fresh footprints all
  around. Now, I don't mind feeding the poor, but I don't take kindly to thieves.}
 {6061}{}{After that, I asked Brother Samuel if anything had happened in the graveyard. That's when he told me someone
@@ -64,8 +64,8 @@
  Hell, maybe I'll kill everyone in this pathetic fucking place. You thought you could all hide from the horror of the wasteland?
  Well guess what, my naive friend? Horror has found you, and its name is }
 
-{700}{}{Get the hell outta here.}
+{700}{}{Caia fora daqui.}
 
 #added in RP 2.1
-{710}{}{Good to see you again. Tom's been a big help around here. Thanks again for sorting all that out. Now, what can I do for you?}
+{710}{}{Que bom te ver de novo. Tom tem sido uma grande ajuda por aqui. Obrigado mais uma vez por ordenar tudo isso. Agora, o que eu posso fazer por você?}
  
