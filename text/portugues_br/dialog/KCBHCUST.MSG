@@ -1,0 +1,88 @@
+#############################################################
+#  Cliente de Casa Buckner (Klamath)   ?  ?                  #
+#  Traduzido por Ricardo Alvarenga                          #
+#############################################################
+
+{100}{}{Você vê alguém que poderia ser um caçador.}
+{101}{}{Você vê alguém descansando.}
+{102}{}{Você vê um cidadão de Klamath.}
+{103}{}{Você vê um trabalhador se descansando.}
+{104}{}{Você vê uma pessoa se deliciando com uma bebida.}
+
+{106}{}{Você vê os clientes do bar, parecem tão contentes e felizes.}
+{107}{}{Você vê um cliente ele parece são e bem alimentado.}
+{108}{}{Você vê um cliente bem tranqüilo conversando com uma pessoa.}
+{109}{}{Você vê um cliente bebendo tranquilamente uma garrafa de cerveja.}
+{110}{}{Você vê alguns clientes contando piadas e se sorrindo muito.}
+
+
+{120}{}{Você está no bar errado, não?}
+{121}{}{Nós não queremos encrenqueiros por aqui.}
+{122}{}{Os tribais sempre trazem problemas.}
+{123}{}{Desde que não fique bêbado...}
+{124}{}{(murmurando, murmurando) ... tenho que sair dessa espelunca.}
+{125}{}{Outro da gangue de Dunton.}
+{126}{}{O que você está olhando?}
+{127}{}{Vaza!}
+{128}{}{Pague uma rodada para nós recém chegado.}
+{129}{}{Espero que possa agüentar seu licor.}
+{130}{}{Você não parece ser um canibal.}
+{131}{}{Não há espaço para gente como você.}
+{132}{}{Ultimamente anda aparecendo muitos estrangeiros.}
+{133}{}{Bem, pelo menos seus dentes não estão afiados.}
+{134}{}{Lá se vai a boa vizinhança.} #?
+{135}{}{Suponha-se que deveria ter um osso entalado no nariz?}
+{136}{}{(Olha para você e depois sacode a cabeça)}
+{137}{}{(Faz um gesto grosseiro de forma sutil)}
+{138}{}{Estou seguro de que é o responsável pelas mutilações dos brahmins}
+{139}{}{Alguns de nossos caçadores desapareceram e provavelmente você seja a causa.}
+{140}{}{Tem alguns homens-insetos rastejando nas proximidades da cidade.}
+{141}{}{Tem um espírito em um desfiladeiro a leste da cidade.}
+{142}{}{Não deixe que os espíritos te peguem!}
+{143}{}{É melhor que você nem pense em roubar nossos brahmins.}
+{144}{}{Ficaremos de olho em você.}
+
+
+{150}{}{Fico feliz em ver alguém novo na cidade.}
+{151}{}{Apesar de tudo parece que os tribais não são tão ruins assim.}
+{152}{}{Pague-nos uma bebida!}
+{153}{}{Olá.}
+{154}{}{Você parece ser irmão gêmeo de Sulik.}
+{155}{}{Você já disse olá para Sulik?}
+{156}{}{Ultimamente o negócio de caçador esta indo bem.}
+{157}{}{Me parece que as coisas vão mudar.}
+{158}{}{Tenho um bom acampamento de caça ao sul daqui.}
+{159}{}{Se você é inteligente, ficará longe dos Dunton.}
+{160}{}{Se estiver ansioso vá a Casa de Banho.}
+{161}{}{A oeste está o bairro dos caçadores, se procura um lugar para descansa.}
+{162}{}{Seja bem vindo, amigo.}
+{163}{}{Espero que goste da nossa cidade.}
+{164}{}{Klamath é o melhor lugar do mundo.}
+{165}{}{Fico feliz em te ver.}
+{166}{}{(Levanta uma caneca para você)}
+{167}{}{(Pisca pra você)}
+{168}{}{Não ande por ai fora a noite.}
+{169}{}{Tem homens-insetos nas colinas.}
+{170}{}{Um de nossos melhores caçadores esta desaparecido.}
+
+
+{201}{}{Bem, acho que vou molhar o bico.}
+{202}{}{Obrigado.}
+{203}{}{Mmm-mm, bom.}
+{204}{}{Não a nada como Buckner. É a melhor.}
+{205}{}{Obrigado pela cerveja.}
+{206}{}{Hurraa!}
+{207}{}{Os tribals sabem o que é o melhor da vida.}
+{208}{}{Muito obrigado.}
+{209}{}{Muito obrigado, amigo.}
+{210}{}{Tinha certeza que precisava disso, obrigado.}
+{211}{}{Um milhão de obrigados!}
+{212}{}{Prefiro ter uma garrafa na minha frente?.}
+{213}{}{Eu te agradeço, amigo.}
+{214}{}{Esplendido!}
+{215}{}{Yes!, estava esperando por isso.}
+{216}{}{Achei que nunca ia perguntar.}
+{217}{}{Gracias, colega.}
+{218}{}{Assim como Sulik.}
+{219}{}{Obrigado.}
+{220}{}{Yeah!}
