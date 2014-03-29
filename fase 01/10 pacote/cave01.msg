@@ -1,1 +1,1 @@
-{100}{}{VocÃª estÃ¡ ouvindo alguns sons que vÃªm de dentro da caverna.}
+{100}{}{Você está ouvindo alguns sons que vêm de dentro da caverna.}

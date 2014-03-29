@@ -1,64 +1,64 @@
-# Noob-Saibot fez pequenas correÃ§Ãµes e alteraÃ§Ãµes (Apenas sugestÃµes, pra deixar a conversa mais natural, como Ã© falada)
-{100}{}{VocÃª vÃª Morlis, uma de suas tias -- a que nunca gostou de vocÃª.}
-{101}{}{Por que vocÃª estÃ¡ me incomodando, sobrinho? NÃ£o vÃª que estou ocupada?}
-{301}{}{Por que vocÃª estÃ¡ me incomodando, sobrinha? NÃ£o vÃª que estou ocupada?}
+# Noob-Saibot fez pequenas correções e alterações (Apenas sugestões, pra deixar a conversa mais natural, como é falada)
+{100}{}{Você vê Morlis, uma de suas tias -- a que nunca gostou de você.}
+{101}{}{Por que você está me incomodando, sobrinho? Não vê que estou ocupada?}
+{301}{}{Por que você está me incomodando, sobrinha? Não vê que estou ocupada?}
 {102}{}{Hmm, ok. Desculpa.}
-{103}{}{Que Ã©? VocÃª sabe que eu tÃ´ ocupada!}
+{103}{}{Que é? Você sabe que eu tô ocupada!}
 {104}{}{Hmm... O Mynoc disse...}
 {105}{}{Mynoc disse o que? Some daqui!}
-{106}{}{Que... hm.. vocÃª poderia ter um pouco de sÃ­lex...}
-{107}{}{Eu tenho. VocÃª quer um pouco. Ã‰ isso?}
+{106}{}{Que... hm.. você poderia ter um pouco de sílex...}
+{107}{}{Eu tenho. Você quer um pouco. É isso?}
 {108}{}{Bem... sim.}
-{109}{}{Bem... Eu quero trÃªs sacos de Healing Powder. As coisas vÃ£o ficar feias, 
- e eu vou me preparar. Traga-os para mim, e eu te dou o sÃ­lex. Agora 
- vÃ¡ pega-los!}
+{109}{}{Bem... Eu quero três sacos de Healing Powder. As coisas vão ficar feias, 
+ e eu vou me preparar. Traga-os para mim, e eu te dou o sílex. Agora 
+ vá pega-los!}
 {110}{}{Sim, senhora!}
-{111}{}{NÃ£o me faÃ§a perder tempo. VocÃª trouxe os sacos?}
-{112}{}{Sim, estÃ£o aqui.}
-{113}{}{Hmmm.. eu acho que nÃ£o.}
-{114}{}{Aqui estÃ¡ o sÃ­lex. Agora saia daqui! Eu nÃ£o tenho tempo pra ficar de fofoca.}
+{111}{}{Não me faça perder tempo. Você trouxe os sacos?}
+{112}{}{Sim, estão aqui.}
+{113}{}{Hmmm.. eu acho que não.}
+{114}{}{Aqui está o sílex. Agora saia daqui! Eu não tenho tempo pra ficar de fofoca.}
 {115}{}{Valeu, Tia Morlis.}
-{116}{}{Outra vez me fazendo perder tempo, sobrinho inÃºtil! Como Ã© possÃ­vel vocÃª ser
+{116}{}{Outra vez me fazendo perder tempo, sobrinho inútil! Como é possível você ser
  o Escolhido?}
 {117}{}{Sim, Tia Morlis.}
-{118}{}{Ah, Tia Morlis, aqui estÃ£o os trÃªs.}
+{118}{}{Ah, Tia Morlis, aqui estão os três.}
 
-{150}{}{Tia Morlis, eu estou em uma perigosa missÃ£o para salvar nossa vila.
+{150}{}{Tia Morlis, eu estou em uma perigosa missão para salvar nossa vila.
  Minhas chances de sucesso aumentariam se eu 
- ficasse com os sacos e vocÃª me desse o sÃ­lex. NÃ£o concorda?}
-{151}{}{O que vocÃª acha que estÃ¡ fazendo, jovem? NÃ£o Ã© assim que o Escolhido deve agir. Agora saia da minha frente!}
-{152}{}{Se essa pedra Ã© importante o suficiente pra vocÃª estar disposto a desrespeitar o nome do Escolhido, aqui estÃ¡. Pegue 
- o sÃ­lex e saia da minha frente.}
+ ficasse com os sacos e você me desse o sílex. Não concorda?}
+{151}{}{O que você acha que está fazendo, jovem? Não é assim que o Escolhido deve agir. Agora saia da minha frente!}
+{152}{}{Se essa pedra é importante o suficiente pra você estar disposto a desrespeitar o nome do Escolhido, aqui está. Pegue 
+ o sílex e saia da minha frente.}
 {153}{}{Sim, Tia Morlis.}
-{154}{}{Bem... Ahn, muito bem. Aqui estÃ¡ o sÃ­lex. Eu te desejo uma boa viagem, jovem.}
-{155}{}{NÃ£o, eu nÃ£o concordo. Agora pare de desperdiÃ§ar meu tempo e dÃª o fora daqui!}
+{154}{}{Bem... Ahn, muito bem. Aqui está o sílex. Eu te desejo uma boa viagem, jovem.}
+{155}{}{Não, eu não concordo. Agora pare de desperdiçar meu tempo e dê o fora daqui!}
 {156}{}{Sim, Tia Morlis.}
 
 
 # new add on stuff for time limit
-{200}{}{EntÃ£o vocÃª retornou. Encontrou o santo Treze?}
-{201}{}{NÃ£o, Tia Morlis, Eu...}
-{202}{}{EntÃ£o saia daqui e encontre-o! As pessoas precisam de vocÃª!}
+{200}{}{Então você retornou. Encontrou o santo Treze?}
+{201}{}{Não, Tia Morlis, Eu...}
+{202}{}{Então saia daqui e encontre-o! As pessoas precisam de você!}
 {203}{}{Sim, Tia Morlis.}
-{204}{}{Bem, vocÃª estÃ¡ aqui denovo. NÃ£o conseguiu completar sua Ãºltima missÃ£o?}
+{204}{}{Bem, você está aqui denovo. Não conseguiu completar sua última missão?}
 {205}{}{Sim, Tia Morlis, mas...}
-{206}{}{EntÃ£o dÃª o fora daqui e nÃ£o volte atÃ© que vocÃª tenha completado! Pra que perder tempo voltando aqui, quando poderia estar usando esse tempo pra continuar a sua busca!?}
+{206}{}{Então dê o fora daqui e não volte até que você tenha completado! Pra que perder tempo voltando aqui, quando poderia estar usando esse tempo pra continuar a sua busca!?}
 {207}{}{Sim, Tia Morlis.}
-{208}{}{O fato de vocÃª estar aqui deve significar que completou a sua missÃ£o. VocÃª nÃ£o perderia tempo precioso voltando aqui de mÃ£os vazias, nÃ£o Ã© mesmo?}
-{209}{}{Sim, Tia Morlis. Quero dizer... nÃ£o, Tia Morlis. Ah, eu tenho que ir, Tia Morlis.}
-{210}{}{EntÃ£o, jobem. Mais uma vez vocÃª estÃ¡ diante de mim. Continua com as mÃ£os vazias?}
+{208}{}{O fato de você estar aqui deve significar que completou a sua missão. Você não perderia tempo precioso voltando aqui de mãos vazias, não é mesmo?}
+{209}{}{Sim, Tia Morlis. Quero dizer... não, Tia Morlis. Ah, eu tenho que ir, Tia Morlis.}
+{210}{}{Então, jobem. Mais uma vez você está diante de mim. Continua com as mãos vazias?}
 {211}{}{Sim, Tia Morlis.}
 {212}{}{Escute, }
-{213}{}{. Pessoas estÃ£o morrendo, o gado estÃ¡ morrendo, e as plantaÃ§Ãµes tambÃ©m. Todos estÃ£o com fome, doentes, ou pior. Nosso tempo estÃ¡ acabando. Se vocÃª nÃ£o encontrar o GECK, estaremos perdidos. VocÃª me entendeu?}
+{213}{}{. Pessoas estão morrendo, o gado está morrendo, e as plantações também. Todos estão com fome, doentes, ou pior. Nosso tempo está acabando. Se você não encontrar o GECK, estaremos perdidos. Você me entendeu?}
 {214}{}{Sim, Tia Morlis.}
-{215}{}{EntÃ£o dÃª o fora daqui e encontre o GECK! Pessoas dependem de vocÃª!}
+{215}{}{Então dê o fora daqui e encontre o GECK! Pessoas dependem de você!}
 {216}{}{Sim, Tia Morlis.}
 
 #added by killap
-{300}{}{Bem, pelo visto eu perdi o sÃ­lex. Ah, pelo menos tenho esses sacos de Healing Powder Agora. Agora saia daqui! Eu nÃ£o tenho tempo pra fofocar.}
-{302}{}{Bem, eu nÃ£o consigo encontrar o sÃ­lex. Tenho certeza que vocÃª pegou ele de mim enquanto eu nÃ£o olhava. Eu jÃ¡ te peguei fazendo isso antes. Agora saia daqui! Eu nÃ£o tenho tempo para fofocar.}
-{303}{}{Bem... eu acho que perdi o sÃ­lex. Me desculpe. PorÃ©m te desejo uma boa viagem, jovem.}
+{300}{}{Bem, pelo visto eu perdi o sílex. Ah, pelo menos tenho esses sacos de Healing Powder Agora. Agora saia daqui! Eu não tenho tempo pra fofocar.}
+{302}{}{Bem, eu não consigo encontrar o sílex. Tenho certeza que você pegou ele de mim enquanto eu não olhava. Eu já te peguei fazendo isso antes. Agora saia daqui! Eu não tenho tempo para fofocar.}
+{303}{}{Bem... eu acho que perdi o sílex. Me desculpe. Porém te desejo uma boa viagem, jovem.}
 
 #added by Darek
-{304}{}{Eu jÃ¡ te dei a pedra, idiota. Agora, pare de desperdiÃ§ar o meu tempo e dÃª o fora daqui!}
-{305}{}{Eu jÃ¡ te dei a pedra, idiota. Ah, pelo menos eu tenho os sacos agora. Agora saia daqui! Eu nÃ£o tenho tempo para fofocar.}
+{304}{}{Eu já te dei a pedra, idiota. Agora, pare de desperdiçar o meu tempo e dê o fora daqui!}
+{305}{}{Eu já te dei a pedra, idiota. Ah, pelo menos eu tenho os sacos agora. Agora saia daqui! Eu não tenho tempo para fofocar.}

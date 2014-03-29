@@ -1,7 +1,7 @@
-{100}{}{VocÃª estÃ¡ vendo um terminal de computador.}
-{101}{}{VocÃª estÃ¡ vendo um terminal de computador da biblioteca.}
-{102}{}{VocÃª estÃ¡ vendo um terminal de computador padrÃ£o. Parece ser funcional e pronto para a acessar.}
-{103}{}{VocÃª acessa o computador e escaneia os arquivos disponÃ­veis. VocÃª encontra a localizaÃ§Ã£o do Vault 13
+{100}{}{Você está vendo um terminal de computador.}
+{101}{}{Você está vendo um terminal de computador da biblioteca.}
+{102}{}{Você está vendo um terminal de computador padrão. Parece ser funcional e pronto para a acessar.}
+{103}{}{Você acessa o computador e escaneia os arquivos disponíveis. Você encontra a localização do Vault 13
  e copia para seu PIP-BOY.}
-{104}{}{VocÃª estÃ¡ tendo dificuldade para acessar os arquivos.}
-{106}{}{AlÃ©m de outra localizaÃ§Ã£o do Vault 13, esse computador nÃ£o contÃ©m uma informaÃ§Ã£o Ãºtil.}
+{104}{}{Você está tendo dificuldade para acessar os arquivos.}
+{106}{}{Além de outra localização do Vault 13, esse computador não contém uma informação útil.}
