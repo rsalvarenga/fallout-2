@@ -21,35 +21,35 @@
 {117}{}{Se você tivesse esperado até que eu tirasse a minha roupa, com certeza iria gostar mais.}
 
 {120}{}{É isso aí, se saiu muito bem! Você é um homem de verdade.}
-{121}{}{Se saiu muito bem. Você é um gênio. Próximo!}
-{122}{}{Oh yeah, baby, nunca esteve assim antes. (bocejo)} #Oh yeah, baby, never had it like that before. (yawn)
-{123}{}{Você é o melhor. Volte em breve.}
+{121}{}{Você se saiu muito bem. Foi ótimo. Próximo!}
+{122}{}{Incrível, nunca senti nada igual antes. (bocejo)} #Oh yeah, baby, never had it like that before. (yawn)
+{123}{}{Você é o melhor. Volte sempre.}
 {124}{}{Tenho certeza que vai fazer uma tribal muito feliz.}
 {125}{}{Não, amorzinho. O tamanho não importa. Se saiu bem.}
-{126}{}{És um pedaço de homem (queimando de amor).}
-{127}{}{O que um sujeito tão bonitinho como esse faz aqui.}
+{126}{}{Você é mesmo uma delícia de homem. Pode ir agora.}
+{127}{}{Own, que coisinha fofinha que você tem guardada aí.}
 
 
-{130}{}{O tamanho importa! Oh grande mistério da vida...}
+{130}{}{Tamanho importa sim! Meu deus do céu...}
 {131}{}{Da próxima vez que vier, te deixarei ficar um pouco mais.}
-{132}{}{Está claro que valeu a pena.}
+{132}{}{Você com certeza aproveita cada centavo...}
 {133}{}{Acho que vou pegar o resto do dia de folga}
-{134}{}{Wow! Será que a terra se move pra você também?}
-{135}{}{Agora sei como a Catherine a grande se sentia.}
+{134}{}{Uau! Você sentiu o chão tremer também?}
+{135}{}{Nunca vi nada assim. Você é um jumento/cavalo!} #rsrs
 
-{140}{}{Bem, é dinheiro, suponho.}
+{140}{}{Bom, dinheiro é dinheiro, né....}
 {141}{}{Uau! Essa foi uhh...diferente.}
 {142}{}{Se saiu muito bem. Próximo!}
 {143}{}{Não, você não pode usar meu perfume.}
 {144}{}{Bem, pelo menos o seu bigode é menor que a da maioria dos meus clientes.}
-{145}{}{Tem certeza que é uma mulher?}
+{145}{}{Você tem certeza que é mulher?}
 
-{150}{}{Essa foi bem legal!}
+{150}{}{Até que foi gostosinho.}
 {151}{}{Foi bem diferente, e não foi tão mal.}
 {152}{}{Acho que devemos repetir quando voltar.}
 {153}{}{Acho que devíamos fazer isso algum dia, depois que sair do trabalho.}
-{154}{}{Foi muito educado um doce.}
-{155}{}{Wow! Minha vida será bem diferente a partir de agora.}
+{154}{}{Foi ótimo, docinho.}
+{155}{}{Wow! Minha vida será bem diferente a partir de agora...}
 {156}{}{Eu não imaginava que seria assim.}
 
 
@@ -62,11 +62,11 @@
 {166}{}{(Assovios)}
 {167}{}{Hola! Tigre.}
 {168}{}{Hey, baaaaaby...}
-{169}{}{Se quer um pouco de ação, va falar com Sally.}
+{169}{}{Se quer um pouco de ação, vá falar com Sally.}
 {170}{}{Esfrega ai embaixo...}
 {171}{}{Acho que devo te dar um banho.}
-{172}{}{Oh, a um tribal; acho isso tão exótico.}
-{173}{}{Não estou acostumada com tribals.}
+{172}{}{Oh, você vem de uma aldeia? Acho isso tão exótico...}
+{173}{}{Não estou acostumada com tribais.}
 {174}{}{Gosta do que vê?}
 {175}{}{Você me quer?}
-{176}{}{Tem que pagar se quiser brincar, doçura.}
+{176}{}{Tem que pagar se quiser brincar, docinho.}
