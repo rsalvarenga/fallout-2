@@ -13,7 +13,7 @@
 {106}{}{Você vê uma mulher jovem.}
 
 {110}{}{Você vê uma jovem atraente. Seu rosto esta coberto com algum tipo de pó branco.}
-{111}{}{Você vê uma mulher de meia idade com um farto seio.}
+{111}{}{Você vê uma mulher de meia idade com seios fartos.}
 {112}{}{Você vê uma mulher atraente vestindo uma roupa bem decotada.}
 {113}{}{Você vê uma mulher que esta avaliando você com um olhar bem observador.}
 
