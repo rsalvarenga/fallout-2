@@ -31,7 +31,7 @@
 {205}{}{Você pode agir muito mais rápido que o normal. Isso diminui sua classe de armadura para apenas o que você está vestindo, mas sua reação é muito mais rápida no combate.}
 {206}{}{Você bate com mais força. Seus ataques são brutais, mas falta destreza. Você raramente causa dano crítico, mas sempre faz mais em corpo-a-corpo.}
 {207}{}{Você não tem tempo para apontar precisamente porque você dispara mais rápido do que as pessoas normais. Armas de fogo e armas de arremesso te custam 1 P.A.}
-{208}{}{Por uma estranha ironia do destino, as pessoas ao seu redor morrem violentamente. Você sempre vê a pior forma como uma pessoa pode morrer.}
+{208}{}{Por uma estranha ironia do destino, as pessoas ao seu redor morrem violentamente. Você sempre vê a pior forma que uma pessoa pode morrer.}
 {209}{}{A coisa boa é que todos ao seu redor possui falhas mais críticas em combate, a única coisa ruim é que você também!}
 {210}{}{Você estudou habilidades pacíficas quando você estava crescendo. Suas habilidades de combate começam em um nível mais baixo, mas suas habilidades em Primeiros Socorros, Médico, fala e negociação são melhores.}
 {211}{}{Ficará mais facilmente viciados em drogas. Sua chance de ser viciado em drogas é o dobro do normal, mas se recupera antes dos efeitos colaterais.}

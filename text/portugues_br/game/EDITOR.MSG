@@ -48,7 +48,7 @@
 {139}{}{CARACTERÍSTICAS}
 {140}{}{Você já tem o máximo de} # 1
 {141}{}{três habilidades destacadas!}               # 2
-{142}{}{Você deve selecionar todas as habilidades }  # 1
+{142}{}{ Você deve selecionar todas as habilidades }  # 1
 {143}{}{antes de começar o jogo!}       # 2
 {144}{}{Pontos de perícias}
 {145}{}{Pontos de perícias são habilidades especiais para seu personagem. Para cada ponto você ganha 20%. Você deve escolher três habilidades em destaque.}
