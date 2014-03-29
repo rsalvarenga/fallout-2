@@ -1,18 +1,18 @@
-{100}{}{VocÃª estÃ¡ vendo um terminal de computador.}
+{100}{}{Você está vendo um terminal de computador.}
 {101}{}{You see the control center computer terminal.}
-{102}{}{VocÃª estÃ¡ vendo um terminal de computador padrÃ£o. Parece ser funcional e pronto para a acessar.}
-{103}{}{O terminal indica que o campo de forÃ§a de seguranÃ§a na entrada do vault foi ativada
- com sucesso apÃ³s a energia ter sido restaurada.}
-{104}{}O terminal indica que todos os sistemas de seguranÃ§a do vault estÃ£o offline, devido Ã  falta de 
+{102}{}{Você está vendo um terminal de computador padrão. Parece ser funcional e pronto para a acessar.}
+{103}{}{O terminal indica que o campo de força de segurança na entrada do vault foi ativada
+ com sucesso após a energia ter sido restaurada.}
+{104}{}O terminal indica que todos os sistemas de segurança do vault estão offline, devido à falta de 
  energia.}
-{105}{}{Turn the force field off.}
-{106}{}{Turn the force field on.}
-{107}{}{ConcluÃ­do.}
-{108}{}{VocÃª darÃ¡ o comando para desativar o campo de forÃ§a.}
-{109}{}{ConcluÃ­do.}
-{110}{}{VocÃª darÃ¡ o comando para ativar o campo de forÃ§a.}
-{111}{}{ConcluÃ­do.}
+{105}{}{Gire o campo de força para desligar.}
+{106}{}{Gire o campo de força para ligar.}
+{107}{}{Concluído.}
+{108}{}{Você dará o comando para desativar o campo de força.}
+{109}{}{Concluído.}
+{110}{}{Você dará o comando para ativar o campo de força.}
+{111}{}{Concluído.}
 
-{112}{}{O terminal indica que o campo estÃ¡ desligado por acionamento manual.}
+{112}{}{O terminal indica que o campo está desligado por acionamento manual.}
 {113}{}{O terminal indica que o sistema de campo tenha sido comprometida.}
-{114}{}{O terminal indica que o sistema estÃ¡ fora de campo.}
+{114}{}{O terminal indica que o sistema está fora de campo.}

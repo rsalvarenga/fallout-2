@@ -1,71 +1,71 @@
 # Noob-Saibot traduziu esse arquivo.
-{100}{}{VocÃª vÃª seu primo mais novo, Nagor. Seu cachorro, Smoke, nÃ£o parece estar por perto.} # You see your young cousin, Nagor. You don't see his dog, Smoke, anywhere.
-{101}{}{VocÃª conhece Nargor desde que ele era um bebÃª, e sempre o ajudou quando podia.} # You've known Nagor since he was an infant, and have always helped him when you could.
+{100}{}{Você vê seu primo mais novo, Nagor. Seu cachorro, Smoke, não parece estar por perto.} # You see your young cousin, Nagor. You don't see his dog, Smoke, anywhere.
+{101}{}{Você conhece Nargor desde que ele era um bebê, e sempre o ajudou quando podia.} # You've known Nagor since he was an infant, and have always helped him when you could.
 {102}{}{Primo, que bom te ver! Eu preciso da sua ajuda.} # Cousin, am I glad to see you!  I need your help.
 {302}{}{Primo, que bom te ver! Eu preciso da sua ajuda.} # Cousin, am I glad to see you!  I need your help.
-{103}{}{Desculpa, mas eu nÃ£o tenho tempo pra isso agora.} # Sorry, but I don't have the time.
-{104}{}{Precisa da minha ajuda pra quÃª?} # What do you need help with?
-{105}{}{EntÃ£o eu vou entrar na floresta sozinho!} # Then I'll go out in the wilds myself!
-{106}{}{Segura aÃ­... Pra que vocÃª queria minha ajuda mesmo?} # Hold on there... what was it you need help with?
-{107}{}{FaÃ§a isso.} # You do that.
-{108}{}{Smoke correu pro campo de caÃ§a, e nÃ£o voltou. Agora a Morlis nÃ£o me deixa
- ir atrÃ¡s dele. Ela diz que Ã© muito perigoso, e que ele Ã© sÃ³ um cachorro, mas eu
- ia do mesmo jeito. Mas agora vocÃª estÃ¡ aqui, e, se vocÃª for no meu lugar, eu nÃ£o
- vou me meter em confusÃ£o.} # Smoke ran off into the hunting grounds and hasn't come back and now Morlis won't let me go find him. She says it's too dangerous and he's just a dog, but I was going to go anyway. But now you're here and you could do it and I wouldn't get in trouble.
-{109}{}{Certo. Mas aonde fica o campo de caÃ§a?} # Sure. But where are the hunting grounds?
-{110}{}{Certo. Eu vou procurÃ¡-lo agora mesmo.} # Sure. I'll find him right now.
-{111}{}{Esquece. Eu nÃ£o tenho tempo pra isso.} # Forget it, I don't have time for this.
-{112}{}{UÃ©, vocÃª bateu com a cabeÃ§a em alguma pedra? O campo de caÃ§a fica depois da
+{103}{}{Desculpa, mas eu não tenho tempo pra isso agora.} # Sorry, but I don't have the time.
+{104}{}{Precisa da minha ajuda pra quê?} # What do you need help with?
+{105}{}{Então eu vou entrar na floresta sozinho!} # Then I'll go out in the wilds myself!
+{106}{}{Segura aí... Pra que você queria minha ajuda mesmo?} # Hold on there... what was it you need help with?
+{107}{}{Faça isso.} # You do that.
+{108}{}{Smoke correu pro campo de caça, e não voltou. Agora a Morlis não me deixa
+ ir atrás dele. Ela diz que é muito perigoso, e que ele é só um cachorro, mas eu
+ ia do mesmo jeito. Mas agora você está aqui, e, se você for no meu lugar, eu não
+ vou me meter em confusão.} # Smoke ran off into the hunting grounds and hasn't come back and now Morlis won't let me go find him. She says it's too dangerous and he's just a dog, but I was going to go anyway. But now you're here and you could do it and I wouldn't get in trouble.
+{109}{}{Certo. Mas aonde fica o campo de caça?} # Sure. But where are the hunting grounds?
+{110}{}{Certo. Eu vou procurá-lo agora mesmo.} # Sure. I'll find him right now.
+{111}{}{Esquece. Eu não tenho tempo pra isso.} # Forget it, I don't have time for this.
+{112}{}{Ué, você bateu com a cabeça em alguma pedra? O campo de caça fica depois da
  tenda do Hakunin, nos confins da vila, ao norte.} # What'd you do, get hit in the head with a rock? They're on the far side of Hakunin's tent, north of the village.
 {113}{}{Eu voltarei com ele em breve.} # I'll be back with him soon.
-{114}{}{JÃ¡ encontrou o Smoke?} # Have you found Smoke yet?
-{115}{}{NÃ£o, ainda nÃ£o. Aonde fica o campo de caÃ§a mesmo?} # No, not yet. Where did you say the hunting grounds were?
-{116}{}{NÃ£o, ainda nÃ£o.} # No, not yet.
-{117}{}{JÃ¡ encontrou o Smoke?} # Have you found Smoke yet?
-{118}{}{NÃ£o, ainda nÃ£o. Mas farei isso em breve.} # No, not yet. I'll be back soon, though.
+{114}{}{Já encontrou o Smoke?} # Have you found Smoke yet?
+{115}{}{Não, ainda não. Aonde fica o campo de caça mesmo?} # No, not yet. Where did you say the hunting grounds were?
+{116}{}{Não, ainda não.} # No, not yet.
+{117}{}{Já encontrou o Smoke?} # Have you found Smoke yet?
+{118}{}{Não, ainda não. Mas farei isso em breve.} # No, not yet. I'll be back soon, though.
 {119}{}{Me desculpa, mas... ele morreu.} # I am sorry, but he is dead.
-{120}{}{VocÃª sÃ³ tÃ¡ dizendo isso porque vocÃª nÃ£o quer procurar por ele! Eu nÃ£o ligo pro que
- a Morlis diz, eu vou achÃ¡-lo!} # You're just saying that 'cause you don't wanna look! I don't care what Morlis says, I'm going to find him.
-{121}{}{Nagor, e se alguma coisa acontecer com vocÃª? A tia Morlis ia ficar sozinha e
- muito triste. VocÃª nÃ£o quer que ela fique triste, quer?} # Nagor, what if something happens to you? Morlis would be alone and that would make her real sad. You don't want to make her sad, do you?
-{122}{}{FaÃ§a isso.} # You do that.
-{123}{}{Bem.... nÃ£o, eu nÃ£o quero. Ok, eu nÃ£o vou, mas nÃ£o Ã© justo!} # Well... no, I don't want to do that. Okay, I won't go, but it's not fair!
+{120}{}{Você só tá dizendo isso porque você não quer procurar por ele! Eu não ligo pro que
+ a Morlis diz, eu vou achá-lo!} # You're just saying that 'cause you don't wanna look! I don't care what Morlis says, I'm going to find him.
+{121}{}{Nagor, e se alguma coisa acontecer com você? A tia Morlis ia ficar sozinha e
+ muito triste. Você não quer que ela fique triste, quer?} # Nagor, what if something happens to you? Morlis would be alone and that would make her real sad. You don't want to make her sad, do you?
+{122}{}{Faça isso.} # You do that.
+{123}{}{Bem.... não, eu não quero. Ok, eu não vou, mas não é justo!} # Well... no, I don't want to do that. Okay, I won't go, but it's not fair!
 {124}{}{Smoke vai ficar bem. Adeus.} # Smoke will be okay. Goodbye.
-{125}{}{VocÃª achoou o Smoke! Obrigado! Smoke, vocÃª Ã© um cÃ£ozinho mau!} # You found Smoke! Thanks! Smoke, you're a bad dog!
+{125}{}{Você achoou o Smoke! Obrigado! Smoke, você é um cãozinho mau!} # You found Smoke! Thanks! Smoke, you're a bad dog!
 {126}{}{De nada. Adeus.} # You're welcome. Goodbye.
-{127}{}{Obrigado de novo! Eu espero que vocÃª tenha uma jornada divertida!} # Thanks again. I hope you have a really fun trip!
-{128}{}{Eu sinto falta do Smoke... Porque vocÃª nÃ£o conseguiu salvÃ¡-lo? VocÃª Ã© o Escolhido...} # I miss Smoke. Why couldn't you save him? You're the Chosen One.
+{127}{}{Obrigado de novo! Eu espero que você tenha uma jornada divertida!} # Thanks again. I hope you have a really fun trip!
+{128}{}{Eu sinto falta do Smoke... Porque você não conseguiu salvá-lo? Você é o Escolhido...} # I miss Smoke. Why couldn't you save him? You're the Chosen One.
 {129}{}{Estou ocupado, pateta. Vai brincar em outro lugar.} # I'm busy, dumb one. Go play someplace else. 
 {130}{}{Eu vai.} # I go.
-{131}{}{Eu vai atrÃ¡s do Smoke.} # I'm going after Smoke.
+{131}{}{Eu vai atrás do Smoke.} # I'm going after Smoke.
 
 # new nodes for time limit
-{200}{}{OlÃ¡ primo... uh, quer dizer, Escolhido. Eu espero que vocÃª encontre o GECK. Muitos falam
- que as coisas vÃ£o ficar feias em breve.} # Hello cousin... uh, I mean Chosen One. I hope you've found the GECK. I've heard a lot of talk about hard times to come.
-{201}{}{OlÃ¡ primo... uh, quer dizer, Escolhido. Eu espero que vocÃª encontre o GECK. Muitos falam
- que as coisas vÃ£o ficar feias em breve.} # Hello cousin... uh, I mean Chosen One. I hope you've found the GECK. I've heard a lot of talk about hard times to come.
+{200}{}{Olá primo... uh, quer dizer, Escolhido. Eu espero que você encontre o GECK. Muitos falam
+ que as coisas vão ficar feias em breve.} # Hello cousin... uh, I mean Chosen One. I hope you've found the GECK. I've heard a lot of talk about hard times to come.
+{201}{}{Olá primo... uh, quer dizer, Escolhido. Eu espero que você encontre o GECK. Muitos falam
+ que as coisas vão ficar feias em breve.} # Hello cousin... uh, I mean Chosen One. I hope you've found the GECK. I've heard a lot of talk about hard times to come.
 {202}{}{Eu ainda procura, Nagor.} # Me still look, Nagor.
 {203}{}{Eu ainda estou procurando, primo.} # I'm still looking, nephew.
-{204}{}{Seja bem vindo de volta, Primo. As coisas estÃ£o ficando meio ruins por aqui. VocÃª encontrou o
+{204}{}{Seja bem vindo de volta, Primo. As coisas estão ficando meio ruins por aqui. Você encontrou o
  Santo Treze e o GECK?} # Welcome home, cousin. Things are getting a little tight around here. Have you found the holy Thirteen and the GECK?
-{205}{}{Seja bem vindo de volta, Primo. As coisas estÃ£o ficando meio ruins por aqui. VocÃª encontrou o
+{205}{}{Seja bem vindo de volta, Primo. As coisas estão ficando meio ruins por aqui. Você encontrou o
  Santo Treze e o GECK?} # Welcome home, cousin. Things are getting a little tight around here. Have you found the holy Thirteen and the GECK?
-{206}{}{Eu nÃ£o achar. Desculpa.} # Me not find. Sorry.
+{206}{}{Eu não achar. Desculpa.} # Me not find. Sorry.
 {207}{}{Me desculpe, Nagor. Eu ainda estou procurando.} # I'm sorry, Nagor. I'm still looking.
-{208}{}{OlÃ¡, primo. Eu acho ue vocÃª percebeu que as coisas tÃ£o bem ruins por aqui. Por favor,
- encontre o GECK. NÃ³s estamos precisando desesperadamente!} # Hello again, cousin. I guess you've noticed that things are really falling apart here. Please find the GECK. We are in desperate need!
-{209}{}{OlÃ¡, primo. Eu acho ue vocÃª percebeu que as coisas tÃ£o bem ruins por aqui. Por favor,
- encontre o GECK. NÃ³s estamos precisando desesperadamente!} # Hello again, cousin. I guess you've noticed that things are really falling apart here. Please find the GECK. We are in desperate need!
+{208}{}{Olá, primo. Eu acho ue você percebeu que as coisas tão bem ruins por aqui. Por favor,
+ encontre o GECK. Nós estamos precisando desesperadamente!} # Hello again, cousin. I guess you've noticed that things are really falling apart here. Please find the GECK. We are in desperate need!
+{209}{}{Olá, primo. Eu acho ue você percebeu que as coisas tão bem ruins por aqui. Por favor,
+ encontre o GECK. Nós estamos precisando desesperadamente!} # Hello again, cousin. I guess you've noticed that things are really falling apart here. Please find the GECK. We are in desperate need!
 {210}{}{Oi, primo.} # Hi, cousin.
 {211}{}{Oi, primo.} # Hi, cousin.
-{212}{}{VocÃª num parecer bem.} # You not sound like usual self.
-{213}{}{VocÃª nÃ£o parece muito bem.} # You don't sound like your usual self.
-{214}{}{Me desculpa, primo. As coisas tÃ£o ficando cada vez piores desde que vocÃª se foi. As pessoas
- estÃ£o doentes, o brahmin estÃ¡ morrendo, e... Meu... O meu cachorro Smoke morreu -- a Morlis comeu ele.
- Eu sinto tanta falta dele... Desculpa, mas eu nÃ£o consigo mais falar...} # I'm sorry, cousin. Things have been getting worse and worse since you last left. People are sick, the brahmin are dying and... I... my dog Smoke died - Morlis cooked him. I miss him so much. Sorry, but I can't really talk any more...
-{215}{}{Me desculpa, primo. As coisas tÃ£o ficando cada vez piores desde que vocÃª se foi. As pessoas
- estÃ£o doentes, o brahmin estÃ¡ morrendo, e... Meu... O meu cachorro Smoke morreu. Eu sinto tanta falta dele...
- Desculpa, mas eu nÃ£o consigo mais falar....} # I'm sorry, cousin. Things have been getting worse and worse since you last left. People are sick, the brahmin are dying and... I... my dog Smoke died. I miss him so much. Sorry, but I can't really talk any more...
+{212}{}{Você num parecer bem.} # You not sound like usual self.
+{213}{}{Você não parece muito bem.} # You don't sound like your usual self.
+{214}{}{Me desculpa, primo. As coisas tão ficando cada vez piores desde que você se foi. As pessoas
+ estão doentes, o brahmin está morrendo, e... Meu... O meu cachorro Smoke morreu -- a Morlis comeu ele.
+ Eu sinto tanta falta dele... Desculpa, mas eu não consigo mais falar...} # I'm sorry, cousin. Things have been getting worse and worse since you last left. People are sick, the brahmin are dying and... I... my dog Smoke died - Morlis cooked him. I miss him so much. Sorry, but I can't really talk any more...
+{215}{}{Me desculpa, primo. As coisas tão ficando cada vez piores desde que você se foi. As pessoas
+ estão doentes, o brahmin está morrendo, e... Meu... O meu cachorro Smoke morreu. Eu sinto tanta falta dele...
+ Desculpa, mas eu não consigo mais falar....} # I'm sorry, cousin. Things have been getting worse and worse since you last left. People are sick, the brahmin are dying and... I... my dog Smoke died. I miss him so much. Sorry, but I can't really talk any more...
 
 
-{300}{}{VocÃª vÃª Nargor.} # You see Nagor.
+{300}{}{Você vê Nargor.} # You see Nagor.

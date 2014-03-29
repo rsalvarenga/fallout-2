@@ -1,22 +1,22 @@
-{100}{}{VocÃª estÃ¡ vendo um terminal de computador.}
-{101}{}{VocÃª estÃ¡ vendo um terminal de computador de seguranÃ§a.}
-{102}{}{VocÃª estÃ¡ vendo um terminal de computador padrÃ£o. Parece ser funcional e pronto para a acessar.}
-{103}{}{Este terminal monitora os geradores do campo de forÃ§a. Ele indica que tudo estÃ¡ funcionando
+{100}{}{Você está vendo um terminal de computador.}
+{101}{}{Você está vendo um terminal de computador de segurança.}
+{102}{}{Você está vendo um terminal de computador padrão. Parece ser funcional e pronto para a acessar.}
+{103}{}{Este terminal monitora os geradores do campo de força. Ele indica que tudo está funcionando
  normalmente.}
-{104}{}{Este terminal monitora os geradores do campo de forÃ§a. Ele indica que a unidade estÃ¡ offline,
- devido Ã  falta de energia.}
+{104}{}{Este terminal monitora os geradores do campo de força. Ele indica que a unidade está offline,
+ devido à falta de energia.}
 {105}{}{Turn the force field off.}
 {106}{}{Turn the force field on.}
-{107}{}{ConcluÃ­do.}
-{108}{}{VocÃª darÃ¡ o comando para desativar o campo de forÃ§a.}
-{109}{}{VocÃª nÃ£o consegue digitar os cÃ³digos de seguranÃ§a para desativar o campo de forÃ§a.}
-{110}{}{ConcluÃ­do.}
-{111}{}{VocÃª darÃ¡ o comando para ativar o campo de forÃ§a.}
-{112}{}{VocÃª nÃ£o consegue digitar os cÃ³digos de seguranÃ§a para ativar o campo de forÃ§a.}
-{113}{}{ConcluÃ­do.}
+{107}{}{Concluído.}
+{108}{}{Você dará o comando para desativar o campo de força.}
+{109}{}{Você não consegue digitar os códigos de segurança para desativar o campo de força.}
+{110}{}{Concluído.}
+{111}{}{Você dará o comando para ativar o campo de força.}
+{112}{}{Você não consegue digitar os códigos de segurança para ativar o campo de força.}
+{113}{}{Concluído.}
 
-{114}{}{Este terminal monitora os geradores do campo de forÃ§a. Ele indica que o campo de forÃ§a estÃ¡ desligado.}
-{115}{}{Este terminal monitora os geradores de campo de forÃ§a. Ele indica que o campo de forÃ§a estÃ¡
+{114}{}{Este terminal monitora os geradores do campo de força. Ele indica que o campo de força está desligado.}
+{115}{}{Este terminal monitora os geradores de campo de força. Ele indica que o campo de força está
  temporariamente desabilitado.}
-{116}{}{Este terminal monitora os geradores de campo de forÃ§a. Isto indica que o campo de forÃ§as foi
+{116}{}{Este terminal monitora os geradores de campo de força. Isto indica que o campo de forças foi
  comprometido.}

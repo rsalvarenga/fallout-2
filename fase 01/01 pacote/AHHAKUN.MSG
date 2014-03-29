@@ -1,196 +1,196 @@
-# Noob-Saibot revisou e est√° traduzindo este arquivo.
-{100}{}{Diante de voc√™ est√° Hakunin, o xam√£ da tribo. Ele te observa com seu olhar insano, de algum lugar no mundo que s√≥ ele habita...} # Before you stands Hakunin, the village shaman. He appraises you with his crazy eyes from somewhere in the world only he inhabits...
-{101}{}{Voc√™ v√™ Hakunin caido no ch√£o. Ele est√° gravemente ferido.} # You see Hakunin lying on the ground. He's badly wounded.
-{102}{}{Voc√™ v√™ Hakunin. Ele est√° bem perto da morte.} # You see Hakunin. He's very near death.
-{103}{}{Hakunin est√° s√©riamente queimado. Ele cheira a frango frito, e se parece com uma alm√¥ndega queimada. Voc√™ n√£o sabe como ele conseguiu permanecer vivo.} # Hakunin is badly burned. He smells like roast chicken, looks like burnt meatloaf, and you don't know how he's managed to stay alive this long.
-{104}{hak001}{Sauda√ß√µes, Escolhido. Porque a terra diante de mim esquenta ao toque de sua passagem?} # Greetings, Chosen. Why does the earth before me warm to the touch of your passing?
+# Noob-Saibot revisou e est· traduzindo este arquivo.
+{100}{}{Diante de vocÍ est· Hakunin, o xam„ da tribo. Ele te observa com seu olhar insano, de algum lugar no mundo que sÛ ele habita...} # Before you stands Hakunin, the village shaman. He appraises you with his crazy eyes from somewhere in the world only he inhabits...
+{101}{}{VocÍ vÍ Hakunin caido no ch„o. Ele est· gravemente ferido.} # You see Hakunin lying on the ground. He's badly wounded.
+{102}{}{VocÍ vÍ Hakunin. Ele est· bem perto da morte.} # You see Hakunin. He's very near death.
+{103}{}{Hakunin est· sÈriamente queimado. Ele cheira a frango frito, e se parece com uma almÙndega queimada. VocÍ n„o sabe como ele conseguiu permanecer vivo.} # Hakunin is badly burned. He smells like roast chicken, looks like burnt meatloaf, and you don't know how he's managed to stay alive this long.
+{104}{hak001}{SaudaÁıes, Escolhido. Porque a terra diante de mim esquenta ao toque de sua passagem?} # Greetings, Chosen. Why does the earth before me warm to the touch of your passing?
 {105}{}{Ahn?} # Uh?
 {106}{}{Eu vim me despedir. Estou indo para minha jornada sagrada.} # I've come to say goodbye. I'm leaving on my holy quest. 
-{107}{}{Estou indo embora. Eu estava s√≥ esperando que, pela primeira vez, voc√™ fosse falar como uma pessoa normal.} # I'm heading out. I was hoping just this once you'd talk like a real person.
-{108}{}{Voc√™ anda se drogando muito. T√¥ vazando daqui.} # You are doing just way too many drugs. I'm outta here. 
-{109}{}{Estou ferido. Voc√™ pode me curar?} # I'm hurt. Can you heal me?
-{110}{}{Tinham umas plantas medonhas infestando seu jardim - Eu acabei com elas pra voc√™.}  # There were some pretty nasty plants infesting your garden- I've taken care of them for you.
-{111}{hak001a}{Por favor, revele aos olhos nublados o prop√≥sito de sua passagem.}  # Please reveal to clouded eyes the purpose of your passage.
+{107}{}{Estou indo embora. Eu estava sÛ esperando que, pela primeira vez, vocÍ fosse falar como uma pessoa normal.} # I'm heading out. I was hoping just this once you'd talk like a real person.
+{108}{}{VocÍ anda se drogando muito. TÙ vazando daqui.} # You are doing just way too many drugs. I'm outta here. 
+{109}{}{Estou ferido. VocÍ pode me curar?} # I'm hurt. Can you heal me?
+{110}{}{Tinham umas plantas medonhas infestando seu jardim - Eu acabei com elas pra vocÍ.}  # There were some pretty nasty plants infesting your garden- I've taken care of them for you.
+{111}{hak001a}{Por favor, revele aos olhos nublados o propÛsito de sua passagem.}  # Please reveal to clouded eyes the purpose of your passage.
 {112}{}{Hein?} # Uh? 
 {113}{}{Eu vim me despedir. Estou indo para minha jornada sagrada.} # I've come to say goodbye. I'm leaving on my holy quest. 
-{114}{}{Estou indo embora. Eu estava s√≥ esperando que, pela primeira vez, voc√™ fosse falar como uma pessoa normal.} # I'm heading out. I was hoping just this once you'd talk like a real person. 
-{115}{}{Voc√™ tem que parar de fumar essas ervas. T√¥ vazando daqui.} # You are doing just way too many drugs. I'm outta here. 
-{116}{}{Tinham umas plantas medonhas infestando seu jardim - Eu acabei com elas pra voc√™.} # There were some pretty nasty plants infesting your garden- I've taken care of them for you.
-{117}{hak002}{O solo canta com as not√≠cias de um novo campe√£o sobre a terra.... Talvez, antes de ir, voc√™ poderia conceder sua bondade?} # The Earth sings with the news of a champion upon the land.... Perhaps, before you go, you would bestow a kindness?
-{118}{}{Claro. Do que voc√™ precisa?} # Sure. What do you need?
+{114}{}{Estou indo embora. Eu estava sÛ esperando que, pela primeira vez, vocÍ fosse falar como uma pessoa normal.} # I'm heading out. I was hoping just this once you'd talk like a real person. 
+{115}{}{VocÍ tem que parar de fumar essas ervas. TÙ vazando daqui.} # You are doing just way too many drugs. I'm outta here. 
+{116}{}{Tinham umas plantas medonhas infestando seu jardim - Eu acabei com elas pra vocÍ.} # There were some pretty nasty plants infesting your garden- I've taken care of them for you.
+{117}{hak002}{O solo canta com as notÌcias de um novo campe„o sobre a terra.... Talvez, antes de ir, vocÍ poderia conceder sua bondade?} # The Earth sings with the news of a champion upon the land.... Perhaps, before you go, you would bestow a kindness?
+{118}{}{Claro. Do que vocÍ precisa?} # Sure. What do you need?
 {119}{}{Depende. O que eu vou ganhar com isso?} # It depends? what'll you give me?
-{120}{hak002a}{As vis√µes do mundo s√£o muitas - uma li√ß√£o que voc√™ aprender√° em breve..... Talvez, antes que voc√™ colha as experi√™ncias da vida, voc√™ possa conceder um pouco de sua bondade?} # The views of the world are many - a lesson you will learn soon.... Perhaps, before you reap the experiences of life, you would bestow a kindness?
-{121}{}{Voc√™ acabou de me pedir um favor? Se sim.. Claro, porque n√£o?} # Did you just ask me to do you a favor? If so, sure, why not?
-{122}{}{Eu at√© fa√ßo algo pra voc√™, mas como eu tenho que me esfor√ßar muito pra te entender, isso vai custar alguma coisa.} # I'll do something for you, but since I have to work this hard just to understand you, this task will cost.
-{123}{hak003}{Ben√ß√£os sobre voc√™, porque √©s verdadeiramente uma crian√ßa da natureza. Voc√™ poderia por favor usar seus talentos especiais e livrar meu jardim das plantas de alma ruim?} # A blessing on you, for you are truly a child of nature. Would you please use your special talents and rid my garden of the plants of dark soul?
-{124}{}{A-h√£} # Uh-huh. 
-{125}{}{Naum. Voceee. Dar. Cabessa dod√≥i.} # Nuh-uh. Youuu. Giv. Hed hurt.
-{126}{hak004}{Que sua aura agracie minha presen√ßa quando voc√™... Ah, venha at√© minha porta quando terminar e eu te darei algo bom.} # May your aura grace my presence when you are... Oh, come to my door when you're done and I'll give you something good.
+{120}{hak002a}{As visıes do mundo s„o muitas - uma liÁ„o que vocÍ aprender· em breve..... Talvez, antes que vocÍ colha as experiÍncias da vida, vocÍ possa conceder um pouco de sua bondade?} # The views of the world are many - a lesson you will learn soon.... Perhaps, before you reap the experiences of life, you would bestow a kindness?
+{121}{}{VocÍ acabou de me pedir um favor? Se sim.. Claro, porque n„o?} # Did you just ask me to do you a favor? If so, sure, why not?
+{122}{}{Eu atÈ faÁo algo pra vocÍ, mas como eu tenho que me esforÁar muito pra te entender, isso vai custar alguma coisa.} # I'll do something for you, but since I have to work this hard just to understand you, this task will cost.
+{123}{hak003}{BenÁ„os sobre vocÍ, porque Ès verdadeiramente uma crianÁa da natureza. VocÍ poderia por favor usar seus talentos especiais e livrar meu jardim das plantas de alma ruim?} # A blessing on you, for you are truly a child of nature. Would you please use your special talents and rid my garden of the plants of dark soul?
+{124}{}{A-h„} # Uh-huh. 
+{125}{}{Naum. Voceee. Dar. Cabessa dodÛi.} # Nuh-uh. Youuu. Giv. Hed hurt.
+{126}{hak004}{Que sua aura agracie minha presenÁa quando vocÍ... Ah, venha atÈ minha porta quando terminar e eu te darei algo bom.} # May your aura grace my presence when you are... Oh, come to my door when you're done and I'll give you something good.
 {127}{}{Urgh.} # Urgh.
-{128}{hak005}{As plantas de alma ruim infestaram meu jardim novamente. Muitas esta√ß√µes tocaram meus ossos, e estou muito fr√°gil para esta luta, que √© eterna em natureza. Eu pe√ßo que seja meu campe√£o.} # The plants of dark soul have infested my garden again. Many seasons have touched my bones and I am too frail for that fight which is eternal in nature. I ask that you be my champion.
-{129}{}{Eu acho que n√£o. Eu preciso come√ßar minha jornada agora.} # I don't think so. I need to start my quest right away.
-{130}{}{Eu sei que voc√™ n√£o √© um cara ruim, mas eu j√° estou com dor de cabe√ßa... Ent√£o fica pra pr√≥xima.} # I know you're not a bad guy, but I've got a headache already, so I think I'll have to pass.
-{131}{}{Esquece. Eu sou o futuro l√≠der dessa tribo, e portanto n√£o posso me preocupar em ser seu jardineiro.} # Forget it. I'm the future leader of this tribe and it would be undignified for me to do your gardening for you.
-{132}{}{Eu ficaria honrado, Xam√£.} # I'd be honored, holy one.
-{133}{}{Voc√™ me pediu pra aparar seu jardim? Se √© isso, t√° ok.} # Did you just ask me to weed your garden? If that's the case, okay.
-{134}{}{Por um pre√ßo.} # For a price.
-{135}{hak006}{Pedir pagamento por um presente vai te trazer menos que o presente em si. Eu te darei tal presente, e com ele a li√ß√£o de sua auto-decep√ß√£o ao receb√™-lo.} # To ask payment for a gift will bring you less than the gift itself.  I will give you such and add the lesson of your self-disappointment at the receiving.
+{128}{hak005}{As plantas de alma ruim infestaram meu jardim novamente. Muitas estaÁıes tocaram meus ossos, e estou muito fr·gil para esta luta, que È eterna em natureza. Eu peÁo que seja meu campe„o.} # The plants of dark soul have infested my garden again. Many seasons have touched my bones and I am too frail for that fight which is eternal in nature. I ask that you be my champion.
+{129}{}{Eu acho que n„o. Eu preciso comeÁar minha jornada agora.} # I don't think so. I need to start my quest right away.
+{130}{}{Eu sei que vocÍ n„o È um cara ruim, mas eu j· estou com dor de cabeÁa... Ent„o fica pra prÛxima.} # I know you're not a bad guy, but I've got a headache already, so I think I'll have to pass.
+{131}{}{Esquece. Eu sou o futuro lÌder dessa tribo, e portanto n„o posso me preocupar em ser seu jardineiro.} # Forget it. I'm the future leader of this tribe and it would be undignified for me to do your gardening for you.
+{132}{}{Eu ficaria honrado, Xam„.} # I'd be honored, holy one.
+{133}{}{VocÍ me pediu pra aparar seu jardim? Se È isso, t· ok.} # Did you just ask me to weed your garden? If that's the case, okay.
+{134}{}{Por um preÁo.} # For a price.
+{135}{hak006}{Pedir pagamento por um presente vai te trazer menos que o presente em si. Eu te darei tal presente, e com ele a liÁ„o de sua auto-decepÁ„o ao recebÍ-lo.} # To ask payment for a gift will bring you less than the gift itself.  I will give you such and add the lesson of your self-disappointment at the receiving.
 {136}{}{Bom o suficiente. Aonde fica o jardim?} # Good enough. Where's the garden?
-{137}{}{Quer saber, um bom presente seria QUE VOC√ä FALASSE PORTUGU√äS!} # You know, a nice gift would be to SPEAK ENGLISH!
-{138}{}{E se eu te der uma li√ß√£o de decep√ß√£o e ir embora agora? Tchau!} # What if I give you a lesson in disappointment and leave right now? Bye.
-{139}{}{Bem, se esta √© sua atitude, acho que n√£o tenho interesse. At√© mais.} # Well, if that's your attitude, I don't think I'm interested. Goodbye.
+{137}{}{Quer saber, um bom presente seria QUE VOC  FALASSE PORTUGU S!} # You know, a nice gift would be to SPEAK ENGLISH!
+{138}{}{E se eu te der uma liÁ„o de decepÁ„o e ir embora agora? Tchau!} # What if I give you a lesson in disappointment and leave right now? Bye.
+{139}{}{Bem, se esta È sua atitude, acho que n„o tenho interesse. AtÈ mais.} # Well, if that's your attitude, I don't think I'm interested. Goodbye.
 {140}{hak006a}{Se usarmos as mesmas palavras, iremos dizer a mesma coisa? Palavras sempre carregam os mesmo toque de uma alma?} # If we speak the same words, do we mean the same thing? Do words always carry the same touch of a soul?
-{141}{}{Ah, sim. Muito melhor agora. A li√ß√£o que aprendi √© calar a boca e perguntar aonde fica o jardim.} # Oh, yeah. Much better. And the lesson I learned is to shut up and just ask where the garden is.
+{141}{}{Ah, sim. Muito melhor agora. A liÁ„o que aprendi È calar a boca e perguntar aonde fica o jardim.} # Oh, yeah. Much better. And the lesson I learned is to shut up and just ask where the garden is.
 {142}{}{Vamos tentar a palavra "Adeus". Significa que estou indo embora.} # Let's try the word, "goodbye." It means I'm leaving. 
-{143}{hak007}{Obvicamente voc√™ lembra que fica na dire√ß√£o nordeste, mente tola.} # Surely you remember it is to the northeast, foolish one.
+{143}{hak007}{Obvicamente vocÍ lembra que fica na direÁ„o nordeste, mente tola.} # Surely you remember it is to the northeast, foolish one.
 {144}{}{Obrigado pela ajuda.} # Thank you for your help.
 {145}{}{Obrigado. Isso eu consegui entender.} # Thanks. I actually understood that.
-{146}{}{Voc√™ t√° me chamando de imbecil? Eu acho que n√£o t√¥ afim de te ajudar, no fim das contas.} # Are you calling me a fool? I don't think I want to help you, after all. 
+{146}{}{VocÍ t· me chamando de imbecil? Eu acho que n„o tÙ afim de te ajudar, no fim das contas.} # Are you calling me a fool? I don't think I want to help you, after all. 
 {147}{}{Voltarei em breve para o meu pagamento.} # I'll be back for my payment soon.
-{148}{hak008}{O farto que voc√™ carrega agora ficar√° ainda mais pesado.} # The burden you carry now will grow ever heavier.
-{149}{hak009}{Que os Deuses te aben√ßoem por seu esfor√ßo, Escolhido. Que sua aura agracie minha presen√ßa quanto a terra respirar livremente novamente.} # May the gods bless your efforts, Chosen. May your aura grace my presence when the earth breathes clean again.
-{150}{}{Eu imagino que voc√™ quer me ver de novo quando eu terminar... Voc√™ podia ter dito assim, n√©.} # I take it you want to see me again when I'm done... You could have just said so, you know.
+{148}{hak008}{O farto que vocÍ carrega agora ficar· ainda mais pesado.} # The burden you carry now will grow ever heavier.
+{149}{hak009}{Que os Deuses te abenÁoem por seu esforÁo, Escolhido. Que sua aura agracie minha presenÁa quanto a terra respirar livremente novamente.} # May the gods bless your efforts, Chosen. May your aura grace my presence when the earth breathes clean again.
+{150}{}{Eu imagino que vocÍ quer me ver de novo quando eu terminar... VocÍ podia ter dito assim, nÈ.} # I take it you want to see me again when I'm done... You could have just said so, you know.
 {151}{}{Adeus.} # Goodbye.
-{152}{hak010}{Ha! O esp√≠rito do fundador vive em voc√™. Foque em expandir sua grandeza internamente, para que possa enfim tocar o mundo. √â claro, as recompensas ser√£o maiores que as de esp√≠rito.} # Ha! The founder's spirit lives in you. Focus in to fortify the self to expand the greatness to enable such to touch the world. Of course, the rewards will be more than those of the spirit. 
+{152}{hak010}{Ha! O espÌrito do fundador vive em vocÍ. Foque em expandir sua grandeza internamente, para que possa enfim tocar o mundo. … claro, as recompensas ser„o maiores que as de espÌrito.} # Ha! The founder's spirit lives in you. Focus in to fortify the self to expand the greatness to enable such to touch the world. Of course, the rewards will be more than those of the spirit. 
 {153}{}{Parece bom. Eu voltarei quando tiver terminado.} # Sounds good. I'll be back when I'm done.
-{154}{}{Ent√£o quer dizer que vou receber de fato um pagamento? Bom o suficente. Te vejo depois.} # So, I'm getting an actual thing in payment. Good enough. See ya later.
-{155}{}{Eu acho que voc√™ t√° brincando de mais com essas ervas ai. Pra evitar seu destino, vou ficar bem longe do seu jardim.} # I think you've been playing with those plants way too much. To avoid your fate, I'm staying away from the garden.
-{156}{hak011}{O tempo n√£o pode ser desperdi√ßado ou guardado - tudo √© sempre agora. As a√ß√µes criam o tecido de sua vida.} # Time can neither be wasted or saved- it must always be now. The actions create the fabric of your life.
-{157}{}{Ahn, t√° legal. Como eu disse, preciso ir. At√© mais.} # Uh, right. Like I said, I've got to go. Goodbye.
-{158}{}{Falar com voc√™ me faz duvidar dessa id√©ia de que o tempo n√£o pode ser desperdi√ßado... T√¥ vazando daqui.} # You know, talking to you makes me wonder about that time can't be wasted idea. I'm outta here. 
-{159}{}{Ah, se eu tivesse sua sabedoria, √≥ sabio. Perdoe-me - √© claro que farei o que for preciso para voc√™.} # If only I had your wisdom, wise one. Forgive me- of course I'll take care of it for you.
-{160}{hak012}{Voc√™ pode usar a veste do escolhido, mas sua alma negra berra por dentro.} # You may bear the mantle of the Chosen, but your dark soul cries from within.
-{161}{}{Me perdoe, xam√£. Como posso limpar minha alma?} # I beg your forgiveness, holy one. How can I cleanse my soul? 
-{162}{}{Voc√™ est√° certo, Hakunin, e se voc√™ for s√°bio voc√™ n√£o vai esquecer disto.} # That's right, Hakunin, and you'd be a real wise man not to forget it.
-{163}{}{Minha cabe√ßa d√≥i s√≥ de te ouvir. At√© mais.} # My head aches from within listening to you. I'm gone. 
+{154}{}{Ent„o quer dizer que vou receber de fato um pagamento? Bom o suficente. Te vejo depois.} # So, I'm getting an actual thing in payment. Good enough. See ya later.
+{155}{}{Eu acho que vocÍ t· brincando de mais com essas ervas ai. Pra evitar seu destino, vou ficar bem longe do seu jardim.} # I think you've been playing with those plants way too much. To avoid your fate, I'm staying away from the garden.
+{156}{hak011}{O tempo n„o pode ser desperdiÁado ou guardado - tudo È sempre agora. As aÁıes criam o tecido de sua vida.} # Time can neither be wasted or saved- it must always be now. The actions create the fabric of your life.
+{157}{}{Ahn, t· legal. Como eu disse, preciso ir. AtÈ mais.} # Uh, right. Like I said, I've got to go. Goodbye.
+{158}{}{Falar com vocÍ me faz duvidar dessa idÈia de que o tempo n„o pode ser desperdiÁado... TÙ vazando daqui.} # You know, talking to you makes me wonder about that time can't be wasted idea. I'm outta here. 
+{159}{}{Ah, se eu tivesse sua sabedoria, Û sabio. Perdoe-me - È claro que farei o que for preciso para vocÍ.} # If only I had your wisdom, wise one. Forgive me- of course I'll take care of it for you.
+{160}{hak012}{VocÍ pode usar a veste do escolhido, mas sua alma negra berra por dentro.} # You may bear the mantle of the Chosen, but your dark soul cries from within.
+{161}{}{Me perdoe, xam„. Como posso limpar minha alma?} # I beg your forgiveness, holy one. How can I cleanse my soul? 
+{162}{}{VocÍ est· certo, Hakunin, e se vocÍ for s·bio vocÍ n„o vai esquecer disto.} # That's right, Hakunin, and you'd be a real wise man not to forget it.
+{163}{}{Minha cabeÁa dÛi sÛ de te ouvir. AtÈ mais.} # My head aches from within listening to you. I'm gone. 
 {164}{}{Booka!} # Booka!
-{165}{hak013}{Limpe sua alma, da mesma maneira que deve banir os dem√¥nios de meu jardim. Arranque o mal pela ra√≠z. } # Cleanse your soul as you would banish demons from my garden.
-{166}{}{Eu farei isso, s√°bio. Eu buscarei seu perd√£o depois de ter purificado seu jardim.} # It shall be done, wise one. I will come seek your forgiveness after I have purified your garden.
-{167}{}{Voc√™ t√° tentando me dizer que capinar seu jardim vai ser bom pra mim, certo? Ok, eu vou tentar.} # You're trying to say that weeding your garden will be good for me, right? Well, okay, I'll give it a try.
-{168}{}{Eu curto minha alma do jeito que est√°. Adeus.} # I kinda like my soul the way it is. Bye.
-{169}{}{Eu n√£o sou digno. Vou me retirar agora.} # I'm not worthy. I'll take my leave now.
-{170}{hak014}{Escolhido, novamente a totalidade do seu ser est√° aben√ßoada, como a terra.} # Chosen, once again the wholeness of your being is like a land blessed.
+{165}{hak013}{Limpe sua alma, da mesma maneira que deve banir os demÙnios de meu jardim. Arranque o mal pela raÌz. } # Cleanse your soul as you would banish demons from my garden.
+{166}{}{Eu farei isso, s·bio. Eu buscarei seu perd„o depois de ter purificado seu jardim.} # It shall be done, wise one. I will come seek your forgiveness after I have purified your garden.
+{167}{}{VocÍ t· tentando me dizer que capinar seu jardim vai ser bom pra mim, certo? Ok, eu vou tentar.} # You're trying to say that weeding your garden will be good for me, right? Well, okay, I'll give it a try.
+{168}{}{Eu curto minha alma do jeito que est·. Adeus.} # I kinda like my soul the way it is. Bye.
+{169}{}{Eu n„o sou digno. Vou me retirar agora.} # I'm not worthy. I'll take my leave now.
+{170}{hak014}{Escolhido, novamente a totalidade do seu ser est· abenÁoada, como a terra.} # Chosen, once again the wholeness of your being is like a land blessed.
 {171}{}{Obrigado.} # Thank you. 
-{172}{}{Voc√™ quer dizer que eu t√¥ melhor, n√©?} # You mean I'm better, right?
-{173}{hak015}{Para fazer um inteiro, √© necess√°rio que tenhamos um senso de plenitude. Voc√™ faria bem em entender, Escolhido.} # To make one whole instills a sense of fullness that you would be well to understand, Chosen.
-{174}{}{Pera, deixa comigo. Eu estou melhor e voc√™ se sente bem por isso, certo? Obrigado.} # Wait, don't tell me. I'm better and you felt good doing it, right? Thanks.
-{175}{}{Voc√™ √© s√°bio e bondoso, Santo Xam√£.} # You are wise and kind, Holy One.
+{172}{}{VocÍ quer dizer que eu tÙ melhor, nÈ?} # You mean I'm better, right?
+{173}{hak015}{Para fazer um inteiro, È necess·rio que tenhamos um senso de plenitude. VocÍ faria bem em entender, Escolhido.} # To make one whole instills a sense of fullness that you would be well to understand, Chosen.
+{174}{}{Pera, deixa comigo. Eu estou melhor e vocÍ se sente bem por isso, certo? Obrigado.} # Wait, don't tell me. I'm better and you felt good doing it, right? Thanks.
+{175}{}{VocÍ È s·bio e bondoso, Santo Xam„.} # You are wise and kind, Holy One.
 {176}{hak017}{De que forma posso tocar a alma escolhida, Semente do Fundador?} # In what way may I touch the chosen soul, Seed of the Dweller?
 {177}{}{Ahn... Onde exatamente fica o seu jardim?} # Uh, where exactly is your garden?
-{178}{}{Estou ferido. Voc√™ pode me curar?} # I'm hurt. Can you heal me?
-{179}{}{√â.. Deixa pra l√°. Adeus.} # Oh, nothing. Goodbye.
-{180}{hak018}{Ahh... Voc√™ retorna o esp√≠rito do Fundador para o mundo, e leva um sorriso at√© a alma de um homem velho, enquanto passa. Como recompensa, eu te dou alguns sacos de Healing Powder. Mas lembre-se: Eles emba√ßam a mente enquanto curam o corpo.} # Ahh. You return the spirit of the Dweller to the world and bring a smile to the soul of an old man in passing. For this, I give you powders of healing. Remember, they fog the mind as they cleanse the body.
+{178}{}{Estou ferido. VocÍ pode me curar?} # I'm hurt. Can you heal me?
+{179}{}{….. Deixa pra l·. Adeus.} # Oh, nothing. Goodbye.
+{180}{hak018}{Ahh... VocÍ retorna o espÌrito do Fundador para o mundo, e leva um sorriso atÈ a alma de um homem velho, enquanto passa. Como recompensa, eu te dou alguns sacos de Healing Powder. Mas lembre-se: Eles embaÁam a mente enquanto curam o corpo.} # Ahh. You return the spirit of the Dweller to the world and bring a smile to the soul of an old man in passing. For this, I give you powders of healing. Remember, they fog the mind as they cleanse the body.
 {181}{}{Obrigado.} # Thank you.
-{182}{hak018a}{Farei tamb√©m a mistura de broc flower com xander root, sempre que voc√™ trouxer ambos para mim. Que seus caminhos sejam verdadeiros, e que seu cora√ß√£o siga o exemplo.} # And also, will I mix the broc flower with the xander root together whenever you bring both to me. May your pathways be true and your heart follow suit. 
+{182}{hak018a}{Farei tambÈm a mistura de broc flower com xander root, sempre que vocÍ trouxer ambos para mim. Que seus caminhos sejam verdadeiros, e que seu coraÁ„o siga o exemplo.} # And also, will I mix the broc flower with the xander root together whenever you bring both to me. May your pathways be true and your heart follow suit. 
 {183}{}{Onde posso achar essas coisas?} # Where can I find these things?
 {184}{}{Obrigado.} # Thank you.
-{185}{}{Estou at√© triste de ir embora. Eu estava quase come√ßando a te entender... Adeus.} # I'm almost sorry to go. I can just about understand you now. Bye.
-{186}{hak019}{Ah, Escolhido. Meu jardim est√° bem - como vai o seu?} # Ah, Chosen, my garden is well- how is yours?
+{185}{}{Estou atÈ triste de ir embora. Eu estava quase comeÁando a te entender... Adeus.} # I'm almost sorry to go. I can just about understand you now. Bye.
+{186}{hak019}{Ah, Escolhido. Meu jardim est· bem - como vai o seu?} # Ah, Chosen, my garden is well- how is yours?
 {187}{}{Eu estou bem.} # I'm all right.
 {188}{}{Eu preciso de cura.} # I need healing.
-{189}{}{Onde voc√™ disse que estavam as plantas mesmo?} # Where did you say the plants were?
-{190}{}{Eu n√£o tenho jardim nenhum - de que diabos voc√™ est√° falando agora?} # I don't have a garden- what the hell are you talking about this time?
-{191}{}{Eu gostaria que voc√™ fizesse um pouco de Healing Powder pra mim.} # I'd like you to make some healing powder for me.
+{189}{}{Onde vocÍ disse que estavam as plantas mesmo?} # Where did you say the plants were?
+{190}{}{Eu n„o tenho jardim nenhum - de que diabos vocÍ est· falando agora?} # I don't have a garden- what the hell are you talking about this time?
+{191}{}{Eu gostaria que vocÍ fizesse um pouco de Healing Powder pra mim.} # I'd like you to make some healing powder for me.
 {192}{}{Ah, esquece. Eu tenho que ir.} # Oh, never mind. I've got to go.
 {193}{}{Ow?} # Ow?
 {194}{}{Ooog! Bak!} # Ooog! Bak!
 {195}{hak020}{O prazer dessas palavras me preenche. Infelizmente, os deuses pedem por minha orelhas. Adeus.} # The pleasure of these words fills me. Alas, the gods whisper for my ear. Goodbye.
 {196}{}{Adeus.} # Bye.
-{197}{}{Ainda misturando essas ervas a√≠, n√©? Ok. Te vejo depois.} # Still mixing the herbs, huh? See you later.
-{198}{hak021}{N√≥s todos temos jardins. Que voc√™ cultive o seu durante suas jornadas. V√° em paz. Eu tenho uma reuni√£o com os deuses agora.} # We all have gardens. May your journeys act as tending. Be well. I must seek audience with the gods now.
-{199}{}{At√© mais.} # See ya.
-{200}{}{Eu aposto que voc√™ consegue carregar sua reuni√£o pra onde quer que voc√™ v√°... At√© mais.} # I'm betting you carry your audience with you wherever you go. Be well.
-{201}{hak022}{Procure ao norte, Escolhido, e o caminho estar√° aberto.} # Look to the north, Chosen, and the way will be open.
+{197}{}{Ainda misturando essas ervas aÌ, nÈ? Ok. Te vejo depois.} # Still mixing the herbs, huh? See you later.
+{198}{hak021}{NÛs todos temos jardins. Que vocÍ cultive o seu durante suas jornadas. V· em paz. Eu tenho uma reuni„o com os deuses agora.} # We all have gardens. May your journeys act as tending. Be well. I must seek audience with the gods now.
+{199}{}{AtÈ mais.} # See ya.
+{200}{}{Eu aposto que vocÍ consegue carregar sua reuni„o pra onde quer que vocÍ v·... AtÈ mais.} # I'm betting you carry your audience with you wherever you go. Be well.
+{201}{hak022}{Procure ao norte, Escolhido, e o caminho estar· aberto.} # Look to the north, Chosen, and the way will be open.
 {202}{}{Ok. Obrigado.} # Okay. Thanks
-{203}{hak023}{√â uma honra servir ao Escolhido.} # I am honored to serve the Chosen.
-{204}{hak024}{Assim √© a vida. Dois criam um terceiro. Voc√™ precisar√° de Xander Root e Broc Flower para o Healing Powder.} # Such is life. Two creates a third. You will need both xander root and broc flower for the healing powder.
+{203}{hak023}{… uma honra servir ao Escolhido.} # I am honored to serve the Chosen.
+{204}{hak024}{Assim È a vida. Dois criam um terceiro. VocÍ precisar· de Xander Root e Broc Flower para o Healing Powder.} # Such is life. Two creates a third. You will need both xander root and broc flower for the healing powder.
 {205}{}{Ah. Obrigado.} # Oh. Thanks
 {206}{}{Poo.} # Poo.
-{207}{hak025}{Que isto seja √∫til.} # May this be of no use.
+{207}{hak025}{Que isto seja ˙til.} # May this be of no use.
 {208}{}{Ok. Obrigado.} # Okay. Thanks
 {209}{}{Uh!} # 
-{210}{hak026}{Voc√™ est√° bem agora.} # You are well.
+{210}{hak026}{VocÍ est· bem agora.} # You are well.
 {211}{}{Obrigado.} # Thank you.
-{212}{}{Nenhuma li√ß√£o de moral? Nenhum discurso sem no√ß√£o?.. Voc√™ t√° bem?} # No lessons? No incomprehensible speeches? You sure you're okay?
-{213}{hak027}{Bem-Vindo, Escolhido. Aben√ßoe-nos com as palavras de que o GECK ser√° encontrado em breve. Nossa aldeia morre. Nossa necessidade √© grande, e nosso tempo, curto.} # Welcome, Chosen. Bless us with words that the GECK will be found soon. Our village ails, our need is great, our time, short.
+{212}{}{Nenhuma liÁ„o de moral? Nenhum discurso sem noÁ„o?.. VocÍ t· bem?} # No lessons? No incomprehensible speeches? You sure you're okay?
+{213}{hak027}{Bem-Vindo, Escolhido. AbenÁoe-nos com as palavras de que o GECK ser· encontrado em breve. Nossa aldeia morre. Nossa necessidade È grande, e nosso tempo, curto.} # Welcome, Chosen. Bless us with words that the GECK will be found soon. Our village ails, our need is great, our time, short.
 {214}{}{Nuh.} # Nuh
-{215}{E sua habilidade de falar normalmente, n√£o-existente. Eu ainda estou procurando.}{} # And your ability to speak normally, non-existent. I'm still trying.
-{216}{}{Estou fazendo o poss√≠vel.} # I'm on it.
-{217}{}{Para de encher, velhote. Eu t√¥ fazendo o melhor que posso.} # Get off my back, old man. I'm doing the best I can.
-{218}{}{Eu ainda estou procurando, Santo Xam√£. Eu espero ter o GECK em breve.} # I'm still looking, holy one. I hope to have the GECK soon.
-{219}{hak028a}{Que a Terra amorte√ßa os passos de sua caminhada.} # May the Earth cushion the steps you must take.
-{220}{hak028b}{Que as √Åguas suavizem sua jornada. } # May the Waters soothe your journey.
-{221}{hak028c}{Que o Vento te guie at√© o seu objetivo.} # May the Wind guide you to your goal.
-{222}{hak028d}{Que o Fogo queime seu traseiro at√© que voc√™ termine sua miss√£o.} # Coloquei traseiro porque ele diz com um duplo sentido aqui... Podemos colocar "interior" se for pra tirar esse sentido. # May the Fire toast your bottom until you get this done.
+{215}{E sua habilidade de falar normalmente, n„o-existente. Eu ainda estou procurando.}{} # And your ability to speak normally, non-existent. I'm still trying.
+{216}{}{Estou fazendo o possÌvel.} # I'm on it.
+{217}{}{Para de encher, velhote. Eu tÙ fazendo o melhor que posso.} # Get off my back, old man. I'm doing the best I can.
+{218}{}{Eu ainda estou procurando, Santo Xam„. Eu espero ter o GECK em breve.} # I'm still looking, holy one. I hope to have the GECK soon.
+{219}{hak028a}{Que a Terra amorteÁa os passos de sua caminhada.} # May the Earth cushion the steps you must take.
+{220}{hak028b}{Que as ¡guas suavizem sua jornada. } # May the Waters soothe your journey.
+{221}{hak028c}{Que o Vento te guie atÈ o seu objetivo.} # May the Wind guide you to your goal.
+{222}{hak028d}{Que o Fogo queime seu traseiro atÈ que vocÍ termine sua miss„o.} # Coloquei traseiro porque ele diz com um duplo sentido aqui... Podemos colocar "interior" se for pra tirar esse sentido. # May the Fire toast your bottom until you get this done.
 {223}{}{Obrigado.} # Thanks.
-{224}{}{Como√©que√©?!} # Say what?!
+{224}{}{ComoÈqueÈ?!} # Say what?!
 {225}{}{Uh.} # 
 {226}{}{Huh?!} # 
-{227}{hak029}{Bem-vindo novamente, Escolhido. Eu vejo pela sua face que a salva√ß√£o do GECK ainda n√£o √© nossa. Seja incans√°vel como uma formiga antes que nossas reservas se esgotem. Voc√™ √© nossa √∫ltima esperan√ßa.} # Welcome back, Chosen. I see by your face the salvation of the GECK is not yet ours. Be tireless as the ant before our reserves run out. You are our last hope.
+{227}{hak029}{Bem-vindo novamente, Escolhido. Eu vejo pela sua face que a salvaÁ„o do GECK ainda n„o È nossa. Seja incans·vel como uma formiga antes que nossas reservas se esgotem. VocÍ È nossa ˙ltima esperanÁa.} # Welcome back, Chosen. I see by your face the salvation of the GECK is not yet ours. Be tireless as the ant before our reserves run out. You are our last hope.
 {228}{}{Uh-huh.} # 
-{229}{}{Estou tentando. Eu queria ver formigas andandando a mesma quantidade de quil√¥metros que eu...} # I'm trying. I'd like to see the ant covering the miles I am.
+{229}{}{Estou tentando. Eu queria ver formigas andandando a mesma quantidade de quilÙmetros que eu...} # I'm trying. I'd like to see the ant covering the miles I am.
 {230}{}{Estou dando o meu melhor.} # I'm doing my best.
-{231}{}{Vou tentar com o dobro de vontade, Santo Xam√£. Eu n√£o vou te decepcionar.} # I'll double my efforts, holy one. I will not let you down.
-{232}{}{T√°, t√°.. Eu j√° ouvi tudo isso antes.} # Yeah, yeah. I've heard it all before.
-{233}{hak030}{Escolhido - a vila chora  de desespero. As crian√ßas est√£o fracas e com fome. Por favor, n√≥s n√£o vamos aguentar muito tempo.} # Chosen - the village cries in desperation. The children are weak with hunger. Please, we cannot hold out much longer.
+{231}{}{Vou tentar com o dobro de vontade, Santo Xam„. Eu n„o vou te decepcionar.} # I'll double my efforts, holy one. I will not let you down.
+{232}{}{T·, t·.. Eu j· ouvi tudo isso antes.} # Yeah, yeah. I've heard it all before.
+{233}{hak030}{Escolhido - a vila chora  de desespero. As crianÁas est„o fracas e com fome. Por favor, nÛs n„o vamos aguentar muito tempo.} # Chosen - the village cries in desperation. The children are weak with hunger. Please, we cannot hold out much longer.
 {234}{}{Uh-huh.} # 
-{235}{}{T√¥ tentando. T√¥ tentando! Me d√° um tempo!} # I'm trying. I'm trying! Give me a break!
-{236}{}{Eu acharei o GECK, Xam√£. Voc√™ tem minha palavra.} # I'll find the GECK, holy one. You have my word.
+{235}{}{TÙ tentando. TÙ tentando! Me d· um tempo!} # I'm trying. I'm trying! Give me a break!
+{236}{}{Eu acharei o GECK, Xam„. VocÍ tem minha palavra.} # I'll find the GECK, holy one. You have my word.
 {237}{}{Eu farei meu melhor pra achar o GECK.} # I'll do my best to find the GECK.
-{238}{hak031}{Escolhido, das areias do tempo restam apenas alguns gr√£os. Por favor. Traga o GECK logo, e fa√ßa com que a vida na aldeia volte a crescer rapidamente, como uma erva daninha. R√°pido, antes que o √∫ltimo gr√£o caia.} # Chosen, the sands of time are but a few grains. Please. Bring the GECK soon and make the future of the village like the beach of the ocean. Quickly, before the last grain falls.
+{238}{hak031}{Escolhido, das areias do tempo restam apenas alguns gr„os. Por favor. Traga o GECK logo, e faÁa com que a vida na aldeia volte a crescer rapidamente, como uma erva daninha. R·pido, antes que o ˙ltimo gr„o caia.} # Chosen, the sands of time are but a few grains. Please. Bring the GECK soon and make the future of the village like the beach of the ocean. Quickly, before the last grain falls.
 {239}{}{Uh-huh.} # 
-{240}{}{T√° ok. Eu vou encontr√°-lo.} # All right. I'm off to find it.
-{241}{}{A vida √© uma "erva", huh?} # Life's a beach, huh?
-{242}{}{Eu econtrarei o GECK, Xam√£. Eu n√£o vou decepcionar nosso povo.} # I will find the GECK, holy one. I will not let our people down.
-{243}{hak032}{Escolhido, os esp√≠ritos dos nossos ancestrais me guiaram at√© o mundo dos sonhos para que eu pudesse tocar seus pensamentos. Nossa vila sofre sem o GECK. Suas m√£os seguram nossas vidas, como um pai segura seus filhos.} # Chosen, the spirits of our ancestors guide me to a world of dreams that I may touch thoughts. Our village suffers without the holy GECK. Your hands hold our lives as a father holds his children.
-{244}{hak033}{Novamente meu esp√≠rito te toca do vazio, Escolhido. Nossas planta√ß√µes falham, e nossas reservas diminuem. Retorne para n√≥s com o GECK. Seu sucesso √© nossa √∫ltima esperan√ßa.} # Once again my spirit touches you from the void, Chosen. Our crops fail, our reserves are meager. Return to us with the GECK. Your failure is our last light.
-{245}{hak034}{Escolhido. Nossa vila enfraquece. √â mais dif√≠cil tocar seus sonhos. Voc√™ precisa correr, ou vamos todos........} # Chosen. The village weakens. It is harder to touch your dreams. You must hurry or we will all...
-{246}{hak035}{Escolhido? Escolhido? Voc√™ me escuta? Nossa aldeia morre. Nosso futuro morre tamb√©m. N√≥s temos pouco tempo e vida restantes..... Apresse-se. Apresse-se....} # Chosen? Chosen? Do you hear me? The village dies. All of our futures die, too. We have little left in both time and essence... Hurry. Hurry...
-{247}{hak101}{Escolhido - A escurid√£o chegou antes de voc√™.} # Chosen - the shadow of darkness arrived before you.
+{240}{}{T· ok. Eu vou encontr·-lo.} # All right. I'm off to find it.
+{241}{}{A vida È uma "erva", huh?} # Life's a beach, huh?
+{242}{}{Eu econtrarei o GECK, Xam„. Eu n„o vou decepcionar nosso povo.} # I will find the GECK, holy one. I will not let our people down.
+{243}{hak032}{Escolhido, os espÌritos dos nossos ancestrais me guiaram atÈ o mundo dos sonhos para que eu pudesse tocar seus pensamentos. Nossa vila sofre sem o GECK. Suas m„os seguram nossas vidas, como um pai segura seus filhos.} # Chosen, the spirits of our ancestors guide me to a world of dreams that I may touch thoughts. Our village suffers without the holy GECK. Your hands hold our lives as a father holds his children.
+{244}{hak033}{Novamente meu espÌrito te toca do vazio, Escolhido. Nossas plantaÁıes falham, e nossas reservas diminuem. Retorne para nÛs com o GECK. Seu sucesso È nossa ˙ltima esperanÁa.} # Once again my spirit touches you from the void, Chosen. Our crops fail, our reserves are meager. Return to us with the GECK. Your failure is our last light.
+{245}{hak034}{Escolhido. Nossa vila enfraquece. … mais difÌcil tocar seus sonhos. VocÍ precisa correr, ou vamos todos........} # Chosen. The village weakens. It is harder to touch your dreams. You must hurry or we will all...
+{246}{hak035}{Escolhido? Escolhido? VocÍ me escuta? Nossa aldeia morre. Nosso futuro morre tambÈm. NÛs temos pouco tempo e vida restantes..... Apresse-se. Apresse-se....} # Chosen? Chosen? Do you hear me? The village dies. All of our futures die, too. We have little left in both time and essence... Hurry. Hurry...
+{247}{hak101}{Escolhido - A escurid„o chegou antes de vocÍ.} # Chosen - the shadow of darkness arrived before you.
 {248}{}{Owwww!} # 
 {249}{}{O que aconteceu?} # What happened?
-{250}{}{Voc√™ parece mal. Deixa eu te ajudar.} # You look bad. Let me help.
-{251}{hak102}{Meu filho, como fomos colocar um fardo t√£o grande em seus ombros? (suspiro) Seu povo foi levado.} # Child of Nature, how could we put such a burden on your shoulders? (sigh) Your people have been taken.
+{250}{}{VocÍ parece mal. Deixa eu te ajudar.} # You look bad. Let me help.
+{251}{hak102}{Meu filho, como fomos colocar um fardo t„o grande em seus ombros? (suspiro) Seu povo foi levado.} # Child of Nature, how could we put such a burden on your shoulders? (sigh) Your people have been taken.
 {252}{}{Uhh?} # 
-{253}{hak103}{Sim. Levado. Muitas almas negras vieram, montados em p√°ssaros de metal como uma n√∫vem de gafanhotos famintos, escondendo a maldade com peles brilhantes.} # Yes. Gone. Many dark souls came, riding the metal birds like a flock of hungry chittick bugs, hiding their evil in shiny skins. 
+{253}{hak103}{Sim. Levado. Muitas almas negras vieram, montados em p·ssaros de metal como uma n˙vem de gafanhotos famintos, escondendo a maldade com peles brilhantes.} # Yes. Gone. Many dark souls came, riding the metal birds like a flock of hungry chittick bugs, hiding their evil in shiny skins. 
 {254}{}{Oooh!! Bilhante Bunito!} # Ooo! Shiny Purty!
-{255}{hak104}{N√£o! N√£o Bonito! Eles sequestraram nosso povo e os levaram para o sudoeste!} # No! Not shiny pretty! They kidnapped our people and took them to the southwest.
+{255}{hak104}{N„o! N„o Bonito! Eles sequestraram nosso povo e os levaram para o sudoeste!} # No! Not shiny pretty! They kidnapped our people and took them to the southwest.
 {256}{}{Ow.} # 
 {257}{hak105}{Sim. Grande tristeza e dor. Eu aguentei entre os mundos para te dizer, Escolhido. Salve nosso povo.} # Yes. Great sadness and pain. I stand between worlds to tell you, Chosen. Save your people.
-{258}{}{H√£n?} # 
-{259}{hak106}{Escolhido, por favor, permita que minhas palavras te toquem. V√° para sudoeste. Sul e Oeste. Baixo e Esquerda. Salve nosso povo.} # Chosen, please let my words touch you. Go southwest. South and west. Save our people. Save our people.
-{260}{}{A-h√£m..} # 
-{261}{hak107}{Gra√ßas aos deuses... Minha alma agora pode se unir √† m√∫sica eterna. Viaje em seguran√ßa, Escolhido. } # Thank the ancestors. Now my soul may join the eternal song. Safe journey, Chosen.
+{258}{}{H„n?} # 
+{259}{hak106}{Escolhido, por favor, permita que minhas palavras te toquem. V· para sudoeste. Sul e Oeste. Baixo e Esquerda. Salve nosso povo.} # Chosen, please let my words touch you. Go southwest. South and west. Save our people. Save our people.
+{260}{}{A-h„m..} # 
+{261}{hak107}{GraÁas aos deuses... Minha alma agora pode se unir ‡ m˙sica eterna. Viaje em seguranÁa, Escolhido. } # Thank the ancestors. Now my soul may join the eternal song. Safe journey, Chosen.
 {262}{}{Vai?} # 
 {263}{hak108}{Vai!...} # 
 {264}{}{Xau xau.} # 
 {265}{hak109}{Almas negras vieram. Eles levaram todos com eles.} # Dark souls came. They took everyone.
 {266}{}{Almas negras? Como assim?} # Dark souls? What do you mean?
-{267}{hak110}{Uma rajada de vento veio. Com ela, drag√µes enormes que cuspiam fogo. Homens malignos sairam das barrigas das bestas e trouxeram a morte aos nossos guerreiros.} # A rush of wind came. On it were great dragonflies that spat flame. Evil men crawled from the beasts' bellies and brought death to our warriors.
-{268}{}{Nossos guerreiros n√£o conseguiram venc√™-los?} # Our warriors couldn't stop them?
-{269}{hak112}{O esp√≠rito era forte, mas as lan√ßas, fracas. Os dem√¥nios queimaram nossos guerreiros com as luzes do inferno.} # The spirit was willing, but the spearheads were weak. The evil ones burned our warriors with the lights of hell.
+{267}{hak110}{Uma rajada de vento veio. Com ela, dragıes enormes que cuspiam fogo. Homens malignos sairam das barrigas das bestas e trouxeram a morte aos nossos guerreiros.} # A rush of wind came. On it were great dragonflies that spat flame. Evil men crawled from the beasts' bellies and brought death to our warriors.
+{268}{}{Nossos guerreiros n„o conseguiram vencÍ-los?} # Our warriors couldn't stop them?
+{269}{hak112}{O espÌrito era forte, mas as lanÁas, fracas. Os demÙnios queimaram nossos guerreiros com as luzes do inferno.} # The spirit was willing, but the spearheads were weak. The evil ones burned our warriors with the lights of hell.
 {270}{}{Eles.. mataram todo mundo?} # They killed everyone?
-{271}{hak113}{Todos foram mortos ou levados. Meu esp√≠rito retornou at√© a carne apenas para te revelar a verdade, Escolhido.} # All were dead or taken. My spirit returned to flesh only to reveal the truth to the Chosen.
+{271}{hak113}{Todos foram mortos ou levados. Meu espÌrito retornou atÈ a carne apenas para te revelar a verdade, Escolhido.} # All were dead or taken. My spirit returned to flesh only to reveal the truth to the Chosen.
 {272}{}{O que aconteceu com os que foram levados?} # What happened to the ones taken?
 {273}{hak114}{As bestas engoliram todos eles, e voaram, seguindo os ventos.} # The beasts swallowed all, then took to the winds.
 {274}{}{Uh, e pra onde iam os ventos que eles seguiram?} # Uh, which way were the winds that they followed going?
-{275}{hak115}{Voc√™ nunca escutou quando te ensinei sobre a dan√ßa anual dos esp√≠ritos do vento? Sul, √© claro.} # Did you never listen when I taught you the yearly dance of the wind spirits? South, of course.
-{276}{}{Suas descri√ß√µes eram t√£o v√≠vidas e poderosas, grande Hakunin, que eu sempre perdia os sentidos durante suas li√ß√µes.} # Your descriptions were so vivid and powerful, great Hakunin, that I was often stricken senseless for the duration of your lessons.
-{277}{}{Ah, esses ventos. √â claro.} # Oh, those winds. Of course.
-{278}{hak116}{Eles viajaram os ventos para o sul. Eu escutei os dem√¥nios de alma negra falando. Eles planejavam descansar suas bestas em um lugar chamado Navarro, antes da grande bacia de l√°grimas da M√£e Natureza.} # Yes, they traveled the wind south. I overheard the dark souls speaking. They planned to rest their beasts at a place named Navarro before crossing the great basin of our earth-mother's tears.
+{275}{hak115}{VocÍ nunca escutou quando te ensinei sobre a danÁa anual dos espÌritos do vento? Sul, È claro.} # Did you never listen when I taught you the yearly dance of the wind spirits? South, of course.
+{276}{}{Suas descriÁıes eram t„o vÌvidas e poderosas, grande Hakunin, que eu sempre perdia os sentidos durante suas liÁıes.} # Your descriptions were so vivid and powerful, great Hakunin, that I was often stricken senseless for the duration of your lessons.
+{277}{}{Ah, esses ventos. … claro.} # Oh, those winds. Of course.
+{278}{hak116}{Eles viajaram os ventos para o sul. Eu escutei os demÙnios de alma negra falando. Eles planejavam descansar suas bestas em um lugar chamado Navarro, antes da grande bacia de l·grimas da M„e Natureza.} # Yes, they traveled the wind south. I overheard the dark souls speaking. They planned to rest their beasts at a place named Navarro before crossing the great basin of our earth-mother's tears.
 {279}{}{O que devo fazer?} # What shall I do?
-{280}{}{Bacia de l√°grimas?} # Basin of tears?
-{281}{hak117}{Por mim, nada. Escolhido, voc√™ deve encontrar os de alma negra, e resgatar o nosso povo.} # For me, nothing. Chosen, you must seek the fold of the dark ones and rescue our people.
+{280}{}{Bacia de l·grimas?} # Basin of tears?
+{281}{hak117}{Por mim, nada. Escolhido, vocÍ deve encontrar os de alma negra, e resgatar o nosso povo.} # For me, nothing. Chosen, you must seek the fold of the dark ones and rescue our people.
 {282}{}{Eu tentarei.} # I will try.
-{283}{hak118}{Voc√™ √© o esp√≠rito Escolhido. Voc√™ vai conseguir.} # You are the Chosen. You must do.
+{283}{hak118}{VocÍ È o espÌrito Escolhido. VocÍ vai conseguir.} # You are the Chosen. You must do.
 {284}{}{Hakunin?} # 
-{285}{}{Primeira vez que entendi o que voc√™ disse...} # First time I understood what you meant.
-{286}{hak120}{Um oceano de l√°grimas, fruto do choro da m√£e por seus filhos.} # An ocean of tears, cried by a mother for her children.
+{285}{}{Primeira vez que entendi o que vocÍ disse...} # First time I understood what you meant.
+{286}{hak120}{Um oceano de l·grimas, fruto do choro da m„e por seus filhos.} # An ocean of tears, cried by a mother for her children.
 {287}{}{Ah, o oceano. Mas o que devo fazer?} # Oh, the ocean. But what shall I do?
-{288}{hak121}{Uma estranha n√©voa roubou suas mentes e os enviou para a terra dos Sonhos. Os dem√¥nios andaram entre os sonhadores, entretanto n√£o sonharam.} # A strange mist stole their minds and sent them to the land of Sleep. The evil ones walked among the dreamers, yet did not dream.
-{289}{}{E ent√£o?} # And then?
-{290}{hak122}{Muitas esta√ß√µes e muitas feridas, Escolhido. Ao inv√©s disso, voc√™ deve escutar.} # Too many seasons and too many wounds, Chosen. Instead, you must listen.
+{288}{hak121}{Uma estranha nÈvoa roubou suas mentes e os enviou para a terra dos Sonhos. Os demÙnios andaram entre os sonhadores, entretanto n„o sonharam.} # A strange mist stole their minds and sent them to the land of Sleep. The evil ones walked among the dreamers, yet did not dream.
+{289}{}{E ent„o?} # And then?
+{290}{hak122}{Muitas estaÁıes e muitas feridas, Escolhido. Ao invÈs disso, vocÍ deve escutar.} # Too many seasons and too many wounds, Chosen. Instead, you must listen.
 {291}{}{Tudo bem.} # All right.
 
 {300}{}{Aqueles que roubam carregam um grande fardo. Lembre-se disso, Escolhido.} # Those who steal carry a great burden. Remember this, Chosen One.
-{301}{}{Voc√™ deve pagar por seus pecados, Escolhido.} # You must now pay for your sins, Chosen One.
+{301}{}{VocÍ deve pagar por seus pecados, Escolhido.} # You must now pay for your sins, Chosen One.
