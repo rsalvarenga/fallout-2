@@ -683,7 +683,7 @@
 {68200}{}{Telhado}
 {68300}{}{Telhado}
 {68400}{}{Telhado}
-{68500}{}{Wall}
+{68500}{}{Parede}
 {68600}{}{Telhado}
 {68700}{}{Telhado}
 {68800}{}{Telhado}

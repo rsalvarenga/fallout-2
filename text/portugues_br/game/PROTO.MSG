@@ -3,7 +3,7 @@
 #
 # strings
 #
-{10}{}{<None>}
+{10}{}{Nada}
 
 #
 # Material Types

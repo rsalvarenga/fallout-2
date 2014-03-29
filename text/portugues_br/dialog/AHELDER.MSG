@@ -2,7 +2,7 @@
 {101}{}{É a Anciã.}
 {102}{}{A Anciã é apenas isso - velha, mais velha do que você se lembra. No entanto, ela tem a
  força e fogo para liderar a aldeia através destes tempos difíceis.}
-{103}{aeld1}{Parabéns, Escolhido, você sobreviveu no Temple of Trials. 
+{103}{aeld1}{Parabéns, Escolhido, você sobreviveu ao Templo de Provações. 
  Você está pronto para a sua missão?}
 {104}{}{O que você estava fazendo - tentando me matar no templo?}
 {105}{}{É claro}
