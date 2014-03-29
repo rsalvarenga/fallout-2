@@ -1,3 +1,4 @@
+
 # Traduzido por Noob-Saibot
 {100}{}{Você vê um monge.} # You see a monk.
 {101}{}{Você vê uma freira.} # You see a nun.

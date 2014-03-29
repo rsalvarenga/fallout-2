@@ -5,8 +5,8 @@
  normalmente.}
 {104}{}{Este terminal monitora os geradores do campo de força. Ele indica que a unidade está offline,
  devido à falta de energia.}
-{105}{}{Turn the force field off.}
-{106}{}{Turn the force field on.}
+{105}{}{Gire o campo de força para desligar.}
+{106}{}{Gire o campo de força para ligar.}
 {107}{}{Concluído.}
 {108}{}{Você dará o comando para desativar o campo de força.}
 {109}{}{Você não consegue digitar os códigos de segurança para desativar o campo de força.}

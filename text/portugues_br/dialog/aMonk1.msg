@@ -12,3 +12,4 @@
 {205}{}{Eu espero que você aproveite sua estadia aqui.} # I hope you enjoy your stay here.
 
 {500}{}{Pare com isso!} # Stop that!
+
