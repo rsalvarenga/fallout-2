@@ -1,4 +1,5 @@
 # Noob-Saibot está traduzindo este arquivo.
+
 #############################################################
 #  Message File: ACMynoc.msg                                #
 #                                                           #

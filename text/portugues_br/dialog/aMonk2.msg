@@ -12,3 +12,4 @@
 {205}{}{A vida aqui em Abbey é bem tranquila. Algo raro nessas terras devastadas.} # Life here at the Abbey is a peaceful one. Something rare in these wretched wastes.
 
 {500}{}{Pare com isso!} # Stop that!
+
