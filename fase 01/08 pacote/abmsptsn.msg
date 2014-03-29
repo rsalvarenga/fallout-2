@@ -1,14 +1,14 @@
-{100}{}{You see Mrs. Peterson.}
-{101}{}{You see a young, pretty woman. She smiles when she sees you.}
+{100}{}{Você está vendo a Sra. Peterson.}
+{101}{}{Você está vendo uma jovem, mulher bonita. Ela sorri quando vê você.}
 
-{200}{}{Welcome to the Abbey, friend.}
-{201}{}{Talk to my husband if you need something.}
-{202}{}{Beautiful day, isn't it?}
+{200}{}{Bem-vindo ao Abbey, amigo.}
+{201}{}{Fale com o meu marido, se você precisar de alguma coisa.}
+{202}{}{Lindo dia, não é?}
 
-{300}{}{Welcome to the Abbey, friend.}
-{301}{}{Talk to my husband if you need something.}
-{302}{}{Lovely evening, isn't it?}
+{300}{}{Bem-vindo ao Abbey, amigo.}
+{301}{}{Fale com o meu marido, se você precisar de alguma coisa.}
+{302}{}{Adorável à noite, não é?}
 
-{400}{}{I have nothing to say to you. Please go away.}
+{400}{}{Não tenho nada a dizer para você. Por favor, vá embora.}
 
 
