@@ -51,8 +51,8 @@
 {150}{}{Que pessoa legal.}
 {151}{}{Tribais também são nosso tipo de pessoa.}
 {152}{}{Hip, hip, urra para os tribais.}
-{153}{}{./~ How dry I am… ./~}#?
-{154}{}{./~ 99 bottles of beer on the wall, 99 bottles of beer… ./~}#eu esqueci essa musiquinha...
+{153}{}{./~ Como eu sou seco… ./~}
+{154}{}{./~ 99 garrafas de cerveja na parede, 99 garrafas de cerveja… ./~}
 {155}{}{Esse homem parece estar em casa.}
 {156}{}{Você vê um homem comendo uma refeição.}
 {157}{}{Você vê um homem reparando uma peça de roupa.}

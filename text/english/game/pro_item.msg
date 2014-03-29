@@ -210,10 +210,10 @@
 {10501}{}{A special key of some sort.}
 {10600}{}{Nuka-Cola}
 {10601}{}{A bottle of Nuka-Cola, the flavored softdrink of the post-nuclear world. Warm and flat.}
-{10700}{}{Bones}
-{10701}{}{A collection of strange bones.}
-{10800}{}{Bones}
-{10801}{}{A collection of strange bones.}
+{10700}{}{Ossos}
+{10701}{}{Uma coleção de ossos estranhos.}
+{10800}{}{Ossos}
+{10801}{}{Uma coleção de ossos estranhos.}
 {10900}{}{Rad-X}
 {10901}{}{Anti-radiation chems to be taken before exposure. No known side effects.}
 {11000}{}{Psycho}
@@ -410,8 +410,8 @@
 {20901}{}{A chunk of Cordex, a military brand of plastic explosives. Highly stable, very destructive. Includes a timer, which is ticking.}
 {21000}{}{Stealth Boy}
 {21001}{}{A RobCo Stealth Boy 3001 personal stealth device. Generates a modulating field that transmits the reflected light from one side of an object to the other.}
-{21100}{}{Bones}
-{21101}{}{You see Ed. Ed's dead.}
+{21100}{}{Ossos}
+{21101}{}{Você vê Ed. Morto.}
 {21200}{}{Tandi}
 {21201}{}{You are bartering for Tandi's release.}
 {21300}{}{Remains of Gizmo}
@@ -486,13 +486,13 @@
 {24801}{}{A finely crafted clay pot.}
 {24900}{}{Pot}
 {24901}{}{A finely crafted clay pot.}
-{25000}{}{Bones}
-{25001}{}{A pile of human bones.}
-{25100}{}{Anna's Bones}
-{25101}{}{These bones seem unsettled.}
-{25200}{}{Anna's Gold Locket}
-{25201}{}{This well-worn golden locket opens to reveal a charming picture.}
-{25300}{}{Fuel Cell Controller}
+{25000}{}{Ossos}
+{25001}{}{Uma pilha de Ossos humano.}
+{25100}{}{Ossos de Anna}
+{25101}{}{Esses ossos parecem instáveis.}
+{25200}{}{Medalhão de ouro de Anna}
+{25201}{}{Este medalhão de ouro se abre para revelar uma imagem encantadora.}
+{25300}{}{Controlador de célula de combustível}
 {25301}{}{This chip controls the flow of power into a car's electric engines. Many drivers quickly burnt out this chip through frequent rapid acceleration. Still a valuable part to have-- if you only had a car to install it in.}
 {25400}{}{Fuel Cell Regulator}
 {25401}{}{Some car-owners installed this regulator, which doubles your car's mileage between charges, but most drivers didn't care how much juice their cars consumed, after all, power's cheap and plentiful so why worry?}
