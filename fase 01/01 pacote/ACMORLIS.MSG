@@ -1,4 +1,3 @@
-# XDathz está traduzindo esse arquivo.
 # Noob-Saibot fez pequenas correções e alterações (Apenas sugestões, pra deixar a conversa mais natural, como é falada)
 {100}{}{Você vê Morlis, uma de suas tias -- a que nunca gostou de você.}
 {101}{}{Por que você está me incomodando, sobrinho? Não vê que estou ocupada?}
