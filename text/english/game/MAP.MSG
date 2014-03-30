@@ -127,19 +127,19 @@
 {225}{}{}
 {226}{}{}
 # 09: , .MAP ;Klamath Downtown
-{227}{}{Downtown}
-{228}{}{Downtown}
-{229}{}{Downtown}
+{227}{}{Centro da cidade} #Downtown
+{228}{}{Centro da cidade} #Downtown
+{229}{}{Centro da cidade} #Downtown
 # 10: , .MAP ;Klamath Mall
 {230}{}{Mall}
 {231}{}{Mall}
 {232}{}{}
 # 11: , .MAP ;Klamath Rat Caves
-{233}{}{Rat Caves}
-{234}{}{Rat Caves}
-{235}{}{Rat Caves}
+{233}{}{Caverna de ratos} #Rat Caves
+{234}{}{Caverna de ratos} #Rat Caves
+{235}{}{Caverna de ratos} #Rat Caves
 # 12: , .MAP ;Klamath Toxic Caves
-{236}{}{Entrance}
+{236}{}{Entrada} #Entrance
 {237}{}{Waste Tunnels}
 {238}{}{Storage}
 # 13: , .MAP ;Klamath Trapping Caves
