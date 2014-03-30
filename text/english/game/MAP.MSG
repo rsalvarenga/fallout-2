@@ -103,16 +103,16 @@
 {207}{}{}
 {208}{}{}
 # 03: Arroyo Temple, ARCAVES.MAP
-{209}{}{Temple: Foyer}
-{210}{}{Temple: Hallway}
-{211}{}{Temple: Inner Sanctum}
+{209}{}{Templo: Saguão} #Temple: Foyer
+{210}{}{Templo: Corredor} #Temple: Hallway
+{211}{}{Templo: Santuário interno} #Temple: Inner Sanctum
 # 04: Arroyo Village, .MAP
-{212}{}{Village}
+{212}{}{Aldeia} #Village
 {213}{}{}
 {214}{}{}
 # 05: Arroyo Bridge, .MAP
-{215}{}{Bridge}
-{216}{}{Destroyed Bridge}
+{215}{}{Ponte}
+{216}{}{Ponte Destruída} #Destroyed Bridge
 {217}{}{}
 # 06: Den, denbus1.MAP
 {218}{}{West Side}
