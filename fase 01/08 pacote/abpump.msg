@@ -1,4 +1,4 @@
-{100}{}{You see a waterpump.}
+{100}{}{Você está vendo uma bomba d'água.}
 {101}{}{You see a really old waterpump that appears to be broken.}
 {102}{}{The waterpump is working fine now.}
 {103}{}{You are going to need more than just your hands to fix this machine. Perhaps some tools would help with installing
