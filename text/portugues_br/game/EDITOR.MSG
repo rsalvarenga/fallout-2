@@ -296,7 +296,7 @@
 {2004}{}{Antipático}
 {2005}{}{Odiado}
 {2006}{}{Difamado}
-{2100}{}{Todo mundo nesta área gosta você. Você é o brinde-da-cidade e é apontado como um exemplo brilhante de tudo o que uma pessoa pode ser.}
+{2100}{}{Todo mundo nesta área gosta de você. Você é o queridinho da cidade; é apontado como um exemplo brilhante de tudo o que uma pessoa pode ser.}
 {2101}{}{As pessoas acenam e cumprimentam, onde quer que você vá nesta área. Todo mundo já ouviu falar de você, e eles gostam do que já ouvi.}
 {2102}{}{Embora você não seja recebido de braços abertos, a maioria das pessoas nesta área, pelo menos acenam em reconhecimento quando você se encontra. Você não se da bem como a maioria.}
 {2103}{}{Embora normalmente desconfiado com estranhos, as pessoas desta área não formaram sua opinião sobre você ainda.}
