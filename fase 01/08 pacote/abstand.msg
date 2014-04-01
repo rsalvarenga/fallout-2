@@ -1,13 +1,13 @@
-{100}{}{You see a man.}
-{101}{}{You see a woman.}
-{102}{}{He is a citizen of the Abbey.}
-{103}{}{She is a citizen of the Abbey.}
+{100}{}{Você está vendo um homem.}
+{101}{}{Você está vendo uma mulher.}
+{102}{}{Ele é um cidadão de Abbey.}
+{103}{}{Ela é uma cidadã de Abbey.}
 
-{200}{}{Welcome stranger.}
-{201}{}{Peace to you.}
-{202}{}{This place is so nice!}
-{203}{}{Hello.}
-{204}{}{Nice weather.}
-{205}{}{You be careful out there in the wastes.}
+{200}{}{Bem-vindo estrageiro.}
+{201}{}{A paz esteja convosco.}
+{202}{}{Este lugar é tão bom!}
+{203}{}{Olá.}
+{204}{}{Tempo bom.}
+{205}{}{Tenha cuidado lá fora, em lugares desertos.}
 
 {500}{}{TAFFER!}
