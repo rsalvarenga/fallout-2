@@ -111,7 +111,7 @@
 {213}{}{}
 {214}{}{}
 # 05: Arroyo Bridge, .MAP
-{215}{}{Ponte}
+{215}{}{Ponte} #Bridge
 {216}{}{Ponte Destruída} #Destroyed Bridge
 {217}{}{}
 # 06: Den, denbus1.MAP
