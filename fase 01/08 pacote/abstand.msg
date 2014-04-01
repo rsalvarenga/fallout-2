@@ -8,6 +8,6 @@
 {202}{}{Este lugar é tão bom!}
 {203}{}{Olá.}
 {204}{}{Tempo bom.}
-{205}{}{Tenha cuidado lá fora, em lugares desertos.}
+{205}{}{Tenha cuidado lá fora, ainda mais em lugares desertos.}
 
 {500}{}{TAFFER!}
