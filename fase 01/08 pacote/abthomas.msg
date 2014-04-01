@@ -1,2 +1,2 @@
-{100}{}{You see a dead monk.}
-{101}{}{You see the remains of Brother Thomas. It looks as if he died a painful death.}
+{100}{}{Você está vendo um monge morto.}
+{101}{}{Você está vendo os restos do irmão Thomas. Parece ter sido uma morte dolorosa.}
