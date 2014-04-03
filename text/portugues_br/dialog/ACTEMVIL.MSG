@@ -2,8 +2,7 @@
 {101}{}{Você está vendo Cameron.}
 {102}{}{Você está vendo um homem muito confiante e musculoso.}
 {103}{}{Saudações, }
-{104}{}{. Tenho a honra de ser seu último desafio. Para terminar seu teste você deve me derrotar
- em combate desarmado. Você está pronto?}
+{104}{}{. Tenho a honra de ser seu último desafio. Para terminar seu teste você deve me derrotar em combate desarmado. Você está pronto?}
 {105}{}{Tenho umas perguntas.}
 {106}{}{Ok, vamos lutar.}
 {107}{}{Não, tenho que me preparar primeiro.}
