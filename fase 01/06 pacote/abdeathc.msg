@@ -1,3 +1,6 @@
-{100}{}{You see a mean looking deathclaw.}
-{101}{}{You see a huge deathclaw covered with scars. It is breathing slowly and loudly.}
-{102}{}{You gain 500 experience points for killing the beast.}
+#You see a mean looking deathclaw.
+{100}{}{Você vê um aterrorizante deathclaw.}
+#You see a huge deathclaw covered with scars. It is breathing slowly and loudly.
+{101}{}{Você vê um enorme deathclae coberto de cicatrizes. Sua respiração é lenta e barulhenta.}
+#You gain 500 experience points for killing the beast.
+{102}{}{Você ganhou 500 pontos de experiência por matar a fera.}
