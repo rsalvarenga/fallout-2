@@ -36,7 +36,7 @@
 {128}{}{DEZ}
 {129}{}{Nível}
 {130}{}{DESCRIÇÃO}
-{131}{}{Salve do jogo já existe, sobrescrever?}
+{131}{}{Jogo já existe, sobrescrever?}
 {132}{}{Erro durante o salvamento do jogo!}             # Line 1
 {133}{}{Não foi possível salvar jogo.}           # Line 2
 {134}{}{Erro ao carregar o jogo!}            # Line 1

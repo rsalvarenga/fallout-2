@@ -327,7 +327,7 @@
 {409}{}{Map Script}                     # VCtyCtyd.int    ; Map Script for Vault City Courtyard
 {410}{}{Corvega}                        # Kscorveg.int    ; Klamath broken car with fuel injection
 {411}{}{Map Script}                     # KlaToxCv.int    ; Klamath Toxic Caves  Map Script
-{412}{}{Metal Porta}                     # SISlvdor.int    ; Slave pen Porta in NCR Entrance
+{412}{}{Porta de Metal}                     # SISlvdor.int    ; Slave pen Porta in NCR Entrance
 {413}{}{Map Script}                     # RndDsrt.int     ; Random Encounter Desert Map Script
 {414}{}{Map Script}                     # RndCoast.int    ; Random Encounter Coast Map Script
 {415}{}{Map Script}                     # RndMnt.int      ; Random Encounter Mountain Map Script
@@ -470,14 +470,14 @@
 {552}{}{Miss Kitty}                     # ncKitty.int     ; New Reno Miss Kitty
 {553}{}{Bartender}                      # ncBarten.int    ; New Reno Bartender
 {554}{}{Deputy Karl}                    # SCKarl.int      ; NCR Deputy
-{555}{}{Cell Porta}                      # SIKdoor.int     ; NCR Cell Porta
+{555}{}{Porta da cela}                      # SIKdoor.int     ; NCR Porta da cela
 {556}{}{Big Jesus Mordino}              # ncBigJes.int    ; New Reno Big Jesus Mordino
 {557}{}{Hoss}                           # SCHoss.int      ; Hoss, bully NCR 1 map
 {558}{}{Mutagenic Serum}                # SIMserum.int    ; Mutagenic Serum
-{559}{}{Box}                            # niSalBox.int    ; New Reno Salvatore Bartender Shop Inventory
-{560}{}{Box}                            # niMorBox.int    ; New Reno Mordino Bartender Shop Inventory
-{561}{}{Box}                            # niBisBox.int    ; New Reno Bishop Bartender Shop Inventory
-{562}{}{Box}                            # niTmpBox.int    ; New Reno Personal Inventory Swap Box
+{559}{}{Caixa}                            # niSalBox.int    ; New Reno Salvatore Bartender Shop Inventory
+{560}{}{Caixa}                            # niMorBox.int    ; New Reno Mordino Bartender Shop Inventory
+{561}{}{Caixa}                            # niBisBox.int    ; New Reno Bishop Bartender Shop Inventory
+{562}{}{Caixa}                            # niTmpBox.int    ; New Reno Personal Inventory Swap Box
 {563}{}{Doctor Jubilee}                 # SCDocJub.int    ; Doctor Jubilee NCR Map 1
 {564}{}{Porta}                           # GSYDoor.int     ; Yellow Porta in Gecko Reactor
 {565}{}{Porta}                           # GSRDoor.int     ; Red Porta in Gecko Reactor
@@ -534,7 +534,7 @@
 {616}{}{Computer}                       # GsTerm.int      ; Gecko robot control terminal
 {617}{}{Brahmn}                         # SCBrahmn.int    ; NCR Map 4 Brahmin.
 {618}{}{Deathclaw}                      # SCDthcla.int    ; NCR Map 4 Deathclaw.
-{619}{}{Exit Grid}                      # SIExit.int      ; NCR Map 4 Exit Grid control
+{619}{}{Grade de saída}                      # SIExit.int      ; NCR Map 4 Exit Grid control
 {620}{}{Computer}                       # SSComp.int      ; NCR Map 1 computer terminal that blows up
 {621}{}{Feargus}                        # SCFergus.int    ; NCR Map 2
 {622}{}{Ariel}                          # OCAriel.int     ; Vault 13 Ariel
@@ -905,7 +905,7 @@
 {987}{}{Blast Porta}                     # QIBstDr1.int    ; Blast Porta for Reactor Off to remain closed
 {988}{}{Blast Porta}                     # QIBstDr2.int    ; Blast Porta for Reactor On to remain closed
 {989}{}{Darrow's Stock}                 # VIDarBox.int    ; Vault City Darrow Shop Inventory
-{990}{}{Porta}                           # HSCrlDr.int     ; Jail cell Porta for Broken Hills
+{990}{}{Porta}                           # HSCrlDr.int     ; Jail Porta da cela for Broken Hills
 {991}{}{Super Duper Mutant}             # ecTlkMut.int    ; Military Base Conversation Mutants
 {992}{}{Dr. Jing Tie Gahng}             # fcChemst.int    ; Chemist in San Francisco
 {993}{}{Grundel}                        # ecGrunde.int    ; Military Base Mouse Hunter
