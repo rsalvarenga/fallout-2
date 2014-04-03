@@ -12,11 +12,11 @@
 #	Up to 10 selection names
 #
 # Arroyo
-{200}{}{Bridge}
-{201}{}{Village}
-{202}{}{Temple Entrance}
-{203}{}{Wilderness}
-{204}{}{Temple Interior}
+{200}{}{Ponte} #Bridge
+{201}{}{Aldeia} #Village
+{202}{}{Entrada do Templo} #Temple Entrance
+{203}{}{Região selvagem} #Wilderness
+{204}{}{Interior do Templo} #Temple Interior
 #
 # Den
 {210}{}{West Side}
@@ -24,12 +24,12 @@
 {212}{}{Den Residential}
 #
 # Klamath
-{220}{}{Downtown}
-{221}{}{Trapper Town}
-{222}{}{Rat Caves}
-{223}{}{Trapping Grounds}
-{224}{}{Grazing Area}
-{225}{}{Canyon}
+{220}{}{Centro da cidade} #Downtown
+{221}{}{Bairro dos caçadores} #Trapper Town
+{222}{}{Caverna de ratos} #Rat Caves
+{223}{}{Campo de armadilhas} #rapping Grounds
+{224}{}{Área de pastagem} #Grazing Area
+{225}{}{Desfiladeiro} #Canyon
 #
 # Modoc
 {230}{}{Main Street}
@@ -145,7 +145,7 @@
 {410}{}{Car outta power}
 #
 # Destroyed Arroyo
-{420}{}{Destroyed Bridge}
+{420}{}{Ponte Destruída} #Destroyed Bridge
 #
 # Klamath Toxic Caves
 {430}{}{Toxic Caves}

@@ -131,8 +131,8 @@
 {228}{}{Centro da cidade} #Downtown
 {229}{}{Centro da cidade} #Downtown
 # 10: , .MAP ;Klamath Mall
-{230}{}{Mall}
-{231}{}{Mall}
+{230}{}{Mall} #Mall
+{231}{}{Mall} #Mall
 {232}{}{}
 # 11: , .MAP ;Klamath Rat Caves
 {233}{}{Caverna de ratos} #Rat Caves
@@ -140,15 +140,15 @@
 {235}{}{Caverna de ratos} #Rat Caves
 # 12: , .MAP ;Klamath Toxic Caves
 {236}{}{Entrada} #Entrance
-{237}{}{Waste Tunnels}
-{238}{}{Storage}
+{237}{}{Túneis de Resíduos} #Waste Tunnels
+{238}{}{Armazenagem} #Storage
 # 13: , .MAP ;Klamath Trapping Caves
-{239}{}{Trapping Grounds}
-{240}{}{Trapping Grounds}
-{241}{}{Trapping Grounds}
+{239}{}{Campo de armadilhas} #Trapping Grounds
+{240}{}{Campo de armadilhas} #Trapping Grounds
+{241}{}{TCampo de armadilhas} #Trapping Grounds
 # 14: , .MAP ;Klamath Grazing Area
-{242}{}{Grazing Area}
-{243}{}{Grazing Area}
+{242}{}{Área de pastagem} #Grazing Area
+{243}{}{Área de pastagem} #Grazing Area
 {244}{}{}
 # 15: , .MAP ; Vault City Courtyard
 {245}{}{Courtyard}
@@ -231,7 +231,7 @@
 {303}{}{Access Tunnels}
 {304}{}{Access Tunnels}
 # 35: Arroyo Wilderness, .MAP
-{305}{}{Wilderness}
+{305}{}{Região selvagem} #Wilderness
 {306}{}{}
 {307}{}{}
 # 36: Vault 15, .MAP
@@ -283,9 +283,9 @@
 {342}{}{}
 {343}{}{}
 # 48: Klamath, klacanyn.MAP
-{344}{}{Canyon}
-{345}{}{Canyon}
-{346}{}{Canyon}
+{344}{}{Desfiladeiro} #Canyon
+{345}{}{Desfiladeiro} #Canyon
+{346}{}{Desfiladeiro} #Canyon
 # 49: Military Base, mbase12.MAP
 {347}{}{Level 1}
 {348}{}{Level 2}
@@ -595,13 +595,13 @@
 {576}{}{Ruined City}
 {577}{}{Ruined City}
 # 126. Arroyo Temple
-{578}{}{Temple Entrance}
-{579}{}{Temple Entrance}
-{580}{}{Temple Entrance}
+{578}{}{Entrada do Templo} #Temple Entrance
+{579}{}{Entrada do Templo} #Temple Entrance
+{580}{}{Entrada do Templo} #Temple Entrance
 # 127. Destroyed Arroyo
-{581}{}{Destroyed Bridge}
-{582}{}{Destroyed Bridge}
-{583}{}{Destroyed Bridge}
+{581}{}{Ponte Destruída} #Destroyed Bridge
+{582}{}{Ponte Destruída} #Destroyed Bridge
+{583}{}{Ponte Destruída} #Destroyed Bridge
 # [Map 128] lookup_name=Enclave Detention
 {584}{}{Detention Cells}
 {585}{}{Detention Cells}
