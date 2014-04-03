@@ -30,326 +30,308 @@
 #############################################################
 
 # look_at_proc
-{100}{}{You see a wooden door.}
-{101}{}{You see a metal door.}
+{100}{}{Você vê uma porta de madeira.}
+{101}{}{Você vê uma porta de metal.}
 
 # description_proc
 
 # Perception Check Critical Success
-{102}{}{You see a sturdy door with a lock (which can be picked with
- lockpicks) and a highly explosive trap in the doorframe, which
- you may be able to pry open.}
-{103}{}{You see a sturdy door with a lock on it and a highly
- explosive trap in the doorframe, which you may be able to
- pry open.}
-{104}{}{You see a sturdy door with no apparent locking device and
- a highly explosive trap in the doorframe, which you may be able
- to pry open.}
-{105}{}{You see a sturdy door with an old, rusty lock and a highly
- explosive trap in the doorframe, which you may be able to pry
- open.}
+{102}{}{Você vê uma porta robusta com tranca (que pode ser arrombada
+ com uma gazua) e uma armadilha com explosivos no batente, que
+ você pode conseguir forçar.}
+{103}{}{Você vê uma porta robusta com tranca e uma armadilha com
+ explosivos no batente, que você pode conseguir
+ arrombar.}
+{104}{}{Você vê uma porta robusta sem tranca aparente e
+ uma armadilha com explosivos no batente, que você pode conseguir
+ forçar.}
+{105}{}{Você vê uma porta robusta com uma tranca velha e enferrujada e uma
+ armadilha com explosivos no batente, que você pode conseguir forçar.}
 
-{106}{}{You see a sturdy door with a lock (which can be picked with
- lockpicks) and a trap in the doorframe, which you may be able to
- pry open.}
-{107}{}{You see a sturdy door with a lock on it and a trap in
- the doorframe, which you may be able to pry open.}
-{108}{}{You see a sturdy door with no apparent locking device and
- a trap in the doorframe, which you may be able to pry open.}
-{109}{}{You see a sturdy door with an old, rusty lock and a trap
- in the doorframe, which you may be able to pry open.}
+{106}{}{Você vê uma porta robusta com tranca (que pode ser arrombada
+ com uma gazua) e uma armadilha no batente, que você pode conseguir forçar.}
+{107}{}{Você vê uma porta robusta com tranca e uma armadilha
+ no batente, que você pode conseguir forçar.}
+{108}{}{Você vê uma porta robusta sem tranca aparente e
+ uma armadilha no batente, que você pode conseguir forçar.}
+{109}{}{Você vê uma porta robusta com uma tranca velha e enferrujada e uma armadilha
+ no batente, que você pode conseguir forçar.}
 
-{110}{}{You see a sturdy door with a lock (which can be picked with
- lockpicks) and a cut wire in the doorframe, which you may be
- able to pry open.}
-{111}{}{You see a sturdy door with a lock on it and a severed wire
- in the doorframe, which you may be able to pry open.}
-{112}{}{You see a sturdy door with no apparent locking device and
- a severed wire in the doorframe, which you may be able to pry
- open.}
-{113}{}{You see a sturdy door with an old, rusty lock and a cut
- wire in the doorframe, which you may be able to pry open.}
+{110}{}{Você vê uma porta robusta com tranca (que pode ser arrombada
+ com uma gazua) e um fio solto no batente, que você pode conseguir forçar.}
+{111}{}{Você vê uma porta robusta com tranca e um fio descascado
+ no batente, que você pode conseguir forçar.}
+{112}{}{Você vê uma porta robusta sem tranca aparente e
+ um fio descascado no batente, que você pode conseguir forçar.}
+{113}{}{Você vê uma porta robusta com uma tranca velha e enferrujada e um fio solto no
+ batente, que você pode conseguir forçar.}
 
-{114}{}{You see a sturdy door with a lock (which can be picked with
- lockpicks), which you may be able to pry open.}
-{115}{}{You see a sturdy door with a lock on it, which you may be
- able to pry open.}
-{116}{}{You see a sturdy door with no apparent locking device,
- which you may be able to pry open.}
-{117}{}{You see a sturdy door with an old, rusty lock, which
- you may be able to pry open.}
+{114}{}{Você vê uma porta robusta com tranca (que pode ser arrombada
+ com uma gazua), que você pode conseguir forçar.}
+{115}{}{Você vê uma porta robusta com tranca, que você pode conseguir forçar.}
+{116}{}{Você vê uma porta robusta sem tranca aparente,
+ que você pode conseguir forçar.}
+{117}{}{Você vê uma porta robusta com uma tranca velha e enferrujada, que
+ você pode conseguir forçar.}
 
 # Perception Check Success
 
-{118}{}{You see a sturdy door with a lock (which can be picked with
- lockpicks) and a highly explosive trap in the doorframe.}
-{119}{}{You see a sturdy door with a lock on it and a highly
- explosive trap in the doorframe.}
-{120}{}{You see a sturdy door with no apparent locking device and
- a highly explosive trap in the doorframe.}
-{121}{}{You see a sturdy door with an old, rusty lock and a highly
- explosive trap in the doorframe.}
+{118}{}{Você vê uma porta robusta com tranca (que pode ser arrombada
+ com uma gazua) e uma armadilha com explosivos no batente.}
+{119}{}{Você vê uma porta robusta com tranca e uma armadilha com explosivos no batente.}
+{120}{}{Você vê uma porta robusta sem tranca aparente e
+ uma armadilha com explosivos no batente.}
+{121}{}{Você vê uma porta robusta com uma tranca velha e enferrujada e uma armadilha
+ com explosivos no batente.}
 
-{122}{}{You see a sturdy door with a lock (which can be picked with
- lockpicks) and a trap in the doorframe.}
-{123}{}{You see a sturdy door with a lock on it and a trap in
- the doorframe.}
-{124}{}{You see a sturdy door with no apparent locking device and
- a trap in the doorframe.}
-{125}{}{You see a sturdy door with an old, rusty lock and a trap
- in the doorframe.}
+{122}{}{Você vê uma porta robusta com tranca (que pode ser arrombada
+ com uma gazua) e uma armadilha no batente.}
+{123}{}{Você vê uma porta robusta com tranca e uma armadilha no batente.}
+{124}{}{Você vê uma porta robusta sem tranca aparente e
+ uma armadilha no batente.}
+{125}{}{Você vê uma porta robusta com uma tranca velha e enferrujada e uma armadilha
+ no batente.}
 
-{126}{}{You see a sturdy door with a lock (which can be picked with
- lockpicks) and a cut wire in the doorframe.}
-{127}{}{You see a sturdy door with a lock on it and a severed wire
- in the doorframe.}
-{128}{}{You see a sturdy door with no apparent locking device and
- a severed wire in the doorframe.}
-{129}{}{You see a sturdy door with an old, rusty lock and a cut
- wire in the doorframe.}
+{126}{}{Você vê uma porta robusta com tranca (que pode ser arrombada
+ com uma gazua) e um fio solto no batente.}
+{127}{}{Você vê uma porta robusta com tranca e um fio descascado
+ no batente.}
+{128}{}{Você vê uma porta robusta sem tranca aparente e
+ um fio descascado no batente.}
+{129}{}{Você vê uma porta robusta com uma tranca velha e enferrujada e um fio solto no batente.}
 
-{130}{}{You see a sturdy door with a lock (which can be picked with
- lockpicks) on it.}
-{131}{}{You see a sturdy door with a lock on it.}
-{132}{}{You see a sturdy door with no apparent locking device.}
-{133}{}{You see a sturdy door with an old, rusty lock.}
+{130}{}{Você vê uma porta robusta com tranca (que pode ser arrombada
+ com uma gazua).}
+{131}{}{Você vê uma porta robusta com tranca.}
+{132}{}{Você vê uma porta robusta sem tranca aparente.}
+{133}{}{Você vê uma porta robusta com uma tranca velha e enferrujada.}
 
-# Perception Check Critical Failure
+# Perception Check Critical falhouure
 
-{134}{}{You see a damaged door with a lock (which can be picked with
- lockpicks) and a highly explosive trap in the doorframe.}
-{135}{}{You see a damaged door with a lock on it and a highly
- explosive trap in the doorframe.}
-{136}{}{You see a damaged door with no apparent locking device and
- a highly explosive trap in the doorframe.}
-{137}{}{You see a damaged door with an old, rusty lock and a highly
- explosive trap in the doorframe.}
+{134}{}{Você vê uma porta danificada com tranca (que pode ser arrombada
+ com uma gazua) e uma armadilha com explosivos no batente.}
+{135}{}{Você vê uma porta danificada com tranca e uma armadilha com explosivos no batente.}
+{136}{}{Você vê uma porta danificada sem tranca aparente e
+ uma armadilha com explosivos no batente.}
+{137}{}{Você vê uma porta danificada com uma tranca velha e enferrujada e uma armadilha
+ com explosivos no batente.}
 
-{138}{}{You see a damaged door with a lock (which can be picked with
- lockpicks) and a trap in the doorframe.}
-{139}{}{You see a damaged door with a lock on it and a trap in
- the doorframe.}
-{140}{}{You see a damaged door with no apparent locking device and
- a trap in the doorframe.}
-{141}{}{You see a damaged door with an old, rusty lock and a trap
- in the doorframe.}
+{138}{}{Você vê uma porta danificada com tranca (que pode ser arrombada
+ com uma gazua) e uma armadilha no batente.}
+{139}{}{Você vê uma porta danificada com tranca e uma armadilha no batente.}
+{140}{}{Você vê uma porta danificada sem tranca aparente e
+ uma armadilha no batente.}
+{141}{}{Você vê uma porta danificada com uma tranca velha e enferrujada e uma armadilha
+ no batente.}
 
-{142}{}{You see a damaged door with a lock (which can be picked with
- lockpicks) and a cut wire in the doorframe.}
-{143}{}{You see a damaged door with a lock on it and a severed wire
- in the doorframe.}
-{144}{}{You see a damaged door with no apparent locking device and
- a severed wire in the doorframe.}
-{145}{}{You see a damaged door with an old, rusty lock and a cut
- wire in the doorframe.}
+{142}{}{Você vê uma porta danificada com tranca (que pode ser arrombada
+ com uma gazua) e um fio solto no batente.}
+{143}{}{Você vê uma porta danificada com tranca e um fio descascado
+ no batente.}
+{144}{}{Você vê uma porta danificada sem tranca aparente e
+ um fio descascado no batente.}
+{145}{}{Você vê uma porta danificada com uma tranca velha e enferrujada e um fio solto no batente.}
 
-{146}{}{You see a damaged door with a lock (which can be picked with
- lockpicks).}
-{147}{}{You see a damaged door with a lock on it.}
-{148}{}{You see a damaged door with no apparent locking device.}
-{149}{}{You see a damaged door with an old, rusty lock.}
+{146}{}{Você vê uma porta danificada com tranca (que pode ser arrombada
+ com uma gazua).}
+{147}{}{Você vê uma porta danificada com tranca.}
+{148}{}{Você vê uma porta danificada sem tranca aparente.}
+{149}{}{Você vê uma porta danificada com uma tranca velha e enferrujada.}
 
-# Perception Check Failure
+# Perception Check falhouure
 
-{150}{}{You see an old door with a lock (which can be picked with
- lockpicks) and a highly explosive trap in the doorframe.}
-{151}{}{You see an old door with a lock on it and a highly
- explosive trap in the doorframe.}
-{152}{}{You see an old door with no apparent locking device and
- a highly explosive trap in the doorframe.}
-{153}{}{You see an old door with an old, rusty lock and a highly
- explosive trap in the doorframe.}
+{150}{}{Você vê uma porta antiga com tranca (que pode ser arrombada
+ com uma gazua) e uma armadilha com explosivos no batente.}
+{151}{}{Você vê uma porta antiga com tranca e uma armadilha com explosivos no batente.}
+{152}{}{Você vê uma porta antiga sem tranca aparente e
+ uma armadilha com explosivos no batente.}
+{153}{}{Você vê uma porta antiga com uma tranca velha e enferrujada e uma armadilha com explosivos no batente.}
 
-{154}{}{You see an old door with a lock (which can be picked with
- lockpicks) and a trap in the doorframe.}
-{155}{}{You see an old door with a lock on it and a trap in
- the doorframe.}
-{156}{}{You see an old door with no apparent locking device and
- a trap in the doorframe.}
-{157}{}{You see an old door with an old, rusty lock and a trap
- in the doorframe.}
+{154}{}{Você vê uma porta antiga com tranca (que pode ser arrombada
+ com uma gazua) e uma armadilha no batente.}
+{155}{}{Você vê uma porta antiga com tranca e uma armadilha no batente.}
+{156}{}{Você vê uma porta antiga sem tranca aparente e
+ uma armadilha no batente.}
+{157}{}{Você vê uma porta antiga com uma tranca velha e enferrujada e uma armadilha
+ no batente.}
 
-{158}{}{You see an old door with a lock (which can be picked with
- lockpicks) and a cut wire in the doorframe.}
-{159}{}{You see an old door with a lock on it and a severed wire
- in the doorframe.}
-{160}{}{You see an old door with no apparent locking device and
- a severed wire in the doorframe.}
-{161}{}{You see an old door with an old, rusty lock and a cut
- wire in the doorframe.}
+{158}{}{Você vê uma porta antiga com tranca (que pode ser arrombada
+ com uma gazua) e um fio solto no batente.}
+{159}{}{Você vê uma porta antiga com tranca e um fio descascado
+ no batente.}
+{160}{}{Você vê uma porta antiga sem tranca aparente e
+ um fio descascado no batente.}
+{161}{}{Você vê uma porta antiga com uma tranca velha e enferrujada e um fio solto no batente.}
 
-{162}{}{You see an old door with a lock (which can be picked with
- lockpicks).}
-{163}{}{You see an old door with a lock on it.}
-{164}{}{You see an old door with no apparent locking device.}
-{165}{}{You see an old door with an old, rusty lock.}
+{162}{}{Você vê uma porta antiga com tranca (que pode ser arrombada
+ com uma gazua).}
+{163}{}{Você vê uma porta antiga com tranca.}
+{164}{}{Você vê uma porta antiga sem tranca aparente.}
+{165}{}{Você vê uma porta antiga com uma tranca velha e enferrujada.}
 
 #############################################################
 #  The following lines are for damage done to the player or #
-#  critter who tried to open the door, or failed a traps    #
+#  critter who tried to open the door, or falhoued uma armadilhas    #
 #  roll.                                                    #
 #############################################################
 
 # The following sets of lines are to be translated as:
-# You set off the trap and were hit for [x] points of damage.
-# NPC sets of the trap and was hit for [x] points of damage.
+# Você set off the trap e were hit for [x] pontos de dano.
+# NPC sets of the trap e was hit for [x] pontos de dano.
 
 # Player sets off the trap
-{166}{}{You set off the trap and were hit for }
-{167}{}{ points of damage.}
+{166}{}{Você ativou a armadilha e foi atingido por }
+{167}{}{ pontos de dano.}
 
 # NPC sets off the trap
-{168}{}{ sets off the trap and was hit for }
-{169}{}{ points of damage.}
+{168}{}{ ativou a armadilha e foi atingido por }
+{169}{}{ pontos de dano.}
 
 #############################################################
 #  The following lines are for when the player uses skills  #
-#  on the door.                                             #
+#  na porta.                                             #
 #############################################################
 
-# Player uses a skill on the door
+# Player uses a skill na porta
 # Unlock Door
-{170}{}{You deftly pick the lock on the door.}
-{171}{}{Your lack of skill has jammed the lock on this door.}
-{172}{}{You fail to pick the lock on this door.}
+{170}{}{Você habilmente arromba a tranca na porta.}
+{171}{}{Sua falta de habilidade emperrou a tranca nessa porta.}
+{172}{}{Você falhou em arrombar a tranca nessa porta.}
 
 # Lock Door
-{189}{}{You deftly lock the door.}
-{190}{}{You fail to lock the door.}
+{189}{}{Você habilmente tranca a porta.}
+{190}{}{Você falhou em trancar a porta.}
 
-# Find Trap on the Door
-{194}{}{You find a trap on the door.}
-{195}{}{You fail to find any traps on the door.}
+# Find Trap na porta
+{194}{}{Você encontrou uma armadilha na porta.}
+{195}{}{Você falhou em encontrar qualquer armadilha na porta.}
 
-# Disarm the Trap on the Door
-{196}{}{You skillfully disarm the trap.}
-{198}{}{You fail to disarm the trap.}
+# desarmar a armadilha na porta
+{196}{}{Você habilmente desarma a armadilha.}
+{198}{}{Você falhou em desarmar a armadilha.}
 
-# NPC uses a skill on the door
+# NPC uses a skill na porta
 # The following lines are prepended by the NPC's name
 
 # Unlock Door
-{173}{}{ deftly picks the lock on the door.}
-{174}{}{'s lack of skill has jammed the lock on this door.}
-{175}{}{ failed to pick the lock on this door.}
+{173}{}{ habilmente arromba a tranca na porta.}
+{174}{}{ em sua falta de habilidade emperrou a tranca nessa porta.}
+{175}{}{ falhou em arrombar a tranca nessa porta.}
 
 # Lock Door
-{191}{}{ deftly locks the door.}
-{192}{}{ failed to lock the door.}
+{191}{}{ habilmente tranca a porta.}
+{192}{}{ falhou em trancar a porta.}
 
-# Find Trap on the Door
-{199}{}{ finds a trap on the door.}
-{200}{}{ fails to find any traps on the door.}
+# Find Trap na porta
+{199}{}{ encontrou uma armadilha na porta.}
+{200}{}{ falhou em encontrar qualquer armadilha na porta.}
 
-# Disarm the Trap on the Door
-{201}{}{ skillfully disarms the trap.}
-{202}{}{ fails to disarm the trap.}
+# desarmar a armadilha na porta
+{201}{}{ habilmente desarma a armadilha.}
+{202}{}{ falhou wm desarmar a armadilha.}
 
 #############################################################
 #  The following lines are for when the player tries to     #
-#  use items on the door which are not lockpicks.           #
+#  use items na porta que are not lockpicks.           #
 #############################################################
 
-# Player uses an item on the door
-{176}{}{You bust the lock off the door.}
-{177}{}{You strain your back while trying to bust the lock and
- take a point of damage.}
+# Player uses an item na porta
+{176}{}{Você estoura a tranca da porta.}
+{177}{}{Você distende suas costas enquanto tenta estourar a tranca e
+ sofre um ponto de dano.}
 
 # The following set of lines is to be translated as:
-# You strain your back while trying to bust the lock and
-# take [x] points of damage.
+# Você distende suas costas enquanto tenta estourar a tranca e
+# take [x] pontos de dano.
 
-{178}{}{You strain your back while trying to bust the lock and
- take }
-{179}{}{ points of damage.}
-{180}{}{You are too weak to bust the lock.}
+{178}{}{Você distende suas costas enquanto tenta estourar a tranca e
+ sofre }
+{179}{}{ pontos de dano.}
+{180}{}{Você é muito fraco para estourar a tranca.}
 
-# NPC uses an item on the door
+# NPC uses an item na porta
 # The following lines are prepended by the NPC's name
-{181}{}{ busts the lock off the door.}
-{182}{}{ strains his back while trying to bust the lock and takes
- a point of damage.}
+{181}{}{ estoura a tranca da porta.}
+{182}{}{ distende suas costas enquanto tenta estourar a tranca e sofre
+ um ponto de dano.}
 
 # The following line set of lines is to be translated as:
-# NPC strains his back while trying to bust the lock and
-# takes [x] points of damage
+# NPC distendes his costas enquanto tenta estourar a tranca e
+# sofre [x] pontos de dano
 
-{183}{}{ strains his back while trying to bust the lock and takes }
-{184}{}{ points of damage.}
+{183}{}{ distende suas costas enquanto tenta estourar a tranca e sofre }
+{184}{}{ pontos de dano.}
 
-{185}{}{ is too weak to bust the lock.}
-{186}{}{ strains her back while trying to bust the lock and takes
- a point of damage.}
+{185}{}{ é muito fraco para estourar a tranca.}
+{186}{}{ distende suas costas enquanto tenta estourar a tranca e sofre
+ um ponto de dano.}
 
 # The following line set of lines is to be translated as:
-# NPC strains her back while trying to bust the lock and
-# takes [x] points of damage
+# NPC distendes her costas enquanto tenta estourar a tranca e
+# sofre [x] pontos de dano
 
-{187}{}{ strains her back while trying to bust the lock and takes }
-{188}{}{ points of damage.}
+{187}{}{ distende suas costas enquanto tenta estourar a tranca e sofre }
+{188}{}{ pontos de dano.}
 
 #############################################################
 #  Damage done to the door due to explosives.               #
 #############################################################
 
-{193}{}{That doesn't even put a scratch on the door.}
+{193}{}{A porta não sofreu nem um arranhão.}
 
 #############################################################
 #  Reporting Door Status should it be used.                 #
 #############################################################
 
-{203}{}{The door appears to be locked.}
-{204}{}{You notice a trap in the door jamb.}
+{203}{}{A porta aparenta estar trancada.}
+{204}{}{Você percebe uma armadilha na jamba da porta.}
 
 # NPC finds trap
 # The following line is to be translated as:
-# NPC notices a trap in the door jamb.
+# NPC notices uma armadilha na moldura da porta.
 
-{205}{}{ notices a trap in the door jamb.}
+{205}{}{ percebe uma armadilha na jamba da porta.}
 
 #############################################################
-#  Setting traps on a door and whether the door is open or  #
+#  Setting traps on a door e whether the door is open or  #
 #  closed to set the trap.                                  #
 #############################################################
 
-# Player tries to set a trap on an open door
-{206}{}{You are unable to place a trap on this door, because
- the door is open.}
+# Player tries to set uma armadilha on an open door
+{206}{}{Você é incapaz de armar uma armadilha nessa porta, porque a porta está aberta.}
 
-# NPC tries to set a trap on an open door
-{207}{}{ is unable to place a trap on this door, because the
- door is open.}
+# NPC tries to set uma armadilha on an open door
+{207}{}{ é incapaz de armar uma armadilha nessa porta, porque a porta está aberta.}
 
-# Player tries to set a trap on a closed door
-{208}{}{You skillfully set a trap in the door frame.}
-{209}{}{You fail to properly set the trap in the door frame.}
+# Player tries to set uma armadilha on a closed door
+{208}{}{Você habilmente arma uma armadilha na moldura da porta.}
+{209}{}{Você falhou em armar corretamente uma armadilha na moldura da porta.}
 
-# NPC tries to set a trap on a closed door
-{210}{}{ skillfully sets a trap in the door frame.}
-{211}{}{ fails to properly set the trap in the door frame.}
+# NPC tries to set uma armadilha on a closed door
+{210}{}{ habilmente arma uma armadilha na moldura da porta.}
+{211}{}{ falhou em armar corretamente uma armadilha na moldura da porta.}
 
-{300}{}{You unlock the door.}
-{301}{}{You lock the door.}
-{302}{}{You are unable to lock this door while it is open.}
-{303}{}{That key does not fit in this lock.}
+{300}{}{Você destranca a porta.}
+{301}{}{Você tranca a porta.}
+{302}{}{Você é incapaz de trancar essa porta enquanto ela está aberta.}
+{303}{}{Essa chave não entra nessa fechadura.}
 
 # for broken doors
-{320}{}{There's no way to lock this door.}
-{330}{}{This door is jammed open.}
+{320}{}{Não há como trancar essa porta.}
+{330}{}{Essa porta esta emperrada aberta.}
 
-# Using a key on the door. (YES THIS IS A DUPLICATE BUT PLEASE DO NOT REMOVE..
+# Using a key na porta. (YES THIS IS A DUPLICATE BUT PLEASE DO NOT REMOVE..
 # IT MOST LIKELY IS BEING USED BY A DOOR SCRIPT SOMEWHERE)
-{400}{}{You unlock the door.}
+{400}{}{Você destranca a porta.}
 
-{414}{}{You see a sturdy door with a lock (which can be picked with
- lockpicks), which you may be able to pry open.}
-{415}{}{You see a sturdy door with a lock on it, which you may be
- able to pry open.}
-{416}{}{You see a sturdy door with no apparent locking device,
- which you may be able to pry open.}
-{417}{}{You see a sturdy door which you may be able to pry open.}
+{414}{}{Você vê uma porta robusta com tranca (que pode ser arrombada
+ com uma gazua), que você pode conseguir forçar.}
+{415}{}{Você vê uma porta robusta com tranca on it, que você pode conseguir forçar.}
+{416}{}{Você vê uma porta robusta sem tranca aparente,
+ que você pode conseguir forçar.}
+{417}{}{Você vê uma porta robusta que você pode conseguir forçar.}
 
-{500}{}{This door is too heavy to pry open.}
-{501}{}{Looks like you need to get the generator working first.}
-{502}{}{You see: Elevator door.}
-{503}{}{Looks like you need an electric device to open this lock.}
+{500}{}{Essa porta é muito pesada para forçar a entrada.}
+{501}{}{Parece que você tem que ligar o gerador antes.}
+{502}{}{Você vê: a porta do elevador.}
+{503}{}{Parece que você precisa de um dispositivo eletrônico para abrir essa porta.}
