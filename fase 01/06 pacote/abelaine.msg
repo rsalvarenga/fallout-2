@@ -1,47 +1,82 @@
-{100}{}{You see a stout nun.}
-{101}{}{You see Elaine.}
-{102}{}{You still see her.}
+#You see a stout nun.
+{100}{}{Você uma freira robusta.}
+#You see Elaine.
+{101}{}{Você vê Elaine.}
+#You still see her.
+{102}{}{Você ainda a vê.}
 
-{200}{}{Greetings!}
-{201}{}{Hi, what's your name?}
-{202}{}{What can you tell me about the Abbey?}
-{203}{}{Bye.}
+#Greetings!
+{200}{}{Saudações!}
+#Hi, what's your name?
+{201}{}{Olá, qual seu nome?}
+#What can you tell me about the Abbey?
+{202}{}{O que você pode me dizer sobre Abbey?}
+#Bye.
+{203}{}{Tchau.}
 
-{300}{}{If you want to know more about our order, talk to the Abbot. You can find him in his quarters on the third floor.}
-{301}{}{I see. A few more questions...}
+#If you want to know more about our order, talk to the Abbot. You can find him in his quarters on the third floor.
+{300}{}{Se você quiser saber mais sobre a ordem, converse com Abbot. Você vai encontrá-lo em seus aposentos no terceiro andar.}
+#I see. A few more questions...
+{301}{}{Entendo. Mais algumas perguntas...}
 
-{400}{}{Of course. What would you like to know?}
-{401}{}{What is your name?}
-{402}{}{Nothing really, bye.}
-{403}{}{What can you tell me about the Abbey?}
+#Of course. What would you like to know?
+{400}{}{Claro. O que você quer saber?}
+#What is your name?
+{401}{}{Qual seu nome?}
+#Nothing really, bye.
+{402}{}{Na verdade nada, tchau.}
+#What can you tell me about the Abbey?
+{403}{}{O que você pode me dizer sobre Abbey?}
 
-{500}{}{My name is Elaine.}
-{501}{}{I see. A few more questions...}
+#My name is Elaine.
+{500}{}{Meu nome é Elaine.}
+#I see. A few more questions...
+{501}{}{Entendo. Mais algumas perguntas...}
 
-{600}{}{Hey! Before you go, perhaps you could do me a favor. I'm supposed to bring this machine part to Max in the
+#Hey! Before you go, perhaps you could do me a favor. I'm supposed to bring this machine part to Max in the
  basement copy room. But you see, my left knee has been acting up lately, and it's a real pain for me to go up and down
- all those stairs. Would it trouble you too much to bring him this part for me?}
-{601}{}{Sure.}
-{602}{}{Sorry, I don't have time for this. Bye.}
-{603}{}{Do I look like your personal delivery service? Do it yourself, you fat lazy bitch. Bye.}  #new in RP 1.3
+ all those stairs. Would it trouble you too much to bring him this part for me?
+{600}{}{Ei! Antes de ir, talvez você possa me fazer um favor. Eu tenho que levar essa peça para Max na sala
+ de cópia do porão. Mas, sabe, meu joelho esquerdo está doendo ultimamente, e é doloroso para mim ir para cima e para
+ baixo naquelas escadas. Seria muito incômodo levar a peça para mim?}
+#Sure.
+{601}{}{Claro.}
+#Sorry, I don't have time for this. Bye.
+{602}{}{Desculpe, não tenho tempo. Tchau.}
+#Do I look like your personal delivery service? Do it yourself, you fat lazy bitch. Bye.
+{603}{}{Eu pareço ser seu serviço de entregas pessoal? Vá você mesma, sua gorda folgada. Tchau.}  #new in RP 1.3
 
-{604}{}{Thanks! Here's the part. The copying room is in the basement. Just use the stairs directly behind Brother Matthew
- in the chapel area.}
-{605}{}{Not a problem. [You take the part.] I'll bring it down to Max right away.}
+#Thanks! Here's the part. The copying room is in the basement. Just use the stairs directly behind Brother Matthew
+ in the chapel area.
+{604}{}{Obrigado! Aqui está a parte. A sala de cópia fica no porão. É só usar as escadas bem atrás do Irmão Matthew
+ na capela.}
+#Not a problem. [You take the part.] I'll bring it down to Max right away.
+{605}{}{Sem problemas. [Você pega a peça.] Vou levar para o Max agora mesmo.}
 
 #dumb dialgoue
-{700}{}{Me }
-{701}{}{. Who you?}
+#Me
+{700}{}{Eu }
+#. Who you?
+{701}{}{. Você ser?}
 
-{710}{}{Hehe. That pretty name.}
-{711}{}{Bye!}
+#Hehe. That pretty name.
+{710}{}{Hehe. Esse nome bonito.}
+#Bye!
+{711}{}{Tchau!}
 
-{720}{}{You're a special little guy aren't you? Could you do me a BIG favor and be my special helper today?}
-{721}{}{You're a special little gal aren't you? Could you do me a BIG favor and be my special helper today?}
-{722}{}{Me special. Me help.}
-{723}{}{Me no wanna help.}
+#You're a special little guy aren't you? Could you do me a BIG favor and be my special helper today?
+{720}{}{Você é um carinha especial, não é mesmo? Pode me fazer um GRANDE favor e ser meu ajudante especial hoje?}
+#You're a special little gal aren't you? Could you do me a BIG favor and be my special helper today?
+{721}{}{Você é uma mocinha especial, não é mesmo? Pode me fazer um GRANDE favor e ser minha ajudante especial hoje?}
+#Me special. Me help.
+{722}{}{Eu especial. Eu ajudar.}
+#Me no wanna help.
+{723}{}{Eu não querer ajudar.}
 
-{730}{}{Really? Great! Please give this machine part to Max in the copying room. He can be found in the BASEMENT. Okay?}
-{731}{}{I no let you down!}
+#Really? Great! Please give this machine part to Max in the copying room. He can be found in the BASEMENT. Okay?
+{730}{}{Sério? Ótimo! Por favor entregue essa peça para Max na sala de cópia. Ele pode ser encontrado no PORÃO. Ok?}
+#I no let you down!
+{731}{}{Eu não desapontar!}
 
-{740}{}{You keep on truckin' now.}
+#You keep on truckin' now.
+{740}{}{Continue perseverando.}
