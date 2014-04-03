@@ -21,17 +21,17 @@
 {120}{}{Vamos acabar com isso.}
 {121}{}{Espere, ainda preciso de um tempo para me preparar.}
 {122}{}{Escolhido, o caminho não será fácil, }
-{123}{}{. Você vai se deparar com muitos desafios ao logo de sua vida, cada um mais difícil que o outro. 
-deles será o de lidar contra um companheiro de sua equipe. Chegará um momento em que nem a diplomacia nem a sagacidade 
+{123}{}{. Você vai se deparar com muitos desafios ao logo de sua jornada, cada um mais difícil que o outro. 
+O maior deles será o de lidar contra um companheiro de sua própria equipe. Chegará um momento em que nem a diplomacia nem a sagacidade 
 será útil. Este desafio prepara você para lidar com outro ser humano, olhar em seus olhos e saber se você vai ter que matá-lo.}
 {124}{}{Okay.}
-{125}{}{Estou vendo.}
+{125}{}{Entendo.}
 {126}{}{Não, meu amigo, você só precisa me derrotar. Quando você fizer isso, acabaremos com a batalha.}
-{127}{}{Eu entendo.}
+{127}{}{Entendo.}
 {128}{}{Tudo bem.}
 {129}{}{Sim Armas tendem a nos distanciar da batalha e dessensibilizam os efeitos de nossas ações contra os outros. Quando você bate utilizando seu corpo, ambos sentem a dor que você vai causar. A batalha é muito pessoal e real. Esta é uma lição importante para você, }
 {130}{}{.}
-{131}{}{Eu entendo.}
+{131}{}{Entendo.}
 {132}{}{Entendo.}
 {133}{}{Muito bem. Vamos começar?}
 {134}{}{Estou pronto.}
