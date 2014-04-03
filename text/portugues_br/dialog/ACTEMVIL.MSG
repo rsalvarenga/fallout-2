@@ -2,7 +2,7 @@
 {101}{}{Você está vendo Cameron.}
 {102}{}{Você está vendo um homem muito confiante e musculoso.}
 {103}{}{Saudações, }
-{104}{}{. Tenho a honra de ser seu último desafio. Para terminar seu teste você deve me derrotar em combate desarmado. Você está pronto?}
+{104}{}{. Tenho a honra de ser seu último desafio. Para terminar seu teste você deve me derrotar em um combate desarmado. Você está pronto?}
 {105}{}{Tenho umas perguntas.}
 {106}{}{Ok, vamos lutar.}
 {107}{}{Não, tenho que me preparar primeiro.}
@@ -20,7 +20,7 @@
 {119}{}{Você está dizendo que vamos lutar desarmado?}
 {120}{}{Vamos acabar com isso.}
 {121}{}{Espere, ainda preciso de um tempo para me preparar.}
-{122}{}{Escolhido, o caminho não sera fácil, }
+{122}{}{Escolhido, o caminho não será fácil, }
 {123}{}{. Você vai se deparar com muitos desafios ao logo de sua vida, cada um mais difícil que o outro. 
 deles será o de lidar contra um companheiro de sua equipe. Chegará um momento em que nem a diplomacia nem a sagacidade 
 será útil. Este desafio prepara você para lidar com outro ser humano, olhar em seus olhos e saber se você vai ter que matá-lo.}
@@ -29,9 +29,7 @@ será útil. Este desafio prepara você para lidar com outro ser humano, olhar em s
 {126}{}{Não, meu amigo, você só precisa me derrotar. Quando você fizer isso, acabaremos com a batalha.}
 {127}{}{Eu entendo.}
 {128}{}{Tudo bem.}
-{129}{}{Sim Armas tendem a nos distanciar da batalha e efeitos dessensibilizantes de nossas ações 
-contra os outros. Quando você bate utilizando seu corpo, ambos sentem a dor que você vai causar. 
-A batalha é muito pessoal e real. Esta é uma lição importante para você, }
+{129}{}{Sim Armas tendem a nos distanciar da batalha e dessensibilizam os efeitos de nossas ações contra os outros. Quando você bate utilizando seu corpo, ambos sentem a dor que você vai causar. A batalha é muito pessoal e real. Esta é uma lição importante para você, }
 {130}{}{.}
 {131}{}{Eu entendo.}
 {132}{}{Entendo.}
@@ -48,7 +46,7 @@ A batalha é muito pessoal e real. Esta é uma lição importante para você, }
 {143}{}{Acho que sim.}
 {144}{}{Não, me dê um minuto.}
 {145}{}{Excelente! Seu equipamento será armazenado na entrada da sala.
- Você poderá recuperá-lo após o desafio. Que começe o desafio! Boa sorte para você }
+ Você poderá recuperá-lo após o desafio. Que comece o desafio! Boa sorte para você }
 {146}{}{.}
 {147}{}{É um prazer vê-lo novamente, Escolhido. Como posso ajudá-lo?}
 {148}{}{Eu quero entrar no templo outra vez.
@@ -71,12 +69,12 @@ A batalha é muito pessoal e real. Esta é uma lição importante para você, }
 {166}{}{Você pode está certo, }
 {167}{}{, mas não em nossa situação atual. Você tem que me derrotar para concluir o teste.}
 {168}{}{Olha, eu não sei de todos os seus pontos fortes e fracos, e nem os meus.
- Acidentes acontencem, e se um de nós acidentalmente matar o outro? Vamos acabar
+ Acidentes acontecem, e se um de nós acidentalmente matar o outro? Vamos acabar
  logo com isso antes que aconteça alguma coisa, ok?}
 {169}{}{Hmmm... faz sentido. Eu não gostaria de ser o responsável por
  sua morte, tudo que eu queria era provar o seu valor. Muito bem - você
  pode passar, Escolhido.}
-{170}{}{Hmm... faz sentindo. No entando, ainda temos que batalhar. Eu vou
+{170}{}{Hmm... faz sentindo. No entanto, ainda temos que batalhar. Eu vou
  simplesmente ter o cuidado para não te machucar.}
 {171}{}{Obrigado! Vejo você na aldeia.}
 {172}{}{Eu entendo.}

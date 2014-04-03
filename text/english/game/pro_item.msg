@@ -82,10 +82,10 @@
 {4101}{}{Legal tender for the world of the wastes.}
 {4200}{}{Fridge}
 {4201}{}{A refrigerator. Out of coolant.}
-{4300}{}{Ice Chest}
-{4301}{}{On old-style ice chest. The hinges are in good working condition.}
-{4400}{}{Ice Chest}
-{4401}{}{On old-style ice chest. The hinges are in good working condition.}
+{4300}{}{Ice Baú}
+{4301}{}{On old-style ice Baú. The hinges are in good working condition.}
+{4400}{}{Ice Baú}
+{4401}{}{On old-style ice Baú. The hinges are in good working condition.}
 {4500}{}{Throwing Knife}
 {4501}{}{A knife, balanced specifically for throwing. Made of titanium, and laser sharpened. Min ST: 3.}
 {4600}{}{Bag}
@@ -472,20 +472,20 @@
 {24101}{}{A .223 rifle modified and cut down to a pistol. This is a one-of-a-kind firearm, obviously made with love and skill. Min ST: 5.}
 {24200}{}{Combat Shotgun}
 {24201}{}{A Winchester City-Killer 12-gauge combat shotgun, bullpup variant. In excellent condition, it has the optional DesertWarfare environmental sealant modification for extra reliability. Min ST: 5.}
-{24300}{}{Pot}
-{24301}{}{A finely crafted clay pot.}
-{24400}{}{Pot}
-{24401}{}{A finely crafted clay pot.}
-{24500}{}{Chest}
-{24501}{}{A wooden chest.}
+{24300}{}{Pote}
+{24301}{}{Um Pote de argila bem trabalhado.}
+{24400}{}{Pote}
+{24401}{}{Um Pote de argila bem trabalhado.}
+{24500}{}{Baú}
+{24501}{}{Um Baú de madeira.}
 {24600}{}{Shelf}
 {24601}{}{A wood shelf with miscellaneous items.}
 {24700}{}{Shelf}
 {24701}{}{A wood shelf with miscellaneous items.}
-{24800}{}{Pot}
-{24801}{}{A finely crafted clay pot.}
-{24900}{}{Pot}
-{24901}{}{A finely crafted clay pot.}
+{24800}{}{Pote}
+{24801}{}{Um Pote de argila bem trabalhado.}
+{24900}{}{Pote}
+{24901}{}{Um Pote de argila bem trabalhado.}
 {25000}{}{Ossos}
 {25001}{}{Uma pilha de Ossos humano.}
 {25100}{}{Ossos de Anna}
@@ -924,7 +924,7 @@
 {47300}{}{Mutated Toe}
 {47301}{}{You see your sixth toe. It is a small mutated part of yourself. For some reason, you feel a terrible sense of loss as you look at the tiny amputated toe.}
 {47400}{}{Daisies}
-{47401}{}{A flower pot of daisies. Aren't they nice?}
+{47401}{}{A flower Pote of daisies. Aren't they nice?}
 {47500}{}{Unused}
 {47501}{}{Unused}
 {47600}{}{Enlightened One's Letter}
