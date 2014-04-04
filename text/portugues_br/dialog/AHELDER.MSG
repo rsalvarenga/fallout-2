@@ -25,7 +25,7 @@
 {128}{}{Eu passei no teste. Claro que estou pronto.}
 {129}{}{Eu vou pensar sobre isso.}
 {130}{}{Eu não vou me matar!}
-{131}{aeld7}{Preste atenção. Encontre o refúgio Vault 13 e traga de volta o GECK. Vic, o comerciante de Klamath trouxe este frasco do refúgio 13. Comece sua busca por ele. Este disco vai lembrá-lo de sua missão. Que os Deuses do Vault te protejam}
+{131}{aeld7}{Preste atenção. Encontre o refúgio Vault 13 e traga de volta o GECK. Vic, o comerciante de Klamath trouxe este frasco do refúgio 13. Comece sua busca por ele. Este disco vai lembrá-lo de sua missão. Que os Deuses do Vault te protejam.}
 {133}{}{Antes de eu partir, eu tenho algumas perguntas.}
 {134}{}{Goodbye. Eu não vou deixar a tribo}
 {135}{aeld8}{Muito bem. Procure por mim quando você se decidir - mas não espere muito tempo.}
@@ -35,8 +35,8 @@
 {139}{}{Me diga mais informações sobre o GECK.}
 {140}{}{Como chego em Klamath?}
 {141}{}{Onde é o Vault 13?}
-{142}{}{Pensando bem, eu não preciso de ajuda agora. Adeus.}
-{143}{aeld10}{O Kit Garden of Eden Creation - é um artefato sagrado. O Disco promete que vai fertilizar nossas terras e nossa aldeia vai prosperar novamente. Ele vai nos salvar. Eu não sei mais do que isso.}
+{142}{}{Pensando bem, eu não preciso te ajudar agora. Adeus.}
+{143}{aeld10}{O Garden of Eden Creation Kit - é um artefato sagrado. O Disco promete que vai fertilizar nossas terras e nossa aldeia vai prosperar novamente. Ele vai nos salvar. Eu não sei mais do que isso.}
 {144}{}{Tem mais coisas que eu quero saber.}
 {145}{}{Adeus.}
 {146}{aeld11}{Klamath fica ao leste.}
