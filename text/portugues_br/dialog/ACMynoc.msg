@@ -1,4 +1,4 @@
-# Noob-Saibot estÃ¡ traduzindo este arquivo.
+# Noob-Saibot está traduzindo este arquivo.
 
 #############################################################
 #  Message File: ACMynoc.msg                                #
@@ -21,8 +21,8 @@
 #  glanced and and examined.                                #
 #############################################################
 
-{100}{}{VocÃª vÃª o guarda da ponte.} # You see the bridge guard.
-{101}{}{VocÃª vÃª Mynoc, o guarda da ponte.} # You see Mynoc, the bridge guard.
+{100}{}{Você vê o guarda da ponte.} # You see the bridge guard.
+{101}{}{Você vê Mynoc, o guarda da ponte.} # You see Mynoc, the bridge guard.
 
 #############################################################
 #  The following lines are for the dialog which the NPC     #
@@ -30,184 +30,184 @@
 #  Tool.                                                    #
 #############################################################
 
-{150}{}{Na sua frente estÃ¡ um grande guerreiro da sua vila,
- segurando uma lanÃ§a.} # Before you stands a large warrior of your village, holding a spear
+{150}{}{Na sua frente está um grande guerreiro da sua vila,
+ segurando uma lança.} # Before you stands a large warrior of your village, holding a spear
 {151}{}{[FALAR]} # [TALK]
-{152}{}{OlÃ¡, Escolhido. EstÃ¡ indo encontrar o GECK?} # Hello, Chosen One. Off to find the GECK?
+{152}{}{Olá, Escolhido. Está indo encontrar o GECK?} # Hello, Chosen One. Off to find the GECK?
 {153}{}{Sim.} # Yes
 {154}{}{Sim. Mas antes de ir, queria te fazer algumas
  perguntas.} # Yes. But before I go, I would like to ask you some questions.
-{155}{}{Ainda nÃ£o. Eu vou dar mais uma olhada
- por aÃ­.} # Not just yet. I'm going to look around a little bit more.
+{155}{}{Ainda não. Eu vou dar mais uma olhada
+ por aí.} # Not just yet. I'm going to look around a little bit more.
 {156}{}{Bem, que os deuses te protejam.} # Well, may the gods watch over you.
 {157}{}{Obrigado. Adeus.} # Thank you, goodbye.
-{158}{}{O que vocÃª quer saber?} # What do you want to know?
-{159}{}{O que vocÃª pode me dizer sobre os homens que negociam com a
+{158}{}{O que você quer saber?} # What do you want to know?
+{159}{}{O que você pode me dizer sobre os homens que negociam com a
  nossa vila?} # What can you tell me of the men who trade with our village?
-{160}{}{O que vocÃª pode me dizer sobre esse objeto do vault que eu
+{160}{}{O que você pode me dizer sobre esse objeto do vault que eu
  tenho aqui comigo?} # What can you tell me about this object I have from a vault?
-{161}{}{Nada, deixa pra lÃ¡.} # Nothing, never mind.
-{162}{}{Muito bem, mas nÃ£o perca muito tempo. Sem o GECK, estamos
+{161}{}{Nada, deixa pra lá.} # Nothing, never mind.
+{162}{}{Muito bem, mas não perca muito tempo. Sem o GECK, estamos
  perdidos.} #Very well, but don't waste too much time. Without the GECK, we're doomed.
-{163}{}{Eu sei, nÃ£o se preocupa -- TÃ¡ tudo sobre controle.} # I know, don't worry -- I've got it all under control.
-{164}{}{PorquÃª?} # Why?
-{165}{}{Eu vou indo. AtÃ© mais.} # I must be going. Goodbye.
+{163}{}{Eu sei, não se preocupa -- Tá tudo sobre controle.} # I know, don't worry -- I've got it all under control.
+{164}{}{Porquê?} # Why?
+{165}{}{Eu vou indo. Até mais.} # I must be going. Goodbye.
 {166}{}{Os comerciantes? Eles vem de Klamath, a cada dois meses, mais ou menos. Eles
- sÃ³ devem aparecer daqui hÃ¡ um mÃªs ou mais, mas Klamath fica a poucos dias daqui,
+ só devem aparecer daqui há um mês ou mais, mas Klamath fica a poucos dias daqui,
  ao leste.} # The traders? They come from Klamath about every two months. There won't be another here for a month or more, but Klamath's only a few days east of here.
 {167}{}{Obrigado. Adeus.} # Thank you. Goodbye.
-{168}{}{O que vocÃª pode me dizer sobre esse objeto do vault sagrado que
+{168}{}{O que você pode me dizer sobre esse objeto do vault sagrado que
  trago comigo?} # What can you tell me about this object I have from the sacred vault?
 {169}{}{Parece ser um cantil de ferro. Talvez o
- vault tenha nos enviado isso como um pressÃ¡gio.} # Looks like a metal water gourd. Maybe the vault sent it to us as an omen.
-{170}{}{VocÃª saberia me dizer quem trouxe isto para nossa vila?} # Can you tell me who brought this item to our village?
+ vault tenha nos enviado isso como um presságio.} # Looks like a metal water gourd. Maybe the vault sent it to us as an omen.
+{170}{}{Você saberia me dizer quem trouxe isto para nossa vila?} # Can you tell me who brought this item to our village?
 {171}{}{Obrigado. Eu tenho que ir agora. Adeus.} # Thank you. I must be going. Goodbye.
 {172}{}{Eu espero que sim.} # I hope you do.
-{173}{}{Esse seu excesso de confianÃ§a faz com que todos sofram! Adeus!} # Your overconfidence makes all of us suffer! Goodbye!
+{173}{}{Esse seu excesso de confiança faz com que todos sofram! Adeus!} # Your overconfidence makes all of us suffer! Goodbye!
 {174}{}{Adeus.} # Goodbye.
-{175}{}{Porque? Olhe a sua volta -- nossa vila estÃ¡ morrendo. Os jardins secam e
- todos os dias velhos e crianÃ§as morrem. VocÃª deve trazer o Eden para nÃ³s antes
+{175}{}{Porque? Olhe a sua volta -- nossa vila está morrendo. Os jardins secam e
+ todos os dias velhos e crianças morrem. Você deve trazer o Eden para nós antes
  que seja tarde de mais!} # Why? Look around you -- our village dies. The gardens wither and every day children and old ones collapse. You must bring Eden to us before it is too late!
 {176}{}{Pode deixar comigo. Adeus.} # And I will take care of it.  Goodbye.
-{177}{}{Eu sou o Escolhido -- Eu sÃ³ "devo" fazer o que eu quiser. Adeus.} # I am the Chosen One -- I "must" do only as I please. Goodbye.
-{178}{}{Eu nÃ£o lembro do nome dele, sÃ³ que ele era velho e barulhento --
+{177}{}{Eu sou o Escolhido -- Eu só "devo" fazer o que eu quiser. Adeus.} # I am the Chosen One -- I "must" do only as I please. Goodbye.
+{178}{}{Eu não lembro do nome dele, só que ele era velho e barulhento --
  muito barulhento pra ser educado -- mas ele sabia de muitas coisas. Ele era de
  Klamath, que fica ao leste, como eu disse.} # I don't remember his name, just that he was old and loud -- too loud for proper manners -- but he knew many things. He was from Klamath, east like I said.
-{179}{}{Obrigado. AtÃ© mais.} # Thank you, goodbye.
-{180}{}{VocÃª ainda estÃ¡ aqui? VocÃª precisa encontrar o GECK! Ficar aqui
- nÃ£o vai nos ajudar.} # Are you still here? You must go find the GECK. Staying here doesn't help us.
-{181}{}{VocÃª tem que se preocupar Ã© com essa ponte, amigo.
- Eu jÃ¡ sei me virar muito bem.} # This bridge is all you need to worry about, friend. I can take care of myself.
-{182}{}{Eu jÃ¡ estava de saida. AtÃ© mais, amigo.} # I was just heading out. Goodbye, my friend.
-{183}{}{Eu nÃ£o vou mais falar com vocÃª, seu porco indisciplinado!} # I will speak to you no longer, insubordinate pig!
+{179}{}{Obrigado. Até mais.} # Thank you, goodbye.
+{180}{}{Você ainda está aqui? Você precisa encontrar o GECK! Ficar aqui
+ não vai nos ajudar.} # Are you still here? You must go find the GECK. Staying here doesn't help us.
+{181}{}{Você tem que se preocupar é com essa ponte, amigo.
+ Eu já sei me virar muito bem.} # This bridge is all you need to worry about, friend. I can take care of myself.
+{182}{}{Eu já estava de saida. Até mais, amigo.} # I was just heading out. Goodbye, my friend.
+{183}{}{Eu não vou mais falar com você, seu porco indisciplinado!} # I will speak to you no longer, insubordinate pig!
 {184}{}{Eu queria te fazer outra pergunta.} # I would like to ask you another question.
-{185}{}{Isso foi rÃ¡pido! VocÃª achou o Santo Vault 13?} # That was quick! Have you found the holy Vault 13?
+{185}{}{Isso foi rápido! Você achou o Santo Vault 13?} # That was quick! Have you found the holy Vault 13?
 {186}{}{Sim} # Yes.
-{187}{}{NÃ£o, ainda nÃ£o.} # No, not yet.
-{188}{}{Mesmo? IncrÃ­vel! VocÃª trouxe o GECK?} # You have? Wonderful! Did you bring back the GECK?
-{189}{}{NÃ£o.} # No.
-{190}{}{NÃ£o. Eu nÃ£o falei com as pessoas do vault ainda.} # No. I haven't spoken to the people of the vault yet.
-{191}{}{Eu nÃ£o acho que isso seja problema seu, meu amigo.} # I don't believe that's any business of yours, my friend.
-{192}{}{NÃ£o? Escolhido, trÃªs anciÃµes morreram desde que vocÃª partiu.
- VocÃª nÃ£o deve mais perder tempo.} # No? Chosen One, three old ones have died since you left. You must not waste any more time. 
-{193}{}{Eu vou encontrÃ¡-lo, nÃ£o se preocupe.} # I'll find it, don't worry.
-{194}{}{Estou ficando de saco cheio dessas suas reclamaÃ§Ãµes.} # I'm getting sick of your constant nagging.
-{195}{}{Bem, entÃ£o porque vocÃª estÃ¡ falando comigo? VÃ¡ falar com eles, pegue o GECK.} # Well, why are you talking to me? Talk to them, and get the GECK.
+{187}{}{Não, ainda não.} # No, not yet.
+{188}{}{Mesmo? Incrível! Você trouxe o GECK?} # You have? Wonderful! Did you bring back the GECK?
+{189}{}{Não.} # No.
+{190}{}{Não. Eu não falei com as pessoas do vault ainda.} # No. I haven't spoken to the people of the vault yet.
+{191}{}{Eu não acho que isso seja problema seu, meu amigo.} # I don't believe that's any business of yours, my friend.
+{192}{}{Não? Escolhido, três anciões morreram desde que você partiu.
+ Você não deve mais perder tempo.} # No? Chosen One, three old ones have died since you left. You must not waste any more time. 
+{193}{}{Eu vou encontrá-lo, não se preocupe.} # I'll find it, don't worry.
+{194}{}{Estou ficando de saco cheio dessas suas reclamações.} # I'm getting sick of your constant nagging.
+{195}{}{Bem, então porque você está falando comigo? Vá falar com eles, pegue o GECK.} # Well, why are you talking to me? Talk to them, and get the GECK.
 {196}{}{Eu vou -- tudo ao seu tempo, meu amigo.} # I will -- all in good time, my friend. 
-{197}{}{Estou ficando de saco cheio dessas suas reclamaÃ§Ãµes.} # I'm getting sick of your constant nagging.
+{197}{}{Estou ficando de saco cheio dessas suas reclamações.} # I'm getting sick of your constant nagging.
 {198}{}{Como vai sua busca ao GECK, Escolhido?} # What news of the GECK, Chosen One?
 {199}{}{Eu encontrei o vault!} # I have found the vault!
-{200}{}{Eu nÃ£o consegui encontrar o Vault 13.} # I have not been able to find Vault 13.
-{201}{}{Olha sÃ³... Se nÃ£o Ã© o "Escolhido"...} # Well, look, it's the Chosen One.
-{202}{}{OlÃ¡.} # Hello. 
+{200}{}{Eu não consegui encontrar o Vault 13.} # I have not been able to find Vault 13.
+{201}{}{Olha só... Se não é o "Escolhido"...} # Well, look, it's the Chosen One.
+{202}{}{Olá.} # Hello. 
 {203}{}{Cale a boca.} # Shut up.
 {204}{}{Posso te fazer umas perguntas?} # Can I ask you a question? 
-{205}{}{NÃ£o. Eu nÃ£o tenho tempo pra perder com vocÃª.} # No, I've no time for you.
+{205}{}{Não. Eu não tenho tempo pra perder com você.} # No, I've no time for you.
 {206}{}{Que seja. Adeus.} # Whatever. Good bye.
-{207}{}{Ah, ok.. Te vejo por aÃ­.} # Oh well. See you around.
-{208}{}{VÃª se morre.} # Go die.
-{209}{}{SaudaÃ§Ãµes, Tolo. VÃª a ponte? Atravesse-a. Tome cuidado.
- Ponte perigosa. VocÃª nÃ£o quer cair. Ok?} # Greetings, dull one! See bridge? You cross, you be careful. Bridge dangerous. You not want to fall. Okay?
+{207}{}{Ah, ok.. Te vejo por aí.} # Oh well. See you around.
+{208}{}{Vê se morre.} # Go die.
+{209}{}{Saudações, Tolo. Vê a ponte? Atravesse-a. Tome cuidado.
+ Ponte perigosa. Você não quer cair. Ok?} # Greetings, dull one! See bridge? You cross, you be careful. Bridge dangerous. You not want to fall. Okay?
 {210}{}{Umm... Hunh?} # Umm... Hunh? 
-{211}{}{MiserÃ¡vel! VocÃª falhou com a aldeia!} # Wretch! You have failed the village!
-{212}{}{VocÃª nos traiu. VocÃª vai morrer por isso!} # You betray us. For that you'll die!
-{213}{}{VocÃª traiu seu prÃ³prio povo!} # You are a traitor to your own people.
-{214}{}{Porque vocÃª faz isso?} # Why do you do this?
-{215}{}{A AnciÃ£ estava errada. VocÃª Ã© perverso!} # The Elder was wrong. You are evil.
+{211}{}{Miserável! Você falhou com a aldeia!} # Wretch! You have failed the village!
+{212}{}{Você nos traiu. Você vai morrer por isso!} # You betray us. For that you'll die!
+{213}{}{Você traiu seu próprio povo!} # You are a traitor to your own people.
+{214}{}{Porque você faz isso?} # Why do you do this?
+{215}{}{A Anciã estava errada. Você é perverso!} # The Elder was wrong. You are evil.
 
-{300}{}{Meu pai me ensinou a fazer armas mais fortes do que a maioria. Consiga um pedaÃ§o
- de pederneira, que eu faÃ§o o mesmo pela sua lanÃ§a. VocÃª vai precisar disso no Deserto.} # My father taught me how to make stronger blades than most. Get me a piece of flint and I'll fix your spear, too. You'll need it in the wilderness.
-{301}{}{Onde eu consigo esse sÃ­lex?} # Where would I get some of this flint?
-{302}{}{Eu ouvi dizer que sua tia Morlis tem um pedaÃ§o com ela. Ela Ã© tÃ£o
- mau humorada que eu acho que ninguÃ©m pediu o sÃ­lex pra ela. Ã‰ claro, a bruxa vai
+{300}{}{Meu pai me ensinou a fazer armas mais fortes do que a maioria. Consiga um pedaço
+ de pederneira, que eu faço o mesmo pela sua lança. Você vai precisar disso no Deserto.} # My father taught me how to make stronger blades than most. Get me a piece of flint and I'll fix your spear, too. You'll need it in the wilderness.
+{301}{}{Onde eu consigo esse sílex?} # Where would I get some of this flint?
+{302}{}{Eu ouvi dizer que sua tia Morlis tem um pedaço com ela. Ela é tão
+ mau humorada que eu acho que ninguém pediu o sílex pra ela. É claro, a bruxa vai
  querer alguma coisa em troca.} # They say your Aunt Morlis has been hoarding a piece. She's so ill-tempered I don't think anyone's asked her. Of course, the witch will want something in return.
 {303}{}{Obrigado. Adeus.} # Thanks. Goodbye.
-{304}{}{VocÃª conseguiu pegar o sÃ­lex com a sua tia?} # Did you talk your aunt out of her flint?
-{305}{}{Sim, estÃ¡ bem aqui.} # Yes, I have some right here.
-{306}{}{Ainda nÃ£o.} # Not yet.
-{307}{}{Ã‰ um bom pedaÃ§o. Me dÃª sua lanÃ§a.} # It's a good piece. Give me your spear.
-{308}{}{Aqui estÃ¡.} # Here you go.
-{309}{}{Eu acho que eu nÃ£o tenho uma.} # I guess I don't have one. 
-{310}{}{EntÃ£o, Ã© sÃ³ pegar os pedaÃ§os e colocÃ¡-los assim, que...} # Now, you put the pieces like so...
-{311}{}{O Escolhido sem uma lanÃ§a? Bem, vocÃª pode pegar uma das 
+{304}{}{Você conseguiu pegar o sílex com a sua tia?} # Did you talk your aunt out of her flint?
+{305}{}{Sim, está bem aqui.} # Yes, I have some right here.
+{306}{}{Ainda não.} # Not yet.
+{307}{}{É um bom pedaço. Me dê sua lança.} # It's a good piece. Give me your spear.
+{308}{}{Aqui está.} # Here you go.
+{309}{}{Eu acho que eu não tenho uma.} # I guess I don't have one. 
+{310}{}{Então, é só pegar os pedaços e colocá-los assim, que...} # Now, you put the pieces like so...
+{311}{}{O Escolhido sem uma lança? Bem, você pode pegar uma das 
  minhas. Agora, vamos ao trabalho...} # The Chosen One without a spear? Well, you'll have to take one of mine. Now, let's get to work...
-{312}{}{Aqui estÃ¡ sua nova lanÃ§a.} # Here is your new spear.
+{312}{}{Aqui está sua nova lança.} # Here is your new spear.
 {313}{}{Obrigado, meu amigo -- isso vai me ajudar bastante.} # Thank you, my friend -- this will help a lot.
-{314}{}{Sim, mas eu estava me perguntando sobre a sua lanÃ§a. Ela parece
+{314}{}{Sim, mas eu estava me perguntando sobre a sua lança. Ela parece
  diferente das outras.} # Yes, but I was wondering about your spear. It looks a little
  different.
 
 
 # added in for time limit
-{400}{}{Bem-vindo de volta, Escolhido! VocÃª achou o vault? Trouxe o GECK com vocÃª?} # Welcome home, Chosen One! Did you find the vault? Have you returned with the GECK?
+{400}{}{Bem-vindo de volta, Escolhido! Você achou o vault? Trouxe o GECK com você?} # Welcome home, Chosen One! Did you find the vault? Have you returned with the GECK?
 {401}{}{Eu num achar ainda.} # Me not find yet.
-{402}{}{NÃ£o, eu ainda nÃ£o achei.} # No, I haven't found it yet. 
-{403}{}{Eu nÃ£o tÃ´ afim de responder essas perguntas agora. Adeus.} # I'm not in the mood for your questions. Goodbye.
-{404}{}{As coisas nÃ£o vÃ£o bem, Escolhido. A seca estÃ¡ ficando pior, e nossas plantaÃ§Ãµes nÃ£o
- vÃ£o nada bem. NÃ³s estamos tentando pegar tudo o que podemos para ter uma reserva de comida.} # Things are not going well, Chosen One. The drought is getting worse and our crops are sure to fail. We are trying to salvage what we can to build up our food reserves.
-{405}{}{Porque nÃ£o negociamos com as outras aldeias?} # Why no trade with other villages?
+{402}{}{Não, eu ainda não achei.} # No, I haven't found it yet. 
+{403}{}{Eu não tô afim de responder essas perguntas agora. Adeus.} # I'm not in the mood for your questions. Goodbye.
+{404}{}{As coisas não vão bem, Escolhido. A seca está ficando pior, e nossas plantações não
+ vão nada bem. Nós estamos tentando pegar tudo o que podemos para ter uma reserva de comida.} # Things are not going well, Chosen One. The drought is getting worse and our crops are sure to fail. We are trying to salvage what we can to build up our food reserves.
+{405}{}{Porque não negociamos com as outras aldeias?} # Why no trade with other villages?
 {406}{}{Mim fazer o melhor. Eu achar o GECK. Eu voltar.} # Me doing best me can. Me find GECK. Me return.
-{407}{}{Porque nÃ£o podemos negociar com as outras aldeias pelos alimentos que precisamos?} # Why can't we trade with other villages for the food we need?
-{408}{}{Estou fazendo meu melhor. Quando achar o GECK, vou trazÃª-lo pra cÃ¡.} # I'm doing my best. When I find the GECK I'll return with it.
-{409}{}{NÃ³s somos um povo simples, e nÃ£o temos muito o que oferecer em trocas. As poucas cidades que se
- se comunicaram conosco enquanto vocÃª nÃ£o estava aqui, nÃ£o mostraram interesse em nos ajudar.} # We are a simple people and have little to offer in trade. The few towns that we have contacted while you were away have shown no interest in helping us.
+{407}{}{Porque não podemos negociar com as outras aldeias pelos alimentos que precisamos?} # Why can't we trade with other villages for the food we need?
+{408}{}{Estou fazendo meu melhor. Quando achar o GECK, vou trazê-lo pra cá.} # I'm doing my best. When I find the GECK I'll return with it.
+{409}{}{Nós somos um povo simples, e não temos muito o que oferecer em trocas. As poucas cidades que se
+ se comunicaram conosco enquanto você não estava aqui, não mostraram interesse em nos ajudar.} # We are a simple people and have little to offer in trade. The few towns that we have contacted while you were away have shown no interest in helping us.
 {410}{}{Eu entende.} # Me see.
 {411}{}{Entendo.} # I see.
-{412}{}{VocÃª Ã© nossa Ãºnica esperanÃ§a, Escolhido. Por favor, nÃ£o falhe!} # You are our only hope, Chosen One. Please do not fail us!
-{413}{}{Ã‰ bom te ver, Escolhido. Como vai sua jornada?} # It is good to see you, Chosen One. How fares your quest?
+{412}{}{Você é nossa única esperança, Escolhido. Por favor, não falhe!} # You are our only hope, Chosen One. Please do not fail us!
+{413}{}{É bom te ver, Escolhido. Como vai sua jornada?} # It is good to see you, Chosen One. How fares your quest?
 {414}{}{Mim procurando.} # Me still look.
 {415}{}{Ainda estou procurando.} # I'm still looking.
-{416}{}{Eu nÃ£o quero falar sobre isso.} # I don't want to talk about it. 
-{417}{}{VocÃª deve se apressar. As coisas estÃ£o cada vez piores aqui na vila. Em breve teremos pouca comida,
- e a AnciÃ£ fala de racionar o que temos. Eu temo pelo futuro de Arroyo.} # You must hurry. Things are getting worse here at home. Soon there will be little food and the Elder speaks of rationing what we have. I fear for the future of Arroyo.
-{418}{}{Escolhido! Por favor, diga-me que vocÃª completou sua jornada! Nossa vila estÃ¡ morrendo, assim como as pessoas daqui.} # Chosen One! Please tell me that you have completed your quest. Our village is dying, and so are our people.
-{419}{}{NÃ£o, eu procura ainda.} # No, me still look.
-{420}{}{NÃ£o, ainda estou procurando.} # No, I'm still looking.
-{421}{}{Como vÃ£o as coisas?} # How are things?
-{422}{}{Me desculpe, Escolhido, mas eu estou comeÃ§ando a peder minha fÃ© em vocÃª. As vidas do nosso
- povo estÃ£o nas suas mÃ£os. Por favor, encontre o Santo Treze e retorne para nÃ³s com o GECK!} # I am sorry, Chosen One, but I am beginning to question my faith in you. The very lives of
+{416}{}{Eu não quero falar sobre isso.} # I don't want to talk about it. 
+{417}{}{Você deve se apressar. As coisas estão cada vez piores aqui na vila. Em breve teremos pouca comida,
+ e a Anciã fala de racionar o que temos. Eu temo pelo futuro de Arroyo.} # You must hurry. Things are getting worse here at home. Soon there will be little food and the Elder speaks of rationing what we have. I fear for the future of Arroyo.
+{418}{}{Escolhido! Por favor, diga-me que você completou sua jornada! Nossa vila está morrendo, assim como as pessoas daqui.} # Chosen One! Please tell me that you have completed your quest. Our village is dying, and so are our people.
+{419}{}{Não, eu procura ainda.} # No, me still look.
+{420}{}{Não, ainda estou procurando.} # No, I'm still looking.
+{421}{}{Como vão as coisas?} # How are things?
+{422}{}{Me desculpe, Escolhido, mas eu estou começando a peder minha fé em você. As vidas do nosso
+ povo estão nas suas mãos. Por favor, encontre o Santo Treze e retorne para nós com o GECK!} # I am sorry, Chosen One, but I am beginning to question my faith in you. The very lives of
  our people are in your hands. Please find the holy Thirteen and return to us with the GECK!
-{423}{}{Nossas colheitas falham, nosso brahmin morre.. todos estÃ£o famintos agora. O choro das crianÃ§as
- a noite nÃ£o permite que ninguÃ©m durma. Estamos ficando desesperados.} # Our crops fail, the brahmin die, everyone goes hungry now. The cries of the children at night allow no one any sleep. We are becoming a desperate people.
+{423}{}{Nossas colheitas falham, nosso brahmin morre.. todos estão famintos agora. O choro das crianças
+ a noite não permite que ninguém durma. Estamos ficando desesperados.} # Our crops fail, the brahmin die, everyone goes hungry now. The cries of the children at night allow no one any sleep. We are becoming a desperate people.
 {424}{}{Mim procurando.} # Me continue look.
 {425}{}{Farei o que posso.} # I'll do what I can.
-{426}{}{Mais uma vez vocÃª retorna para nÃ³s, Escolhido. NÃ£o de mÃ£os vazias, espero?} # Once again you return to us, Chosen One. Not empty-handed, I hope?
-{427}{}{Mim desculpa. NÃ£o achar GECK ainda.} # Me sorry, no find GECK yet.
-{428}{}{Desculpe, eu ainda nÃ£o encotrei o GECK.} # I'm sorry, I still haven't found the GECK.
+{426}{}{Mais uma vez você retorna para nós, Escolhido. Não de mãos vazias, espero?} # Once again you return to us, Chosen One. Not empty-handed, I hope?
+{427}{}{Mim desculpa. Não achar GECK ainda.} # Me sorry, no find GECK yet.
+{428}{}{Desculpe, eu ainda não encotrei o GECK.} # I'm sorry, I still haven't found the GECK.
 {429}{}{Estou farto disso.} # I've had enough of this.
-{430}{}{Pessoas estÃ£o morrendo enquanto vocÃª passeia pelas terras. Talvez vocÃª devesse procurar
- em outro lugar, ao invÃ©s de voltar aqui.} # People are dying here while you stroll about the lands. Perhaps you should be searching elsewhere instead of returning here.
+{430}{}{Pessoas estão morrendo enquanto você passeia pelas terras. Talvez você devesse procurar
+ em outro lugar, ao invés de voltar aqui.} # People are dying here while you stroll about the lands. Perhaps you should be searching elsewhere instead of returning here.
 
-{500}{}{VocÃª jÃ¡ falou com a AnciÃ£?} # Have you talked to the Elder yet?
+{500}{}{Você já falou com a Anciã?} # Have you talked to the Elder yet?
 
 #############################################################
 #  TELL - ME - ABOUTS                                       #
 #############################################################
-{1000}{}{AnciÃ£} # Elder
+{1000}{}{Anciã} # Elder
 {1001}{}{Fundador} # Founder
 {1002}{}{Vault Dweller} # 
 {1003}{}{Arroyo} # 
 {1004}{}{Klamath} # 
 {1005}{}{Vault} # 
 {1006}{}{Escolhido} # Chosen One
-{1007}{}{XamÃ£} # Shaman
+{1007}{}{Xamã} # Shaman
 {1008}{}{Hakunin} # 
 {1009}{}{Healing Powder} # 
 {1010}{}{Ponte} # Bridge 
 {1011}{}{Mynoc} # 
 
-{1100}{}{A AnciÃ£ Ã© a mÃ£e e lÃ­der do nosso povo.} # The Elder is your mother and our leader.
+{1100}{}{A Anciã é a mãe e líder do nosso povo.} # The Elder is your mother and our leader.
 {1101}{}{Nosso grande ancestral, que nos deu o conhecimento.} # Our great ancestor who gave us knowledge.
 {1102}{}{O primeiro a lutar contra o caos e vencer.} # The first to fight and win over chaos.
-{1103}{}{Ã‰ nossa linda aldeia.} # That would be our beautiful village.
-{1104}{}{Ã‰ uma cidadezinha que fica a alguns dias a leste daqui.} # That's a trading outpost a few days east of here.
-{1105}{}{O vault Ã© o paraÃ­so.} # The Vault is heaven.
-{1106}{}{VocÃª Ã© O Escolhido.} # You are the Chosen One.
-{1107}{}{Ele nos cura com suas ervas e mÃ¡gica. Ele estÃ¡ na parte
+{1103}{}{É nossa linda aldeia.} # That would be our beautiful village.
+{1104}{}{É uma cidadezinha que fica a alguns dias a leste daqui.} # That's a trading outpost a few days east of here.
+{1105}{}{O vault é o paraíso.} # The Vault is heaven.
+{1106}{}{Você é O Escolhido.} # You are the Chosen One.
+{1107}{}{Ele nos cura com suas ervas e mágica. Ele está na parte
  norte de nossa vila.} # He heals us with his herbs and magic. He is in the northern part of our village.
-{1108}{}{Ele nos cura com suas ervas e mÃ¡gica. Ele estÃ¡ na parte
+{1108}{}{Ele nos cura com suas ervas e mágica. Ele está na parte
  norte de nossa vila.} # He heals us with his herbs and magic. He is in the northern part of our village.
-{1109}{}{Ã‰ um pÃ³ mÃ¡gico que te cura, mas te deixa
+{1109}{}{É um pó mágico que te cura, mas te deixa
  um pouco sonolento.} # It is a magic powder which will heal you, but will make you sleepy.
-{1110}{}{A Grande Ponte Ã© a saÃ­da da nossa aldeia, ao sul.} # The Great Bridge exits our village in the south.
+{1110}{}{A Grande Ponte é a saída da nossa aldeia, ao sul.} # The Great Bridge exits our village in the south.
 {1111}{}{Sou eu.} # That would be me.

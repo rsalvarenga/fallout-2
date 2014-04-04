@@ -1,8 +1,8 @@
 #You see pre-war gadgets.
-{100}{}{VocÃª vÃª aparelhos prÃ©-guerra.}
+{100}{}{Você vê aparelhos pré-guerra.}
 #Displayed on the table, like holy relics, is an impressive array of pre-war gadgets and gizmos.
  Too bad none of it works anymore.
-{101}{}{Ã€ mostra na mesa, como relÃ­quias sagradas, estÃ¡ uma impressionante coleÃ§Ã£o de aparelhos
- e bugigangas prÃ©-guerra. Uma pena nenhum deles funcionar mais.}
+{101}{}{À mostra na mesa, como relíquias sagradas, está uma impressionante coleção de aparelhos
+ e bugigangas pré-guerra. Uma pena nenhum deles funcionar mais.}
 #There is nothing of use here.
-{102}{}{NÃ£o hÃ¡ nada Ãºtil aqui.}
+{102}{}{Não há nada útil aqui.}
