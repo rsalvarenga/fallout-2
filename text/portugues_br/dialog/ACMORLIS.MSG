@@ -7,31 +7,25 @@
 {103}{}{Que é? Você sabe que eu tô ocupada!}
 {104}{}{Hmm... O Mynoc disse...}
 {105}{}{Mynoc disse o que? Some daqui!}
-{106}{}{Que... hm.. você poderia ter um pouco de sílex...}
+{106}{}{Que... hm.. você poderia ter um pedaço de pederneira...}
 {107}{}{Eu tenho. Você quer um pouco. É isso?}
 {108}{}{Bem... sim.}
-{109}{}{Bem... Eu quero três sacos de Healing Powder. As coisas vão ficar feias, 
- e eu vou me preparar. Traga-os para mim, e eu te dou o sílex. Agora 
- vá pega-los!}
+{109}{}{Bem... Eu quero três sacos de Healing Powder. As coisas vão ficar feias, e eu vou me preparar. Traga-os para mim, e eu te dou a pederneira. Agora vá pega-los!}
 {110}{}{Sim, senhora!}
 {111}{}{Não me faça perder tempo. Você trouxe os sacos?}
 {112}{}{Sim, estão aqui.}
 {113}{}{Hmmm.. eu acho que não.}
-{114}{}{Aqui está o sílex. Agora saia daqui! Eu não tenho tempo pra ficar de fofoca.}
+{114}{}{Aqui está a pederneira. Agora saia daqui! Eu não tenho tempo pra ficar de fofoca.}
 {115}{}{Valeu, Tia Morlis.}
-{116}{}{Outra vez me fazendo perder tempo, sobrinho inútil! Como é possível você ser
- o Escolhido?}
+{116}{}{Outra vez me fazendo perder tempo, sobrinho inútil! Como é possível você ser o Escolhido?}
 {117}{}{Sim, Tia Morlis.}
 {118}{}{Ah, Tia Morlis, aqui estão os três.}
 
-{150}{}{Tia Morlis, eu estou em uma perigosa missão para salvar nossa vila.
- Minhas chances de sucesso aumentariam se eu 
- ficasse com os sacos e você me desse o sílex. Não concorda?}
+{150}{}{Tia Morlis, eu estou em uma perigosa missão para salvar nossa vila. Minhas chances de sucesso aumentariam se eu ficasse com os sacos e você me desse a pederneira. Não concorda?}
 {151}{}{O que você acha que está fazendo, jovem? Não é assim que o Escolhido deve agir. Agora saia da minha frente!}
-{152}{}{Se essa pedra é importante o suficiente pra você estar disposto a desrespeitar o nome do Escolhido, aqui está. Pegue 
- o sílex e saia da minha frente.}
+{152}{}{Se essa pedra é importante o suficiente pra você estar disposto a desrespeitar o nome do Escolhido, aqui está. Pegue a pederneira e saia da minha frente.}
 {153}{}{Sim, Tia Morlis.}
-{154}{}{Bem... Ahn, muito bem. Aqui está o sílex. Eu te desejo uma boa viagem, jovem.}
+{154}{}{Bem... Ahn, muito bem. Aqui está a pederneira. Eu te desejo uma boa viagem, jovem.}
 {155}{}{Não, eu não concordo. Agora pare de desperdiçar meu tempo e dê o fora daqui!}
 {156}{}{Sim, Tia Morlis.}
 
@@ -56,8 +50,8 @@
 {216}{}{Sim, Tia Morlis.}
 
 #added by killap
-{300}{}{Bem, pelo visto eu perdi o sílex. Ah, pelo menos tenho esses sacos de Healing Powder Agora. Agora saia daqui! Eu não tenho tempo pra fofocar.}
-{302}{}{Bem, eu não consigo encontrar o sílex. Tenho certeza que você pegou ele de mim enquanto eu não olhava. Eu já te peguei fazendo isso antes. Agora saia daqui! Eu não tenho tempo para fofocar.}
+{300}{}{Bem, pelo visto eu perdi a pederneira. Ah, pelo menos tenho esses sacos de Healing Powder Agora. Agora saia daqui! Eu não tenho tempo pra fofocar.}
+{302}{}{Bem, eu não consigo encontrar a pederneira. Tenho certeza que você pegou ele de mim enquanto eu não olhava. Eu já te peguei fazendo isso antes. Agora saia daqui! Eu não tenho tempo para fofocar.}
 {303}{}{Bem... eu acho que perdi o sílex. Me desculpe. Porém te desejo uma boa viagem, jovem.}
 
 #added by Darek
