@@ -1,129 +1,127 @@
-{100}{}{Procure a Anciã de sua aldeia.}
-{101}{}{É a Anciã.}
-{102}{}{A Anciã é apenas isso - velha, mais velha do que você se lembra. No entanto, ela tem a
- força e fogo para liderar a aldeia através destes tempos difíceis.}
-{103}{aeld1}{Parabéns, Escolhido, você sobreviveu ao Templo de Provações. Você está pronto para a sua missão?}
-{104}{}{O que você estava fazendo - tentando me matar no templo?}
-{105}{}{É claro}
+{100}{}{Procure a AnciÃ£ de sua aldeia.}
+{101}{}{Ã‰ a AnciÃ£.}
+{102}{}{A AnciÃ£ Ã© apenas isso - velha, mais velha do que vocÃª se lembra. No entanto, ela tem a forÃ§a e fogo para liderar a aldeia atravÃ©s destes tempos difÃ­ceis.}
+{103}{aeld1}{ParabÃ©ns, Escolhido, vocÃª sobreviveu ao Templo de ProvaÃ§Ãµes. VocÃª estÃ¡ pronto para a sua missÃ£o?}
+{104}{}{O que vocÃª estava fazendo - tentando me matar no templo?}
+{105}{}{Ã‰ claro}
 {106}{}{Eu gostaria de pensar sobre isso.}
-{107}{aeld2a}{Estou orgulhosa de você, Escolhido. Você se superou muito. Agora você deve ir encontrar o Vault 13. Traga o GECK para casa. GECK. Aqui uma garrafa brilhante que Vic nos deu. Vic é um comerciante em Klamath. Procure Vic. Encontre o Vault 13. Encontre o GECK. Volte para casa. Faça o seu melhor, garoto.}
-{112}{aeld2b}{Você não encontrou o Vault. Encontre o Vault! Vault 13.}
+{107}{aeld2a}{Estou orgulhosa de vocÃª, Escolhido. VocÃª se superou muito. Agora vocÃª deve ir e encontrar o Vault 13. Traga o GECK para casa. Aqui uma garrafa brilhante que Vic nos deu. Vic Ã© um comerciante em Klamath. Procure Vic. Encontre o Vault 13. Encontre o GECK. Volte para casa. FaÃ§a o seu melhor, jovem.}
+{112}{aeld2b}{VocÃª nÃ£o encontrou o Vault. Encontre o Vault! Vault 13.}
 {113}{}{Uh.}
-{114}{aeld3}{Escolhido, você quer que todos nós morrem? Você deve encontrar o Vault!}
-{115}{}{Sinto muito, Anciã. Eu não vou falhar.}
+{114}{aeld3}{Escolhido, vocÃª quer nos ver todos mortos? VocÃª deve encontrar o Vault!}
+{115}{}{Sinto muito, AnciÃ£. Eu nÃ£o vou falhar.}
 {116}{}{Sim, sim. Pare de tagarelar.}
-{117}{aeld4}{Escolhido, por que você está aqui?}
-{118}{}{Eu sei onde está Vault 13!}
-{119}{}{Estou pronto para a missão sagrada.}
-{120}{}{Eu preciso de mais informações.}
-{121}{}{Eu não vou me matar!}
+{117}{aeld4}{Escolhido, por que vocÃª estÃ¡ aqui?}
+{118}{}{Eu sei onde estÃ¡ Vault 13!}
+{119}{}{Estou pronto para a missÃ£o sagrada.}
+{120}{}{Eu preciso de mais informaÃ§Ãµes.}
+{121}{}{Eu nÃ£o vou me matar!}
 {122}{}{O que eu deveria fazer agora?}
 {123}{}{Estou indo agora.}
-{124}{aeld5}{Isso é uma boa notícia, mas não o suficiente para nos salvar. Você deve voltar em breve com o
-GECK ou o nosso povo morrerá.}
-{125}{}{Eu preciso de mais informações.}
+{124}{aeld5}{Isso Ã© uma boa notÃ­cia, mas nÃ£o o suficiente para nos salvar. VocÃª deve voltar em breve com o GECK ou o nosso povo morrerÃ¡.}
+{125}{}{Eu preciso de mais informaÃ§Ãµes.}
 {126}{}{Tudo bem, eu estou indo agora.}
-{127}{aeld6}{Você sobreviveu. O Escolhido não pode ser fraco ou estaremos todos condenados. Você está preparado para a sua missão?}
+{127}{aeld6}{VocÃª sobreviveu. O Escolhido nÃ£o pode ser fraco ou estaremos todos condenados. VocÃª estÃ¡ preparado para a sua missÃ£o?}
 {128}{}{Eu passei no teste. Claro que estou pronto.}
 {129}{}{Eu vou pensar sobre isso.}
-{130}{}{Eu não vou me matar!}
-{131}{aeld7}{Preste atenção. Encontre o refúgio Vault 13 e traga de volta o GECK. Vic,  o comerciante de Klamath, trouxe este frasco do refúgio 13. Comece sua busca por ele. Este disco vai lembrá-lo de sua missão. Que os Deuses do Vault lhe protejam}
+{130}{}{Eu nÃ£o vou me matar!}
+{131}{aeld7}{Preste atenÃ§Ã£o. Encontre o refÃºgio Vault 13 e traga de volta o GECK. Vic, o comerciante de Klamath trouxe este frasco do refÃºgio 13. Comece sua busca por ele. Este disco vai lembrÃ¡-lo de sua missÃ£o. Que os Deuses do Vault te protejam}
 {133}{}{Antes de eu partir, eu tenho algumas perguntas.}
-{134}{}{Goodbye. Eu não vou deixar a tribo}
-{135}{aeld8}{Muito bem. Procure por mim quando você se decidir - mas não espere muito tempo.}
+{134}{}{Goodbye. Eu nÃ£o vou deixar a tribo}
+{135}{aeld8}{Muito bem. Procure por mim quando vocÃª se decidir - mas nÃ£o espere muito tempo.}
 {136}{}{Adeus.}
-{137}{aeld9}{Eu não posso ajudar muito. Tanta coisa se perdeu ao longo desses anos. O que você quer saber?}
-{138}{aeld9b}{O que você precisa?}
-{139}{}{Me diga mais informações sobre o GECK.}
+{137}{aeld9}{Eu nÃ£o posso ajudar muito. Tanta coisa se perdeu ao longo desses anos. O que vocÃª quer saber?}
+{138}{aeld9b}{O que vocÃª precisa?}
+{139}{}{Me diga mais informaÃ§Ãµes sobre o GECK.}
 {140}{}{Como chego em Klamath?}
-{141}{}{Onde é o Vault 13?}
-{142}{}{Pensando bem, eu não preciso de ajuda agora. Adeus.}
-{143}{aeld10}{O Kit Garden of Eden Creation - é um artefato sagrado. O Disco promete que vai fertilizar nossas terras e nossa aldeia vai prosperar novamente. Ele vai nos salvar. Eu não sei mais do que isso.}
+{141}{}{Onde Ã© o Vault 13?}
+{142}{}{Pensando bem, eu nÃ£o preciso de ajuda agora. Adeus.}
+{143}{aeld10}{O Kit Garden of Eden Creation - Ã© um artefato sagrado. O Disco promete que vai fertilizar nossas terras e nossa aldeia vai prosperar novamente. Ele vai nos salvar. Eu nÃ£o sei mais do que isso.}
 {144}{}{Tem mais coisas que eu quero saber.}
 {145}{}{Adeus.}
 {146}{aeld11}{Klamath fica ao leste.}
-{147}{}{Há outras coisas que você poderia contar.}
+{147}{}{HÃ¡ outras coisas que vocÃª poderia contar.}
 {148}{}{Estou pronto. Adeus.}
-{149}{aeld12}{Vault 13? Eu não posso te ajudar. Somente o Vault Dweller. Suas histórias tem um som de uma jornada perigosa.}
-{150}{}{Eu vejo. Há muito que eu preciso saber.}
-{151}{}{Adeus, Anciã}
-{152}{aeld13}{Sendo um covarde vai matar todos nós! Inclusive você. Você passou no Trials do Templo. Temos fé em você. Nós precisamos de você.}
-{153}{}{Não tão rápido, velha Anciã. Preciso de tempo para pensar sobre isso!}
-{154}{}{Como quiser, Anciã.}
-{155}{aeld14a}{Você nos traiu. Você vai morrer.}
-{156}{aeld14b}{Você é um traidor!}
-{157}{aeld14c}{Por que está fazendo isso?}
+{149}{aeld12}{Vault 13? Eu nÃ£o posso te ajudar. Somente o Vault Dweller. Suas histÃ³rias tem um som de uma jornada perigosa.}
+{150}{}{Eu vejo. HÃ¡ muito que eu preciso saber.}
+{151}{}{Adeus, AnciÃ£}
+{152}{aeld13}{Sendo um covarde vai matar todos nÃ³s! Inclusive vocÃª. VocÃª passou no Templo de ProvaÃ§Ãµes. Temos fÃ© em vocÃª. NÃ³s precisamos de vocÃª.}
+{153}{}{NÃ£o tÃ£o rÃ¡pido, velha AnciÃ£. Preciso de tempo para pensar sobre isso!}
+{154}{}{Como quiser, AnciÃ£.}
+{155}{aeld14a}{VocÃª nos traiu. VocÃª vai morrer.}
+{156}{aeld14b}{VocÃª Ã© um traidor!}
+{157}{aeld14c}{Por que estÃ¡ fazendo isso?}
 {158}{aeld14d}{Eu sabia que sua alma estava nas trevas!}
-{159}{aeld15}{Então, tome este frasco. É uma parte do refúgio Vault 13. Vic, um comerciante de Klamath, trouxe pra nós. Ele pode saber onde está o refúgio. Você também pode precisar de um pouco do que eles chamam de dinheiro. Pegue!}
-{160}{}{Eh? Você pode me dizer mais uma vez sobre a minha missão?}
-{161}{}{Há algo mais para contar?}
-{162}{}{Deseje-me sorte, Anciã, e eu não falharei com você.}
-{163}{aeld16}{Encontre Vic em Klamath. Estamos contando com você.}
-{164}{aeld17}{É bom vê-lo novamente, Garoto. Não deve ser abrupta, mas eu vejo que você não completou a sua missão do Vault 13. Por favor, não perca tempo falando. A necessidade de nosso povo é grande. Vá encontrar o Vault!}
+{159}{aeld15}{EntÃ£o, tome este frasco. Ã‰ uma parte do refÃºgio Vault 13. Vic, um comerciante de Klamath, trouxe pra nÃ³s. Ele pode saber onde estÃ¡ o refÃºgio. VocÃª tambÃ©m pode precisar de um pouco do que eles chamam de dinheiro. Pegue!}
+{160}{}{Eh? VocÃª pode me dizer mais uma vez sobre a minha missÃ£o?}
+{161}{}{HÃ¡ algo mais para contar?}
+{162}{}{Deseje-me sorte, AnciÃ£, e eu nÃ£o falharei com vocÃª.}
+{163}{aeld16}{Encontre Vic em Klamath. Estamos contando com vocÃª.}
+{164}{aeld17}{Ã‰ bom vÃª-lo novamente, Garoto. NÃ£o deve ser abrupta, mas eu vejo que vocÃª nÃ£o completou a sua missÃ£o do Vault 13. Por favor, nÃ£o perca tempo falando. A necessidade de nosso povo Ã© grande. VÃ¡ encontrar o Vault!}
 {165}{}{Tenho que ir agora.}
 {166}{}{Ok, eu vou embora.}
-{167}{}{Não vou falhar Anciã}
+{167}{}{NÃ£o vou falhar AnciÃ£}
 {168}{}{Eu estou trabalhando nisso, ok?}
-{169}{aeld18}{Mais uma vez você volta sem o GECK. Nossas colheitas estão estragando, Escolhido. Nossa necessidade se torna maior ao longo do tempo. Vá encontrar o Vault 13}
+{169}{aeld18}{Mais uma vez vocÃª volta sem o GECK. Nossas colheitas estÃ£o estragando, Escolhido. Nossa necessidade se torna maior ao longo do tempo. VÃ¡ encontrar o Vault 13}
 {170}{}{Ok, estou indo agora.}
-{171}{}{Sim, Anciã}
-{172}{}{Não deixarei você ou nosso povo, Anciã}
-{173}{}{Olhe. Se você acha que pode fazer melhor...}
-{174}{aeld19}{Escolhido, as coisas não estão bem aqui, Precisamos do GECK para nossa aldeia sobreviver. Nosso povo enfraquecidos pela fome e as nossas reservas de alimentos não vão durar muito tempo. Por favor, encontre o réfúgio 13 e volta aqui. Agora vá.}
+{171}{}{Sim, AnciÃ£}
+{172}{}{NÃ£o deixarei vocÃª ou nosso povo, AnciÃ£}
+{173}{}{Olhe. Se vocÃª acha que pode fazer melhor...}
+{174}{aeld19}{Escolhido, as coisas nÃ£o estÃ£o bem aqui, Precisamos do GECK para nossa aldeia sobreviver. Nosso povo enfraquecidos pela fome e as nossas reservas de alimentos nÃ£o vÃ£o durar muito tempo. Por favor, encontre o Vault 13 e volta aqui. Agora vÃ¡.}
 {175}{}{Estou indo.}
 {176}{}{Muito bem. Eu vou embora.}
 {177}{}{Eu farei o meu melhor para encontrar o GECK e salvar nossa aldeia.}
-{178}{}{Não me pressione, velha. Eu estou fazendo o melhor que posso.}
-{179}{aeld20}{Garoto. a nossa necessidade é maior do que nunca. Nosso povo adoece, o gado está morrendo e a nossa comida está terminando. A ruína desta terra só pode ser curada com o GECK. Vá encontrar o GECK e salvar nosso povo.}
+{178}{}{NÃ£o me pressione, velha. Eu estou fazendo o melhor que posso.}
+{179}{aeld20}{Jovem. A nossa necessidade Ã© maior do que nunca. Nosso povo adoece, o gado estÃ¡ morrendo e a nossa comida estÃ¡ acabando. A ruÃ­na desta terra sÃ³ pode ser curada com o GECK. VÃ¡ encontrar o GECK e salvar nosso povo.}
 {180}{}{Eu entendo.}
 {181}{}{Eu vou embora.}
-{182}{}{Perdoe-me Anciã. Eu vou encontrar o GECK sem demorar.}
-{183}{}{Sim, sim. Você está começando a parecer como um disco quebrado...}
+{182}{}{Perdoe-me AnciÃ£. Eu vou encontrar o GECK sem demorar.}
+{183}{}{Sim, sim. VocÃª estÃ¡ comeÃ§ando a parecer como um disco quebrado...}
 
 
-{200}{eeld1}{Escolhido! Como você chegou aqui?}
+{200}{eeld1}{Escolhido! Como vocÃª chegou aqui?}
 {201}{}{Uhh? duh?}
 {202}{}{Eu vim para te salvar.}
-{203}{}{Que diabos está acontecendo aqui?}
-{204}{eeld2}{Seu monstro! Você veio para me matar, também?}
+{203}{}{Que diabos estÃ¡ acontecendo aqui?}
+{204}{eeld2}{Seu monstro! VocÃª veio para me matar, tambÃ©m?}
 {205}{}{Uhhh?}
-{206}{}{Não, sou eu, o Escolhido!}
+{206}{}{NÃ£o, sou eu, o Escolhido!}
 {207}{}{OOh, cale-se, sua puta velha! Eu sou o Escolhido}
-{208}{eeld3}{Oh, Deus... Ouça - veja abaixo. Encontre que faz luz. Matar máquina. Matem todos@ VocÊ mata, voltamos para casa. Se você não tem o GECK, procure o GECK aqui. Deve ter o GECK para salvar a aldeia! Liberdade não é nada se não temos uma casa para onde voltar. Você entendeu? Oh, Deus.}
+{208}{eeld3}{Oh, Deus... OuÃ§a - veja abaixo. Encontre que faz luz. Matar mÃ¡quina. Matem todos. VocÃª mata, voltamos para casa. Se vocÃª nÃ£o tem o GECK, procure o GECK aqui. Deve ter o GECK para salvar a aldeia! Liberdade nÃ£o Ã© nada se nÃ£o temos uma casa para onde voltar. VocÃª entendeu? Oh, Deus.}
 {209}{}{Uh -huh!}
-{210}{eeld4}{Cuidado, não toque na parede que brilha. Acho que o que alimenta a máquina está atrás de nós. Destrua para que possamos escapar. Como você chegou aqui?}
+{210}{eeld4}{Cuidado, nÃ£o toque na parede que brilha. Acho que o que alimenta a mÃ¡quina estÃ¡ atrÃ¡s de nÃ³s. Destrua para que possamos escapar. Como vocÃª chegou aqui?}
 {211}{}{Eu tenho um barco. }
-{212}{eeld5}{Homens com máquinas voadoras veio a nossa aldeia e nos levou. Havia outros, também - a partir do Vault 13! Pensei que estávamos salvos. Pensei que estámos indo para o céu. (suspiro)}
+{212}{eeld5}{Homens com mÃ¡quinas voadoras veio a nossa aldeia e nos levou. Havia outros, tambÃ©m - a partir do Vault 13! Pensei que estÃ¡vamos salvos. Pensei que estÃ¡mos indo para o cÃ©u. (suspiro)}
 {213}{}{E depois?}
-{214}{eeld5a}{Em seguida, fomos trazidos aqui, para o inferno. Eles mataram a maioria de nós com algo que eles chamam de effeevee. Eles não vão parar até matar todos nós! Você sabe o que fazer, Escolhido?}
+{214}{eeld5a}{Em seguida, fomos trazidos aqui, para o inferno. Eles mataram a maioria de nÃ³s com algo que eles chamam de effeevee. Eles nÃ£o vÃ£o parar atÃ© matar todos nÃ³s! VocÃª sabe o que fazer, Escolhido?}
 {215}{}{Effeevee?}
 {216}{}{Sim.}
-{217}{}{Não.}
-{218}{eeld6}{Se você destruir a máquina, podemos encontrar o navio. Depressa, não restaram muito de nós. }
+{217}{}{NÃ£o.}
+{218}{eeld6}{Se vocÃª destruir a mÃ¡quina, podemos encontrar o navio. Depressa, nÃ£o restaram muitos de nÃ³s. }
 {219}{}{O que aconteceu?}
 {220}{}{Eu entendo.}
-{221}{eeld7}{Você tem que destruir a máquina e matar os demômios deste lugar. Vamos encontrá-lo lá fora! Escolhido, se você ainda não encontrou o GECK, procure-o aqui. A nossa liberdade não é nada se não podemos salvar a nossa aldeia. Agora vá.}
+{221}{eeld7}{VocÃª tem que destruir a mÃ¡quina e matar os demÃ´mios deste lugar. Vamos encontrÃ¡-lo lÃ¡ fora! Escolhido, se vocÃª ainda nÃ£o encontrou o GECK, procure-o aqui. A nossa liberdade nÃ£o Ã© nada se nÃ£o podemos salvar a nossa aldeia. Agora vÃ¡.}
 {222}{}{Adeus.}
-{223}{eeld8}{Eu ainda sou a Anciã. Lembre-se de seu lugar! Peça desculpas ou não ajudarei em nada.}
-{224}{}{Desculpe, você não é uma puta Anciã. Agora, o que está acontecendo aqui?}
-{225}{}{Como você poderia me ajudar aqui? Foda-se e morra.}
-{226}{eeld9}{Vá embora. Você não é melhor do que esses demônios. Eu lamento o dia em que nomeei você Escolhido.}
-{227}{eeld10}{Por que diabos ainda está aqui? Cada minuto que você perde um do nosso povo morre. E não se esqueça do GECK. Temos que obtê-lo.}
+{223}{eeld8}{Eu ainda sou a AnciÃ£. Lembre-se de seu lugar! PeÃ§a desculpas ou nÃ£o ajudarei em nada.}
+{224}{}{Desculpe, vocÃª nÃ£o Ã© uma puta AnciÃ£. Agora, o que estÃ¡ acontecendo aqui?}
+{225}{}{Como vocÃª poderia me ajudar aqui? Foda-se e morra.}
+{226}{eeld9}{VÃ¡ embora. VocÃª nÃ£o Ã© melhor do que esses demÃ´nios. Eu lamento o dia em que nomeei vocÃª Escolhido.}
+{227}{eeld10}{Por que diabos ainda estÃ¡ aqui? Cada minuto que vocÃª perde um do nosso povo morre. E nÃ£o se esqueÃ§a do GECK. Temos que obtÃª-lo.}
 {228}{}{Nuh??}
 {229}{}{Onde eu deveria ir?}
-{230}{}{Só queria te irritar. Eu estou nessa. Não se preocupe.}
-{231}{eeld11}{(sigh) Vai logo. Mate. Esmague as máquinas. Agora vá!}
-{232}{eeld12}{Ouça uma vez! Vá para os níveis abaixo de nós. Encontre a máquina que dá energia. Pare ela e poderemos escapar. Os homens aqui não são fiéis para o Vault. Eles são maus. Além disso, se você ainda não encontrou o GECK, procure-o aqui. A nossa liberdade não é nada se a nossa aldeia possa ser salva. Agora vá!}
+{230}{}{SÃ³ queria te irritar. Eu estou nessa. NÃ£o se preocupe.}
+{231}{eeld11}{(sigh) Vai logo. Mate. Esmague as mÃ¡quinas. Agora vÃ¡!}
+{232}{eeld12}{OuÃ§a uma vez! VÃ¡ para os nÃ­veis abaixo de nÃ³s. Encontre a mÃ¡quina que dÃ¡ energia. Pare ela e poderemos escapar. Os homens aqui nÃ£o sÃ£o fiÃ©is para o Vault. Eles sÃ£o maus. AlÃ©m disso, se vocÃª ainda nÃ£o encontrou o GECK, procure-o aqui. A nossa liberdade nÃ£o Ã© nada se a nossa aldeia possa ser salva. Agora vÃ¡!}
 {233}{}{Entendi.}
-{234}{eeld13}{Isso é o que eles chamam. Vão enfiar agulhas em nossas peles, como stimpacks, e depois as coisas ainda vão piorar. Então... (engasgando)}
-{235}{}{Então o quê?}
-{236}{}{Isso vai me fazer mal, não é?}
-{237}{eeld13a}{Em seguida, sua pele borbulha como se tivessem vermes nela. Ferve cresce e depois explodi. O seu ouvido sangra, sua língua incha. Aqueles que são que tiveram a sorte de morrer. Aqueles que não são?}
-{238}{}{Eles vão pagar por isso.}
-{239}{}{Isso com certeza é desagradável. O que eu devo fazer?}
+{234}{eeld13}{Isso Ã© o que eles chamam. VÃ£o enfiar agulhas em nossas peles, como stimpacks, e depois as coisas ainda vÃ£o piorar. EntÃ£o... (engasgando)}
+{235}{}{EntÃ£o o quÃª?}
+{236}{}{Isso vai me fazer mal, nÃ£o Ã©?}
+{237}{eeld13a}{Em seguida, sua pele borbulha como se tivessem vermes nela. Ferve cresce e depois explodi. O seu ouvido sangra, sua lÃ­ngua incha. Aqueles que sÃ£o que tiveram a sorte de morrer. Aqueles que nÃ£o sÃ£o?}
+{238}{}{Eles vÃ£o pagar por isso.}
+{239}{}{Isso com certeza Ã© desagradÃ¡vel. O que eu devo fazer?}
 
 
 #verificar depois, tem na tradu espanhol mais nao no ingles
-#{240}{}{Tengo un verti-, eh, una máquina voladora.}
-#{241}{}{Si destruyes la máquina, encontraremos tu máquina voladora. Date prisa, no quedamos muchos de nosotros.}
+#{240}{}{Tengo un verti-, eh, una mÃ¡quina voladora.}
+#{241}{}{Si destruyes la mÃ¡quina, encontraremos tu mÃ¡quina voladora. Date prisa, no quedamos muchos de nosotros.}
 #######
