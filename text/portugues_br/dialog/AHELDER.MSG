@@ -122,6 +122,6 @@
 
 
 #verificar depois, tem na tradu espanhol mais nao no ingles
-#{240}{}{Tengo un verti-, eh, una máquina voladora.}
-#{241}{}{Si destruyes la máquina, encontraremos tu máquina voladora. Date prisa, no quedamos muchos de nosotros.}
+#240-Tengo un verti-, eh, una máquina voladora.
+#241-Si destruyes la máquina, encontraremos tu máquina voladora. Date prisa, no quedamos muchos de nosotros.
 #######
