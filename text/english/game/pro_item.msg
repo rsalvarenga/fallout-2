@@ -478,10 +478,10 @@
 {24401}{}{Um Pote de argila bem trabalhado.}
 {24500}{}{Baú}
 {24501}{}{Um Baú de madeira.}
-{24600}{}{Shelf}
-{24601}{}{A wood shelf with miscellaneous items.}
-{24700}{}{Shelf}
-{24701}{}{A wood shelf with miscellaneous items.}
+{24600}{}{Prateleira}
+{24601}{}{Uma prateleira de madeira com diversos itens.}
+{24700}{}{Prateleira}
+{24701}{}{Uma prateleira de madeira com diversos itens.}
 {24800}{}{Pote}
 {24801}{}{Um Pote de argila bem trabalhado.}
 {24900}{}{Pote}
