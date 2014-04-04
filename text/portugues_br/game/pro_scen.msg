@@ -704,8 +704,8 @@
 {36601}{}{Parece um repolho mutante. Parece que vive em água morna.}
 {36700}{}{Planta}
 {36701}{}{Parece um repolho mutante. Parece que vive em água morna.}
-{36800}{}{Cenoura}
-{36801}{}{Uma bruta, mas eficaz, Cenoura agrícola.}
+{36800}{}{Carrinho}
+{36801}{}{Uma bruta, mas eficaz, Carrinho agrícola.}
 {36900}{}{Planta}
 {36901}{}{Um pé de milho mutante. Parece ser próspero sob estas condições.}
 {37000}{}{Planta}
