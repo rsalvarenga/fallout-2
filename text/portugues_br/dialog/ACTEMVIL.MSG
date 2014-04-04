@@ -59,7 +59,7 @@
 {158}{}{Adeus, Cameron.}
 {159}{}{Bom dia para você, Cameron.}
 {160}{}{Escolhido, uma ova. Eu vou fazer de você um homem morto!}
-{161}{}{Você me derrotou. Você é digno, Escolhido}
+{161}{}{Você me derrotou. Você é digno, Escolhido.}
 {165}{}{Eu discordo de você. Eu acho que sempre vai ter uma solução pacífica para qualquer problema.}
 {166}{}{Você pode está certo, }
 {167}{}{, mas não em nossa situação atual. Você tem que me derrotar para concluir o teste.}

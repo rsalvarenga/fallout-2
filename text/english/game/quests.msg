@@ -10,7 +10,7 @@
 #
 {100}{}{Matar as plantas do mal que infestam o jardim de Hakunin.}
 {110}{}{Obter pederneira para Mynoc afiar sua lança.}
-{120}{}{Resgate Smoke, o cão do Nagor que esta na florestas.}
+{120}{}{Resgate Smoke, o cão de Nagor que esta na floresta.}
 {130}{}{Recuperar o GECK para Arroyo.}
 {140}{}{Encontre o Comerciante Vic.}
 

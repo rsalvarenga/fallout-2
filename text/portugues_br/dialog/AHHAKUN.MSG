@@ -6,7 +6,7 @@
 {104}{hak001}{Saudações, Escolhido. Porque a terra diante de mim esquenta ao toque de sua passagem?} # Greetings, Chosen. Why does the earth before me warm to the touch of your passing?
 {105}{}{Ahn?} # Uh?
 {106}{}{Eu vim me despedir. Estou indo para minha jornada sagrada.} # I've come to say goodbye. I'm leaving on my holy quest. 
-{107}{}{Estou indo embora. Eu estava só esperando que, pela primeira vez, você fosse falar como uma pessoa normal.} # I'm heading out. I was hoping just this once you'd talk like a real person.
+{107}{}{Estou indo embora. Eu estava só esperando que pela primeira vez, você fosse falar como uma pessoa normal.} # I'm heading out. I was hoping just this once you'd talk like a real person.
 {108}{}{Você anda se drogando muito. Tô vazando daqui.} # You are doing just way too many drugs. I'm outta here. 
 {109}{}{Estou ferido. Você pode me curar?} # I'm hurt. Can you heal me?
 {110}{}{Tinham umas plantas medonhas infestando seu jardim - Eu acabei com elas pra você.}  # There were some pretty nasty plants infesting your garden- I've taken care of them for you.
@@ -42,7 +42,7 @@
 {140}{hak006a}{Se usarmos as mesmas palavras, iremos dizer a mesma coisa? Palavras sempre carregam os mesmo toque de uma alma?} # If we speak the same words, do we mean the same thing? Do words always carry the same touch of a soul?
 {141}{}{Ah, sim. Muito melhor agora. A lição que aprendi é calar a boca e perguntar aonde fica o jardim.} # Oh, yeah. Much better. And the lesson I learned is to shut up and just ask where the garden is.
 {142}{}{Vamos tentar a palavra "Adeus". Significa que estou indo embora.} # Let's try the word, "goodbye." It means I'm leaving. 
-{143}{hak007}{Obvicamente você lembra que fica na direção nordeste, mente tola.} # Surely you remember it is to the northeast, foolish one.
+{143}{hak007}{Obviamente você lembra que fica na direção nordeste, mente tola.} # Surely you remember it is to the northeast, foolish one.
 {144}{}{Obrigado pela ajuda.} # Thank you for your help.
 {145}{}{Obrigado. Isso eu consegui entender.} # Thanks. I actually understood that.
 {146}{}{Você tá me chamando de imbecil? Eu acho que não tô afim de te ajudar, no fim das contas.} # Are you calling me a fool? I don't think I want to help you, after all. 

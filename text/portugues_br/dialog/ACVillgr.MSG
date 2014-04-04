@@ -40,7 +40,7 @@
 {160}{}{Muito obrigado. Adeus.}
 {161}{}{Oh, eu não costumo lidar com os comerciantes. Fale com Mynoc, o guardião da grande ponte. Ele lida com todos.}
 {162}{}{Muito obrigado. Adeus.}
-{163}{}{Você pode me dizer onde se encontra a grande ponte?
+{163}{}{Você pode me dizer onde se encontra a grande ponte?}
 {164}{}{Só mais uma pergunta, se me permite.}
 {165}{}{Boa piada, Escolhido! Você sabe onde ele está. Lá - para o sul.}
 {166}{}{Muito obrigado. Adeus.}
@@ -49,8 +49,7 @@
 {169}{}{Você poderia me dizer onde eu posso encontrar algumas healing herbs?}
 {170}{}{O que você pode me dizer sobre os comerciantes que negociam com a gente?}
 {171}{}{Nada, não importa.}
-{172}{}{Oh Deus - Que os espíritos do Fundador te guiem. Se você for o Escolhido, nós vamos
- precisar de você.}
+{172}{}{Oh Deus - Que os espíritos do Fundador te guiem. Se você for o Escolhido, nós vamos precisar de você.}
 {173}{}{Uun Ga.}
 {174}{}{Tenha uma boa viagem.}
 {175}{}{????}
@@ -100,11 +99,8 @@
 {1104}{}{É um posto de troca que fica a alguns dias a leste daqui.}
 {1105}{}{O Refúgio é o céu.}
 {1106}{}{Você é o Escolhido.}
-{1107}{}{Ele nos cura com suas ervas e magia. Ele está localizado
- no norte da nossa aldeia.}
-{1108}{}{Ele nos cura com suas ervas e magia. Ele está localizado
- no norte da nossa aldeia.}
-{1109}{}{É um pó mágico que vai curá-lo, mas vai te deixar 
- sonolento.}
+{1107}{}{Ele nos cura com suas ervas e magia. Ele está localizado no norte da nossa aldeia.}
+{1108}{}{Ele nos cura com suas ervas e magia. Ele está localizado no norte da nossa aldeia.}
+{1109}{}{É um pó mágico que vai curá-lo, mas vai te deixar sonolento.}
 {1110}{}{A Grande Ponte fica ao sul de nossa aldeia.}
 {1111}{}{Ele que é o guarda da ponte que dá acesso à nossa aldeia.}
