@@ -1,12 +1,12 @@
-{100}{}{VocÃª vÃª o guardiÃ£o do cemitÃ©rio do mosteiro.}
-{101}{}{VocÃª estÃ¡ vendo o irmÃ£o Samuel, o guardiÃ£o do cemitÃ©rio.}
-{102}{}{Ele parece bÃªbado e um pouco sonolento.}
+{100}{}{Você vê o guardião do cemitério do mosteiro.}
+{101}{}{Você está vendo o irmão Samuel, o guardião do cemitério.}
+{102}{}{Ele parece bêbado e um pouco sonolento.}
 
-{200}{}{*hickup* OlÃ¡, meu nome Ã© Samuel. O que, uh, *hickup* traz aqui?}
-{201}{}{*hickup* OlÃ¡ novamente.}
+{200}{}{*hickup* Olá, meu nome é Samuel. O que, uh, *hickup* traz aqui?}
+{201}{}{*hickup* Olá novamente.}
 {202}{}{I'm just looking around. Do you tend to this graveyard?}
-{203}{}{VocÃª conhece um padre Tully?}
-{204}{}{Padre Tully, vocÃª diz? [Ele parece estar quebrando seu cÃ©rebro tentando lembrar.] Yeah...I *hickup* 'member Tully.
+{203}{}{Você conhece um padre Tully?}
+{204}{}{Padre Tully, você diz? [Ele parece estar quebrando seu cérebro tentando lembrar.] Yeah...I *hickup* 'member Tully.
  How's that fella doin anyway? I 'aven't seen him since he was kicked out of 'ere long time *hiccup* long time ago.
  [He grins drunkenly as he reflects.] Boy he was a hoot. Him and me together, *hickup* what a combo.}
 {205}{}{He lives in New Reno now, preachin' the good word, er, something like that. You know, you two seem a lot alike.}
@@ -27,7 +27,7 @@
 
 #are you the keeper here?
 {400}{}{Yes, *hickup* I tend to these 'ere graves. Nobody else wants to *hickup* do it, so Ol' Sammy got th' job. It's
- not as bad as one might think. It's got itsÂ… perks, if you know what I mean. [He grins sloppily and wiggles his bushy
+ not as bad as one might think. It's got its? perks, if you know what I mean. [He grins sloppily and wiggles his bushy
  eyebrows at you.]}
  
 #new in RP 1.3
