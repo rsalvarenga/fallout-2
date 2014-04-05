@@ -127,33 +127,51 @@
 #############################################################
 #  TELL ME ABOUTS WILL BE REMOVED                           #
 #############################################################
-
-## Essa parte foi removida no FO2, e como não é exibido no jogo, não vejo necessidade de traduzir.
-{1000}{}{Elder}
-{1001}{}{Founder}
+#Elder
+{1000}{}{Anciã} 
+#Founder
+{1001}{}{Fundador}
 {1002}{}{Vault Dweller}
 {1003}{}{Arroyo}
 {1004}{}{Klamath}
 {1005}{}{Vault}
-{1006}{}{Chosen One}
-{1007}{}{Shaman}
+#Chosen One
+{1006}{}{O escolhido}
+#Shaman
+{1007}{}{Xamã}
 {1008}{}{Hakunin}
 {1009}{}{Healing Powder}
-{1010}{}{Bridge}
+# Bridge
+{1010}{}{Ponte}
 {1011}{}{Mynoc}
 
-{1100}{}{The Elder is your mother and our leader.}
-{1101}{}{Our great ancestor who gave us knowledge.}
-{1102}{}{The first to fight and win over chaos.}
-{1103}{}{That would be our beautiful village.}
-{1104}{}{That's trading outpost a few days east of here.}
-{1105}{}{The Vault is heaven.}
-{1106}{}{You are the Chosen One.}
-{1107}{}{He heals us with his herbs and magic. He is in the north part
- of our village.}
-{1108}{}{He heals us with his herbs and magic. He is in the north part
- of our village.}
-{1109}{}{It is a magic powder which will heal you, but will make you
- sleepy.}
-{1110}{}{The Great Bridge exits our village in the south.}
-{1111}{}{He guards the bridge leading into our village.}
+# The Elder is your mother and our leader
+{1100}{}{A anciã é a sua mãe e nossa lider.}
+# Our great ancestor who gave us knowledge.
+{1101}{}{Nosso grande ancestral que nos deu conhecimento.}
+# The first to fight and win over chaos.
+{1102}{}{O primeiro a lutar e vencer o caos.}
+# That would be our beautiful village.
+{1103}{}{Essa seria a nossa bela vila.}
+# That's trading outpost a few days east of here.
+{1104}{}{É um posto avançado de comércio a alguns dias ao leste daqui.}
+# The Vault is heaven.
+{1105}{}{O Vault é o céu.}
+# You are the Chosen One.
+{1106}{}{Você é O Escolhido.}
+# He heals us with his herbs and magic. He is in the north part
+# of our village.
+{1107}{}{Ele nos cura com suas ervas e magias. Ele está ao norte
+ de nossa vila.}
+# He heals us with his herbs and magic. He is in the north part
+# of our village.
+{1108}{}{Ele nos cura com suas ervas e magias. Ele está ao norte
+ de nossa vila.}
+# It is a magic powder which will heal you, but will make you
+# sleepy.
+{1109}{}{É um pó mágico que irá curá-lo, mas te deixará 
+ sonolento.}
+# The Great Bridge exits our village in the south.
+{1110}{}{A grande ponte é a saída de nossa vila pelo o sul.}
+# He guards the bridge leading into our village.
+{1111}{}{Ele protege a ponte que leva até nossa vila.}
