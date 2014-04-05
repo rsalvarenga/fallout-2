@@ -27,7 +27,7 @@
 
 # You're our kind of people. You came to the right tavern to spend your money. What can I do for
 #you, pal?
-{130}{}{Você é um dos nossos. Veio para à taverna certa pra gastar seu dinheiro. O que eu posso fazer por
+{130}{}{Você é um dos nossos. Veio para a taverna certa pra gastar seu dinheiro. O que eu posso fazer por
  você, amigo?}
 # You don't seem to be too popular in this part of town. Well, maybe the jury's still out on you.
 #How can I help you?
@@ -80,9 +80,9 @@
 {171}{}{É apenas cerveja. Gecko Dourado, Urina de Gecko? Você é devagar ou o que? (balança a cabeça) Tribais,
  sheesh.}
 # Oh. Heh, heh; well, back at Arroyo we actually...Uh, never mind.
-{172}{}{Oh. Heh, heh; bem, na verdade em Arroyo nós... Uh, não importa.}
+{172}{}{Oh. Heh, heh; bem, na verdade em Arroyo nós... Hum, não importa.}
 # Oh, I get it. Well, aren't you folks clever.
-{173}{}{Oh, Entendi. Bem, não são pessoas espertas.}
+{173}{}{Ah, Entendi. Bem, não são pessoas espertas.}
 # I'm not drinking piss! I don't care where it's being served or what you call it!
 {174}{}{Não estou bebendo mijo! Não importa onde esteja sendo servido ou como vocês o chamam!}
 
@@ -135,7 +135,7 @@
 # I might know that. What's it worth to you?
 {214}{}{Talvez eu saiba. Qual o valor disso pra você?}
 # Can't stand a little competition, huh?
-{215}{}{Não suporta um pouco de concorrência, huh?}
+{215}{}{Não suporta um pouco de concorrência, Hãn?}
 
 # Forget I mentioned it then. Not a big thing. (smiles)
 {220}{}{Esqueça o que eu disse então. Não é grande coisa. (sorri)}
@@ -166,9 +166,9 @@
 # Thanks for the information, friend. I'll make sure it's put to good use. (smiles) Here's your
 # $50 and a piss on the house, too. Anything else I can help you with?
 {240}{}{Obrigado pela informação, amigo(a). Terei certeza de que será bem utilizada. (sorri) Aqui está seus
- $50 e uma urina por conta da casa, também. Algo mais em que possa ajudar??}
+ $50 e uma urina por conta da casa também. Algo mais em que possa ajudar??}
 # I think I'd like to have a nice piss to celebrate.
-{241}{}{Acho que gostaria de ter uma boa urina para comemorar.}
+{241}{}{Acho que gostaria de uma boa urina para comemorar.}
 # How about a piss for all of my friends here?
 {242}{}{Que tal urina para todos os meus amigos aqui?}
 # I have some questions that I'd like to ask you.
@@ -186,7 +186,7 @@
 # I've got all kinds of things right here, kid: healing supplies, booze, all kinds of stuff. I've
 # got special sources, ya' might say. Always willing to look at a good gecko pelt, too.
 {260}{}{Eu tenho tudo que precisar aqui, criança: suplimentos de cura, cerveja, qualquer tipo de coisa. Tenho
- fontes especiais, pode-se dizer. Sempre disposto a procurar um bom couro de gecko, também.}
+ fontes especiais, pode-se dizer. Sempre disposto a procurar um bom couro de gecko também.}
 # Let me see what you've got
 {261}{}{Deixe-me ver o que você tem.}
 # I guess I don't need anything right now. But I do have some questions.
@@ -197,7 +197,7 @@
 #Always plenty of rooms here for our friends. Only going to cost you $20 for eight hours of safe
 # and comfortable shut-eye. A whole room to yourself. Have a party.
 {270}{}{Sempre tem muitos quartos aqui para nossos amigos. Só vai custar $20 por oito horas de sono
- confortável e seguro. Um quarto para inteiro si mesmo. Ter uma festa.}
+ confortável e seguro. Um quarto inteiro para si mesmo. Faça a festa.}
 # We don't have any rooms here, pal. Sorry, full up.
 {271}{}{Não temos nenhum quarto aqui, camarada. Desculpe, estamos cheios.}
 # $20 sounds like a fair price to me. I'll take it.
@@ -211,10 +211,10 @@
  nenhuma competição. (sorriso maligno)}
 # Thanks for the information, friend. The town council, um, voted, to shut down Whiskey Bob's
 #still. He won't be poisoning anyone else for a while. (sincere looking smile
-{281}{}{Obrigado pela informação, amigo(a). The town council, hum, votou, para desligar o
+{281}{}{Obrigado pela informação, amigo(a). O town council, hum, votou, para desligar o
  alambique do Whiskey Bob. Ele não vai envenenar mais ninguém por um tempo. (sorriso que aparenta ser sincero)}
 # I'm glad that I was able to help; of course, the $50 didn't hurt, either.
-{282}{}{Estou feliz por ter sido capaz de ajudá-lo; de fato, os $50 não machucaram, também.}
+{282}{}{Estou feliz por ter sido capaz de ajudá-lo; de fato, os $50 não machucaram também.}
 # Well, I'm sure I'll sleep easier knowing that Klamath is safe from Bob's hooch.
 {283}{}{Bem, Tenho certeza de que dormirei mais fácil sabendo que Klamath está salvo da bebida do Bob.}
 # No skin off my back, pal.
@@ -234,7 +234,7 @@
 {293}{}{Diga-me sobre o espírito ambulante, por favor.}
 # I'm not surprised that a hunter's gone missing with all this excitement, but tell me about him,
 #too.
-{294}{}{Não me surpreende que um caçador desapareceu com toda essa agitação, mas diga-me sobre ele,
+{294}{}{Não me surpreende que um caçador desapareceu com toda essa agitação, mas diga-me sobre ele
  também.}
 # I'd like to ask about other things.
 {295}{}{Gostaria de perguntar sobre outras coisas.}
@@ -275,7 +275,7 @@
  # I'd like to make you one of my special friends, sweetheart. (grins) It's not easy to get this
  # stuff from the Den. Tell you what -- I'll give you a special price on what I've got.
 {331}{}{Gostaria de te fazer uma das minhas amigas especiais, sweetheart. (sorri) Não é fácil conseguir estas
- coisas do Den. Sabe -- Lhe darei um preço especial pelas coisas que tenho.} # Não tenho certeza, mas acho que este dialogo só é exibido quando o personagem é mulher.
+ coisas do Den. Sabe -- Lhe darei um preço especial pelas coisas que tenho.} # Não tenho certeza, mas acho que este diálogo só é exibido quando o personagem é mulher.
 
 # I don't know what you're talking about, pal. Do you want to trade or not?
 {340}{}{Não sei do que você está falando, camarada. Você quer negociar ou não?}
@@ -289,9 +289,9 @@
 # Well, they say critters that look like man-sized bugs walking around on two legs are
 # tearing open brahmin in the middle of the night. Only Torr's caught a good look at them though. Scary,
 # huh?
-{350}{}{Bem, Dizem que criaturas que se parecem insetos com humano que andam por ai sobre duas pernas estão
+{350}{}{Bem, Dizem que criaturas parecidas com insetos de tamanho humano que andam por ai sobre duas pernas estão
  rasgando brahmins no meio da noite. Embora só o Torr tenha dado uma boa olhada neles. Assustador,
- huh?}
+ não?}
 
 # Some say that there's a gigantic rat, the size of a Corvega, that rules over all the rats over
 # in Trapper Town, west of here. They say that it lives in an old mine underneath Trapper Town and
@@ -304,14 +304,14 @@
 # and then critters started disappearing. Tracks lead into the canyon, but none lead out. Spooky, huh?
 # Some have heard a weird whining sound echoing off the canyon walls there, too
 {370}{}{Bem, a oeste da cidade tem um desfiladeiro. Há alguns meses atrás tinha uma luz brilhante vindo de lá
- e em seguida, criaturas começaram a desaparecer. Trilhas te levam para dentro do desfiladeiro, mas nenhuma para fora. Assustador, huh?
- Alguns ouviram um som estranho de choro nas paredes de lá, também.}
+ e em seguida, criaturas começaram a desaparecer. Trilhas te levam para dentro do desfiladeiro, mas nenhuma para fora. Assustador, hãn?
+ Alguns ouviram um som estranho de choro ecoando nas paredes de lá também.}
 
 #Well, Smiley was one of the best trappers there ever was. He up and left Mrs. Buckner one day,
 # and said he was going to find where all the golden geckos come from. Said he'd be rich if he could
 # find it. But he hasn't come back -- and that was a while back, too.
 {380}{}{Bem, Smiley foi um dos melhores caçadores que já existiu. Ele partiu e deixou Mrs. Buckner um dia,
- ele disse que iria procurar o lugar de onde os geckos dourados viam. Ele disse que seria rico se pudesse
+ ele falou que iria procurar o lugar de onde os geckos dourados viam. Disse que seria rico se pudesse
  encontrar. Mas ele não voltou -- isso foi há um tempo atrás também.}
 # That's incredible. Tell me more local news.
 {381}{}{Isso é incrivel. Diga-me mais noticias do local}
@@ -319,7 +319,7 @@
 {382}{}{Isso é tudo que preciso saber por enquanto.}
 
 # Garden of Eden, huh? Well, Jenny's the closest I've been to the Garden of Eden. Only a few
-# dollars to create that. (smiles) Sounds nice, but I don't know where you'd find it. 
+# dollars to create that. (smiles) Sounds nice, but I don't know where you'd find it.
 {390}{}{Garden of Eden, hein? Bem, Jenny é o mais próximo que cheguei do Garden of Eden. Apenas alguns
  dollares para criá-lo. (sorri) Parece ótimo, Mas não sei onde você poderia achar. }
 # Well, that's not quite what I was looking for. Let me ask you something else.
