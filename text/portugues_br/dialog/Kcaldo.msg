@@ -141,3 +141,8 @@ você esteja se sentindo mais generoso e disposto a ser "oficialmente" recebido e
 {911}{}{É bom saber que não importa se está na parte mais funda do poço, você não pode perder o que nunca teve. Mudando de assunto...}
 
 {912}{}{Valeu! Você é sem igual, Aldo. Por enquanto é tudo.}
+
+#added by killap
+{920}{}{Hello again, friend. Do you have another $20 to spare to make our friendship even better?}
+{921}{}{Moar? Ook.}
+{922}{}{Me no share. Byee.}

@@ -58,3 +58,6 @@
 {510}{}{Aqui está, Petey.}
 {511}{}{Você sabe, Petey, você deveria chutar essa merda.}
 {512}{}{Pega essa merda e dá o fora daqui, Petey.}
+
+#added by killap
+{520}{}{Pleasure doing business.}

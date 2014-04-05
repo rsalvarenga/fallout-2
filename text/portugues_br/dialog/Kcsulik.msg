@@ -628,6 +628,23 @@
 {3071}{}{Sulik, por favor guarde sua arma.}
 {3080}{}{Você não ser meu amigo. Vovô Osso diz pra não falar com você.}
 
+#added by killap
+{3081}{}{No, I think it is time we part our ways. Stay here with you sister, she needs you.}
+{3082}{}{It be good to be back home again.}
+{3083}{}{So many young maidens to tell our travels to - and so little time.}
+{3084}{}{We be needing to have a talk with the herb-superb. Let the world float by-and-by.}
+
+{3086}{}{Take care fren.}
+{3087}{}{We and I wish you the best of luck.}
+{3088}{}{Thanks again for everything fren.}
+
+{3090}{}{This here be our village. We and I go speak with our friends.}
+{3091}{}{We and I go speak with our friends again before headin out.}
+
+{3100}{}{[MORE]}
+{3101}{}{Where exactly is your tribe, Sulik?}
+{3102}{}{Thanks. Let me ask you something else.}
+
 #added by killap - patch
 {3200}{}{Sim, eu falei com a Sra. Buckner em relação a sua dívida. Eu só preciso agora acertar todos os detalhes com Maida. Vou falar com você de novo depois que eu falar com ela.}
 
@@ -635,3 +652,6 @@
 {3500}{}{Algo estar errado com a equipe. É melhor dar uma olhada em toda sua equipe.}
 {3501}{}{Algo esta errado com a equipe. Nós estamos brilhante como o sol.}
 {3502}{}{Algo esta errado com a equipe. Nós estamos sentindo envenenado.}
+
+
+
