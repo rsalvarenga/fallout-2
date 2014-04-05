@@ -77,3 +77,8 @@
  de uma só vez. Eu acho que eu poderia usar um lugar para lutar (clube) se eu precisar. 
  Papai me pegou para atirar uma vez, mas eu fiquei assustado e quase atirei nele por acidente.}
 {1020}{}{Eu preciso relaxar um pouco, Davin.}
+
+#added by killap - NPC info
+{2000}{}{Owie. I think I broke a limb. Can you kiss it and make it better?}
+{2001}{}{Ugh, I feel like I am burning up. I think I am radiated.}
+{2002}{}{Ugh, I feel so sick. I think I am poisoned.}

@@ -104,3 +104,8 @@
 {1109}{}{É um pó mágico que vai curá-lo, mas vai te deixar sonolento.}
 {1110}{}{A Grande Ponte fica ao sul de nossa aldeia.}
 {1111}{}{Ele que é o guarda da ponte que dá acesso à nossa aldeia.}
+
+#added by killap - expansion
+{400}{}{Is there anything you could tell me about Kaga?}
+{401}{}{[The villager stares at you, wide-eyed, then slowly steps away from you while glancing around nervously.]}
+{402}{}{Alright, I guess not.}
