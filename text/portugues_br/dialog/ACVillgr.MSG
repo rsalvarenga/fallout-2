@@ -79,33 +79,33 @@
 #############################################################
 #  TELL - ME - ABOUTS                                       #
 #############################################################
-{1000}{}{Anciã}
-{1001}{}{Fundador}
+{1000}{}{Ãncia}
+{1001}{}{Fundador} #Founder
 {1002}{}{Vault Dweller}
 {1003}{}{Arroyo}
 {1004}{}{Klamath}
 {1005}{}{Vault}
-{1006}{}{Escolhido}
-{1007}{}{Shaman}
+{1006}{}{O Escolhido} #Chosen One
+{1007}{}{Xamã}
 {1008}{}{Hakunin}
 {1009}{}{Healing Powder}
-{1010}{}{Ponte}
+{1010}{}{Ponte} #Bridge
 {1011}{}{Mynoc}
 
-{1100}{}{A Anciã é sua mãe ela é nossa líder.}
-{1101}{}{O nosso grande ancestral que nos deu conhecimento.}
-{1102}{}{O primeiro a lutar e vencer o caos.}
-{1103}{}{Essa seria a nossa bela aldeia.}
-{1104}{}{É um posto de troca que fica a alguns dias a leste daqui.}
-{1105}{}{O Refúgio é o céu.}
-{1106}{}{Você é o Escolhido.}
-{1107}{}{Ele nos cura com suas ervas e magia. Ele está localizado no norte da nossa aldeia.}
-{1108}{}{Ele nos cura com suas ervas e magia. Ele está localizado no norte da nossa aldeia.}
-{1109}{}{É um pó mágico que vai curá-lo, mas vai te deixar sonolento.}
-{1110}{}{A Grande Ponte fica ao sul de nossa aldeia.}
-{1111}{}{Ele que é o guarda da ponte que dá acesso à nossa aldeia.}
+{1100}{}{A anciã é a sua mãe e nossa lider.} # The Elder is your mother and our leader
+{1101}{}{Nosso grande ancestral, que nos deu conhecimento.} # Our great ancestor who gave us knowledge.
+{1102}{}{O primeiro a lutar e vencer o caos.} # The first to fight and win over chaos.
+{1103}{}{Essa seria a nossa bela aldeia.} # That would be our beautiful village.
+{1104}{}{É um posto avançado de troca que fica a alguns dias a leste daqui.} # That's trading outpost a few days east of here.
+{1105}{}{O Vault é o céu.} # The Vault is heaven.
+{1106}{}{Você é O Escolhido.} # You are the Chosen One.
+{1107}{}{Ele nos cura com suas ervas e magia. Ele está localizado ao norte da nossa aldeia.} # He heals us with his herbs and magic. He is in the north part of our village.
+{1108}{}{Ele nos cura com suas ervas e magia. Ele está localizado ao norte da nossa aldeia.} # He heals us with his herbs and magic. He is in the north part of our village.
+{1109}{}{É um pó mágico que vai curá-lo, mas vai te deixar sonolento.} # It is a magic powder which will heal you, but will make you sleepy.
+{1110}{}{A Grande Ponte fica ao sul de nossa aldeia.} # The Great Bridge exits our village in the south.
+{1111}{}{Ele protege a ponte que dá acesso à nossa aldeia.} # He guards the bridge leading into our village.
 
 #added by killap - expansion
-{400}{}{Is there anything you could tell me about Kaga?}
-{401}{}{[The villager stares at you, wide-eyed, then slowly steps away from you while glancing around nervously.]}
-{402}{}{Alright, I guess not.}
+{400}{}{Há alguma coisa coisa que você poderia me dizer sobre Kaga?} #Is there anything you could tell me about Kaga?
+{401}{}{[O morador olha para você de olhos arregalados, depois, lentamente, se distância de você, olhando a seu redor, nervosamente.]} #[The villager stares at you, wide-eyed, then slowly steps away from you while glancing around nervously.]
+{402}{}{Tudo bem, acho que não.} #Alright, I guess not.}

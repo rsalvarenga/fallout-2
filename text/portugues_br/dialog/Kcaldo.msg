@@ -143,6 +143,6 @@ você esteja se sentindo mais generoso e disposto a ser "oficialmente" recebido e
 {912}{}{Valeu! Você é sem igual, Aldo. Por enquanto é tudo.}
 
 #added by killap
-{920}{}{Hello again, friend. Do you have another $20 to spare to make our friendship even better?}
-{921}{}{Moar? Ook.}
-{922}{}{Me no share. Byee.}
+{920}{}{Olá de novo, amigo. Você tem mais $20 de sobra para tornar a nossa amizade ainda melhor?} #Hello again, friend. Do you have another $20 to spare to make our friendship even better?
+{921}{}{Moar? Ook.} #Moar? Ook.
+{922}{}{Nenhuma ação. Byee.} #Me no share. Byee.

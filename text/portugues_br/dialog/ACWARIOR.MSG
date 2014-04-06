@@ -132,18 +132,15 @@
 {1010}{}{Ponte} # 
 {1011}{}{Mynoc} # 
 
-{1100}{}{A Anciã é a mãe e líder do nosso povo.} # The Elder is your mother and our leader.
-{1101}{}{Nosso grande ancestral, que nos deu o conhecimento.} # Our great ancestor who gave us knowledge.
-{1102}{}{O primeiro a lutar contra o caos e vencer.} # The first to fight and win over chaos.
-{1103}{}{É nossa linda aldeia.} # That would be our beautiful village.
-{1104}{}{É uma cidadezinha que fica a alguns dias a leste daqui.} # That's a trading outpost a few days east of here.
-{1105}{}{O vault é o paraíso.} # The Vault is heaven.
+{1100}{}{A anciã é a sua mãe e nossa lider.} # The Elder is your mother and our leader
+{1101}{}{Nosso grande ancestral, que nos deu conhecimento.} # Our great ancestor who gave us knowledge.
+{1102}{}{O primeiro a lutar e vencer o caos.} # The first to fight and win over chaos.
+{1103}{}{Essa seria a nossa bela aldeia.} # That would be our beautiful village.
+{1104}{}{É um posto avançado de troca que fica a alguns dias a leste daqui.} # That's trading outpost a few days east of here.
+{1105}{}{O Vault é o céu.} # The Vault is heaven.
 {1106}{}{Você é O Escolhido.} # You are the Chosen One.
-{1107}{}{Ele nos cura com suas ervas e mágica. Ele está na parte
- norte de nossa vila.} # He heals us with his herbs and magic. He is in the northern part of our village.
-{1108}{}{Ele nos cura com suas ervas e mágica. Ele está na parte
- norte de nossa vila.} # He heals us with his herbs and magic. He is in the northern part of our village.
-{1109}{}{É um pó mágico que te cura, mas te deixa
- um pouco sonolento.} # It is a magic powder which will heal you, but will make you sleepy.
-{1110}{}{A Grande Ponte é a saída da nossa aldeia, ao sul.} # The Great Bridge exits our village in the south.
-{1111}{}{Ele vigia a ponte que conduz para a nossa aldeia.} # He guards the bridge leading into our village.
+{1107}{}{Ele nos cura com suas ervas e magia. Ele está localizado ao norte da nossa aldeia.} # He heals us with his herbs and magic. He is in the north part of our village.
+{1108}{}{Ele nos cura com suas ervas e magia. Ele está localizado ao norte da nossa aldeia.} # He heals us with his herbs and magic. He is in the north part of our village.
+{1109}{}{É um pó mágico que vai curá-lo, mas vai te deixar sonolento.} # It is a magic powder which will heal you, but will make you sleepy.
+{1110}{}{A Grande Ponte fica ao sul de nossa aldeia.} # The Great Bridge exits our village in the south.
+{1111}{}{Ele protege a ponte que dá acesso à nossa aldeia.} # He guards the bridge leading into our village.

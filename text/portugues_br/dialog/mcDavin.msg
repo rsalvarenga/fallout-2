@@ -73,12 +73,10 @@
 {1007}{}{Mas... mas o que eu fiz de errado?}
 {1008}{}{O que você quer de mim querido?}
 {1009}{}{Obrigado, estava começando a arrumar de qualquer jeito. Então, o que foi agora, amante?}
-{1010}{}{Eu comecei a matar Bahmin no abatedor, então estou quase preparado com a faca. Meu pai me fez matar um Brahmin com uma barra, 
- de uma só vez. Eu acho que eu poderia usar um lugar para lutar (clube) se eu precisar. 
- Papai me pegou para atirar uma vez, mas eu fiquei assustado e quase atirei nele por acidente.}
+{1010}{}{Eu comecei a matar Bahmin no abatedor, então estou quase preparado com a faca. Meu pai me fez matar um Brahmin com uma barra, de uma só vez. Eu acho que eu poderia usar um lugar para lutar (clube) se eu precisar. Papai me pegou para atirar uma vez, mas eu fiquei assustado e quase atirei nele por acidente.}
 {1020}{}{Eu preciso relaxar um pouco, Davin.}
 
 #added by killap - NPC info
-{2000}{}{Owie. I think I broke a limb. Can you kiss it and make it better?}
-{2001}{}{Ugh, I feel like I am burning up. I think I am radiated.}
-{2002}{}{Ugh, I feel so sick. I think I am poisoned.}
+{2000} {} {Oie. Acho que quebrei alguma coisa. Você pode beijar para melhorar?} #Owie. I think I broke a limb. Can you kiss it and make it better?
+{2001} {} {Ugh, eu sinto que estou queimando. Acho que estou irradiado.} #Ugh, I feel like I am burning up. I think I am radiated.
+{2002} {} {Ugh, eu me sinto tão doente. Acho que estou envenenado.} #Ugh, I feel so sick. I think I am poisoned.

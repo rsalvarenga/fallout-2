@@ -468,9 +468,7 @@
 #added by killap
 {30000}{}{Você roubou de sua própria tribo.}
 
-#added by killap
-{30000}{}{You have stolen from your own tribe.}
-
 #added by killap - New Perks
-{40000}{}{Slot Jinxer} 
-{40001}{}{Thanks to a small yet courageous kitchen appliance, you know a secret way to make slot machines cough up all their cash. Too bad it breaks the machine in the process. Whoops!}
+{40000}{}{Slot de Jinxer} #slot Jinxer
+#Thanks to a small yet courageous kitchen appliance, you know a secret way to make slot machines cough up all their cash. Too bad it breaks the machine in the process. Whoops!
+{40001}{}{Graças a um pequeno e corajoso aparelho de cozinha, você descobre um caminho secreto para fazer máquinas caça-níqueis expelir todo o seu dinheiro. Pena que a máquina quebrou no processo. Gritos!}
