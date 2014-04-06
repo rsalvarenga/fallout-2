@@ -145,10 +145,10 @@
 # 13: , .MAP ;Klamath Trapping Caves
 {239}{}{Campo de armadilhas} #Trapping Grounds
 {240}{}{Campo de armadilhas} #Trapping Grounds
-{241}{}{TCampo de armadilhas} #Trapping Grounds
+{241}{}{Campo de armadilhas} #Trapping Grounds
 # 14: , .MAP ;Klamath Grazing Area
-{242}{}{Área de pastagem} #Grazing Area
-{243}{}{Área de pastagem} #Grazing Area
+{242}{}{Area de pastagem} #Grazing Area
+{243}{}{Area de pastagem} #Grazing Area
 {244}{}{}
 # 15: , .MAP ; Vault City Courtyard
 {245}{}{Courtyard}

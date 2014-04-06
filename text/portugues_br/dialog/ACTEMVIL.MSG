@@ -86,7 +86,7 @@
 
 #added by killap - expansion
 #Do you ever think about stepping down from your position as the Temple's final trial? I mean, it can be pretty risky.
-{400}{}{Depois de passar no teste do Templo você já pensou em largar de mão de toda essa história de "O Escolhido"? Quero dizer, isso pode ser muito arriscado.}
+{400}{}{Depois que eu passei no teste do Templo você já pensou em largar de mão de toda essa história de "O Escolhido"? Quero dizer, isso parece ser muito arriscado.}
 #Life is a constant series of risks, Chosen One. With each new dawn, every one of us takes a risk simply by stepping from our homes to greet the unknown day. Why do you ask?
 {401}{}{A vida é uma série constante de riscos, Escolhido. A cada novo amanhecer, cada um de nós assume um risco simplesmente por pisar em nossas casas para saudar o dia desconhecido. Por que pergunta?}
 {402}{}{Não há motivo. Falo com você mais tarde, Cameron} #No reason. I'll talk with you later, Cameron
@@ -94,7 +94,7 @@
 {403}{}{Bem, eu estava pensando sobre o que aconteceu com o seu antecessor, você sabe, durante sua batalha com ... uh, "Aquele-Que-Não-Deve-Ser-Nomeado"..}
 
 #Ah, that was a dark day, indeed, for our tribe lost two good men: one in body, the other in spirit. But the foul deed of that day is no concern of mine. My time will come when the Gods deem it so.
-{410}{}{Ah, de fato, isso foi um dia sombrio para a nossa tribo perder dois bons homens: um no corpo do outro, em espírito. Mas o acontecido daquele dia não é problema meu. Minha hora vai chegar quando os deuses consideram assim.}
+{410}{}{Ah, de fato, isso foi um dia sombrio para a nossa tribo. Perder dois bons homens: um no corpo do outro, em espírito. Mas o acontecido daquele dia não é problema meu. Minha hora vai chegar quando os deuses consideram assim.}
 {411}{}{E será uma longa jornada até que esse dia chegar. Tenha um bom dia, Cameron..} #And may that day be a long time coming. Good day, Cameron.
 #Are they even going to have other people attempt the Temple? Hasn't it already been determined that I'm the Chosen One?
 {412}{}{Estão sempre testando as outras pessoas no Templo? Sou O Escolhido porque fui o único que terminei o teste?}
