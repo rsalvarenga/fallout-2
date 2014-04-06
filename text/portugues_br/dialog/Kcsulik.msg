@@ -1,7 +1,6 @@
 {100}{}{Você vê um homem alto com tatuagens faciais e um longo osso atravessando o nariz.}
 {101}{}{Você vê Sulik.}
-{102}{}{Você vê um tribal alto e musculoso. Ele tem um osso atravessando o nariz, rosto tatuado e um
- comportamento calmo e confiante.}
+{102}{}{Você vê um tribal alto e musculoso. Ele tem um osso atravessando o nariz, rosto tatuado e um comportamento calmo e confiante.}
 
 {103}{}{.}
 {104}{slk1}{Ei, amigo. Nosso nome ser Sulik. O que você estar precisando?}
@@ -10,8 +9,7 @@
 {107}{slk2a}{Oh, não. Não falar com nós. Um de vocês pegar nossa irmã. Karma ruim... pra você.}
 {108}{slk2b}{Oh, não. Nós e mim não falar com dono de escravo.}
 
-{109}{slk3}{Maioria das pessoas ter espíritos mau. Você? Você ter espíritos estúpidos..
- Melhor você ir ver shaman, ter buraco na cabeça... Grande buraco... Muito grande... Enorme.}
+{109}{slk3}{Maioria das pessoas ter espíritos mau. Você? Você ter espíritos estúpidos... Melhor você ir ver shaman, ter buraco na cabeça... Grande buraco... Muito grande... Enorme.}
 {110}{}{Hein?}
 {111}{}{Hã-ham!}
 {112}{}{*Gulp!* (você se preocupa)}#gulp=engolir seco. mas nao parece. modifica aí se achar melhor.
@@ -20,32 +18,28 @@
 {114}{}{Hã-ham..}
 {115}{}{Hein?}
 
-{116}{slk5a}{Ah, merda, amigo. Caça-escravos levar nossa irmã. Nós beber muito, então nós quebrados. Agora estar pagando Maida. Quando
- terminar, nós ir procurar irmã.}
+{116}{slk5a}{Ah, merda, amigo. Caça-escravos levar nossa irmã. Nós beber muito, então nós quebrados. Agora estar pagando Maida. Quando terminar, nós ir procurar irmã.}
 {117}{slk5b}{Agora nós quase preparados pra ir. Ir achar irmã. Ela roubada por caça-escravos.}
 {118}{}{Hein?}
 {119}{}{Hmm, quanto você deve pagar pra poder ir embora?}
 {120}{}{Hã-ham.}
 {121}{}{Estou procurando por algo. Talvez você possa me ajudar,}
 
-{122}{slk6}{Nós deve $350 pra Maida. Você ir sul? Nós anda com você e procurar irmã. Você
- ter $350?}
+{122}{slk6}{Nós deve $350 pra Maida. Você ir sul? Nós anda com você e procurar irmã. Você ter $350?}
 {123}{}{Hã-hã.}
 {124}{}{Hã-ham!}
 {125}{}{Aqui estão os $350.}
 {126}{}{Quem "somos" nós?}
-{127}{}{Talvez, Sulik. Deixe-me perguntá-lo algumas coisas.}
+{127}{}{Talvez, Sulik. Deixa eu te perguntar algumas coisas.}
 {128}{}{$350 é muito dinheiro. Você vai ter que ficar aqui por um tempo. Tchau.}
-{129}{}{Um mestre provavelmente te deixaria longe de confusão. Eu não creio que você vá para o sul
- tão cedo. Tchau.}
+{129}{}{Um mestre provavelmente te deixaria longe de confusão. Eu não creio que você vá para o sul tão cedo. Tchau.}
 
 {140}{slk6a}{Espíritos comigo, amigo. Eles estar todos ao meu redor. Às vezes eles fala.}
 {141}{}{Parece que você andou fumando algumas, hein?}
 {142}{}{Que espíritos?}
 {143}{}{Certo... Posso te perguntar outra coisa?}
 
-{150}{slk6b}{Isso ser engraçado, amigo. Vovô Osso acha. Ele diz que você espirituoso. Diz
- que vai precisar disso.}
+{150}{slk6b}{Isso ser engraçado, amigo. Vovô Osso acha. Ele diz que você espirituoso. Diz que vai precisar disso.}
 {151}{}{Por que?}
 {152}{}{Quem é Vovô Osso?}
 {153}{}{Posso peguntar outra coisa?}
@@ -69,8 +63,7 @@
 {210}{slk6h}{Nós nos entender muito bem.}
 {211}{}{Talves possamos nos falar mais tarde. Tchau.}
 
-{220}{slk7}{Vic o traidor, ser mais certo. Ir na vila, dizer saber sobre caça-escravos, pedir pra nós
- seguir ele. Nós ir, ele não estar lá.}
+{220}{slk7}{Vic o traidor, ser mais certo. Ir na vila, dizer saber sobre caça-escravos, pedir pra nós seguir ele. Nós ir, ele não estar lá.}
 {221}{}{Sua irmã foi capturada por escravagistas?}
 {222}{}{Deixe-me perguntar outra coisa.}
 {223}{}{Acho que é tudo o que eu queria saber. Tchau.}
@@ -173,8 +166,7 @@
 {430}{slk27ia}{Espíritos diz que esses ser tocados por sombra da cidade de luzes.}
 {431}{slk27ib}{A cabeça não estar com o corpo.}
 
-{440}{slk27ja}{Espíritos ver dois caminhos, juntando outros. Caminho mau levar pra sombras más em lugar claro. Caminho
- bom levar pra lugar claro que era onde sombra nasce.}
+{440}{slk27ja}{Espíritos ver dois caminhos, juntando outros. Caminho mau levar pra sombras más em lugar claro. Caminho bom levar pra lugar claro que era onde sombra nasce.}
 {441}{slk27jb}{Não mandar eles pras luzes.}
 {442}{slk27jc}{Convencer ele a fazer parte de algo mais grande.}#mais grande é mais conveniente que MAIOR ^^
 
@@ -285,8 +277,7 @@
 {746}{slk41b}{Parece bom.}
 {747}{slk41c}{O que ser nosso ser seu, amigo.}
 
-{750}{slk42}{Nós e mim agradece. Você tentar fazer coisa boa, só não ter o dinheiro. Talvez você
- aumentar um pouco?}
+{750}{slk42}{Nós e mim agradece. Você tentar fazer coisa boa, só não ter o dinheiro. Talvez você aumentar um pouco?}
 {751}{}{Uh.}
 {752}{}{Desculpe, eu devo ter me enganado. Tchau.}
 {753}{}{Achei que tivesse o suficiente. Desculpe. Deixe-me perguntá-lo outra coisa.}
@@ -314,17 +305,13 @@
 {773}{}{Duas luas? Isso é longe. Como viajou de tão longe seguramente?}
 {774}{}{Isso é tudo o que preciso saber agora. Tchau.}
 
-{775}{slk46}{Geckos. Os pequeninos não morde forte. Ser os Dourados. Eles ir na sua perna como uma
- lança velha.}
+{775}{slk46}{Geckos. Os pequeninos não morde forte. Ser os Dourados. Eles ir na sua perna como uma lança velha.}
 
-{776}{slk47}{Comerciante chamado Vic tinha que estar aqui. Ele dizer que sabe sobre caça-escravos. Nós vir, não
- achar ele, ficar com muito raiva.}
-{777}{}{Vic está aqui, mas eu não acho que ele saiba muito sobre escravos. Ele está sendo mantido como um em
- Den, é isso. Diga-me outra coisa.}
+{776}{slk47}{Comerciante chamado Vic tinha que estar aqui. Ele dizer que sabe sobre caça-escravos. Nós vir, não achar ele, ficar com muito raiva.}
+{777}{}{Vic está aqui, mas eu não acho que ele saiba muito sobre escravos. Ele está sendo mantido como um em Den, é isso. Diga-me outra coisa.}
 {778}{}{Tchau.}
 
-{779}{slk48a}{Caça-escravos pegar nossa irmã. Achar que Vic ter informação. Não conseguir achar ele. Nós beber além da conta, beber
- como peixe. Espíritos da Raiva e do Caos explodiram e agora ter que pagar pra poder sair.}
+{779}{slk48a}{Caça-escravos pegar nossa irmã. Achar que Vic ter informação. Não conseguir achar ele. Nós beber além da conta, beber como peixe. Espíritos da Raiva e do Caos explodiram e agora ter que pagar pra poder sair.}
 {780}{slk48b}{Nós estar tentando achar caminho pra achar caça-escravos que levaram irmã. Talvez sul.}
 {781}{slk48c}{Ir pro sul achar irmã. Achar que estar indo pro sul, mas não ter certeza. Você querer companhia?}
 {782}{}{Você estava procurando pelo comerciante Vic?}
@@ -335,15 +322,12 @@
 
 {787}{slk50}{Amigo, espíritos estar todos comigo, não ter medo de viajar pra lugar nenhum.}
 
-{790}{slk52a}{Você ser notícia ruim ambulante. Vovô Osso diz que nós estar juntando karma ruim só de
- estar perto de você.}
+{790}{slk52a}{Você ser notícia ruim ambulante. Vovô Osso diz que nós estar juntando karma ruim só de estar perto de você.}
 {791}{slk52b}{Nós aceita. Vovô Osso diz que nós pode achar irmã com você.}
 {792}{}{Hã.}
-{793}{}{Espero que sim. De qualquer jeito vai ser legal viajar com você, e, hã, com o osso
- do seu avô.}
+{793}{}{Espero que sim. De qualquer jeito vai ser legal viajar com você, e, hã, com o osso do seu avô.}
 
-{794}{slk53}{Não só Vovô Osso, todos espíritos da tribo. Vovô Osso apenas ser mais sábio e forte do que o
- resto.}
+{794}{slk53}{Não só Vovô Osso, todos espíritos da tribo. Vovô Osso apenas ser mais sábio e forte do que o resto.}
 {795}{}{Hã, é... Certo, Sulik.}
 
 {796}{slk54}{O que nós e mim poder fazer por você?}
@@ -355,8 +339,7 @@
 {802}{}{Agora que está livre, quer viajar comigo?}
 {803}{}{Acho que não preciso de nada agora. Tchau.}
 
-{804}{slk55}{Muitas perguntas. Maida ser mercadora aqui. A mãe, Ardin, cuidar dos
- quartos. Não ter Shaman na cidade, mas você poder trocar por medicamentos.}
+{804}{slk55}{Muitas perguntas. Maida ser mercadora aqui. A mãe, Ardin, cuidar dos quartos. Não ter Shaman na cidade, mas você poder trocar por medicamentos.}
 {805}{}{Ah, obrigado. Deixe-me perguntá-lo sobre outra coisa, então.}
 {806}{}{Acho que é tudo o que eu precisava saber. Tchau.}
 
@@ -382,8 +365,7 @@
 {822}{}{Interessante. Deixe-me perguntá-lo outra coisa.}
 {823}{}{Acho que é tudo o que eu preciso saber. Tchau.}
 
-{824}{slk60}{O canyon a leste da área de pastagem parece ter espírto ambulante barulhento. Assutar
- os moradores. Vovô Osso não falar um palavra.}
+{824}{slk60}{O canyon a leste da área de pastagem parece ter espírto ambulante barulhento. Assutar os moradores. Vovô Osso não falar um palavra.}
 
 {825}{slk61}{Smiley ser bom caçador. Dizer estar procurando ninho de Golden Geckos. Não voltar mais.}
 
@@ -451,12 +433,10 @@
 {907}{}{Lute normalmente.}
 {908}{}{Quero que você lute agressivamente.}
 
-{910}{slk69}{Apenas um sobreviver. Estar em condição ruim. Dizer que guerreiros do mau vir com tochas mágicas. Fogo
- poder arrasar guerreiros da tribo e mandar eles com os espíritos.}
+{910}{slk69}{Apenas um sobreviver. Estar em condição ruim. Dizer que guerreiros do mau vir com tochas mágicas. Fogo poder arrasar guerreiros da tribo e mandar eles com os espíritos.}
 {911}{}{E quanto a sua irmã?}
 
-{912}{slk69a}{Guerreiros do mal manter o resto ocupado e levar eles embora. Irmã com eles. Amigo, nós acha ela ou
- morrer tentando.}
+{912}{slk69a}{Guerreiros do mal manter o resto ocupado e levar eles embora. Irmã com eles. Amigo, nós acha ela ou morrer tentando.}
 {913}{}{Parece escravagistas pra mim. Descobriu alguma coisa sobre eles?}
 {914}{}{Sinto muito em ouvir isso. Espero que você a ache. Deixe-me perguntá-lo outra coisa.}
 {915}{}{Acho que é tudo o que eu preciso saber agora. Tchau.}
@@ -465,8 +445,7 @@
 {917}{slk70b}{Nossa tribo ser menor que isso. Já ter muitas pessoas pra essa viagem.}
 {918}{slk70c}{Você ter seu exército. Não precisar de nós e mim pra ajudar agora.}
 
-{919}{slk71}{Nós e mim triste em ver que você ter a marca. Achar que você estar ficando com alma sombria. Ter que
- ir agora. 'Té mais.}
+{919}{slk71}{Nós e mim triste em ver que você ter a marca. Achar que você estar ficando com alma sombria. Ter que ir agora. 'Té mais.}
 
 {920}{slk72}{Você achar que ser dono de pessoas bom? Nós ir agora.}
 
@@ -499,27 +478,22 @@
 {941}{}{Espíito Ambulante?}
 {942}{}{Opa. Espíritos? Parece assustador. Tchau.}
 
-{943}{slk80}{Pro leste ter um canyon onde brahmins pasta. Nós ouvir há luas atrás muito 
- trovão e relâmpago... sem nuvem. Espírito do mau ir pra'quela terra.}
+{943}{slk80}{Pro leste ter um canyon onde brahmins pasta. Nós ouvir há luas atrás muito trovão e relâmpago... sem nuvem. Espírito do mau ir pra'quela terra.}
 {944}{}{Sério?}
 
-{945}{slk80a}{Moradores começar a ouvir barulhos estranho. Espíritos em tormenta, achar nós e mim. Alguns
- até ver algo lá. Criatura-espírito não ter forma de homem.}
+{945}{slk80a}{Moradores começar a ouvir barulhos estranho. Espíritos em tormenta, achar nós e mim. Alguns até ver algo lá. Criatura-espírito não ter forma de homem.}
 {946}{}{Hum.}
 {947}{}{Parece perigoso. O que o Torr tem a ver com isso?}
 
-{948}{slk80b}{Torr ser alvo de piadas. Então ele achar que encontrar e matar espírito mau
- faz dele herói. Nós acha que ele estar em perigo. Você ajuda Torr?}
+{948}{slk80b}{Torr ser alvo de piadas. Então ele achar que encontrar e matar espírito mau faz dele herói. Nós acha que ele estar em perigo. Você ajuda Torr?}
 {949}{}{Eu não!}
 {950}{}{Claro..}
 {951}{}{Eu vou procurar por ele agora mesmo.}
 {952}{}{Claro que eu vou ajudá-lo. Mas eu preciso de uma informação antes.}
-{953}{}{Nós deveríamos dar um pouco mais de tempo pra ele. Ele não pode ser um herói se nós interferirmos. Será
- que você poderia me dar algumas informações?}
+{953}{}{Nós deveríamos dar um pouco mais de tempo pra ele. Ele não pode ser um herói se nós interferirmos. Será que você poderia me dar algumas informações?}
 {954}{}{Hum, história interessante mas eu acho que não posso ajudar o Torr. Estou muito ocupado. Tchau.}
 
-{955}{slk81a}{Irmã encontrada. Nós mandar ela de volta pra casa. Ela forte, consegue ir bem. Nós quer ir com você. Vovô
- Osso diz que você ter grande caminho a seguir.}
+{955}{slk81a}{Irmã encontrada. Nós mandar ela de volta pra casa. Ela forte, consegue ir bem. Nós quer ir com você. Vovô Osso diz que você ter grande caminho a seguir.}
 {956}{slk81b}{Você deixar nós ir com você?}
 {957}{}{Hã-hã.}
 {958}{}{Hã-ham.}
@@ -595,8 +569,7 @@
 {3039}{}{Nós não entende.}
 {3040}{}{Nós não sabe.}
 
-{3050}{slk86}{Estar em casa ser legal, mas o lugar parecer menor agora. Nós perdeu a estrada
- e a companhia de amigo tão legal como você. Quer que nós ande junto de novo?}
+{3050}{slk86}{Estar em casa ser legal, mas o lugar parecer menor agora. Nós perdeu a estrada e a companhia de amigo tão legal como você. Quer que nós ande junto de novo?}
 {3051}{}{Seria ótimo.}
 {3052}{}{Desculpe, não agora.}
 
@@ -604,11 +577,9 @@
 {3054}{}{Certo.}
 
 {3055}{slk88}{Pena. Você precisar mais disso que mim. Ir bem.}
-{3056}{}{Um segundo, acho que seria bom você vir comigo. Desculpe, só não queria te separar da sua casa
- tão cedo.}#que lindo! ;)
+{3056}{}{Um segundo, acho que seria bom você vir comigo. Desculpe, só não queria te separar da sua casa tão cedo.}
 
-{3057}{slk89}{Bom ver casa, mas não enquanto irmã ainda estar perdida. Ainda querer ficar na sua
- companhia.}
+{3057}{slk89}{Bom ver casa, mas não enquanto irmã ainda estar perdida. Ainda querer ficar na sua companhia.}
 {3058}{}{Claro.}
 {3059}{}{Não, eu acho que é hora de você procurar por você mesmo.}
 
@@ -629,21 +600,21 @@
 {3080}{}{Você não ser meu amigo. Vovô Osso diz pra não falar com você.}
 
 #added by killap
-{3081}{}{No, I think it is time we part our ways. Stay here with you sister, she needs you.}
-{3082}{}{It be good to be back home again.}
-{3083}{}{So many young maidens to tell our travels to - and so little time.}
-{3084}{}{We be needing to have a talk with the herb-superb. Let the world float by-and-by.}
+{3081}{}{Não, eu acho que é hora de nos separarmos. Fique aqui com a sua irmã, ela precisa de você.} #No, I think it is time we part our ways. Stay here with you sister, she needs you.
+{3082}{}{É bom estar em casa novamente.} #It be good to be back home again.
+{3083}{}{Tantas jovens donzelas para contar nossas viagens - e tão pouco tempo.} #So many young maidens to tell our travels to - and so little time.
+{3084}{}{Nós ver a necessidade de ter uma conversa com a erva-soberba. Deixe o mundo flutuar aos poucos.} #We be needing to have a talk with the herb-superb. Let the world float by-and-by.
 
-{3086}{}{Take care fren.}
-{3087}{}{We and I wish you the best of luck.}
-{3088}{}{Thanks again for everything fren.}
+{3086}{}{Tome cuidado amigo.} #Take care fren.
+{3087}{}{Nós te deseja muita sorte.} #We and I wish you the best of luck.
+{3088}{}{Obrigado novamente por tudo amigo.} #Thanks again for everything fren.
 
-{3090}{}{This here be our village. We and I go speak with our friends.}
-{3091}{}{We and I go speak with our friends again before headin out.}
+{3090}{}{Esta aqui é a nossa aldeia. Nós falar com os nossos amigos.} #This here be our village. We and I go speak with our friends.
+{3091}{}{Nós falar com os nossos amigos novamente antes cair fora.} #We and I go speak with our friends again before headin out.
 
-{3100}{}{[MORE]}
-{3101}{}{Where exactly is your tribe, Sulik?}
-{3102}{}{Thanks. Let me ask you something else.}
+{3100}{}{[MAIS]}
+{3101}{}{Onde exatamente é a sua tribo, Sulik?} #Where exactly is your tribe, Sulik?
+{3102}{}{Obrigado. Deixa eu te perguntar mais algumas coisas.} #Thanks. Let me ask you something else.
 
 #added by killap - patch
 {3200}{}{Sim, eu falei com a Sra. Buckner em relação a sua dívida. Eu só preciso agora acertar todos os detalhes com Maida. Vou falar com você de novo depois que eu falar com ela.}
