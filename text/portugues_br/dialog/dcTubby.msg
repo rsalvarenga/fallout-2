@@ -60,4 +60,4 @@
 {512}{}{Pega essa merda e dá o fora daqui, Petey.}
 
 #added by killap
-{520}{}{Pleasure doing business.}
+{520}{}{Foi um prazer fazer negócio.} #Pleasure doing business.

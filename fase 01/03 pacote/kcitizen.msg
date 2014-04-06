@@ -127,51 +127,29 @@
 #############################################################
 #  TELL ME ABOUTS WILL BE REMOVED                           #
 #############################################################
-#Elder
-{1000}{}{Anciã} 
-#Founder
+
+{1000}{}{Anciã}
 {1001}{}{Fundador}
 {1002}{}{Vault Dweller}
 {1003}{}{Arroyo}
 {1004}{}{Klamath}
 {1005}{}{Vault}
-#Chosen One
-{1006}{}{O escolhido}
-#Shaman
+{1006}{}{Escolhido}
 {1007}{}{Xamã}
 {1008}{}{Hakunin}
 {1009}{}{Healing Powder}
-# Bridge
 {1010}{}{Ponte}
 {1011}{}{Mynoc}
 
-# The Elder is your mother and our leader
-{1100}{}{A anciã é a sua mãe e nossa lider.}
-# Our great ancestor who gave us knowledge.
-{1101}{}{Nosso grande ancestral que nos deu conhecimento.}
-# The first to fight and win over chaos.
-{1102}{}{O primeiro a lutar e vencer o caos.}
-# That would be our beautiful village.
-{1103}{}{Essa seria a nossa bela vila.}
-# That's trading outpost a few days east of here.
-{1104}{}{É um posto avançado de comércio a alguns dias ao leste daqui.}
-# The Vault is heaven.
-{1105}{}{O Vault é o céu.}
-# You are the Chosen One.
-{1106}{}{Você é O Escolhido.}
-# He heals us with his herbs and magic. He is in the north part
-# of our village.
-{1107}{}{Ele nos cura com suas ervas e magias. Ele está ao norte
- de nossa vila.}
-# He heals us with his herbs and magic. He is in the north part
-# of our village.
-{1108}{}{Ele nos cura com suas ervas e magias. Ele está ao norte
- de nossa vila.}
-# It is a magic powder which will heal you, but will make you
-# sleepy.
-{1109}{}{É um pó mágico que irá curá-lo, mas te deixará 
- sonolento.}
-# The Great Bridge exits our village in the south.
-{1110}{}{A grande ponte é a saída de nossa vila pelo o sul.}
-# He guards the bridge leading into our village.
-{1111}{}{Ele protege a ponte que leva até nossa vila.}
+{1100}{}{A anciã é a sua mãe e nossa lider.} # The Elder is your mother and our leader
+{1101}{}{Nosso grande ancestral, que nos deu conhecimento.} # Our great ancestor who gave us knowledge.
+{1102}{}{O primeiro a lutar e vencer o caos.} # The first to fight and win over chaos.
+{1103}{}{Essa seria a nossa bela aldeia.} # That would be our beautiful village.
+{1104}{}{É um posto avançado de troca que fica a alguns dias a leste daqui.} # That's trading outpost a few days east of here.
+{1105}{}{O Vault é o céu.} # The Vault is heaven.
+{1106}{}{Você é O Escolhido.} # You are the Chosen One.
+{1107}{}{Ele nos cura com suas ervas e magia. Ele está localizado ao norte da nossa aldeia.} # He heals us with his herbs and magic. He is in the north part of our village.
+{1108}{}{Ele nos cura com suas ervas e magia. Ele está localizado ao norte da nossa aldeia.} # He heals us with his herbs and magic. He is in the north part of our village.
+{1109}{}{É um pó mágico que vai curá-lo, mas vai te deixar sonolento.} # It is a magic powder which will heal you, but will make you sleepy.
+{1110}{}{A Grande Ponte fica ao sul de nossa aldeia.} # The Great Bridge exits our village in the south.
+{1111}{}{Ele protege a ponte que dá acesso à nossa aldeia.} # He guards the bridge leading into our village.
