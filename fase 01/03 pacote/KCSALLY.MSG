@@ -95,11 +95,11 @@
 {292}{}{Hm, Qual as outras escolhas mesmo?} #Hmm, what are the other choices again?
 {293}{}{Valeu, mas acho que vou guardar meu dinheiro.} #Thanks, but I think that I'll save my money for now.
 
-{300}{}{You could use a bit of real scrubbing; don't you tribals know about soap? Oh well, that'll cost
- you $70 for the Brief Full Body Wash...but I'm sure that you'll be happy with the results.}
-{301}{}{Wow, $70! That seems like a lot. But I bet it's worth it. I'll try it.}
-{302}{}{What were the other bathing options?}
-{303}{}{I don't think that I want to pay for a bath after all.}
+{300}{}{Você podia se esfregar, vocês tribais não conhecem sabão? Bem, isso custaria $70 pelo banho breve de corpo todo, mas tenho certeza que ficaria satisfeito.} #You could use a bit of real scrubbing; don't you tribals know about soap? Oh well, that'll cost
+ you $70 for the Brief Full Body Wash...but I'm sure that you'll be happy with the results.
+{301}{}{Uau, $70! Isso parece muito. Mas aposto que vale a pena. Eu vou experimentar.} #Wow, $70! That seems like a lot. But I bet it's worth it. I'll try it.
+{302}{}{Qual são as outras opções de banho?} #What were the other bathing options?
+{303}{}{Eu acho que não quero mais o banho} #I don't think that I want to pay for a bath after all.
 
 {310}{}{Well I'm sure that your Round-theWorld trip Servicing with beautiful Jenny will be an
  experience that you'll savor for quite a while. A real bargain at only $125.}
@@ -117,9 +117,9 @@
 {324}{}{Gerda isn't really a woman at all, is she? I don't want to be scrubbed down by a burly
  drag-queen. I'm outta here.}
 
-{330}{}{That's a great choice, if you don't have a lot of time or money.}
+{330}{}{É uma excelente opção se você não tiver muito tempo ou dinheiro.} #That's a great choice, if you don't have a lot of time or money.
 
-{340}{}{I think you'll really enjoy this. }
+{340}{}{Eu acho que vou gostar disso.} #I think you'll really enjoy this.
 
 {350}{}{I think that you'll enjoy Jenny bathing you more than any bath you've ever had.}
 
@@ -142,8 +142,8 @@
 {381}{}{Well, if I can't get a discount, I'm leaving.}
 {382}{}{I guess that's fair enough. Tell me what baths you have available.}
 
-{390}{}{Before we go any further, you've gotta know that the baths are for individuals, not groups. You
- can make your own arrangements, and then your friends can do as they please on their own.}
-{391}{}{Ok.}
+{390}{}{Antes de prosseguirmos, você tem que saber que os banhos são individuais, não para grupos. Vocês podem se acertar, então seus amigos podem fazer o que quiserem.} #Before we go any further, you've gotta know that the baths are for individuals, not groups. You
+ can make your own arrangements, and then your friends can do as they please on their own.
+{391}{}{Ok.} #Ok.
 
-{400}{}{We don't want your kind around here.}
+{400}{}{Não queremos gente como você por aqui.} #We don't want your kind around here.
