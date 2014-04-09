@@ -45,7 +45,7 @@
 
 # You really have a lot of staying power. That's the nice thing about younger men. Sure wish
 # there were more like you in town.
-{220}{}{Você realmente tem muito poder de satisfazer. Essa é a coisa boa em vocês homens jovens. Eu com certeza
+{220}{}{Você realmente tem muito poder de permanência. Essa é a coisa boa em vocês homens jovens. Eu com certeza
  gostaria que houvessem mais pessoas como você na cidade.}
 # I sure enjoyed that bath, Jenny. I could go for a little more if I didn't have other things
 # that I had to do.
@@ -62,11 +62,11 @@
 # That sure was fun. You could be a real knockout if we got you out of those tribal duds. I
 # wouldn't mind having you stick around for a while, sister. Ever considered a career change?
 {240}{}{Isso com certeza foi divertido. Você poderia ser realmente extraordinária se tirássemos você daqueles tribais fracassados. Eu
- não me importaria se você ficasse por aqui por um tempo. Já pensou em uma mudança de carreira?} # Tenho quase certeza que esta frase é usada quando seu char é mulher... Melhor dar uma revisada legal nela
+ não me importaria se você ficasse por aqui por um tempo, irmã. Já pensou em uma mudança de carreira?} # Tenho quase certeza que esta frase é usada quando seu char é mulher... Melhor dar uma revisada legal nela
  
 # I enjoyed myself, too. I have a lot of things to do before I could consider settling down just
 # yet. But, thanks anyway.
-{241}{}{Eu me diverti muito também. Eu ainda tenho um monte de coisas para fazer antes de eu pensar em viver uma vida 
+{241}{}{Eu me diverti muito também. Eu ainda tenho um monte de coisas para fazer antes de eu pensar em viver uma vida
  amena. Mas, Obrigado de qualquer jeito.}
 
 # You're different from the usual group around here.
@@ -83,16 +83,17 @@
 {270}{}{Você parece um pouco confuso. Me chamo Jenny; Posso ajudá-lo?}
 # Enny? Goo heh heh heh. (smile)
 {271}{}{Enny? Iir he he he. (sorri)}
-# (nods) Hep 
+# (nods) Hep
 {272}{}{(acena) auda }
-{273}{}{ perdy Enny} # N traduzi isso aqui
+# perdy Enny
+{273}{}{ Enny pevedida}
 # Mommy?
 {274}{}{Mamãe?}
 
 #Hmm, I think you just better clear out of here before Big Nose Sally finds you. She doesn't
 # take kindly to idjits in her place.
 {280}{}{Humm, Acho melhor que saia daqui antes que Sally Nariz Grande te encontre. Ela não
- tolera idiotas no lugar dela.} # Eu queria escrever o idjits de maneira "errada" em português também ;3;
+ tolera idjotas no lugar dela.}
 
 # What would you like to know
 {290}{}{O que você gostaria de saber?}
@@ -102,7 +103,8 @@
 {292}{}{Estou procurando por um comerciante. Conhece algum deles que trata de itens velhos, iguais aos de antigamente?}
 # Do you happen to know how to get to the Den from here?
 {293}{}{Por acaso você sabe como chegar ao Den a partir daqui?}
-{294}{}{Bye.}
+# Bye.
+{294}{}{Tchau.}
 # Jenny, have you ever heard of something called a GECK?}
 {295}{}{Jenny, você já ouviu falar em uma coisa chamada GECK?}
 
@@ -121,7 +123,7 @@
 # He always had extra money to blow, at least when he worked he did. See, he specialized in really old stuff. You know,
 # technical thingies.
 {310}{}{Você está interessado em negociantes, ãhn? Bem, eu trabelhei na maior parte apenas para um comerciante. Vic era o nome dele.
- Ele sempre tinha dinheiro extra pra gastar, pelo menos quando ele trabalhava, ele tinha. Veja, Ele se especializou em coisas realmente velhas. Você sabe,
+ Ele sempre tinha dinheiro extra pra gastar, pelo menos quando ele trabalhava ele tinha. Veja, Ele se especializou em coisas realmente velhas. Você sabe,
  coisinhas técnicas.}
 # Well, thanks for the info. I think I'll go now.
 {311}{}{Bem, obrigado pela informação. Acho que vou indo agora.}
@@ -151,7 +153,7 @@
 # remember too clearly. Anyhow, it's an exciting place. Dangerous, but exciting. Sorry to leave there,
 # in a way.
 {330}{}{O Den é um ninho de lixo e uma vilania ao sudeste daqui. Acho que cerca de uma semana de viagem mais ou menos? Não
- me lembro claramente. De qualquer maneira, É um ligar excitante. Perigoso, mas excitante. Estou arrependida de ter saido de lá.}
+ me lembro claramente. De qualquer maneira, É um ligar excitante. Perigoso, mas excitante. Estou arrependida de ter saido de lá.} #Eu realmente quis colocar excitante na tradução por se tratar da Jenny xD
 # Let me ask you something else.
 {331}{}{Deixe-me lhe perguntar algo mais.}
 # I think I'll leave now, thanks
@@ -161,7 +163,7 @@
 # east. He could be out trading with tribals or even in the Den, for all I know. I hope he's okay. He was
 # getting to be more than just a steady customer to me.
 {340}{}{Eu não sei bem onde está Vic. Eu sei que ele tem uma casa na mesma rua que nós, ao
- leste. Pelo que sei, ele deve estar fora negociando com tribais ou até mesmo no Den. Espero que ele esteja bem. Ele estava
+ leste. Pelo que sei, ele deve estar fora negociando com tribais ou até mesmo no Den. Espero que esteja bem. Ele estava
  começando a ser mais do que apenas um cliente constante para mim.}
 # I hope he's okay, for your sake. Let me ask you another question.
 {341}{}{Espero que esteja bem, por sua causa. Deixe-me fazer mais uma pergunta.}
@@ -181,7 +183,7 @@
 {354}{}{Estou procurando por informação sobre um comerciante de coisas antigas.}
 
 # Hello there, miss. My name's Jenny. Can I help you?
-{360}{}{Olá, senhorita. Me chamo Jenny. Posso ajudá-la?}
+{360}{}{Olá, senhorita. Me chamo Jenny. Posso ajudá-la?} # Acho que daqui pra frente os dialogos só são exibidos quando o chat for mulher
 # Uh, no; I just wanted to see what was in here. But I think I better go.
 {361}{}{Hum, não; Eu só queria ver o que era aqui. Mas acho melhor eu ir agora.}
 # Actually, I could pick up some personal beauty tips from a cutie like you.
@@ -199,7 +201,7 @@
 # Hello there, cute stuff. My name's Jenny. You looking for work here? If you move as good as you
 # look, you could really make some good money here.
 {380}{}{Oi, material bonito ein. Me chamo Jenny. Está procurando por trabalho aqui? Se você se move tão bem quanto
- parece, você poderia realmente fazer um bom dinheiro aqui.}
+ parece, você poderia realmente fazer um bom dinheiro.}
 # I'm really not interested in a job here.
 {381}{}{Eu realmente não estou interessada por um emprego aqui.}
 # Mmm, I'd love to show you, personally, just how good I can move.
@@ -219,7 +221,7 @@
 {392}{}{Bem, eu acho que isso é tudo que eu preciso por enquanto.}
 
 # A Geck? What's that? Some kind of small gecko, I'd guess. Sorry, I don't know what else it
- would be.
+# would be.
 {400}{}{Um Geck? O que é isso? Algum tipo de gecko pequeno, eu acho. Desculpe, não sei o que mais
  poderia ser.}
 # Thanks, Jenny. Let me ask you something else.
