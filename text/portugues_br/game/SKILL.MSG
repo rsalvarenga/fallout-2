@@ -11,15 +11,15 @@
 {104}{}{Armas Brancas}	#Melee Weapons
 {105}{}{Arremesso}	#Throwing
 {106}{}{Primeiros Socorros}	#First aid
-{107}{}{Medicar}	#Doctor
-{108}{}{Sigiloso}	#Sneak
-{109}{}{Gazua}	#Lockpick
-{110}{}{Roubar}	#Steal
+{107}{}{Medicina}	#Doctor
+{108}{}{Furtividade}	#Sneak #Sigiloso
+{109}{}{Arrombamento}	#Lockpick
+{110}{}{Roubo}	#Steal
 {111}{}{Armadilhas}	#Traps
 {112}{}{Ciência}	#Science
-{113}{}{Reparar}	#Repair
-{114}{}{Lábia}	#Speech
-{115}{}{Comércio} #Barter
+{113}{}{Reparo}	#Repair
+{114}{}{Persuadir}	#Speech #lábia
+{115}{}{Negociação} #Barter
 {116}{}{Jogos}	#Gambling
 {117}{}{Sobrevivência}	#Outdoorsman
 #
