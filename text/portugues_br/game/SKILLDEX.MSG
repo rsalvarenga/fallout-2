@@ -3,11 +3,11 @@
 #
 {100}{}{PERÍCIAS}
 {101}{}{CANCEL}
-{102}{}{SIGILOSO}
-{103}{}{GAZUA}
-{104}{}{ROUBAR}
-{105}{}{ARMAD.}
-{106}{}{P. SOC.}
-{107}{}{MÉDICO}
-{108}{}{CIÊNCIA}
-{109}{}{REPARAR}
+{102}{}{FURTIVIDADE} #SNEAK #SIGILOSO #Furtividade
+{103}{}{ARROMBAR} #Lockpick #Gazua #Arrombamento
+{104}{}{ROUBO} #Steal
+{105}{}{ARMAD.} #Traps
+{106}{}{P. SOC.} #First aid
+{107}{}{MEDICINA} #Doctor #Medicina #médico
+{108}{}{CIÊNCIA} #Science
+{109}{}{REPARO} #Repair
