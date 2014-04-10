@@ -1,5 +1,3 @@
-Geovany97 está traduzindo este arquivo.
-
 #############################################################
 #  Message File: AIVase.msg                                 #
 #                                                           #
