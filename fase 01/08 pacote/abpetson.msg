@@ -14,9 +14,9 @@
  quanto eu sei, este lugar é quase tão bom quanto que ganha em lugares desertos. As pessoas aqui são decentes, e as pessoas olham para
  fora como um outro. Claro, alguns lugares podem oferecer mais segurança, mas à custa da liberdade pessoal. Não, obrigado.}
 {301}{}{Você veio em uma caravana? Será que eles vem sempre aqui?}
-{302}{}{Not really. The Abbey's too small and isolated for the caravans to pay us much heed. Doesn't matter though, we're
- a pretty self sufficient community -- grow our own food, brew our own booze -- so we get by just fine. Anyway, Bill's the man
- to speak to about caravans, he runs the general store just southwest of here.}
+{302}{}{Não é verdade. O Abbey é muito pequeno e isolado para as caravanas nos prestarem atenção. Não importa, porém,
+ somos uma comunidade bastante auto-suficiente - aumentar a nossa própria comida, preparar a nossa própria bebida - então estamos bem.
+ De qualquer forma, Bill é o homem que pode falar sobre as caravanas, ele percorre no armazém geral daqui, a sudoeste.}
 {303}{}{Parece ótimo e tudo mais, mas eu realmente preciso ir.}
 {304}{}{Interessante. Eu estava curioso sobre outra coisa.}
 {305}{}{Não importa, eu preciso ir.}
@@ -25,14 +25,14 @@
 {401}{}{O que você pode me dizer sobre a Abbey?}
 {402}{}{Você sabe alguma coisa sobre o Garden of Eden Creation Kit?}
 
-{500}{}{Sorry pal, I've never heard of it. But if it has to do with pre-war times, then I bet there's something about it
- in the monastery's computers. Unfortunately for you, those monks are real protective of their information?afraid that it'll
- lead to another war or something if people learn too much. Still, it might be worth asking around there.}
+{500}{}{Desculpe amigo, eu nunca ouvi falar. Mas se isso tem algo a ver com a época da pré-guerra, então aposto que há algo sobre
+ eles em computadores no mosteiro. Infelizmente para você, esses monges são proteções reais de suas informações? Com medo de que
+ ele vai levar a uma guerra ou algo assim, se as pessoas aprendem muito. Ainda assim, pode valer a pena perguntar lá perto.}
 {501}{}{Obrigado, eu vou fazer isso. Eu tenho mais algumas perguntas antes de ir embora.}
 {502}{}{Obrigado pela dica. Eu vou verificar isso agora.}
 
 {600}{}{Irmão Samuel te mandou aqui? O que é isso bêbado até agora?}
-{601}{}{Tending to the graves as usual I suppose. So about what you heard...}
+{601}{}{Cuidando das sepulturas, como sempre, suponho eu. Então sobre o que você ouviu...}
 {602}{}{[John se senta em sua cadeira e derrama-se uma dose de uísque.] It all began a couple days ago. My wife and
  I were preparing for bed when we heard some rustling out in the field. I grabbed my lantern and rushed outside to see if
  I could find the source of the noise. As soon as I made it to the fields though, the noises had stopped.}
@@ -53,12 +53,12 @@
  thanks for the information. Take care.}
 {608}{}{Vou ver o que posso fazer. Tenho mais algumas perguntas antes de eu ir.}
 {609}{}{Esta história está ficando chata demais. tchau.}
-{610}{}{Let me get this straight. You'd be happy to help someone that lurks around your house at night, steals your
- crops, and tries to rob your dead? I've met a lot of loonies in my day, but you just might take the cake. It's a marvel
- you've survived this long.}
-{611}{}{[He narrows his eyes, but manages to hold his composure.] That's how we do things here at the Abbey. If kindness
- is so offensive to you, then I suggest you get the hell outta my house. I'm not gonna sit here and let some wandering
- tribal insult me in front of my wife.}
+{610}{}{Deixe-me ver se entendi. Você ficaria feliz em ajudar alguém que se esconde em sua casa à noite, rouba
+ suas colheitas, e tenta roubar até os mortos? Eu conheci um monte de malucos no meu dia, mas você só pode levar o bolo.
+ É uma maravilha que você tenha sobrevivido tanto tempo.}
+{611}{}{[Ele aperta os olhos, mas consegue manter a compostura.] É assim que fazemos as coisas aqui no Abbey. Se a bondade
+ é tão ofensiva para você, então eu sugiro que você dar o fora da minha casa. Eu não vou sentar aqui e deixar um pouco de
+ insulto tribal vagando me na frente da minha esposa.}
 {612}{}{Tudo bem, tudo bem, eu vou embora.}
 {613}{}{OK tough guy, now this "wandering tribal" is going to kill you in front of your wife. Then maybe I'll kill her too.
  Hell, maybe I'll kill everyone in this pathetic fucking place. You thought you could all hide from the horror of the wasteland?
