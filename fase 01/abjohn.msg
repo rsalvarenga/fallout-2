@@ -1,40 +1,39 @@
-{100}{}{You see Brother John.}
-{101}{}{You see one of the Abbey's older Monks.}
-{102}{}{You see an old monk. He looks to be in his early seventies.}
+{100}{}{Você vê irmão John.}
+{101}{}{Você vê um dos monges mais velhos de Abbey's.}
+{102}{}{Você vê um velho monge. Ele parece estar no inicio dos setenta anos.}
 
-{300}{}{Hi there, youngster.}
-{301}{}{Who are you?}
-{302}{}{Have you heard anything about a GECK or Vault 13?}
-{303}{}{Bye.}
+{300}{}{Olá, meu jovem.}
+{301}{}{Quem é você?}
+{302}{}{Você já ouviu falar alguma coisa sobre a GECK ou Vault 13?}
+{303}{}{Tchau}
 
-{400}{}{My name is John, I'm one of the oldest monks here.}
-{401}{}{So, what's your job?}
-{402}{}{I see, bye.}
-{403}{}{Well, I used to work on a farm, but it was bad for my heart.}
-{404}{}{You have heart problems?}
-{405}{}{That's too bad, bye!}
-{406}{}{Yeah, I have a bad heart. If I still had my heart pills, it would ease my life a lot more. It is very difficult
- to find medicine for that problem in today's world you know.}
-{407}{}{I might have a solution for your heart problems...}
-{408}{}{Sorry to hear that, Bye.}
+{400}{}{Meu nome é John, eu sou um dos monges mais velhos por aqui.}
+{401}{}{Então, qual é o seu trabalho?}
+{402}{}{Eu vejo, tchau.}
+{403}{}{Bem, eu costumava trabalhar em uma fazenda, mas foi ruim para o meu coração.}
+{404}{}{Você tem problemas cardíacos?}
+{405}{}{Isso é muito ruim, tchau!}
+{406}{}{Sim, eu tenho um coração fraco. Se eu ainda tivesse minhas pílulas para o coração, iria facilitar a minha vida muito mais. É muito difícil encontrar remédios para esse problema no mundo de hoje você sabe.}
+{407}{}{Eu poderia ter uma solução para os seus problemas de coração ...}
+{408}{}{Lamento ouvir isso, Tchau.}
 
-{410}{}{Bye.}
-{411}{}{You do? Are you saying that you actually HAVE heart pills?}
-{412}{}{Yes, I do. It would be a pleasure to give them to you.}
-{413}{}{Yeah, I have heart pills. You can have them for $400.}
-{414}{}{I was only joking. I don't have any heart pills.}
-{415}{}{[He takes the pills from you.] Thank you, my friend! Here, please take this item as a gesture of gratitude.}
-{416}{}{Happy to help, and thanks for the item. Bye!}
-{417}{}{(He becomes quite angry, but then calms down) Ok, fine, here's your money. Now give me the pills!}
-{418}{}{I have decided to keep the pills myself. Thanks for the money!}
-{419}{}{Nice doing business with you, Bye.}
-{420}{}{Hmmm, sorry, I haven't. Talk to the Abbot, he might know something.}
-{421}{}{I'll do that, thanks. Now I have some other questions.}
-{422}{}{If I weren't so sick, I would beat the shit out of you. NOW GET OUT OF HERE!}
-{423}{}{Fine, I'll go.}
+{410}{}{Thau.}
+{411}{}{Você tem? Você está dizendo que você realmente TEM pílulas para o coração?}
+{412}{}{Sim, eu tenho. Seria um prazer da-las a você.}
+{413}{}{Sim, eu tenho pílulas para o coração. Você pode tê-las por $400.}
+{414}{}{Eu só estava brincando. Eu não tenho nenhuma pílula para o coração.}
+{415}{}{[Ele toma as pílulas de você.] Obrigado, meu amigo! Aqui, por favor, tome este item como um gesto de gratidão.}
+{416}{}{Estou feliz em ajudar, e obrigado pelo item. Tchau!}
+{417}{}{(Ele retorna bem bravo, mas depois se acalma) Ok, tudo bem, aqui está o seu dinheiro. Agora me dê as pílulas!}
+{418}{}{Eu decidi manter as pílulas para mim. Obrigado pelo dinheiro!}
+{419}{}{Foi um prazer negociar com você, Tchau.}
+{420}{}{Hmmm, desculpe, eu não tenho. Fale com o Abbot, ele poderia saber de algo.}
+{421}{}{Eu vou fazer isso, obrigado. Agora eu tenho algumas outras perguntas.}
+{422}{}{Se eu não estivesse tão doente, eu te daria uma surra. AGORA, SAIA DAQUI!}
+{423}{}{Tudo bem, ja to indo.}
 
-{500}{}{Thank you again for those heart pills, my friend. Good luck on your travels.}
+{500}{}{Obrigado novamente por essas pílulas para o coração, meu amigo. Boa sorte em suas viagens.}
 
-{600}{}{Just go away, please.}
+{600}{}{Apenas vá embora, por favor.}
 
-{700}{}{You showed John just how cruel the world is.}
+{700}{}{Você mostrou John o quão cruel é o mundo.}
