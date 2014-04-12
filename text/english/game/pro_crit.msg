@@ -185,7 +185,7 @@
 {16900}{}{Rancheiro}
 {17000}{}{Porteiro}
 {17100}{}{Porteira} #Bouncer
-{17200}{}{Mr. Handy fraco} #Weak Mr. Handy
+{17200}{}{Sr. Handy fraco} #Weak Mr. Handy
 {17300}{}{Genérico Incandescente 1} #Generic Glowing One
 {17400}{}{Dar}
 {17500}{}{Dalia}
@@ -194,188 +194,188 @@
 {17800}{}{Ghoul do reator}
 {17900}{}{Genérico Ghoul}
 {18000}{}{Matt}
-{18100}{}{Caçador de recompensas Líder (1-6)} #B. Hunter Lead (1-6)
+{18100}{}{Líder caçador de recompensas (1-6)} #B. Hunter Lead (1-6)
 {18200}{}{Caçador de recompensas (1-6)}
-{18300}{}{B. Hunter Lead (7-12)}
-{18400}{}{Bounty Hunter (7-12)}
-{18500}{}{Bounty Hunter (7-12)}
-{18600}{}{B. Hunter Lead (13-18)}
-{18700}{}{Bounty Hunter (13-18)}
-{18800}{}{Bounty Hunter (13-18)}
-{18900}{}{B. Hunter Lead (19-?)}
-{19000}{}{Bounty Hunter (19-?)}
+{18300}{}{Líder caçador de recompensas (7-12)}
+{18400}{}{Caçador de recompensas (7-12)}
+{18500}{}{Caçador de recompensas (7-12)}
+{18600}{}{Líder caçador de recompensas (13-18)}
+{18700}{}{Caçador de recompensas (13-18)}
+{18800}{}{Caçador de recompensas (13-18)}
+{18900}{}{Líder caçador de recompensas (19-?)}
+{19000}{}{Caçador de recompensas (19-?)}
 {19100}{}{Bess}
 {19101}{}{Vaca mutante de duas cabeças.}
 {19200}{}{Balthas}
 {19300}{}{Grisham}
 {19400}{}{Phil}
-{19500}{}{Chicken}
+{19500}{}{Galinha}
 {19600}{}{Karl}
 {19700}{}{Jonny}
 {19800}{}{Jo}
 {19900}{}{Zeke}
 {20000}{}{Butcher}
 {20100}{}{Petey}
-{20200}{}{Primitive Hunter}
-{20300}{}{Primitive Hunter}
-{20400}{}{Cannibal}
-{20500}{}{Cannibal}
-{20600}{}{Holy Man}
-{20700}{}{Holy Woman}
-{20800}{}{Nomad- Low}
-{20900}{}{Nomad- Med}
-{21000}{}{Nomad- Low}
-{21100}{}{Nomad- Med}
-{21200}{}{Bandit}
-{21300}{}{Bandit}
-{21400}{}{Farmer}
-{21500}{}{Farmer}
+{20200}{}{Caçador Primitivo} #Primitive Hunter
+{20300}{}{Caçador Primitivo}
+{20400}{}{Canibal} #Cannibal
+{20500}{}{Canibal}
+{20600}{}{Homem sagrado} #Holy Man
+{20700}{}{Mulher sagrada}
+{20800}{}{Nômade-Baixo}
+{20900}{}{Nômade-Médio}
+{21000}{}{Nômade-Baixo}
+{21100}{}{Nômade-Médio}
+{21200}{}{Bandido}
+{21300}{}{Bandida}
+{21400}{}{Fazendeiro}
+{21500}{}{Fazendeira}
 {21600}{}{Mantis}
-{21700}{}{Slaver}
-{21800}{}{Slaver}
-{21900}{}{Wild Brahmin}
-{22000}{}{Homesteader}
-{22100}{}{Homesteader}
-{22200}{}{Vault City Patrol}
-{22300}{}{Vault City Patrol}
-{22400}{}{Strong Slaver}
-{22500}{}{Strong Slaver}
-{22600}{}{Crazies}
-{22700}{}{Scavengers}
-{22800}{}{Glow Crazies}
-{22900}{}{Glow Scavengers}
-{23000}{}{Fisherman}
-{23100}{}{Fisherwoman}
-{23200}{}{Wilder}
-{23300}{}{Wilder}
-{23400}{}{Bootlegger}
-{23500}{}{Bootlegger}
-{23600}{}{Prospector}
-{23700}{}{Prospector}
-{23800}{}{Raider}
-{23900}{}{Raider}
-{24000}{}{Fire Gecko}
-{24100}{}{Tough Fire Gecko}
+{21700}{}{Traficante de escravos} #Slaver
+{21800}{}{Traficante de escravos}
+{21900}{}{Brahmin selvagem} #Wild Brahmin
+{22000}{}{Sobrevivencialista} #Homesteader
+{22100}{}{Sobrevivencialista}
+{22200}{}{Patrulha de Vault City}
+{22300}{}{Patrulha de Vault City}
+{22400}{}{Traficante de escravos Forte}
+{22500}{}{Traficante de escravos Forte}
+{22600}{}{Doidos} #Crazies
+{22700}{}{Catadores}
+{22800}{}{Glow Doidos}
+{22900}{}{Glow Catadores}
+{23000}{}{Pescador}
+{23100}{}{Pescadora}
+{23200}{}{Selvagens}
+{23300}{}{Selvagens}
+{23400}{}{Contrabandista de bebidas}
+{23500}{}{Contrabandista de bebidas}
+{23600}{}{Garimpeiro}
+{23700}{}{Garimpeira}
+{23800}{}{Assaltante}
+{23900}{}{Assaltante}
+{24000}{}{Gecko de fogo}
+{24100}{}{Gecko de fogo duro}
 {24200}{}{Alien}
-{24300}{}{Tough Alien}
-{24400}{}{Sm Tough Deathclaw}
-{24500}{}{Tough Deathclaw}
-{24600}{}{Floater}
-{24700}{}{Nasty Floater}
-{24800}{}{Centaur}
-{24900}{}{Mean Centaur}
-{25000}{}{Enclave Patrol}
-{25100}{}{Enclave Patrol}
-{25200}{}{Press Gang}
-{25300}{}{Press Gang}
-{25400}{}{Mercenary}
-{25500}{}{Mercenary}
-{25600}{}{Nightkin}
-{25700}{}{Tough Nightkin}
-{25800}{}{Tough Ghoul}
-{25900}{}{Mobster}
+{24300}{}{Alien duro}
+{24400}{}{Deathclaw duro}
+{24500}{}{Deathclaw dura}
+{24600}{}{Nômade} #Floater
+{24700}{}{Nômade desagradável}
+{24800}{}{Centauro} #Centaur
+{24900}{}{Centauro malvado}
+{25000}{}{Patrulheiro da Enclave}
+{25100}{}{Patrulheira da Enclave}
+{25200}{}{Gangue Press} #Press Gang
+{25300}{}{Gangue Press}
+{25400}{}{Mercenario}
+{25500}{}{Mercenaria}
+{25600}{}{Noturno} #Nightkin
+{25700}{}{Noturno duro}
+{25800}{}{Ghoul duro}
+{25900}{}{Criminoso} #Mobster
 {26000}{}{Yakuza}
 {26100}{}{NCR Ranger}
 {26200}{}{NCR Ranger}
 {26300}{}{Maurader}
 {26400}{}{Maurader}
-{26500}{}{Pretty Boy Lloyd}
-{26600}{}{Vorpal Rato}
-{26700}{}{Vault 13 Man}
-{26800}{}{Vault 13 Woman}
-{26900}{}{Bridge Guardian}
-{27000}{}{Mysterious Stranger}
-{27100}{}{Mysterious Stranger}
+{26500}{}{Lloyd Garoto bonito} #Pretty Boy Lloyd
+{26600}{}{Rato Vorpal}
+{26700}{}{Homem de Vault 13}
+{26800}{}{Mulher de Vault 13}
+{26900}{}{Guardião da Ponte} #Bridge Guardian
+{27000}{}{Estranho misterioso}
+{27100}{}{Estranha misteriosa}
 {27200}{}{Hakeswill}
-{27300}{}{Big Jesus Mordino}
+{27300}{}{Grande Jesus Mordino}
 {27400}{}{Dumar}
-{27500}{}{Mother Deathclaw}
-{27600}{}{The Dragon}
+{27500}{}{Deathclaw Mãe}
+{27600}{}{O Dragão} #The Dragon
 {27700}{}{Lo Pan}
-{27800}{}{Hubologist}
-{27900}{}{Hubologist}
-{28000}{}{Mysterious Stranger}
-{28100}{}{Mysterious Stranger}
-{28200}{}{Mysterious Stranger}
-{28300}{}{Mysterious Stranger}
-{28400}{}{Mysterious Stranger}
-{28500}{}{Mysterious Stranger}
-{28600}{}{Mysterious Stranger}
-{28700}{}{Mysterious Stranger}
+{27800}{}{Hubologista}
+{27900}{}{Hubologista}
+{28000}{}{Estranho misterioso}
+{28100}{}{Estranho misterioso}
+{28200}{}{Estranho misterioso}
+{28300}{}{Estranho misterioso}
+{28400}{}{Estranho misterioso}
+{28500}{}{Estranho misterioso}
+{28600}{}{Estranho misterioso}
+{28700}{}{Estranho misterioso}
 {28800}{}{Pres. Bodyguard}
-{28900}{}{Deathclaw Egg}
+{28900}{}{Ovo de Deathclaw}
 {29000}{}{Metzger}
-{29100}{}{Person}
-{29200}{}{Person in strange type of armor}
-{29300}{}{President}
-{29400}{}{Vice President}
-{29500}{}{Technicion}
+{29100}{}{Pessoa}
+{29200}{}{Pessoa em tipo estranho de armadura}
+{29300}{}{Presidente}
+{29400}{}{Vice Presidente}
+{29500}{}{Técnico}
 {29600}{}{Badger}
 {29700}{}{Dr. Fung}
-{29800}{}{Kid}
-{29900}{}{Kid}
-{30000}{}{Gun Merchant}
-{30100}{}{Shi Lab Tech}
-{30200}{}{Shi Guard}
-{30300}{}{Shi Peasant}
-{30400}{}{Shi Peasant}
-{30500}{}{Lo Pan Peasant}
-{30600}{}{Lo Pan Peasant}
-{30700}{}{Dock Worker}
-{30800}{}{Shi Merchant}
-{30900}{}{Keeng Ra'at}
-{31000}{}{Sulik - Stage 1}
-{31100}{}{Sulik - Stage 2}
-{31200}{}{Sulik - Stage 3}
-{31300}{}{Sulik - Stage 4}
-{31400}{}{Sulik - Stage 5}
-{31500}{}{Sulik - Stage 6}
-{31600}{}{Lenny - Stage 1}
-{31700}{}{Lenny - Stage 2}
-{31800}{}{Lenny - Stage 3}
-{31900}{}{Goris - Stage 1}
-{32000}{}{Goris - Stage 2}
-{32100}{}{Goris - Stage 3}
-{32200}{}{Goris - Stage 4}
-{32300}{}{Goris - Stage 5}
-{32400}{}{Goris - Stage 6}
-{32500}{}{Myron - Stage 1}
-{32600}{}{Myron - Stage 2}
-{32700}{}{Myron - Stage 3}
-{32800}{}{Myron - Stage 4}
-{32900}{}{Marcus - Stage 1}
-{33000}{}{Marcus - Stage 2}
-{33100}{}{Marcus - Stage 3}
-{33200}{}{Marcus - Stage 4}
-{33300}{}{Marcus - Stage 5}
-{33400}{}{Cyberdog - Stage 1}
-{33500}{}{Cyberdog - Stage 2}
-{33600}{}{Cyberdog - Stage 3}
-{33700}{}{Cyberdog - Stage 4}
-{33800}{}{Cassidy - Stage 1}
-{33900}{}{Cassidy - Stage 2}
-{34000}{}{Cassidy - Stage 3}
-{34100}{}{Cassidy - Stage 4}
+{29800}{}{Criança}
+{29900}{}{Criança}
+{30000}{}{Comerciante armado}
+{30100}{}{Técnico do laboratório Shi}
+{30200}{}{Guarda Shi}
+{30300}{}{Camponês Shi}
+{30400}{}{Camponêsa Shi}
+{30500}{}{Camponês de Lo Pan}
+{30600}{}{Camponêsa de Lo Pan}
+{30700}{}{Estivador} #Dock Worker
+{30800}{}{Comerciante Shi}
+{30900}{}{Rei Rato} #Keeng Ra'at
+{31000}{}{Sulik - Nível 1}
+{31100}{}{Sulik - Nível 2}
+{31200}{}{Sulik - Nível 3}
+{31300}{}{Sulik - Nível 4}
+{31400}{}{Sulik - Nível 5}
+{31500}{}{Sulik - Nível 6}
+{31600}{}{Lenny - Nível 1}
+{31700}{}{Lenny - Nível 2}
+{31800}{}{Lenny - Nível 3}
+{31900}{}{Goris - Nível 1}
+{32000}{}{Goris - Nível 2}
+{32100}{}{Goris - Nível 3}
+{32200}{}{Goris - Nível 4}
+{32300}{}{Goris - Nível 5}
+{32400}{}{Goris - Nível 6}
+{32500}{}{Myron - Nível 1}
+{32600}{}{Myron - Nível 2}
+{32700}{}{Myron - Nível 3}
+{32800}{}{Myron - Nível 4}
+{32900}{}{Marcus - Nível 1}
+{33000}{}{Marcus - Nível 2}
+{33100}{}{Marcus - Nível 3}
+{33200}{}{Marcus - Nível 4}
+{33300}{}{Marcus - Nível 5}
+{33400}{}{Cyberdog - Nível 1}
+{33500}{}{Cyberdog - Nível 2}
+{33600}{}{Cyberdog - Nível 3}
+{33700}{}{Cyberdog - Nível 4}
+{33800}{}{Cassidy - Nível 1}
+{33900}{}{Cassidy - Nível 2}
+{34000}{}{Cassidy - Nível 3}
+{34100}{}{Cassidy - Nível 4}
 {34200}{}{Dogmeat}
-{34300}{}{Dogmeat - Stage 1}
-{34400}{}{Dogmeat - Stage 2}
-{34500}{}{Dogmeat - Stage 3}
-{34600}{}{Dogmeat - Stage 4}
-{34700}{}{Dogmeat - Stage 5}
-{34800}{}{Dogmeat - Stage 6}
-{34900}{}{Robôcerebro - Stage 1}
-{35000}{}{Robôcerebro - Stage 2}
-{35100}{}{Robôcerebro - Stage 3}
-{35200}{}{Robôcerebro - Stage 4}
-{35300}{}{Robôcerebro - Stage 5}
-{35400}{}{Queen Alien}
-{35500}{}{Black Radscorpion}
-{35600}{}{Black Radscorpion}
+{34300}{}{Dogmeat - Nível 1}
+{34400}{}{Dogmeat - Nível 2}
+{34500}{}{Dogmeat - Nível 3}
+{34600}{}{Dogmeat - Nível 4}
+{34700}{}{Dogmeat - Nível 5}
+{34800}{}{Dogmeat - Nível 6}
+{34900}{}{Robôcerebro - Nível 1}
+{35000}{}{Robôcerebro - Nível 2}
+{35100}{}{Robôcerebro - Nível 3}
+{35200}{}{Robôcerebro - Nível 4}
+{35300}{}{Robôcerebro - Nível 5}
+{35400}{}{Rainha Alien}
+{35500}{}{Radscorpion preto}
+{35600}{}{Radscorpion preto}
 {35700}{}{Spud}
-{35800}{}{Mercenary Captain}
-{35900}{}{Mercenary}
-{36000}{}{Mercenary}
-{36100}{}{Shadow-Who-Walks}
+{35800}{}{Capitão de Mercenários}
+{35900}{}{Mercenário}
+{36000}{}{Mercenária}
+{36100}{}{Sombra-que-Caminha} #Shadow-Who-Walks
 {36200}{}{Punk}
 {36300}{}{Punk}
 {36400}{}{Marc}
@@ -383,22 +383,22 @@
 {36600}{}{Capt. A. Ron Meyers}
 {36700}{}{Chip}
 {36800}{}{AHS-9}
-{36900}{}{Hubologist Guard}
-{37000}{}{Hubologist Guard}
+{36900}{}{Guarda Hubologista}
+{37000}{}{Guarda Hubologista}
 {37100}{}{Juan}
 {37200}{}{Vikki}
-{37300}{}{Vic - Stage 1}
-{37400}{}{Vic - Stage 2}
-{37500}{}{Vic - Stage 3}
-{37600}{}{Vic - Stage 4}
-{37700}{}{Vic - Stage 5}
-{37800}{}{Vic - Stage 6}
-{37900}{}{Robôcerebro - Chimp}
-{38000}{}{Robôcerebro - Abnormal}
-{38100}{}{Robôcerebro - Human}
-{38200}{}{Giant Ant}
-{38300}{}{Tough Giant Ant}
-{38400}{}{Pariah Dog}
+{37300}{}{Vic - Nível 1}
+{37400}{}{Vic - Nível 2}
+{37500}{}{Vic - Nível 3}
+{37600}{}{Vic - Nível 4}
+{37700}{}{Vic - Nível 5}
+{37800}{}{Vic - Nível 6}
+{37900}{}{Robôcerebro - Chimpanzé}
+{38000}{}{Robôcerebro - Anormal}
+{38100}{}{Robôcerebro - Humano}
+{38200}{}{Formiga Gigante} #Giant Ant
+{38300}{}{Formiga Gigante dura}
+{38400}{}{Cachorro Pariah}
 {38500}{}{Zurak}
 {38600}{}{Imbot}
 {38700}{}{Jimmy}
@@ -413,90 +413,90 @@
 {39600}{}{Master Khung}
 {39700}{}{John Bishop}
 {39800}{}{Angela Bishop}
-{39900}{}{Mrs. Bishop}
-{40000}{}{Bishop's Guard 1}
-{40100}{}{Bishop's Guard 2}
-{40200}{}{Bishop's Thug 1}
-{40300}{}{Bishop's Thug 2}
-{40400}{}{Angry Brahmin}
+{39900}{}{Sra. Bishop}
+{40000}{}{Guarda Bishop's 1}
+{40100}{}{Guarda Bishop's 2}
+{40200}{}{Bandido Bishop's 1}
+{40300}{}{Bandido Bishop's 2}
+{40400}{}{Brahmin zangado}
 {40500}{}{Lil' Jesus}
 {40600}{}{Big Jesus}
-{40700}{}{Mordino Men 1}
-{40800}{}{Mordino Men 2}
-{40900}{}{Mordino Men 3}
-{41000}{}{Myron's Guard 1}
-{41100}{}{Myron's Guard 2}
-{41200}{}{Mr. Wright}
-{41300}{}{Mrs. Wright}
+{40700}{}{Homem de Mordino 1}
+{40800}{}{Homem de Mordino 2}
+{40900}{}{Homem de Mordino 3}
+{41000}{}{Guarda Myron 1}
+{41100}{}{Guarda Myron 2}
+{41200}{}{Sr. Wright}
+{41300}{}{Sra. Wright}
 {41400}{}{Chris Wright}
 {41500}{}{Keith Wright}
-{41600}{}{Wright Son 1}
-{41700}{}{Wright Son 2}
-{41800}{}{Wright Daughter 1}
-{41900}{}{Wright Daughter 2}
-{42000}{}{Mr. Salvatore}
+{41600}{}{Filho de Wright 1}
+{41700}{}{Filho de Wright 2}
+{41800}{}{Filha de Wright 1}
+{41900}{}{Filha de Wright 2}
+{42000}{}{Sr. Salvatore}
 {42100}{}{Mason}
-{42200}{}{Salvatore Thug 1}
-{42300}{}{Salvatore Thug 2}
-{42400}{}{Generic Bartender 1}
-{42500}{}{Generic Bartender 2}
-{42600}{}{Generic Bartender 3}
-{42700}{}{Boxer 1}
-{42800}{}{Boxer 2}
-{42900}{}{Boxer 3}
-{43000}{}{Boxer 4}
-{43100}{}{Mike the Masticator}
+{42200}{}{Bandido de Salvatore 1}
+{42300}{}{Bandido de Salvatore 2}
+{42400}{}{Garçom genérico 1}
+{42500}{}{Garçom genérico 2}
+{42600}{}{Garçom genérico 3}
+{42700}{}{Boxeador 1}
+{42800}{}{Boxeador 2}
+{42900}{}{Boxeador 3}
+{43000}{}{Boxeador 4}
+{43100}{}{Mike o Masticador}
 {43200}{}{Holyfeld}
 {43300}{}{McKneely}
 {43400}{}{Stuart Little}
-{43500}{}{Corsican Brothers}
-{43600}{}{Corsican Bitches}
-{43700}{}{Father Tully}
-{43800}{}{Casino Bouncer 1}
-{43900}{}{Casino Bouncer 2}
-{44000}{}{Casino Girl}
-{44100}{}{Drug Dealer/Pimp1}
-{44200}{}{Drug Dealer/Pimp2}
-{44300}{}{Drug Dealer/Pimp3}
-{44400}{}{Drug Dealer/Pimp4}
+{43500}{}{Irmãos Corsican} #Corsican Brothers
+{43600}{}{Prostitutas dos Corsican}
+{43700}{}{Padre Tully}
+{43800}{}{Segurança do Casino 1}
+{43900}{}{Segurança do Casino 2}
+{44000}{}{Garota do Casino}
+{44100}{}{Traficante de Drogas 1} #Drug Dealer/Pimp
+{44200}{}{Traficante de Drogas 2}
+{44300}{}{Traficante de Drogas 3}
+{44400}{}{Traficante de Drogas 4}
 {44500}{}{McGee}
 {44600}{}{Miss Kitty}
-{44700}{}{Generic Slut 1}
-{44800}{}{Generic Slut 2}
+{44700}{}{Prostituta Genérica 1}
+{44800}{}{Prostituta Genérica 2}
 {44900}{}{Jagged Jimmy J}
 {45000}{}{Renesco}
-{45100}{}{Scientist}
+{45100}{}{Cientista}
 {45200}{}{Eldridge}
 {45300}{}{Algernon}
 {45400}{}{Jules}
-{45500}{}{Bureaucrat 1}
-{45600}{}{Bureaucrat 2}
-{45700}{}{Trader 1}
-{45800}{}{Trader 2}
-{45900}{}{Guard 1}
-{46000}{}{Guard 2}
-{46100}{}{Guard 3}
-{46200}{}{Guard 4}
-{46300}{}{Soldier 1}
-{46400}{}{Soldier 2}
-{46500}{}{Soldier 3}
-{46600}{}{Soldier 4}
+{45500}{}{Burocrata 1}
+{45600}{}{Burocrata 2}
+{45700}{}{Comerciante 1}
+{45800}{}{Comerciante 2}
+{45900}{}{Guarda 1}
+{46000}{}{Guarda 2}
+{46100}{}{Guarda 3}
+{46200}{}{Guarda 4}
+{46300}{}{Soldado 1}
+{46400}{}{Soldado 2}
+{46500}{}{Soldado 3}
+{46600}{}{Soldado 4}
 {46700}{}{Sgt. Stark}
 {46800}{}{"Doc" Andrew}
-{46900}{}{Bartender}
-{47000}{}{Gun Turret}
-{47001}{}{This is an automated gun turret equipped with a Dual Plasma Cannon.}
+{46900}{}{Garçom}
+{47000}{}{Torre armada} #Gun Turret
+{47001}{}{Esta é uma torre de tiro automático equipado com um canhão de plasma duplo.}
 {47100}{}{K-9 (base)}
-{47200}{}{K-9 (stage 1)}
-{47300}{}{K-9 (stage 2)}
-{47400}{}{K-9 (stage 3)}
-{47500}{}{K-9 (stage 4)}
-{47600}{}{Generic Cyberdog}
-{47700}{}{Wanamingo Egg}
-{47800}{}{Lo Pan Guard}
+{47200}{}{K-9 (Nível 1)}
+{47300}{}{K-9 (Nível 2)}
+{47400}{}{K-9 (Nível 3)}
+{47500}{}{K-9 (Nível 4)}
+{47600}{}{Cyberdog genérico}
+{47700}{}{Ovo de Wanamingo} #Wanamingo Egg
+{47800}{}{Guarda de Lo Pan}
 {47900}{}{Marjorie}
-{48000}{}{Auto-Cannon}
-{48100}{}{Special Gecko Critter}
-{48200}{}{Grim Reaper}
+{48000}{}{Canhão automático}
+{48100}{}{Gecko especial}
+{48200}{}{Ceifador} #Grim Reaper
 {48300}{}{Frank Horrigan}
-{48301}{}{The President's Body Guard.}
+{48301}{}{Guarda Costas do Presidente.} #The President's Body Guarda.
