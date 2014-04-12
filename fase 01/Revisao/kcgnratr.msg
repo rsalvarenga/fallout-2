@@ -1,4 +1,4 @@
-# Matheus Reis Traduzindo
+# Matheus Reis Traduzido
 
 # It looks like a generator
 {100}{}{Parece ser um gerador.}
@@ -7,12 +7,12 @@
 # The generator needs repairs first.
 {200}{}{O gerador precisa de conserto primeiro.}
 # The generator is already running.
-{201}{}{O gerador jÃ¡ estÃ¡ em execuÃ§Ã£o.}
+{201}{}{O gerador já está em execução.}
 # You shutdown the generator.
-{202}{}{VocÃª desliga o gerador.}
+{202}{}{Você desliga o gerador.}
 # That skill is useless on a generator.
-{300}{}{Essa habilidade Ã© inÃºtil em um gerador.}
+{300}{}{Essa habilidade é inútil em um gerador.}
 # You repair the generator and start it up.
-{400}{}{VocÃª conserta e inicia o gerador.}
+{400}{}{Você conserta e inicia o gerador.}
 # You failed to repair the generator.
-{401}{}{VocÃª nÃ£o conseguiu reparar o gerador.}
+{401}{}{Você não conseguiu reparar o gerador.}
