@@ -16,124 +16,124 @@
 {901}{}{Um canino, provavelmente de uma raça mista.}
 {1000}{}{Brahmin}
 {1001}{}{Vaca mutante de duas cabeças.}
-{1100}{}{Rat}
+{1100}{}{Rato}
 {1101}{}{Um grande e típico rato.}
 {1200}{}{Mantis}
 {1201}{}{Um Mantis mutado.}
 {1300}{}{Anciã}
 {1400}{}{Hakunin}
 {1500}{}{Mynoc}
-{1600}{}{Spore Plant}
+{1600}{}{Planta de esporas} #Spore Plant
 {1601}{}{Uma planta carnivora.}
-{1700}{}{Cute Slave}
-{1800}{}{Handsome Slave}
-{1900}{}{Healthy Slave}
-{2000}{}{Healthy Slave}
-{2100}{}{Strong Slave}
-{2200}{}{Strong Slave}
-{2300}{}{Combat Slave}
-{2400}{}{Combat Slave}
-{2500}{}{Clever Slave}
-{2600}{}{Clever Slave}
-{2700}{}{Generic Slave}
-{2800}{}{Generic Slave}
+{1700}{}{Escravo charmoso} #Cute Slave
+{1800}{}{Escrava charmosa} #handsome Slave
+{1900}{}{Escravo saudável}
+{2000}{}{Escrava saudável}
+{2100}{}{Escravo forte}
+{2200}{}{Escrava forte}
+{2300}{}{Escravo de combate} #Combat Slave
+{2400}{}{Escrava de combate}
+{2500}{}{Escravo Inteligente} #Clever Slave
+{2600}{}{Escrava Inteligente}
+{2700}{}{Escravo genérico} #Generic Slave
+{2800}{}{Escrava genérica}
 {2900}{}{Anna}
-{3000}{}{Tough Thug}
-{3100}{}{Tough Thug}
-{3200}{}{Melee Thug}
-{3300}{}{Melee Thug}
-{3400}{}{Agile Thug}
-{3500}{}{Agile Thug}
-{3600}{}{Gun Thug}
-{3700}{}{Gun Thug}
-{3800}{}{Big Gun Thug}
-{3900}{}{Big Gun Thug}
-{4000}{}{Tough Guard}
-{4100}{}{Tough Guard}
-{4200}{}{Melee Guard}
-{4300}{}{Melee Guard}
-{4400}{}{Agile Guard}
-{4500}{}{Agile Guard}
-{4600}{}{Gun Guard}
-{4700}{}{Gun Guard}
-{4800}{}{Big Gun Guard}
-{4900}{}{Big Gun Guard}
-{5000}{}{Orphan (Male)}
-{5100}{}{Orphan (Female)}
-{5200}{}{Child (Male)}
-{5300}{}{Child (Female)}
-{5400}{}{Loser}
-{5500}{}{Loser}
-{5600}{}{Bad Merchant}
-{5700}{}{Bad Merchant}
-{5800}{}{Average Merchant}
-{5900}{}{Average Merchant}
-{6000}{}{Master Trader}
-{6100}{}{Master Trader}
+{3000}{}{Bandido resistente} #Tough Thug
+{3100}{}{Bandida resistente}
+{3200}{}{Bandido desarmado} #Melee Thug
+{3300}{}{Bandida desarmado}
+{3400}{}{Bandido ágil} #Agile Thug
+{3500}{}{Bandida ágil}
+{3600}{}{Bandido armado} #Gun Thug
+{3700}{}{Bandida armada}
+{3800}{}{Bandido muito bem armado} #Big Gun Thug
+{3900}{}{Bandida muito bem armada}
+{4000}{}{Guarda resistente}
+{4100}{}{Guarda resistente} #Tough Guard
+{4200}{}{Guarda desarmado} #Melee Guard
+{4300}{}{Guarda desarmada}
+{4400}{}{Guarda ágil} #Agile Guard
+{4500}{}{Guarda ágil}
+{4600}{}{Guarda armado} #Gun Guard
+{4700}{}{Guarda armada}
+{4800}{}{Guarda muito bem armado} #Big Gun Guard
+{4900}{}{Guarda muito bem armada}
+{5000}{}{Órfão (Masculino)}
+{5100}{}{Órfão (Feminino)}
+{5200}{}{Criança (Masculino)}
+{5300}{}{Criança (Feminino)}
+{5400}{}{Perdedor}
+{5500}{}{Perdedora}
+{5600}{}{Mal comerciante} #Bad Merchant
+{5700}{}{Mal comerciante}
+{5800}{}{Comerciante}
+{5900}{}{Comerciante}
+{6000}{}{Mestre Negociante}
+{6100}{}{Mestre Negociante} #Master Trader
 {6200}{}{Vic}
-{6300}{}{Weak Peasant}
-{6400}{}{Weak Peasant}
-{6500}{}{Average Peasant}
-{6600}{}{Average Peasant}
-{6700}{}{Strong Peasant}
-{6800}{}{Strong Peasant}
-{6900}{}{Weak Melee Guard}
-{7000}{}{Weak Melee Guard}
-{7100}{}{Weak Gun Guard}
-{7200}{}{Weak Gun Guard}
-{7300}{}{Repair Bot}
-{7400}{}{Repair Bot Mark II}
-{7500}{}{Robobrain}
-{7600}{}{Floating Eye Bot}
-{7700}{}{Sentry Bot}
-{7800}{}{Sentry Bot Mark II}
-{7900}{}{Robobrain}
-{8000}{}{Little Gecko}
-{8100}{}{Tough Lil Gecko}
-{8200}{}{Wild Dog}
+{6300}{}{Camponês fraco} #Weak Peasant
+{6400}{}{Camponêsa fraca}
+{6500}{}{Camponês} #Average Peasant
+{6600}{}{Camponêsa}
+{6700}{}{Camponês forte} #Strong Peasant
+{6800}{}{Camponêsa forte}
+{6900}{}{Guarda fraco e desarmado} #Weak Melee Guard
+{7000}{}{Guarda fraco e desarmada}
+{7100}{}{Guarda armado} #Weak Gun Guard
+{7200}{}{Guarda armada}
+{7300}{}{Robô de Reparação} #Repair Bot
+{7400}{}{Robô de Reparação Mark II}
+{7500}{}{Robôcerebro} #Robobrain
+{7600}{}{Robô olho flutuante} #Floating Eye Bot
+{7700}{}{Robô sentinela} #Sentry Bot
+{7800}{}{Robô sentinela Mark II}
+{7900}{}{Robôcerebro}
+{8000}{}{Gecko pequeno} #Little Gecko
+{8100}{}{Gecko pequeno e forte}
+{8200}{}{Cachorro selvagem} #Wild Dog
 {8201}{}{Um cão feroz de raça mista.}
-{8300}{}{Golden Gecko}
+{8300}{}{Gecko dourado} #Golden Gecko
 {8400}{}{Deathclaw}
-{8500}{}{Deathclaw Spawn}
-{8600}{}{Tough Golden Gecko}
+{8500}{}{Ovo de Deathclaw}
+{8600}{}{Gecko dourado forte}
 {8700}{}{Lynette}
 {8800}{}{Dr. Troy}
 {8900}{}{John Cassidy}
 {9000}{}{Gregory}
-{9100}{}{Citizen (Female)}
-{9200}{}{Citizen (Male)}
-{9300}{}{Up Class Citizen (F)}
-{9400}{}{Up Class Citizen (M)}
-{9500}{}{Trapper}
-{9600}{}{Trapper}
+{9100}{}{Cidadã}
+{9200}{}{Cidadão}
+{9300}{}{Cidadã de classe alta}
+{9400}{}{Cidadão de classe alta}
+{9500}{}{Caçador}
+{9600}{}{Caçadora}
 {9700}{}{Sulik}
 {9800}{}{Maida Buckner}
 {9900}{}{Torr}
 {10000}{}{Lumpy}
-{10100}{}{Reactor Glowing One}
-{10200}{}{Reactor Ghoul}
-{10300}{}{Reactor Guard}
+{10100}{}{Reator Incandescente 1} #Reactor Glowing One
+{10200}{}{Reator Ghoul} #Reactor Ghoul
+{10300}{}{Guarda do Reator}
 {10400}{}{Zomak}
 {10500}{}{Skeeter}
-{10600}{}{The Brain}
+{10600}{}{O Cérebro} #The Brain
 {10700}{}{Lenny}
 {10800}{}{Wooz}
 {10900}{}{Harold}
-{11000}{}{Mole Rat}
-{11100}{}{Greater Mole Rat}
-{11200}{}{Pig Rat}
-{11300}{}{Tough Pig Rat}
-{11400}{}{Weak Brahmin}
-{11401}{}{A two-headed, mutant cow.}
-{11500}{}{A.Pwr.Armor (não use)}
-{11600}{}{Mutated Rat}
-{11601}{}{A tough mutant rat.}
-{11700}{}{Mutated Mole Rat}
-{11701}{}{A tough mutant mole rat.}
-{11800}{}{Mutated Pig Rat}
-{11801}{}{A tough mutant pig rat.}
-{11900}{}{Super Mutant}
-{12000}{}{Powerful Mutant}
+{11000}{}{Rato toupeira}
+{11100}{}{Rato toupeira grande}
+{11200}{}{Rato porco}
+{11300}{}{Rato porco forte}
+{11400}{}{Brahmin fraco}
+{11401}{}{Um vaca mutante de duas cabeças.}
+{11500}{}{A.Pwr.Armor (don't use)}
+{11600}{}{Rato mutante}
+{11601}{}{Um rato mutante.}
+{11700}{}{Rato topeira mutante}
+{11701}{}{Um rato topeira mutante.}
+{11800}{}{Rato porco mutante}
+{11801}{}{Um Rato porco mutante.}
+{11900}{}{Super Mutante}
+{12000}{}{Mutante poderoso}
 {12100}{}{Melchoir}
 {12200}{}{Hero Andro (não use)}
 {12300}{}{Hero Andro (não use)}
@@ -147,32 +147,32 @@
 {13100}{}{Heroína (não use)}
 {13200}{}{Herói (não use)}
 {13300}{}{Heroína (não use)}
-{13400}{}{Vault City Guard}
-{13500}{}{Vault City Guard}
+{13400}{}{Guarda de Vault City}
+{13500}{}{Guarda de Vault City}
 {13600}{}{Cyberdog}
-{13700}{}{NCR Guard}
-{13800}{}{NCR Guard}
-{13900}{}{NCR Melee Guard}
-{14000}{}{Slaver Guard}
-{14100}{}{Slaver Overseer}
-{14200}{}{Grand Master Trader}
-{14300}{}{Grand Master Trader}
+{13700}{}{Guarda de NCR}
+{13800}{}{Guarda de NCR}
+{13900}{}{Guarda desarmado de NCR}
+{14000}{}{Guarda de escravos}
+{14100}{}{Supervisor de escravos} #Slaver Overseer
+{14200}{}{O Grande Mestre Comerciante} #Grand Master Trader
+{14300}{}{A Grande Mestre Negociante}
 {14400}{}{Tandi}
 {14500}{}{Merc}
 {14600}{}{Ratch}
 {14700}{}{Doofus}
 {14800}{}{Mikey}
-{14900}{}{NCR Bartender}
-{15000}{}{Shop Owner}
+{14900}{}{Garçom de NCR}
+{15000}{}{Dono da loja} #Shop Owner
 {15100}{}{Gruthar}
 {15200}{}{Goris}
-{15300}{}{Molerat Fighter}
-{15400}{}{Molerat Fighter}
-{15500}{}{Molerat Fighter}
-{15600}{}{Molerat Fighter}
-{15700}{}{Molerat Fighter}
-{15800}{}{Molerat Fighter}
-{15900}{}{Generic Ghoul}
+{15300}{}{Rato toupeira de luta}
+{15400}{}{Rato toupeira de luta}
+{15500}{}{Rato toupeira de luta}
+{15600}{}{Rato toupeira de luta}
+{15700}{}{Rato toupeira de luta}
+{15800}{}{Rato toupeira de luta}
+{15900}{}{Ghoul genérico}
 {16000}{}{Myron}
 {16100}{}{Marcus}
 {16200}{}{Doc Jones}
@@ -180,22 +180,22 @@
 {16400}{}{Miria}
 {16500}{}{Laddie}
 {16600}{}{Rondo}
-{16700}{}{Ranch Hand}
-{16800}{}{Ranch Hand}
-{16900}{}{Ranch Hand}
-{17000}{}{Bouncer}
-{17100}{}{Bouncer}
-{17200}{}{Weak Mr. Handy}
-{17300}{}{Generic Glowing One}
+{16700}{}{Rancheiro} #Ranch Hand
+{16800}{}{Rancheiro}
+{16900}{}{Rancheiro}
+{17000}{}{Porteiro}
+{17100}{}{Porteira} #Bouncer
+{17200}{}{Mr. Handy fraco} #Weak Mr. Handy
+{17300}{}{Genérico Incandescente 1} #Generic Glowing One
 {17400}{}{Dar}
 {17500}{}{Dalia}
 {17600}{}{Gordon}
 {17700}{}{test (não use)}
-{17800}{}{Reactor Ghoul}
-{17900}{}{Generic Ghoul}
+{17800}{}{Ghoul do reator}
+{17900}{}{Genérico Ghoul}
 {18000}{}{Matt}
-{18100}{}{B. Hunter Lead (1-6)}
-{18200}{}{Bounty Hunter (1-6)}
+{18100}{}{Caçador de recompensas Líder (1-6)} #B. Hunter Lead (1-6)
+{18200}{}{Caçador de recompensas (1-6)}
 {18300}{}{B. Hunter Lead (7-12)}
 {18400}{}{Bounty Hunter (7-12)}
 {18500}{}{Bounty Hunter (7-12)}
@@ -280,7 +280,7 @@
 {26300}{}{Maurader}
 {26400}{}{Maurader}
 {26500}{}{Pretty Boy Lloyd}
-{26600}{}{Vorpal Rat}
+{26600}{}{Vorpal Rato}
 {26700}{}{Vault 13 Man}
 {26800}{}{Vault 13 Woman}
 {26900}{}{Bridge Guardian}
@@ -363,11 +363,11 @@
 {34600}{}{Dogmeat - Stage 4}
 {34700}{}{Dogmeat - Stage 5}
 {34800}{}{Dogmeat - Stage 6}
-{34900}{}{Robobrain - Stage 1}
-{35000}{}{Robobrain - Stage 2}
-{35100}{}{Robobrain - Stage 3}
-{35200}{}{Robobrain - Stage 4}
-{35300}{}{Robobrain - Stage 5}
+{34900}{}{Robôcerebro - Stage 1}
+{35000}{}{Robôcerebro - Stage 2}
+{35100}{}{Robôcerebro - Stage 3}
+{35200}{}{Robôcerebro - Stage 4}
+{35300}{}{Robôcerebro - Stage 5}
 {35400}{}{Queen Alien}
 {35500}{}{Black Radscorpion}
 {35600}{}{Black Radscorpion}
@@ -393,9 +393,9 @@
 {37600}{}{Vic - Stage 4}
 {37700}{}{Vic - Stage 5}
 {37800}{}{Vic - Stage 6}
-{37900}{}{RoboBrain - Chimp}
-{38000}{}{Robobrain - Abnormal}
-{38100}{}{Robobrain - Human}
+{37900}{}{Robôcerebro - Chimp}
+{38000}{}{Robôcerebro - Abnormal}
+{38100}{}{Robôcerebro - Human}
 {38200}{}{Giant Ant}
 {38300}{}{Tough Giant Ant}
 {38400}{}{Pariah Dog}

@@ -7,7 +7,7 @@
 {100}{}{Armas Leves}	#Small Guns
 {101}{}{Armas Pesadas}	#Big Guns
 {102}{}{Armas de Energia}	#Energy Weapons
-{103}{}{Corpo-a-Copor}	#Unarmed
+{103}{}{Desarmado}	#Unarmed
 {104}{}{Armas Brancas}	#Melee Weapons
 {105}{}{Arremesso}	#Throwing
 {106}{}{Primeiros Socorros}	#First aid
