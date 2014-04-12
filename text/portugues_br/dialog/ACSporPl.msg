@@ -19,10 +19,8 @@
 #  glanced and and examined.                                #
 #############################################################
 {100}{}{Você vê uma planta da alma escura.}
-{101}{}{Estas plantas não só são prejudiciais para o jardim, também tem a capacidade de atacar os seres humanos
- e outras criaturas.}
-{102}{}{Estas plantas de almas escuras são mutações estranhas. É duvidoso que se transformaram 
-por fenômenos naturais.}
+{101}{}{Estas plantas não só são prejudiciais para o jardim como também tem a capacidade de atacar os seres humanos e outras criaturas.}
+{102}{}{Estas plantas de almas escuras são mutações estranhas. É duvidoso que se transformaram por fenômenos naturais.}
 {103}{}{Você percebe que não tem nada de especial nessas plantas - além do fato de que atacam os seres humanos.}
 
 #############################################################

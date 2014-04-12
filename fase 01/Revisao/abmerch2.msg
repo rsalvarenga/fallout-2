@@ -1,9 +1,9 @@
 #You see a merchant.
-{100}{}{VocÃª vÃª um comerciante.}
+{100}{}{Você vê um comerciante.}
 #He seems to be assisting the man who is fixing the pump.
-{101}{}{Parece que ele estÃ¡ ajudando o homem que estÃ¡ concertando a bomba.}
+{101}{}{Parece que ele está ajudando o homem que está concertando a bomba.}
 #This is taking longer than we thought.
-{102}{}{Isso estÃ¡ demorando mais do que pensÃ¡vamos.}
+{102}{}{Isso está demorando mais do que pensávamos.}
 #Check with the boss if you think you can help.
 {103}{}{Fale com o chefe se achar que pode ajudar.}
 #Great job with fixing the pump.
