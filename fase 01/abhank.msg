@@ -1,62 +1,61 @@
-{100}{}{You see Hank.}
-{101}{}{You see a greasy monk.}
-{102}{}{He is messing with a still.}
+{100}{}{Você vê Hank.}
+{101}{}{Você vê um monge gorducho.} #You see a greasy monk.
+{102}{}{Ele está mexendo com um ainda.}
 
-{200}{}{Hey, buddy. Do you have a lighter on you?}
-{201}{}{Yep. [Hand your lighter to him.]}
-{202}{}{This is perfect. Thanks!}
-{203}{}{Out of curiosity, what exactly are you doing here?}
-{204}{}{Sure. Since you brought me a lighter, here's one on the house.}
-{205}{}{[Drink it.]}
-{206}{}{I changed my mind I don't want any alcohol. Bye.}
-{207}{}{(You feel warm and relaxed after you gulp down the wine.)}
-{208}{}{Gimme another, Hank.}
-{209}{}{I'll go now, bye.}
-{210}{}{(Suddenly you feel like shit, then your vision begins to blur. You fall on the ground...)}
-{211}{}{[DONE]}
-{212}{}{No, Sorry.}
-{213}{}{Hi, again.}
-{214}{}{Hi and bye.}
-{215}{}{This one won't be free. It'll cost you $20.}
-{216}{}{Sure. Here's the money.}
-{217}{}{Nah, I've had enough. Maybe next time.}
-{218}{}{(He pockets the money.) Alright then, here's the drink.}
-{219}{}{I'll come back when I have more money.}
+{200}{}{Ei, amigo. Você tem um isqueiro?}
+{201}{}{Sim. [Distribua o seu isqueiro para ele.]}
+{202}{}{Isto é perfeito. Obrigado!}
+{203}{}{Só por curiosidade, o que exatamente você está fazendo aqui?}
+{204}{}{Claro. Desde que você me traga um isqueiro, aqui será sua casa.}
+{205}{}{[Beba-o.]}
+{206}{}{Eu mudei minha mente. Eu não quero qualquer tipo de álcool. Tchau.}
+{207}{}{(Você se sente quente e relaxado depois de beber o vinho.)}
+{208}{}{Me dê outra, Hank.}
+{209}{}{Eu vou agora, tchau.}
+{210}{}{(De repente, você se senti como merda, então sua visão começa a ficar confusa. Você cai no chão...)}
+{211}{}{[FEITO]}
+{212}{}{Não, desculpe.}
+{213}{}{Oi, novamente.}
+{214}{}{Oi e tchau.}
+{215}{}{Este aqui não será de graça. Vai lhe custar $20.}
+{216}{}{Claro. Aqui está o dinheiro.}
+{217}{}{Nah, eu tive o suficiente. Talvez na próxima.}
+{218}{}{(Ele embolsa o dinheiro.) Certo, então, aqui está a bebida.}
+{219}{}{Eu vou voltar quando eu tiver mais dinheiro.}
 
-{220}{}{Any luck finding a lighter?}
+{220}{}{Teve sorte de encontrar um isqueiro?}
 
-{250}{}{I would like to buy some of the alcohol you make here.}
-{251}{}{Just looking around. Take care.}
-{252}{}{Sure. $20 a bottle.}
-{253}{}{[Hold on to it.]}
+{250}{}{Eu gostaria de comprar um pouco do álcool que você tem aqui.}
+{251}{}{Basta olhar ao redor. Tome cuidado.}
+{252}{}{Claro. $20 por garrafa.}
+{253}{}{[Segure-se a ela.]}
 
 
-{300}{}{Where did I put my lighter?}
-{301}{}{I need a lighter.}
-{302}{}{COULD SOMEONE BRING ME A LIGHTER!?}
-{303}{}{Uh, hi there.}
-{304}{}{Sorry, I can't chat with you now.}
+{300}{}{Onde eu coloquei meu isqueiro?}
+{301}{}{Eu preciso de um isqueiro.}
+{302}{}{ALGUÉM PODERIA ME TRAZER UM ISQUEIRO!?}
+{303}{}{Uh, oi lá.}
+{304}{}{Desculpe, eu não posso conversar com você agora.}
 
-{400}{}{Ooh, look at all those pretty stars!}
+{400}{}{Ooh, olhe todas essas estrelas bonitas!}
 
-{500}{}{Hello. Need something?}
-{501}{}{Hey, thanks again for the lighter. It's better than my old one.}
+{500}{}{Olá. Precisa de alguma coisa?}
+{501}{}{Hey, obrigado novamente pelo isqueiro. É melhor do que o meu antigo.}
 
-{600}{}{We brew our own alcohol here at the monastery. Some of the most powerful stuff you'll taste in the Wastes.}
-{601}{}{Mind if I try some?}
-{602}{}{Sounds interesting. I must be going.}
+{600}{}{Vamos nos preparar espiritualmente nesse mosteiro. Você experimentará nesses resíduos, algumas das coisas mais poderosas já vistas.}
+{601}{}{Se importa se eu experimentar?}
+{602}{}{Parece interessante. Eu preciso ir.}
 
-{700}{}{That's too bad. I lost mine recently and I can't seem to find it anywhere. If you ever get a hold of one,
- I'd be glad to take it off your hands.}
-{701}{}{Sure. If I come across one I'll let you know. Bye.}
-{702}{}{Sorry. I'm a bit of a collector and keep all that I find. Bye.}
+{700}{}{Isso é muito ruim. Eu perdi o meu recentemente e eu não consigo encontrá-lo em lugar nenhum. Se você algum dia conseguir um, eu ficaria feliz em pegar de suas mãos.}
+{701}{}{Claro. Se eu encontrar um te aviso. Tchau.}
+{702}{}{Desculpe. Eu sou um pouco colecionador e gosto de manter tudo o que eu encontro. Tchau.}
 
 #dumb dialgoue
-{800}{}{Li-ter? I have fire maker. It burn me many times. (You hold up a lighter.)}
+{800}{}{Li-ter? Tenho máquina de criar fogo. Ela já me queimou muitas vezes. (Você ergue um isqueiro.)}
 
-{810}{}{Yeah, that's what I need. Will you give it to me?}
-{811}{}{Otay. I no likee it.}
-{812}{}{I no give you.}
+{810}{}{Sim, isso é o que eu preciso. Você vai dar para mim?}
+{811}{}{Okay. Eu já gosto dele.}
+{812}{}{Eu não vou lhe dar}
 
-{820}{}{You no now burn self too. Bye!}
+{820}{}{Agora cuidado para não se queimar também. Tchau!}
 

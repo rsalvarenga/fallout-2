@@ -1,2 +1,2 @@
 #You have encountered a monastery and a small community built around it.
-{100}{}{VocÃª encontrou um monastÃ©rio e uma pequena comunidade construÃ­da ao redor.}
+{100}{}{Você encontrou um monastério e uma pequena comunidade construída ao redor.}
