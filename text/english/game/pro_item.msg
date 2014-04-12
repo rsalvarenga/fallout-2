@@ -27,118 +27,118 @@
 {1400}{}{Explosive Rocket}
 {1401}{}{Um foguete com uma grande ogiva explosiva.}
 {1500}{}{Plasma Rifle}
-{1501}{}{A Winchester Model P94 Plasma Rifle. An industrial-grade energy weapon, firing superheated bolts of plasma down a superconducting barrel. Powered by Micro Fusion Cells. Min ST: 6.}
+{1501}{}{Um rifle de plasma modelo Winchester P94. Uma arma energética de grade industrial, que dispara raios de plasma superaquecido por um supercondutor. Alimentado por células MF de micro fusão. Min FO: 6.}
 {1600}{}{Laser Pistol}
-{1601}{}{A Wattz 1000 Laser Pistol. Civilian model, so the wattage is lower than military or police versions. Uses small energy cells. Min ST: 3.}
+{1601}{}{Uma pistola laser de 1000 Wattz. Modelo civil, com potência menor do que as versões militares e da policía. Usa células PE de energia. Min FO: 3.}
 {1700}{}{Combat Armor}
-{1701}{}{High tech armor, made out of advanced defensive polymers.}
+{1701}{}{Armadura de alta tecnologia, feito de polímeros defensivas avançadas.}
 {1800}{}{Desert Eagle .44}
-{1801}{}{An ancient Desert Eagle pistol, in .44 magnum. Interest in late 20th century films made this one of the most popular handguns of all times. Min ST: 4.}
-{1900}{}{Rock}
-{1901}{}{It's a rock. The Granite-Inc. model is an upgraded version. Min ST: 1.}
+{1801}{}{Uma antiga pistola Desert Eagle, magnum .44. Sua participou de varios filmes no final do século 20 fez desta uma das armas mais populares de todos os tempos. Min. FO: 4.}
+{1900}{}{Rocha}
+{1901}{}{É uma rocha. Modelo Granite-Inc. Este modelo é uma versão atualizada. Min. FO: 1.}
 {2000}{}{Crowbar}
-{2001}{}{A very solid and heavy piece of metal, specially designed to exert leverage. Or pound heads. Min ST: 5.}
+{2001}{}{Uma peça muito sólida e pesada de metal, especialmente projetado para exercer pressão. Ou para golpear cabeças. Min. FO: 5.}
 {2100}{}{Brass Knuckles}
-{2101}{}{Hardened knuckle grip that is actually made out of steel. They protect your hand, and do more damage, in unarmed combat. Min ST: 1.}
+{2101}{}{Aperto da junta endurecido feito de aço. Eles protegem sua mão e causam mais danos em combate desarmado. Min. FO: 1.}
 {2200}{}{14mm Pistol}
-{2201}{}{A Sig-Sauer 14mm Auto Pistol. Large, single shot handgun. Excellent craftsmanship. Min ST: 4.}
+{2201}{}{Uma pistola automática Sig-Sauer de 14mm. Uma grande arma de disparo único. Excelente artesanato. Min FO: 4.}
 {2300}{}{Assault Rifle}
-{2301}{}{An AK-112 5mm Assault Rifle. An old military model, out of use around the time of the war. Can fire single-shot or burst, using the high velocity 5mm rounds. Min ST: 5.}
+{2301}{}{Um rifle de assalto AK-112 de 5mm. Um modelo militar antigo, depreciado em tempos de guerra. Pode disparar um único tiro ou explosão, usando balas de 5mm de alta velocidad. Min FO: 5.}
 {2400}{}{Plasma Pistol}
-{2401}{}{Glock 86 Plasma Pistol. Designed by the Gaston Glock AI. Shoots a small bolt of superheated plasma. Powered by a small energy cell. Min ST: 4.}
+{2401}{}{Pistola de plasma Glock 86. Desenhado pelo Gaston Glock AI. Atira um pequeno feixe de plasma superaquecido. Desenvolvido por PE células de energia. FO Min: 4.}
 {2500}{}{Grenade (Frag)}
-{2501}{}{A generic fragmentation grenade. Contains a small amount of high explosives, the container itself forming most of the damaging fragments. Explodes on contact. Min ST: 3.}
+{2501}{}{Uma granada de fragmentação genérica. Contém uma pequena quantidade de explosivos, o próprio recipiente formando a maioria dos fragmentos prejudiciais. Explode em contato. Min. FO: 3.}
 {2600}{}{Grenade (Plasma)}
-{2601}{}{A magnetically sealed plasma delivery unit, with detonating explosives. Creates a blast of superheated plasma on contact. Min ST: 4.}
+{2601}{}{Uma unidade de plasma magneticamente selado, com detonação de explosivos. Criar uma rajada de plasma superaquecido em contato. FO Min: 4.}
 {2700}{}{Grenade (Pulse)}
-{2701}{}{An electromagnetic pulse grenade, generating an intense magnetic field on detonation. Doesn't affect biological creatures. Contact fuze. Min ST: 4.}
+{2701}{}{Uma granada de pulso eletromagnético gera um forte campo magnético ao detonar. Não afeta criaturas biológicas. Ele derrete em contato. FO Min: 4.}
 {2800}{}{Gatling Laser}
-{2801}{}{An H&K L30 Gatling Laser. Designed specifically for military use, these were in the prototype stage at the beginning of the War. Multiple barrels allow longer firing before overheating. Powered by Micro Fusion Cells. Min ST: 6.}
+{2801}{}{Uma Gatling Laser L30 H & K. Projetado especificamente para uso militar, estava em fase de protótipo no início da guerra. Seus multiplos barris permitem mais tiros sem superaquecimento. Desenvolvido por células de Micro Fusão. Min. FO: 6.}
 {2900}{}{10mm JHP}
-{2901}{}{Ammunition. Caliber: 10mm, jacketed hollow-points}
+{2901}{}{Munições calibre: 10mm, ponta oca e jaqueta metálica.}
 {3000}{}{10mm AP}
-{3001}{}{Ammunition. Caliber: 10mm, armor piercing.}
+{3001}{}{Munições calibre: 10mm, perfurante.}
 {3100}{}{.44 Magnum JHP}
-{3101}{}{A brick of ammunition, .44 magnum caliber, hollow-points.}
+{3101}{}{Munições calibre: .44 Magnum, ponta oca.}
 {3200}{}{Flamethrower Fuel}
-{3201}{}{A cylinder containing an extremely flammable liquid fuel for flamethrowers.}
+{3201}{}{Um cilindro contendo um combustível líquido extremamente inflamável para lança-chamas.}
 {3300}{}{14mm AP}
-{3301}{}{Large caliber ammunition. 14mm armor piercing.}
+{3301}{}{Munições de grande calibre. 14mm perfurante.}
 {3400}{}{.223 FMJ}
-{3401}{}{A case of ammunition, .223 caliber, Full Metal Jacket.}
+{3401}{}{Uma caixa de munições calibre .223, com jaqueta metálica.}
 {3500}{}{5mm JHP}
-{3501}{}{A brick of small, lightweight ammunition. Caliber: 5mm, jacketed hollow-point.}
+{3501}{}{Uma munição pequena e ligeira. Calibre: 5mm, de ponta oca e jaqueta metálica.}
 {3600}{}{5mm AP}
-{3601}{}{A brick of small caliber ammunition. 5mm armor piercing.}
+{3601}{}{Municões de pequeno calibre. 5mm perfurante.}
 {3700}{}{Rocket AP}
-{3701}{}{A rocket shell, with a smaller explosive, but designed to pierce armor plating.}
+{3701}{}{Um colete com explosivo de baixa potência, desenhado para perfurar blindagens.}
 {3800}{}{Small Energy Cell}
-{3801}{}{A small, self-contained energy storage unit.}
+{3801}{}{Uma pequena unidade de armazenamento de energia.}
 {3900}{}{Micro Fusion Cell}
-{3901}{}{A medium sized energy production unit. Self-contained fusion plant.}
+{3901}{}{Uma unidade de produção de energia de tamanho médio. com reator de fusão autônomo.}
 {4000}{}{Stimpak}
-{4001}{}{A healing chem. When injected, the chem provides immediate healing of minor wounds.}
-{4100}{}{Money}
-{4101}{}{Legal tender for the world of the wastes.}
-{4200}{}{Fridge}
-{4201}{}{A refrigerator. Out of coolant.}
-{4300}{}{Ice Baú}
-{4301}{}{On old-style ice Baú. The hinges are in good working condition.}
-{4400}{}{Ice Baú}
-{4401}{}{On old-style ice Baú. The hinges are in good working condition.}
+{4001}{}{Um produto químico de cura quando injetada, a bioquímica fornece cura imediata de pequenas feridas.}
+{4100}{}{Dinheiro} #Money
+{4101}{}{Moeda legal para o mundo de fallout.}
+{4200}{}{Geladeira} #Fridge
+{4201}{}{Uma geladeira. Sem qualquer refrigerante.}
+{4300}{}{Congelador} #Ice Chest
+{4301}{}{Um tipo antigo de congelador. As dobradiças estão em boas condições.}
+{4400}{}{Congelador}
+{4401}{}{Um tipo antigo de congelador. As dobradiças estão em boas condições.}
 {4500}{}{Throwing Knife}
-{4501}{}{A knife, balanced specifically for throwing. Made of titanium, and laser sharpened. Min ST: 3.}
-{4600}{}{Bag}
-{4601}{}{An average sized bag. Made from weaved brahmin hairs.}
+{4501}{}{Uma faca, projetada especificamente para jogar. Feito de titânio e afiada a laser. Min. FO: 3.}
+{4600}{}{Bolsa} #Bag
+{4601}{}{Um saco de tamanho médio. Feita a partir de pêlos brahmin.}
 {4700}{}{First Aid Kit}
-{4701}{}{A small kit containing basic medical equipment. Bandages, wraps, antiseptic spray, and more.}
+{4701}{}{Um pequeno kit contendo equipamentos médicos básicos. Bandagens, gaze, spray de anti-séptico e muito mais.}
 {4800}{}{RadAway}
-{4801}{}{A chemical solution that bonds with radiation particles and passes them through your system. Takes time to work.}
-{4900}{}{Antidote}
-{4901}{}{A bottle containing a home-brewed antidote for poison. A milky liquid with floating pieces of radscorpion flesh.}
+{4801}{}{Uma solução química que elimina partículas de radiação de seus sistema. Leva tempo para fazer efeito.}
+{4900}{}{Antídoto} #Antidote
+{4901}{}{Uma garrafa contendo um antídoto caseiro para o veneno. Um líquido leitoso com pedaços flutuantes de carne radscorpion.}
 {5000}{}{Reserved Item}
 {5001}{}{This is a reserved item. DO NOT USE.}
-{5100}{}{Dynamite}
-{5101}{}{A high explosive, consisting of nitroglycerin mixed with the absorbent substance kieselguhr. Includes a timer.}
+{5100}{}{Dinamite} #Dynamite
+{5101}{}{Um explosivo de alta potência, que consiste em nitroglicerina misturado com a terra de diatomáceas substância absorvente. Inclui um timer.}
 {5200}{}{Geiger Counter}
-{5201}{}{A Wattz Electronics C-Radz model Geiger Counter. Detects the presence and strength of radiation fields.}
+{5201}{}{Um modelo de Wattz Eletrônica C-Radz Contador Geiger. Detecta a presença e a força de campos de radiação.}
 {5300}{}{Mentats}
-{5301}{}{A pillbox of mind-altering chems. Increases memory related functions, and speeds other mental processes. Highly addictive.}
+{5301}{}{Uma caixa de comprimidos que alteram a mente. Aumenta funções relacionadas a memória e acelera outros processos mentais. Altamente viciante.}
 {5400}{}{Stealth Boy}
-{5401}{}{A RobCo Stealth Boy 3001 personal stealth device. Generates a modulating field that transmits the reflected light from one side of an object to the other.}
-{5500}{}{Water Chip}
-{5501}{}{This is a Vault-Tec water chip. They are typically packaged in groups of five to a box.}
-{5600}{}{Dog Tags}
-{5601}{}{A set of military dog tags. The name Dickinson and the word Enclave are barely readable.}
-{5700}{}{Bug}
-{5701}{}{A miniature microphone and transmitting device.}
-{5800}{}{Tape}
-{5801}{}{A Wattz Electronics Holodisc tape. This particular tape looks to be into very poor condition.}
-{5900}{}{Motion Sensor}
-{5901}{}{A Wattz Electronics C-U model motion sensor. Detects the movement of biological material over a distance of meters using a tuned radar device. Having one in your inventory will also help you avoid outdoor encounters (+20% Outdoorsman skill).}
-{6000}{}{Bookcase}
-{6001}{}{A wooden bookcase.}
-{6100}{}{Bookcase}
-{6101}{}{A wooden bookcase.}
-{6200}{}{Bookcase}
-{6201}{}{A wooden bookcase.}
-{6300}{}{Bookcase}
-{6301}{}{A wooden bookcase.}
-{6400}{}{Bookcase}
-{6401}{}{A wooden bookcase.}
-{6500}{}{Bookcase}
-{6501}{}{A wooden bookcase.}
-{6600}{}{Desk}
-{6601}{}{A wooden desk.}
-{6700}{}{Desk}
-{6701}{}{A wooden desk.}
-{6800}{}{Dresser}
-{6801}{}{A wooden dresser.}
-{6900}{}{Dresser}
-{6901}{}{A wooden dresser.}
-{7000}{}{Dresser}
-{7001}{}{A wooden dresser.}
-{7100}{}{Fruit}
+{5401}{}{Um dispositivo Robco de Stealth Boy 3001 discrição pessoal. Gera um campo de modulação que transmite a luz refletida de um lado de um objeto para o outro.}
+{5500}{}{Chip de água} #Water Chip
+{5501}{}{Este é um chip de água Vault-Tec. Eles são tipicamente embalados em grupos de cinco unidades por caixa.}
+{5600}{}{Placas de identificação} #Dog Tags
+{5601}{}{Um conjunto de Placas de identificação militares. O nome Dickinson e a palavra Enclave são pouco legível.}
+{5700}{}{Microfone}
+{5701}{}{Um microfone em miniatura e dispositivo de transmissão.}
+{5800}{}{Fita} #Tape
+{5801}{}{Uma fita Wattz Eletrônica Holodisc. Esta fita em particular parece estar em muito mau estado.}
+{5900}{}{Sensor de Movimento} #Motion Sensor
+{5901}{}{Um sensor de movimento modelo Wattz Electronics C-U. Detecta o movimento do material biológico através de uma distância de varios metros usando um dispositivo de radar sintonizado. Ter um em seu inventário também o ajudará a evitar encontros ao ar livre (20% Habilidade Sobrevivência).}
+{6000}{}{Estante}
+{6001}{}{Uma estante de madeira.}
+{6100}{}{Estante}
+{6101}{}{Uma estante de madeira.}
+{6200}{}{Estante}
+{6201}{}{Uma estante de madeira.}
+{6300}{}{Estante}
+{6301}{}{Uma estante de madeira.}
+{6400}{}{Estante}
+{6401}{}{Uma estante de madeira.}
+{6500}{}{Estante}
+{6501}{}{Uma estante de madeira.}
+{6600}{}{Escritório}
+{6601}{}{Um escritório de madeira.}
+{6700}{}{Escritório}
+{6701}{}{Um escritório de madeira.}
+{6800}{}{Cômoda}
+{6801}{}{Uma Cômoda de madeira.}
+{6900}{}{Cômoda}
+{6901}{}{Uma Cômoda de madeira.}
+{7000}{}{Cômoda}
+{7001}{}{Uma Cômoda de madeira.}
+{7100}{}{Fruta}
 {7101}{}{A strange piece of fruit. No preservatives and no additional food coloring added.}
 {7200}{}{Briefcase}
 {7201}{}{A briefcase, with a Made-in-the-USA label. Leather. Good condition, but the combination lock is broken.}
@@ -183,7 +183,7 @@
 {9200}{}{Scorpion Tail}
 {9201}{}{The severed tail of a radscorpion.}
 {9300}{}{Bag}
-{9301}{}{An average sized bag. Made from weaved Brahmin hairs.}
+{9301}{}{Um saco de tamanho médio. Feita a partir de pêlos brahmin.}
 {9400}{}{Shotgun}
 {9401}{}{A Winchester Widowmaker double-barreled 12-gauge shotgun. Short barrel, with mahogany grip. Min ST: 4.}
 {9500}{}{12 ga. Shotgun Shells}
@@ -210,10 +210,10 @@
 {10501}{}{A special key of some sort.}
 {10600}{}{Nuka-Cola}
 {10601}{}{A bottle of Nuka-Cola, the flavored softdrink of the post-nuclear world. Warm and flat.}
-{10700}{}{Ossos}
-{10701}{}{Uma coleção de ossos estranhos.}
-{10800}{}{Ossos}
-{10801}{}{Uma coleção de ossos estranhos.}
+{10700}{}{Bones}
+{10701}{}{A collection of strange bones.}
+{10800}{}{Bones}
+{10801}{}{A collection of strange bones.}
 {10900}{}{Rad-X}
 {10901}{}{Anti-radiation chems to be taken before exposure. No known side effects.}
 {11000}{}{Psycho}
@@ -410,8 +410,8 @@
 {20901}{}{A chunk of Cordex, a military brand of plastic explosives. Highly stable, very destructive. Includes a timer, which is ticking.}
 {21000}{}{Stealth Boy}
 {21001}{}{A RobCo Stealth Boy 3001 personal stealth device. Generates a modulating field that transmits the reflected light from one side of an object to the other.}
-{21100}{}{Ossos}
-{21101}{}{Você vê Ed. Morto.}
+{21100}{}{Bones}
+{21101}{}{You see Ed. Ed's dead.}
 {21200}{}{Tandi}
 {21201}{}{You are bartering for Tandi's release.}
 {21300}{}{Remains of Gizmo}
@@ -472,27 +472,27 @@
 {24101}{}{A .223 rifle modified and cut down to a pistol. This is a one-of-a-kind firearm, obviously made with love and skill. Min ST: 5.}
 {24200}{}{Combat Shotgun}
 {24201}{}{A Winchester City-Killer 12-gauge combat shotgun, bullpup variant. In excellent condition, it has the optional DesertWarfare environmental sealant modification for extra reliability. Min ST: 5.}
-{24300}{}{Pote}
-{24301}{}{Um Pote de argila bem trabalhado.}
-{24400}{}{Pote}
-{24401}{}{Um Pote de argila bem trabalhado.}
-{24500}{}{Baú}
-{24501}{}{Um Baú de madeira.}
-{24600}{}{Prateleira}
-{24601}{}{Uma prateleira de madeira com diversos itens.}
-{24700}{}{Prateleira}
-{24701}{}{Uma prateleira de madeira com diversos itens.}
-{24800}{}{Pote}
-{24801}{}{Um Pote de argila bem trabalhado.}
-{24900}{}{Pote}
-{24901}{}{Um Pote de argila bem trabalhado.}
-{25000}{}{Ossos}
-{25001}{}{Uma pilha de Ossos humano.}
-{25100}{}{Ossos de Anna}
-{25101}{}{Esses ossos parecem instáveis.}
-{25200}{}{Medalhão de ouro de Anna}
-{25201}{}{Este medalhão de ouro se abre para revelar uma imagem encantadora.}
-{25300}{}{Controlador de célula de combustível}
+{24300}{}{Pot}
+{24301}{}{A finely crafted clay pot.}
+{24400}{}{Pot}
+{24401}{}{A finely crafted clay pot.}
+{24500}{}{Chest}
+{24501}{}{A wooden chest.}
+{24600}{}{Shelf}
+{24601}{}{A wood shelf with miscellaneous items.}
+{24700}{}{Shelf}
+{24701}{}{A wood shelf with miscellaneous items.}
+{24800}{}{Pot}
+{24801}{}{A finely crafted clay pot.}
+{24900}{}{Pot}
+{24901}{}{A finely crafted clay pot.}
+{25000}{}{Bones}
+{25001}{}{A pile of human bones.}
+{25100}{}{Anna's Bones}
+{25101}{}{These bones seem unsettled.}
+{25200}{}{Anna's Gold Locket}
+{25201}{}{This well-worn golden locket opens to reveal a charming picture.}
+{25300}{}{Fuel Cell Controller}
 {25301}{}{This chip controls the flow of power into a car's electric engines. Many drivers quickly burnt out this chip through frequent rapid acceleration. Still a valuable part to have-- if you only had a car to install it in.}
 {25400}{}{Fuel Cell Regulator}
 {25401}{}{Some car-owners installed this regulator, which doubles your car's mileage between charges, but most drivers didn't care how much juice their cars consumed, after all, power's cheap and plentiful so why worry?}
@@ -924,7 +924,7 @@
 {47300}{}{Mutated Toe}
 {47301}{}{You see your sixth toe. It is a small mutated part of yourself. For some reason, you feel a terrible sense of loss as you look at the tiny amputated toe.}
 {47400}{}{Daisies}
-{47401}{}{A flower Pote of daisies. Aren't they nice?}
+{47401}{}{A flower pot of daisies. Aren't they nice?}
 {47500}{}{Unused}
 {47501}{}{Unused}
 {47600}{}{Enlightened One's Letter}
