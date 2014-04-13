@@ -505,47 +505,47 @@
 {25800}{}{Objeto Hidrelétrico}
 {25801}{}{Este é um regulador Hidrelétrico Magnetosferico.}
 {25900}{}{Jet}
-{25901}{}{Jet is a powerful methamphetamine that stimulates the central nervous system. The initial euphoric rush rarely lasts more than a few minutes, but during that time, the user is filled with a rush of energy & strength.}
+{25901}{}{Jet é uma poderosa metanfetamina que estimula o sistema nervoso central. A euforia inicial raramente dura mais do que alguns minutos, mas durante esse tempo, o usuário é preenchido com uma onda de energia e força.}
 {26000}{}{Jet Antidote}
-{26001}{}{This antidote cures the reliant effects of Jet.}
+{26001}{}{Este antídoto curar os efeitos da dependência de Jet.}
 {26100}{}{Jonny's BB Gun}
 {26101}{}{Uma escopeta Red Ryder BB com o nome "Jonny" gravado no cabo. Min FO: 3.}
-{26200}{}{Rubber Boots}
-{26201}{}{An old pair of sturdy rubber work boots. They look durable enough to keep out sludge, at least for a while.}
-{26300}{}{Slag Message}
-{26301}{}{This is a message from the leader of the Slags to the townspeople of Modoc.}
-{26400}{}{Smith's Cool Item}
-{26401}{}{LONG DESCRIPTION HERE.}
+{26200}{}{Botas de borracha} #Rubber Boots
+{26201}{}{Um velho par de botas de borracha. Parece durável o suficiente para impedir a entrada de resíduos, ao menos por um tempo.}
+{26300}{}{Mensagem de Escória} #Slag Message
+{26301}{}{Isto é uma mensagem do líder dos Escórias para os cidadãos de Modoc.}
+{26400}{}{Objeto legal de Smith} #Smith's Cool Item
+{26401}{}{LONGA DESCRIÇÃO AQUI.}
 {26500}{}{Combat Leather Jacket}
-{26501}{}{This heavily padded leather jacket is unusual in that it has two sleeves. You'll definitely make a fashion statement whenever, and wherever, you rumble.}
-{26600}{}{Vic's Radio}
-{26601}{}{This hand-held radio doesn't work but it looks as though it's still in pretty good condition. Some of its parts could probably be salvaged for use in other radios.}
-{26700}{}{Vic's Water Flask}
-{26701}{}{This relic of the Vault was probably used to contain some sacred sacrament. The Holy number 13 is emblazoned on the side of this precious link to your people's past, and hopeful future.}
+{26501}{}{Esta jaqueta de couro fortemente acolchoadas é incomum, pois tem duas mangas. Definitivamente você vai fazer um desfile de moda quando e onde você quiser e vai arrasar.}
+{26600}{}{Rádio de Vic}
+{26601}{}{Este rádio portátil parece não funcionar, mas ainda está em bom estado. Algumas de suas peças provavelmente poderiam ser utilizadas para outros rádios.}
+{26700}{}{Cantil de Vic} #Vic's Water Flask
+{26701}{}{Esta relíquia do Vault foi provavelmente usado para algum sacramento sagrado. O sagrado número 13 estampado em um lado desse frasco mantem um vínculo precioso com o passado de seu povo e um futuro esperançoso.}
 {26800}{}{H&K CAWS}
-{26801}{}{The CAWS, short for Close Assault Weapons System, shotgun is a useful tool for close-range combat. The bullpup layout gives the weapon a short, easily handleable, length while still retaining enough barrel length for its high velocity shells. Min ST: 6.}
-{26900}{}{Robot Parts}
-{26901}{}{A pile of damaged robot parts.}
+{26801}{}{O CAWS, é uma abreviatura de Close Assault Weapons System, é uma escopeta útil para combates de curto alcançe. Arma projeta para um manuseio simples e curto, mas seu cano é bastante longo para disparar em alta velocidade. FO Min: 6.}
+{26900}{}{Peças de robô}
+{26901}{}{Uma pilha de peças de robô danificadas.}
 {27000}{}{Robo Rocket Launcher}
-{27001}{}{Only used by rocket equipped robots.}
+{27001}{}{Somente usado por robôs equipados com foguetes.}
 {27100}{}{Broc Flower}
-{27101}{}{The plentiful flower that forms the base for the powder of healing.}
+{27101}{}{Uma flor abundante que forma a base para um pó de cura.}
 {27200}{}{Xander Root}
-{27201}{}{The rare root that gives healing properties to the powder of healing.}
+{27201}{}{Uma raiz rara que dá para as propriedades curativas de pó de cura.}
 {27300}{}{Healing Powder}
-{27301}{}{A very powerful healing magic- though it will bring the feeling of sleep to your head.}
+{27301}{}{Um poderoso pó mágico de cura, embora vai causar sonolência.}
 {27400}{}{Robo Rocket Ammo}
-{27401}{}{Only used by rocket equipped robots.}
-{27500}{}{Trophy of Recognition}
-{27501}{}{A solid gold trophy with the inscription "To: Dave, From: DC's, For: Being a Special Person."}
-{27600}{}{Gecko Pelt}
-{27601}{}{This is the dried and cured hide of a Gecko.}
-{27700}{}{Golden Gecko Pelt}
-{27701}{}{This is the dried and cured hide of a Golden Gecko.}
-{27800}{}{Flint}
-{27801}{}{A stone used to sharpen weapons.}
-{27900}{}{Neural Interface}
-{27901}{}{It appears to be a set of electrodes built into a head unit with a standard computer interface plug. It's broken, however.}
+{27401}{}{Somente usado por robôs equipados com foguetes.}
+{27500}{}{Troféu de Reconhecimento}
+{27501}{}{Um troféu de ouro maciço com a inscrição "Para: Dave, De: DC de, por: Ser uma pessoa especial."}
+{27600}{}{Pele de Gecko}
+{27601}{}{Esta é a pele seca e endurecida de um gecko.}
+{27700}{}{Pele de Gecko dourado}
+{27701}{}{Esta é a pele seca e endurecida de um gecko dourado.}
+{27800}{}{Pederneira}
+{27801}{}{Uma pedra usada para afiar armas.}
+{27900}{}{Interface neural}
+{27901}{}{Parece ser um conjunto de eletrodos integrados em um capacete com uma interface de encaixe padrão para computadores.}
 {28000}{}{Sharpened Spear}
 {28001}{}{A razor tipped polearm. The shaft is wooden, and the tip is sharpened steel. Min ST: 4.}
 {28100}{}{Dixon's Eye}
