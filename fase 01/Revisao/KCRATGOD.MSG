@@ -1,6 +1,6 @@
 # Matheus Reis Traduzido
 # You see large white mole-rat
-{100}{}{Você vê grande rato-toupeira branco}
+{100}{}{Você vê um grande rato-toupeira branco}
 # You see the Keeng Ra'at.
 {101}{}{Você vê o Rei Rato.}
 # You see a large albino mole-rat with an enlarged braincase. He's frothing at

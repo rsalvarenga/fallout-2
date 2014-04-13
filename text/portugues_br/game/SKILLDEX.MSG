@@ -3,7 +3,7 @@
 #
 {100}{}{PERÍCIAS}
 {101}{}{CANCEL}
-{102}{}{FURTIVID.} #SNEAK #SIGILOSO #Furtividade
+{102}{}{FURTIV.} #SNEAK #SIGILOSO #Furtividade
 {103}{}{ARROMB.} #Lockpick #Gazua #Arrombamento
 {104}{}{ROUBO} #Steal
 {105}{}{ARMAD.} #Traps

@@ -133,159 +133,159 @@
 {6700}{}{Escritório}
 {6701}{}{Um escritório de madeira.}
 {6800}{}{Cômoda}
-{6801}{}{Uma Cômoda de madeira.}
+{6801}{}{Uma cômoda de madeira.}
 {6900}{}{Cômoda}
-{6901}{}{Uma Cômoda de madeira.}
+{6901}{}{Uma cômoda de madeira.}
 {7000}{}{Cômoda}
-{7001}{}{Uma Cômoda de madeira.}
+{7001}{}{Uma cômoda de madeira.}
 {7100}{}{Fruta}
-{7101}{}{A strange piece of fruit. No preservatives and no additional food coloring added.}
-{7200}{}{Briefcase}
-{7201}{}{A briefcase, with a Made-in-the-USA label. Leather. Good condition, but the combination lock is broken.}
-{7300}{}{Big Book of Science}
-{7301}{}{A set of books, containing information about different scientific fields.}
+{7101}{}{Um pedaço estranho de fruta. Sem conservantes e sem corante.}
+{7200}{}{Maleta} #Briefcase
+{7201}{}{Uma pasta com uma etiqueta Made-in-the-EUA. De couro. Em boas condições, mas a fechadura de combinação está quebrado.}
+{7300}{}{Grande Livro de Ciências}
+{7301}{}{Um conjunto de livros, que contém informações sobre os diferentes campos científicos.}
 {7400}{}{Leather Jacket}
-{7401}{}{A black, heavy leather jacket.}
-{7500}{}{Tool}
-{7501}{}{A tool set, containing various useful tools, including pliers.}
+{7401}{}{Uma jaqueta de couro preta e pesada.}
+{7500}{}{Conjunto de ferramentas}
+{7501}{}{Um conjunto de ferramentas, que contém várias ferramentas úteis, incluindo um alicate.}
 {7600}{}{Deans Electronics}
-{7601}{}{A study book on the field of electronics. A note on the cover says that it is for the "budding young electrician in everyone!"}
+{7601}{}{Um livro de estudo no campo da eletrônica. Uma nota na capa diz que é para os "jovens eletricista brotando em todo o mundo!"}
 {7700}{}{Electronic Lockpick}
-{7701}{}{A Wattz Electronics Micromanipulator FingerStuff electronic lockpick. For defeating electronic locks and security devices.}
-{7800}{}{Fuzzy Painting}
-{7801}{}{An image of a singer. Obviously, very old. The image has a felt coating that is still in good condition.}
-{7900}{}{Flare}
-{7901}{}{A flare. Creates light for a short period of time. The paper is a little worn, but otherwise it is in good condition. Twist the top to activate it.}
+{7701}{}{Uma gazua eletrônica Micromanipulator FingerStuff de Wattz Eletrônicos. Para abrir fechaduras eletrônicas e dispositivos de segurança.}
+{7800}{}{Pintura distorcida}
+{7801}{}{Uma imagem de um cantor. Obviamente, muito antiga. A imagem tem um revestimento de feltro que ainda está em boas condições.}
+{7900}{}{Flare} #Flare
+{7901}{}{Um Flare. Cria uma luz durante um curto período de tempo. O papel está um pouco desgastado, mas caso está em boas condições. Gire a parte superior para ativá-lo.}
 {8000}{}{First Aid Book}
-{8001}{}{A study book on the concepts and practical use of first aid skills.}
+{8001}{}{Um livro de estudo sobre os conceitos e uso prático de técnicas de primeiros socorros.}
 {8100}{}{Iguana-on-a-stick}
-{8101}{}{A cooked iguana, roasted in it's own skin.}
-{8200}{}{Key}
-{8201}{}{A key. A key will open a particular lock.}
-{8300}{}{Key Ring}
-{8301}{}{Multiple keys.}
-{8400}{}{Lockpicks}
-{8401}{}{A set of locksmith tools. Includes all the necessary picks and tension wrenches to open conventional pin and tumbler locks.}
+{8101}{}{Uma iguana cozida, assada em sua própria pele.}
+{8200}{}{Chave} #Key
+{8201}{}{Uma chave. Uma chave que abrirá uma determinada fechadura.}
+{8300}{}{Chaveiro} #Key Ring
+{8301}{}{Várias chaves.}
+{8400}{}{Gazuas} #Lockpicks  Gazuas
+{8401}{}{Um conjunto de ferramentas de serralheiro. Com tudo que é necessário para abrir fechaduras convencionais.}
 {8500}{}{Plastic Explosives}
-{8501}{}{A chunk of Cordex, a military brand of plastic explosives. Highly stable, very destructive. Includes a timer.}
+{8501}{}{Um pedaço de Cordex, uma marca militar de explosivos plásticos. Altamente instável e muito destrutivo. Inclui um temporizador.}
 {8600}{}{Scout Handbook}
-{8601}{}{A book on the methods and ideals of Scouting. Very practical information regarding outdoor life.}
+{8601}{}{Um livro sobre os métodos e ideais para exploradores. Contem informações práticas em relação à vida ao ar livre.}
 {8700}{}{Buffout}
-{8701}{}{Highly advanced steroids. While in effect, they increase strength and reflexes. Very addictive.}
-{8800}{}{Watch}
-{8801}{}{An expensive watch. Not really working, but it still looks nice.}
+{8701}{}{Esteróides altamente avançados. Quando fazem efeito aumentam a força e reflexos. Muito viciante.}
+{8800}{}{Relógio} #Watch
+{8801}{}{Um relógio caro. Na verdade nem funciona, mas parece muito bonito.}
 {8900}{}{Motor}
-{8901}{}{A 40-hp electric motor.}
-{9000}{}{Back Pack}
-{9001}{}{A basic backpack, with optional carrying straps.}
-{9100}{}{Doctor's Bag}
-{9101}{}{This brown bag contains instruments and chems used by doctors in the application of their trade.}
-{9200}{}{Scorpion Tail}
-{9201}{}{The severed tail of a radscorpion.}
-{9300}{}{Bag}
+{8901}{}{Um motor elétrico de 40-hp.}
+{9000}{}{Mochila} #Back Pack
+{9001}{}{Uma mochila básica, com correias de transporte opcional.}
+{9100}{}{Bolsa de doutor} #Doctor's Bag
+{9101}{}{Esta bolsa marrom contém instrumentos e drogas utilizados por médicos na aplicação do exercicio de sua profissão.}
+{9200}{}{Cauda de Escorpião} #Scorpion Tail
+{9201}{}{Uma cauda cortada de um radscorpion.}
+{9300}{}{Bolsa}
 {9301}{}{Um saco de tamanho médio. Feita a partir de pêlos brahmin.}
 {9400}{}{Shotgun}
-{9401}{}{A Winchester Widowmaker double-barreled 12-gauge shotgun. Short barrel, with mahogany grip. Min ST: 4.}
-{9500}{}{12 ga. Shotgun Shells}
-{9501}{}{Shotgun ammunition. This particular ammo is marked: "12-gauge shells, not for use by children under the age of 3."}
+{9401}{}{Uma escopeta Winchester Widowmaker com cano duplo de calibre 12. Cano curto e aperto de mogno. Min FO: 4.}
+{9500}{}{12 gauge shotgun shell} 
+{9501}{}{Munição de escopeta. Esta munição especial indica que: "munição 12, proibido para crianças com idade inferior a 3 anos."}
 {9600}{}{Red Pass Key}
-{9601}{}{A electronic security key, color coded red.}
+{9601}{}{Uma chave de segurança eletrônica, com código de cores vermelho.}
 {9700}{}{Blue Pass Key}
-{9701}{}{A electronic security key, color coded blue.}
-{9800}{}{Junk}
-{9801}{}{A pile of junk parts. A little bit of everything.}
+{9701}{}{Uma chave de segurança eletrônica, com código de cores azul.}
+{9800}{}{Sucata} #Junk
+{9801}{}{Uma pilha de peças de sucata. Um pouco de tudo.}
 {9900}{}{Gold Locket}
-{9901}{}{A valuable gold locket.}
-{10000}{}{Radio}
-{10001}{}{A model 2043B Radio Communicator, from the fine people at Wattz Electronics. Dependable, rugged, and camouflaged. With the optional RS-121 interface.}
+{9901}{}{Um medalhão de ouro valioso.}
+{10000}{}{Rádio}
+{10001}{}{Modelo 2043B Radio Communicator, de uma excelente marca Wattz Electronics. Confiável, robusto e camuflados. Com interface opcional RS-121.}
 {10100}{}{Lighter}
-{10101}{}{A silver butane lighter, in good condition.}
+{10101}{}{Um isqueiro de prata em bom estado.}
 {10200}{}{Guns and Bullets}
-{10201}{}{A gun rag. A magazine devoted to the practical use of firearms, and the occasional biased review.}
+{10201}{}{Uma revista dedicada ao uso prático de armas de fogo, com comentários um pouco imparcial.}
 {10300}{}{Iguana-on-a-stick}
-{10301}{}{Some charred meat and vegetables on a cooking stick.}
+{10301}{}{Uma iguana cozida, assada em sua própria pele.}
 {10400}{}{Tape Recorder}
-{10401}{}{A Wattz Electronics Play-It-For-Me tape recorder. Plays and records the standard 30 minute high density Record-It-Once tapes.}
-{10500}{}{Key}
-{10501}{}{A special key of some sort.}
+{10401}{}{Um gravador 'Play it-for-me' de Wattz Electronics. Grava e reproduz fitas padrão de alta densidade de uma única gravação de 30 minutos.}
+{10500}{}{Chave}
+{10501}{}{Algum tipo de chave especial.}
 {10600}{}{Nuka-Cola}
-{10601}{}{A bottle of Nuka-Cola, the flavored softdrink of the post-nuclear world. Warm and flat.}
-{10700}{}{Bones}
-{10701}{}{A collection of strange bones.}
-{10800}{}{Bones}
-{10801}{}{A collection of strange bones.}
+{10601}{}{Uma garrafa de Nuka-Cola, a bebida mais saborosa do mundo pós-nuclear. É quente e sem gosto.}
+{10700}{}{Ossos}
+{10701}{}{Uma coleção de ossos estranhos.}
+{10800}{}{Ossos}
+{10801}{}{Uma coleção de ossos estranhos.}
 {10900}{}{Rad-X}
-{10901}{}{Anti-radiation chems to be taken before exposure. No known side effects.}
+{10901}{}{Produto químico Anti-radiação deve ser tomado antes da exposição. Não apresenta efeitos colaterais.}
 {11000}{}{Psycho}
-{11001}{}{An unique delivery system filled with strange and unknown chemicals of probably military origin. It is supposed to increase the combat potential of a soldier.}
+{11001}{}{Um elemento único com produtos químicos estranhos e desconhecidos, provavelmente de origem militar. Supõe-se que é para aumentar a potencial de combate de um soldado.}
 {11100}{}{.44 magnum FMJ}
-{11101}{}{A brick of ammunition, .44 magnum caliber, full metal jacket.}
-{11200}{}{Urn}
-{11201}{}{A beautiful golden urn, with the name "Harriet" inscribed on the front and ashes inside.}
+{11101}{}{Munição de calibre .44 para magnum, com jaqueta metálica.}
+{11200}{}{Urna}
+{11201}{}{Uma bonita urna dourada com o nome de "Harriet" inscrito na parte da frente e de cor cinzas no interior.}
 {11300}{}{Robes}
-{11301}{}{Worn-looking robes.}
+{11301}{}{Vestes usadas para o futuro.}
 {11400}{}{Tangler's Hand}
-{11401}{}{A cybernetic manipulator, in the shape and form of a hand. Damaged due to the sloppy nature of the removal process.}
+{11401}{}{Um manipulador cibernética, na forma e forma de uma mão. Danificado devido à natureza malfeita do processo de remoção.}
 {11500}{}{Super Sledge}
-{11501}{}{A Super Sledgehammer, manufactured by the Brotherhood of Steel, using the finest weapons technology available. Includes a kinetic energy storage device, to increase knockback. Min ST: 5.}
+{11501}{}{Um Super Martelo Forjado pela Irmandade do aço, utilizando a tecnologia mais fina disponível. Inclui um dispositivo de armazenamento de energia cinética, para aumentar ricochete. Min. FO: 5.}
 {11600}{}{Ripper}
-{11601}{}{A Ripper(tm) vibroblade. Powered by a small energy cell, the chainblade rips and tears into it's target. Min ST: 4.}
-{11700}{}{Flower}
-{11701}{}{A beautiful flower.}
+{11601}{}{Uma vibração da lâmina Ripper(tm). Células PE alimentados com energia, a maquina destripa e rasga seu alvo. FO Min: 4.}
+{11700}{}{Flor}
+{11701}{}{Uma bonita flor.}
 {11800}{}{Laser Rifle}
-{11801}{}{A Wattz 2000 Laser Rifle. Uses micro fusion cells for more powerful lasers, and an extended barrel for additional range. Min ST: 6.}
-{11900}{}{Necklace}
-{11901}{}{An expensive looking necklace, made from silver, gold and pressed diamonds.}
+{11801}{}{Um rifle laser Wattz 2000. Usa celuas de micro fusão para um laser mais potente e um cano estendido para maior alcance. Min FO: 6.}
+{11900}{}{Colar} #Necklace
+{11901}{}{Um colar que aparenta ser muito caro, feito de prata, ouro e diamantes.}
 {12000}{}{Alien Blaster}
-{12001}{}{A strange gun of obviously alien origin. Looks like it can support small energy cells, however. Min ST: 2.}
+{12001}{}{Uma arma estranha de origem obviamente alienígena. Parece que pode suportar pequenas células de energia. Min. FO: 2.}
 {12100}{}{9mm ball}
-{12101}{}{A collection of ancient 9x19mm rounds. Heavy grease to preserve them from the environment. Standard bullets.}
+{12101}{}{Uma coleção de antigas balas 9x19mm. Contem um monte de graxa para preservá-los do ambiente. Balas padrão.}
 {12200}{}{9mm Mauser}
-{12201}{}{A Mauser M/96, in 9x19mm Parabellum. In excellent condition. Extremely accurate. Min ST: 3.}
+{12201}{}{Uma Mauser M/96, em 9x19mm Parabellum. Em excelente estado de conservação. Extremamente preciso. Min. FO: 3.}
 {12300}{}{Psychic Nullifier}
-{12301}{}{A strange device, constructed from an odd technology.}
-{12400}{}{Beer}
-{12401}{}{Some type of home brewed beer.}
-{12500}{}{Booze}
-{12501}{}{An ancient liquor, from the pre-War era.}
-{12600}{}{Water Flask}
-{12601}{}{A container for the holding and preservation of water or other liquids.}
-{12700}{}{Rope}
-{12701}{}{A strong, thick line. About 45 feet in length.}
-{12800}{}{Footlocker}
-{12801}{}{Your basic footlocker. Holds stuff, sits at foot of bed, can be locked.}
-{12900}{}{Footlocker}
-{12901}{}{Your basic footlocker. Holds stuff, sits at foot of bed, can be locked.}
-{13000}{}{Footlocker}
-{13001}{}{Your basic footlocker. Holds stuff, sits at foot of bed, can be locked.}
-{13100}{}{Footlocker}
-{13101}{}{Your basic footlocker. Holds stuff, sits at foot of bed, can be locked.}
-{13200}{}{Locker}
-{13201}{}{A storage container.}
-{13300}{}{Locker}
-{13301}{}{A storage container.}
-{13400}{}{Locker}
-{13401}{}{A storage container.}
-{13500}{}{Locker}
-{13501}{}{A storage container.}
-{13600}{}{Locker}
-{13601}{}{A storage container.}
-{13700}{}{Locker}
-{13701}{}{A storage container.}
-{13800}{}{Locker}
-{13801}{}{A storage container.}
-{13900}{}{Locker}
-{13901}{}{A storage container.}
+{12301}{}{Uma estranho aparelho, construído a partir de uma estranha tecnologia.}
+{12400}{}{Cerveja}
+{12401}{}{Algum tipo de cerveja caseira.}
+{12500}{}{Licor}
+{12501}{}{Um licor antigo de antes da grande guerra.}
+{12600}{}{Cantil} #Water Flask
+{12601}{}{Um cantil que mantem e preserva água e outros líquidos.}
+{12700}{}{Corda}
+{12701}{}{Uma corda forte e fina. Cerca de 45 metros de comprimento.}
+{12800}{}{Baú} #Footlocker
+{12801}{}{Baú básico. Guarda as coisas, fica no pé da cama e pode ser trancado com uma chave.}
+{12900}{}{Baú}
+{12901}{}{Baú básico. Guarda as coisas, fica no pé da cama e pode ser trancado com uma chave.}
+{13000}{}{Baú}
+{13001}{}{Baú básico. Guarda as coisas, fica no pé da cama e pode ser trancado com uma chave.}
+{13100}{}{Baú}
+{13101}{}{Baú básico. Guarda as coisas, fica no pé da cama e pode ser trancado com uma chave.}
+{13200}{}{Armário} #Armário
+{13201}{}{Uma contêiner de armazenamento.}
+{13300}{}{Armário}
+{13301}{}{Uma contêiner de armazenamento.}
+{13400}{}{Armário}
+{13401}{}{Uma contêiner de armazenamento.}
+{13500}{}{Armário}
+{13501}{}{Uma contêiner de armazenamento.}
+{13600}{}{Armário}
+{13601}{}{Uma contêiner de armazenamento.}
+{13700}{}{Armário}
+{13701}{}{Uma contêiner de armazenamento.}
+{13800}{}{Armário}
+{13801}{}{Uma contêiner de armazenamento.}
+{13900}{}{Armário}
+{13901}{}{Uma contêiner de armazenamento.}
 {14000}{}{Access Card}
-{14001}{}{A security access card. Still in working condition.}
-{14100}{}{COC Badge}
-{14101}{}{A badge in the shape of the Children of the Cathedral symbol. On one side you notice bumps and indentations, almost reminding you of a key.}
-{14200}{}{COC Badge}
-{14201}{}{A badge in the shape of the Children of the Cathedral symbol. On one side you notice bumps and indentations, almost reminding you of a key.}
+{14001}{}{Um cartão de acesso de segurança. Ainda funcional.}
+{14100}{}{Insígnia} #Insígnia
+{14101}{}{Um emblema na forma de um símbolo das Crianças da Catedral. De um lado você nota umas saliências e recortes que lembra de uma chave.}
+{14200}{}{Insígnia}
+{14201}{}{Um emblema na forma de um símbolo das Crianças da Catedral. De um lado você nota umas saliências e recortes que lembra de uma chave.}
 {14300}{}{Sniper Rifle}
-{14301}{}{A DKS-501 Sniper Rifle. Excellent long range projectile weapon. Originally .308, this one is chambered in the more common .223 caliber. Min ST: 5.}
+{14301}{}{Um rifle franco-atirador DKS-501. Uma excelente arma de longo alcance. Originalmente de calibre .308, mas foi modificado para um calibre mais comum .223. Min FO: 5.}
 {14400}{}{Super Stimpak}
-{14401}{}{An advanced healing chem. Very powerful. Superstims will cause a small amount of damage after a period of time due to the powerful nature of the chemicals used.}
+{14401}{}{Um avançado produto químico de cura. Muito poderoso. Super Stimpak irá causar uma pequena quantidade de danos após um período de tempo, devido à natureza potente dos produtos químicos utilizados.}
 {14500}{}{Bookshelf}
 {14501}{}{A wooden bookshelf.}
 {14600}{}{Bookshelf}
@@ -372,10 +372,10 @@
 {18601}{}{A generic desk.}
 {18700}{}{Desk}
 {18701}{}{A generic desk.}
-{18800}{}{Locker}
-{18801}{}{A locker.}
-{18900}{}{Locker}
-{18901}{}{A locker.}
+{18800}{}{Armário}
+{18801}{}{A Armário.}
+{18900}{}{Armário}
+{18901}{}{A Armário.}
 {19000}{}{FEV Disk}
 {19001}{}{A holotape containing medical information. Can be used to enter information into your PIPBoy.}
 {19100}{}{Security Disk}
@@ -1117,10 +1117,10 @@
 {57601}{}{An ancient weapon from a more civilized age. Not as clumsy or as random as a blaster. It was given to you by Empress Timeslip. Min ST: 2.}
 {57700}{}{Air Processing Vent}
 {57701}{}{The grill on this vent looks different.}
-{57800}{}{Metal Locker}
-{57801}{}{A storage container.}
-{57900}{}{Metal Locker}
-{57901}{}{A storage container.}
+{57800}{}{Metal Armário}
+{57801}{}{Uma contêiner de armazenamento.}
+{57900}{}{Metal Armário}
+{57901}{}{Uma contêiner de armazenamento.}
 {58000}{}{Chinese Code Chart}
 {58001}{}{You're not certain, but it appears to be a chart containing various Chinese command codes. Perhaps if you found a place to input these codes, you could learn a thing or two.}
 {58100}{}{Dead Tribal}
