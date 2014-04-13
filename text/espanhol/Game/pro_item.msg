@@ -502,14 +502,14 @@
 {25601}{}{Unos documentos de Ciudadanía falsos. Parecen lo bastante auténticos, pero dudas que pudieran pasar una inspección seria.}
 {25700}{}{Reloj de oro de Cornelius}
 {25701}{}{Un antiguo elemento de medida del tiempo llamada reloj de bolsillo. Y hace tiempo que el ídem se acabó para este objeto de recuerdo.}
-{26100}{}{Escopeta BB de Jonny}
-{26101}{}{Una escopeta Red Ryder BB con el nombre 'Jonny' grabado en la culata. Min FU: 3.}
 {25800}{}{Objeto hidroeléctrico}
 {25801}{}{Un regulador hidroeléctrico magnetosférico.}
 {25900}{}{Jet}
 {25901}{}{El Jet es una poderosa metanfetamina que estimula el sistema nervioso central. El subidón inicial de euforia rara vez dura más que unos pocos minutos, pero durante ese tiempo, el usuario nota gran energía y fuerza.}
 {26000}{}{Antídoto para el Jet}
 {26001}{}{Este antídoto cura los efectos de la adicción al Jet.}
+{26100}{}{Escopeta BB de Jonny}
+{26101}{}{Una escopeta Red Ryder BB con el nombre 'Jonny' grabado en la culata. Min FU: 3.}
 {26200}{}{Botas de caucho}
 {26201}{}{Un viejo par de botas de caucho. Parecen lo bastante duraderas como para librarte de los residuos, al menos durante un tiempo.}
 {26300}{}{Mensaje de los Escorias}
