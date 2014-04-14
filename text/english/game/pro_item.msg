@@ -547,81 +547,81 @@
 {27900}{}{Interface neural}
 {27901}{}{Parece ser um conjunto de eletrodos integrados em um capacete com uma interface de encaixe padrão para computadores.}
 {28000}{}{Sharpened Spear}
-{28001}{}{A razor tipped polearm. The shaft is wooden, and the tip is sharpened steel. Min ST: 4.}
-{28100}{}{Dixon's Eye}
-{28101}{}{A small jar containing a human eye suspended in some kind of liquid. The label says Corporal Dixon.}
-{28200}{}{Clifton's Eye}
-{28201}{}{A small jar containing a human eye suspended in some kind of liquid. The label says General Clifton.}
+{28001}{}{Um cabo de madeira com uma ponta de aço afiada. Min. FO: 4.}
+{28100}{}{Olho de Dixon} #Dixon's Eye
+{28101}{}{Um pequeno frasco contendo um olho humano suspenso em algum tipo de líquido. O rótulo diz Corporal Dixon.}
+{28200}{}{Olho de Clifton} #Clifton's Eye
+{28201}{}{Um pequeno frasco contendo um olho humano suspenso em algum tipo de líquido. O rótulo diz Geral Clifton.}
 {28300}{}{Tommy Gun}
-{28301}{}{This Thompson M1928 submachine gun is a sinister looking weapon; every time you hold it, you have an urge to put on a fedora hat and crack your knuckles. The Thompson is well-fed by a large 50 round drum magazine. Min ST: 6.}
+{28301}{}{Esta é uma metralhadora Thompson M1928 uma arma de aparencia sinistra; A Thompson tem um grande tambor que cabe 50 balas. Min. FO: 6.}
 {28400}{}{Meat Jerky}
-{28401}{}{These smoked and dried chunks of beast-flesh remain chewy-licious and even somewhat nutritious for years, and years, and years....}
+{28401}{}{Esses pedaços defumados e secos de carne de besta humana parece ser comestível e até mesmo um pouco nutritivo durante anos, e anos e anos...}
 {28500}{}{Radscorpion Limbs}
-{28501}{}{These Radscorpion pincers are hollowed out and have a strap with a broken buckle at the end.}
-{28600}{}{Firewood}
-{28601}{}{A pile of firewood and kindling.}
+{28501}{}{Estas garras de Radscorpion estão vazias e têm uma cinta com uma fivela quebrada no final.}
+{28600}{}{Lenha}
+{28601}{}{Uma pilha de gravetos e Lenha.}
 {28700}{}{Scoped Hunting Rifle}
-{28701}{}{Nothing's better than seeing that surprised look on your target's face. The Loophole x20 Scope on this hunting rifle makes it easier than ever before. Accurate from first shot to last, no matter what kind of game you're gunning for. Min ST: 5.}
-{28800}{}{Car Fuel Cell}
-{28801}{}{A car fuel cell.}
-{28900}{}{Shovel}
-{28901}{}{This is a shovel for digging ditches and Coisas.}
+{28701}{}{Nada é melhor do que ver Aquele olhar surpreso no rosto de seu alvo. A mira x20 neste rifle de caça torna mais fácil do que nunca. Precisa do primeiro ao último tiro, não importa em que você está atirando. FO Min 5.}
+{28800}{}{Célula de combustível} #Car Fuel Cell
+{28801}{}{Célula de combustível para carro.}
+{28900}{}{Pá} #Shovel
+{28901}{}{Esta é uma pá para cavar e outras coisas.}
 {29000}{}{Robo Melee Weapon 1}
-{29001}{}{For Floating Eye Robot. Does Electrical Damage.}
+{29001}{}{Para robôs. Causa danos Elétricos.}
 {29100}{}{Robo Melee Weapon 2}
-{29101}{}{For Floating Eye Robot. Does Electrical damage.}
-{29200}{}{Boxing Gloves}
-{29201}{}{A pair of boxing gloves that smell faintly of sweat. They look like they have seen a lot of use: many old blood stains still remain.}
-{29300}{}{Plated Boxing Gloves}
-{29301}{}{Someone has "accidentally" slipped metal plates into these boxing gloves. It could technically be considered cheating, but you prefer to think of it as an increased opportunity to dispense bone-crunching damage.}
+{29101}{}{Para robôs. Causa danos Elétricos.}
+{29200}{}{Luvas de boxe} #Boxing Gloves
+{29201}{}{Um par de luvas de boxe que cheiram levemente a suor. Elas parecem muito usadas: muitas e velhas manchas de sangue ainda permanecem.}
+{29300}{}{Luvas de Boxe Chapada} #Plated Boxing Gloves
+{29301}{}{Alguém "acidentalmente" deixou cair placas de metal nestas luvas de boxe. Poderia ser tecnicamente considerado trapaça, mas prefiro pensar nisso como uma oportunidade para quebrar ossos.}
 {29400}{}{Vault 13 Holodisk}
-{29401}{}{A holodisk which supposedly has the location of Vault 13.}
+{29401}{}{Um holodisk que supostamente contem a localização do Vault 13.}
 {29500}{}{Cheezy Poofs}
-{29501}{}{A box of cheese flavored puffs. They are extremely good.}
+{29501}{}{Uma caixa de bolinhas com sabor de queijo. Eles são muito bons.}
 {29600}{}{H&K P90c}
-{29601}{}{The Heckler & Koch P90c was just coming into use at the time of the war. The weapon's bullpup layout, and compact design, make it easy to control. The durable P90c is prized for its reliability, and high firepower in a ruggedly-compact package. Min ST: 4.}
-{29700}{}{Metal Pole}
-{29701}{}{It's a long metal pole. What did you expect?}
-{29800}{}{Trapper Town Key}
-{29801}{}{A standard key.}
+{29601}{}{A Heckler & Koch P90c era muito usada na época da guerra. Seu designer compacto a torna mais facil de controlar.  A durável P90c é valorizada pela sua confiabilidade e alto poder de fogo, robusto e compacto. Min. FO: 4}
+{29700}{}{Barra de metal} #Metal Pole
+{29701}{}{É uma barra de metal. O que você esperava?}
+{29800}{}{Chave do Bairro dos caçadores} #Trapper Town Key
+{29801}{}{Uma chave normal.}
 {29900}{}{Pipe Rifle}
-{29901}{}{This is a hand-made single shot rifle. Min ST: 5.}
+{29901}{}{Este é um rifle feito à mão, de tiro único. Min. FO: 5.}
 {30000}{}{Zip Gun}
-{30001}{}{A handmade single shot pistol. Min ST: 4.}
-{30100}{}{Clipboard}
-{30101}{}{This is a clipboard with the coolant report.}
+{30001}{}{Uma pistola feita à mão, de tiro único. Min. FO: 4.}
+{30100}{}{Prancheta} #Clipboard
+{30101}{}{Esta é uma prancheta com um relatório do sistema de refrigeração.}
 {30200}{}{Gecko Holodisk}
-{30201}{}{The label on this holotape reads: "Gecko Economic Data." It's difficult to interpret most of the technical charts, tables, and formulae here, but the majority of the information seems to highlight the advantages of a Vault City -- Gecko alliance.}
+{30201}{}{A etiqueta neste holodisco diz: "Dados econômicos de Gecko". É difícil interpretar a maioria dos gráficos técnicos, as tabelas e fórmulas que contem, mas a maioria das informações parece destacar as vantagens de uma parceria entre Vault City e Gecko.}
 {30300}{}{Reactor Holodisk}
-{30301}{}{The label on this holotape reads: "Gecko Reactor Performance Data." This disk contains a string of numbers that mean nothing to you. There sure is a lot of information here and it must be important to someone, somehow.}
-{30400}{}{Deck of "Tragic" Cards}
-{30401}{}{This is a deck of cards for a collectible card game. Looks like it could be an expensive hobby if you got hooked.}
-{30500}{}{Yellow Reactor Keycard}
-{30501}{}{An electronic security key, color coded yellow.}
-{30600}{}{Red Reactor Keycard}
-{30601}{}{An electronic security key, color coded red.}
-{30700}{}{Plasma Transformer}
-{30701}{}{This is a Three-step Plasma Transformer.}
-{30800}{}{Super Tool Kit}
-{30801}{}{An impressive tool set made by "Snap-Off".}
-{30900}{}{Talisman}
-{30901}{}{A talisman which is worn by followers of The Brain.}
+{30301}{}{A etiqueta neste holodisco diz: "Dados de rendimento do reator de Gecko". Este disco contém uma seqüência de números que não significam nada para você. De alguma forma, está certo de que muita das informações aqui devem ser importante para alguém.}
+{30400}{}{Um jogo de cartas "Tragic"}
+{30401}{}{Um baralho de um jogo de cartas colecionáveis. Parece ser um hobby caro.}
+{30500}{}{Cartão de Acesso Amarelo do Reator}
+{30501}{}{Uma chave eletrônica de segurança, código de cores amarelo.}
+{30600}{}{Cartão de Acesso Vermelho do Reator}
+{30601}{}{Uma chave eletrônica de segurança, código de cores vermelho.}
+{30700}{}{Transformador de Plasma} #Plasma Transformer
+{30701}{}{Isto é um transformador trifásico de plasma.}
+{30800}{}{Kit Super Ferramenta} #Super Tool Kit
+{30801}{}{Um conjunto de ferramentas impressionante feita por "Snap-Off".}
+{30900}{}{Talismã}
+{30901}{}{Um talismã que é usado por seguidores de cérebro.}
 {31000}{}{Gamma Gulp Beer}
-{31001}{}{A bottle of Gamma Gulp beer. It glows in the dark!}
+{31001}{}{Uma garrafa de cerveja radioativa. Brilha no escuro!}
 {31100}{}{Roentgen Rum}
-{31101}{}{A bottle of Roentgen rum. It glows in the dark!}
-{31200}{}{Part Requisition Form}
-{31201}{}{This is a Part Requisition Request form.}
+{31101}{}{Uma garrafa de Rum Roentgen. Brilha no escuro!}
+{31200}{}{Formulário de solicitação de peças}
+{31201}{}{Isto é um formulário de solicitação de peças.}
 {31300}{}{.44 Magnum Revolver}
-{31301}{}{Being that this is the most powerful handgun in the world, and can blow your head clean-off, you've got to ask yourself one question. Do I feel lucky? Well, do ya punk?. Min ST: 5.}
-{31400}{}{Condom (Blue Package)}
-{31401}{}{This is a Jimmy Hats brand condom, a very reliable brand. This one is ribbed for her pleasure.}
-{31500}{}{Condom (Green package)}
-{31501}{}{This is a Jimmy Hats brand condom, a very reliable brand. This one contains phosphorous green dye #2 and is slathered in spermicidal lubricant for added protection.}
-{31600}{}{Condom (Red Package)}
-{31601}{}{This is a Jimmy Hats brand condom, a very reliable brand. This one contains phosphorous red dye #5 and has a yummy cinnamon bun flavor... or so you heard.}
+{31301}{}{Sendo que esta é a arma mais poderosa do mundo, capaz de explodir sua cabeça. Min. FO: 5.}
+{31400}{}{Preservativo (pacote azul)} #Condom (Blue Package)
+{31401}{}{Esta é uma marca de preservativos Jimmy Hats, uma marca muito confiável. Este é com nervuras para um maior prazer.}
+{31500}{}{Preservativo (pacote verde)} #Condom (Green package)
+{31501}{}{Esta é uma marca de preservativos Jimmy Hats, uma marca muito confiável. Este contém corante verde #2 e está coberto de lubrificante espermicida para proteção adicional.}
+{31600}{}{Preservativo (pacote vermelho)} #Condom (Red Package)
+{31601}{}{Esta é uma marca de preservativos Jimmy Hats, uma marca muito confiável. Este contém corante vermelho #5 e tem um sabor delicioso de canela.}
 {31700}{}{Cosmetics Case}
-{31701}{}{This is a genuine Mary May brand cosmetics case.}
+{31701}{}{Este é um autêntico estojo Cosmético da marca Mary Kay.}
 {31800}{}{Empty Hypodermic}
 {31801}{}{This is an empty hypodermic.}
 {31900}{}{Switchblade}
