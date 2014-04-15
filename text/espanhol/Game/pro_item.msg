@@ -678,6 +678,7 @@
 {34500}{}{Cementerio}
 {34600}{}{Cementerio}
 {34700}{}{Cementerio}
+
 {34800}{}{Servoarmadura avanzada}
 {34801}{}{Esta servoarmadura está compuesta por una aleación de metales ligeros, reforzada con piezas de fundición de cerámica en los puntos clave. Los servomotores de ayuda al movimiento también parecen ser modelos de alta calidad.}
 {34900}{}{Servoarmadura avanzada MKII}

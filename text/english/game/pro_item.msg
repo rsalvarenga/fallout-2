@@ -622,69 +622,69 @@
 {31601}{}{Esta é uma marca de preservativos Jimmy Hats, uma marca muito confiável. Este contém corante vermelho #5 e tem um sabor delicioso de canela.}
 {31700}{}{Cosmetics Case}
 {31701}{}{Este é um autêntico estojo Cosmético da marca Mary Kay.}
-{31800}{}{Empty Hypodermic}
-{31801}{}{This is an empty hypodermic.}
-{31900}{}{Switchblade}
-{31901}{}{The blade of this small knife is held by a spring. When a button on the handle is pressed, the blade shoots out with a satisfying "Sssssshk" sound. Min ST: 1.}
-{32000}{}{Sharpened Pole}
-{32001}{}{A wood pole sharpened at one end. Min ST: 4.}
-{32100}{}{Cybernetic Brain}
-{32101}{}{A human brain that has been enhanced by the addition of electronic and robotic attachments.}
-{32200}{}{Human Brain}
-{32201}{}{A typical human brain. Normally they are found in human skulls. Yuck.}
-{32300}{}{Chimpanzee Brain}
-{32301}{}{A monkey brain. It's soft and squishy.}
-{32400}{}{Abnormal Brain}
-{32401}{}{Quite possibly a human brain. The color doesn't seem quite right and the left hemisphere of the brain has caved in on itself.}
-{32500}{}{Dice}
-{32501}{}{A standard pair of gambling dice. It'd be cool to get a fuzzy pair for your car.}
-{32600}{}{Loaded Dice}
-{32601}{}{A pair of loaded dice. Don't be flashing these around the casino.}
-{32700}{}{Easter Egg}
-{32701}{}{This is a hard boiled chicken egg painted with colored dyes.}
-{32800}{}{Magic 8-Ball}
-{32801}{}{This black sphere is some strange precognitive device... a small window on the top seems to be able to predict the future! Pre-war humanity must have been geniuses to invent such a wonder!}
-{32900}{}{Mutagenic Serum}
-{32901}{}{A strange organic concoction that could possibly reverse the Mutation Factor in humans.}
-{33000}{}{Crashed Verti-Bird}
-{33001}{}{This is wreckage from a verti-bird. Looks like it crashed here months ago.}
+{31800}{}{Seringa vazias} #Empty Hypodermic
+{31801}{}{Uma seringa vazia.}
+{31900}{}{Canivete} #Switchblade
+{31901}{}{A lâmina desta pequena faca funciona através de uma mola. Quando se pressiona um botão no punho, a lâmina se ejeta com um som "Sssssshk". Min. FO: 1.}
+{32000}{}{Estaca Afiada} #Sharpened Pole
+{32001}{}{Uma estaca de madeira bem afiada. Min FO: 4.}
+{32100}{}{Cérebro Cibernético} #Cybernetic Brain
+{32101}{}{Um cérebro humano que foi reforçado com acessórios eletrônicos e robóticos.}
+{32200}{}{Cérebro Humano}
+{32201}{}{Um cérebro humano normal. Normalmente eles são encontrados em crânios humanos. Eca!}
+{32300}{}{Cérebro Chimpanzé}
+{32301}{}{Um cérebro de macaco. É macio e mole.}
+{32400}{}{Cérebro anormal}
+{32401}{}{Muito possivelmente um cérebro humano. A cor não parece muito certo e o hemisfério esquerdo do cérebro tem um buraco.}
+{32500}{}{Dados}
+{32501}{}{Um par de dados de jogo normal. Seria genial levar um par desses para o seu carro.}
+{32600}{}{Dados carregados}
+{32601}{}{Um par de dados carregados. Não vai utilizar estes no casino.}
+{32700}{}{Ovo de Páscoa} #Easter Egg
+{32701}{}{Isso é um duro ovo de galinha pintado com tinta de diversas cores.}
+{32800}{}{Bola 8 mágica} #Magic 8-Ball
+{32801}{}{Esta esfera preta é algum tipo de dispositivo precognitivo estranho ... uma pequena janela no topo parece ser capaz de prever o futuro! A humanidade de antes da guerra devem ter sido gênios de inventar tal maravilha!}
+{32900}{}{Soro mutagênico} #Mutagenic Serum
+{32901}{}{Uma mistura orgânica estranha que poderia reverter a mutação em seres humanos.}
+{33000}{}{Verti-Bird Estragado}
+{33001}{}{Restos de um vertibird. Parece que bateu aqui meses atrás.}
 {33100}{}{Cat's Paw Issue #5}
-{33101}{}{This is the hard to find Issue 5 of Cat's Paw magazine. The pictures aside, this issue has a wonderful article on energy weapons.}
+{33101}{}{Este é muito difícil de se encontrar, edição #5 da revista Cat's Paw. As fotos de lado mostram que tem um maravilhoso artigo sobre armas de energia.}
 {33200}{}{M3A1 "Grease Gun" SMG}
-{33201}{}{This submachine gun filled National Guard arsenals after the Army replaced it with newer weapons. However, the "Grease Gun" was simple and cheap to manufacture so there are still quite a few still in use. Min ST: 4.}
-{33300}{}{Heart Pills}
-{33301}{}{These pills are used by people with heart problems.}
-{33400}{}{Poison}
-{33401}{}{A hypodermic needle full of powerful poison.}
-{33500}{}{Moore's Briefcase}
-{33501}{}{Thomas Moore asked you to take this brahmin hide briefcase to the Bishop family in New Reno. It is securely locked, and you can't seem to open it.}
-{33600}{}{Moore's Briefcase}
-{33601}{}{Thomas Moore asked you to take this brahmin hide briefcase to the Bishop family in New Reno. It is securely locked, and you can't seem to open it.}
+{33201}{}{Esta metralhadora cheia arsenais da Guarda Nacional depois que o Exército a substituiu por armas mais recentes. No entanto, a "Grease Gun" era simples e barato de fabricar assim, há muito poucas em uso. Min. FO: 4.}
+{33300}{}{Comprimidos do coração} #Heart pills
+{33301}{}{Estes comprimidos são usados por pessoas com problemas de coração.}
+{33400}{}{Veneno}
+{33401}{}{Uma agulha hipodérmica cheia de veneno poderoso.}
+{33500}{}{Maleta de Moore} #Moore's Briefcase
+{33501}{}{Thomas Moore pediu para você levar esta maleta de pele de brahmin para à família Bishop em New Reno. Ela tem uma fechadura de segurança e você não consegue abri-la.}
+{33600}{}{Maleta de Moore}
+{33601}{}{Thomas Moore pediu para você levar esta maleta de pele de brahmin para à família Bishop em New Reno. Ela tem uma fechadura de segurança e você não consegue abri-la.}
 {33700}{}{Lynette Holodisk}
-{33701}{}{This is the holodisk you got from Lynette.}
+{33701}{}{Este é o holodisco que Lynette te deu.}
 {33800}{}{Westin Holodisk}
-{33801}{}{This is the holodisk you got from Westin.}
+{33801}{}{Este é o holodisco que Westin te deu.}
 {33900}{}{NCR Spy Holodisk}
-{33901}{}{This holodisk contains reports of NCR caravan schedules and security information. It's addressed to Darion and signed "F". With this info, it's easy to see how the raiders have avoided capture.}
-{34000}{}{Doctor's Papers}
-{34001}{}{A set of very detailed plans for a Cybernetic Canine Guard Unit. With this and the right facilities, a person just might be able to build a robo-dog.}
-{34100}{}{Presidential Pass}
-{34101}{}{The bearer of this document is Security Clearance A-Prime as authorized by the authority of the President of the New California Republic. It's signed by President Tandi.}
-{34200}{}{Ranger Pin}
-{34201}{}{This pin says you're an official New California Ranger. Look -- it's got a code wheel and everything!}
-{34300}{}{Ranger's Map}
-{34301}{}{A map of the surrounding area -- it won't help you much -- but there are code names on it for the Ranger safe houses in the north.}
-{34400}{}{Gravesite}
-{34500}{}{Gravesite}
-{34600}{}{Gravesite}
-{34700}{}{Gravesite}
+{33901}{}{Este holodisk contém relatórios da NCR, horários de caravanas e informações de segurança. É dirigida a Darion e assinado como "F". Com esta informação, é fácil entender como os saqueadores evitam ser capturados.}
+{34000}{}{Documentos do Doutor } #Doctor's Papers
+{34001}{}{Um conjunto de planos muito detalhado para uma Unidade Canina Cibernética de Guarda. Com estas informações e habilidades adequadas uma pessoa pode ser capaz de construir um cão robo.}
+{34100}{}{Passe Presidencial} #Presidential Pass
+{34101}{}{O portador deste documento dispõe de um passe de segurança classe-A, conforme autorizado pelo Presidente da New California Republic. Esta assinado pelo presidente Tandi.}
+{34200}{}{Insígnia Ranger} #Ranger Pin
+{34201}{}{Esta insígnia indica que é um Ranger de New California. Veja -- tem uma roda de códigos e tudo!}
+{34300}{}{Mapa dos Rangers} #Ranger's Map
+{34301}{}{Um mapa da área ao redor (ele não vai te ajudar muito), mas tem nomes em código para os esconderijos dos Rangers ao norte.}
+{34400}{}{Túmulo} #Gravesite
+{34500}{}{Túmulo}
+{34600}{}{Túmulo}
+{34700}{}{Túmulo}
 {34701}{}{}
 {34800}{}{Advanced Power Armor}
-{34801}{}{This powered armor is composed of lightweight metal alloys, reinforced with ceramic castings at key points. The motion-assist servo-motors appear to be high quality models as well.}
+{34801}{}{Esta armadura potênte é composta por ligas metálicas leves, reforçadas com peças fundidas de cerâmica em pontos-chave. Os servo-motores ajudam no movimento, também parecem ser modelos de alta qualidade.}
 {34900}{}{Adv. Power Armor MKII}
-{34901}{}{This powered armor appears to be composed of entirely of lightweight ceramic composites rather than the usual combination of metal and ceramic plates. It seems as though it should give even more protection than the standard Advanced Power Armor.}
+{34901}{}{Esta armadura motorizada parece estar completamente pronta com compostos leves de cerâmicas, em vez de uma combinação habitual de metal e placas de cerâmica. Parece que ela deve dar ainda mais proteção do que Advanced Power Armor.}
 {35000}{}{Bozar}
-{35001}{}{The ultimate refinement of the sniper's art. Although, somewhat finicky and prone to jamming if not kept scrupulously clean, the big weapon's accuracy more than makes up for its extra maintenance requirements. Min ST: 6.}
+{35001}{}{O aperfeiçoamento da arte do franco-atirador. Embora, um pouco meticuloso e propenso a interferência se não for mantida rigorosamente limpas, a grande precisão deste rifle compensa os seus requisitos de manutenção extra. Min. FO: 6.}
 {35100}{}{FN FAL}
 {35101}{}{This rifle has been more widely used by armed forces than any other rifle in history. It's a reliable assault weapon for any terrain or tactical situation. Min ST: 5.}
 {35200}{}{H&K G11}
