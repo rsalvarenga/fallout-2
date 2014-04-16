@@ -1,3 +1,5 @@
+# Este arquivo foi revisado por Noob-Saibot.
+
 #############################################################
 #  Message File: kchild.msg                                 #
 #                                                           #
@@ -19,114 +21,115 @@
 #  glanced and and examined.                                #
 #############################################################
 
-{100}{}{Você vê uma das Crianças de Klamath.} #You see one of Klamath's Children.
-{101}{}{Você vê uma das Crianças de Klamath.} #You see one of Klamath's Children.
+{100}{}{VocÃª vÃª uma das CrianÃ§as de Klamath.} #You see one of Klamath's Children.
+{101}{}{VocÃª vÃª uma das CrianÃ§as de Klamath.} #You see one of Klamath's Children.
 
 #############################################################
 #  The following lines are floaters for children            #
 #############################################################
 
-{150}{}{Não me coma!} #Don't eat me!
+{150}{}{NÃ£o me coma!} #Don't eat me!
 {151}{}{Ecaaa! O monstro catarrento!} #Eeeee! The boogy-monster!
-{152}{}{O papai diz que você é uma pessoa ruim.} #Daddy says you're a bad person.
+{152}{}{O papai diz que vocÃª Ã© uma pessoa ruim.} #Daddy says you're a bad person.
 {153}{}{Aieeee! Corra!} #Aieeee! Run away!
-{154}{}{Você está me assustando.} #You're scaring me.
-{155}{}{Pare de olhar para mim.} #Stop looking at me.
-{156}{}{Eu não deveria falar com tribais.} #I'm not supposed to talk to tribals.
-{157}{}{Você é igual aos Duntons.} #You're just like the Duntons.
-{158}{}{Minha mãe disse que você vai me comer se eu ser mal.} #My mom said you'll eat me if I'm bad.
-{159}{}{Eu não estou com medo de você!} #I'm not afraid of you!
+{154}{}{VocÃª tÃ¡ me assustando.} #You're scaring me.
+{155}{}{Para de olhar para mim.} #Stop looking at me.
+{156}{}{Eu nÃ£o posso falar com tribais.} #I'm not supposed to talk to tribals.
+{157}{}{VocÃª Ã© igual aos Duntons.} #You're just like the Duntons.
+{158}{}{Minha mÃ£e disse que vocÃª vai me comer se eu me comportar mal.} #My mom said you'll eat me if I'm bad.
+{159}{}{Eu nÃ£o tenho medo de vocÃª!} #I'm not afraid of you!
 {160}{}{Me ajudaaa!} #Help meee!
-{161}{}{É depois de mim!} #It's after me!
-{162}{}{Por favor não me machuque!} #Please don't hurt me!
-{163}{}{Fique longe de mim!} #Stay away from me!
+{161}{}{EstÃ¡ atrÃ¡s de mim!!!} #It's after me!
+{162}{}{Por favor nÃ£o me machuque!} #Please don't hurt me!
+{163}{}{Fica longe de mim!} #Stay away from me!
 {164}{}{Ecaaaaaaa!} #Eeeeeeeee!
-{165}{}{Eu odeio você!} #I hate you!
-{166}{}{Mamãe, mamãe, mamãe!} #Mommy, mommy, mommy!
-{167}{}{Me deixe em paz!} #Leave me alone!
-{168}{}{Você fede!} #You stink!
+{165}{}{Eu te odeio!} #I hate you!
+{166}{}{MamÃ£e, mamÃ£e, mamÃ£e!} #Mommy, mommy, mommy!
+{167}{}{Me deixa em paz!} #Leave me alone!
+{168}{}{VocÃª fede!} #You stink!
 
-{170}{}{Eaí.} #Hello there.
-{171}{}{Quer brincar na minha casa de brinquedo?} #Want to play house?
-{172}{}{Você realmente atravessou um osso no seu nariz?} #Do you really poke a bone through your nose?
-{173}{}{Como é que você pode ser tão engraçado de olhar?} #How come you're so funny looking?
-{174}{}{Minha mãe diz que você é primitivo.} #My mom says you're primitive.
+{170}{}{Oi!} #Hello there.
+{171}{}{Quer brincar de casinha?} #Want to play house?
+{172}{}{VocÃªs realmente atravessam ossos no nariz?} #Do you really poke a bone through your nose?
+{173}{}{Como Ã© que vocÃª consegue ser ter uma cara tÃ£o engraÃ§ada?} #How come you're so funny looking?
+{174}{}{Minha mÃ£e diz que vocÃª vem das cavernas.} #My mom says you're primitive.
+# Aqui eu coloquei desta maneira porque alÃ©m de achar mais infantil, fica mais "assexuado".
 {175}{}{Sua tribo parou de comer pessoas?} #Has your tribe stopped eating people?
-{176}{}{Quem te vestiu assim tão engraçacado?} #Who dressed you so funny?
-{177}{}{Eu vou apostar que você é mais legal do que parece.} #I'll bet you're nicer than you look.
-{178}{}{Vamos brincar de pega-pega. Está com você.} #Let's play tag. You're it.
-{179}{}{Você não cheira tão mal assim.} #You don't smell that bad.
-{180}{}{Você já viu meu amigo invisível?} #Have you seen my invisible friend?
+{176}{}{Quem te vestiu assim tÃ£o engraÃ§acado?} #Who dressed you so funny?
+{177}{}{Eu vou apostar que vocÃª Ã© mais legal do que parece.} #I'll bet you're nicer than you look.
+{178}{}{Vamos brincar de pega-pega. TÃ¡ com vocÃª!} #Let's play tag. You're it.
+{179}{}{VocÃª nÃ£o cheira tÃ£o mal assim.} #You don't smell that bad.
+{180}{}{VocÃª viu meu amigo invisÃ­vel por aÃ­?} #Have you seen my invisible friend?
 {181}{}{Eu quero viajar pelo mundo quando eu tiver sua idade.} #I want to travel the world when I'm as old as you.
-{182}{}{Você é um tribal legal, não é igual aos outros.} #You're a nice tribal, not like the others.
-{183}{}{Eu aposto que você faz para tomar banho.} #I bet you do to bathe.
-{184}{}{Você é mais esperto do que o Torr.} #You're smarter than Torr.
-{185}{}{Essa lâmina que você tem é realmente afiada?} #Is that blade you have really sharp?
-{186}{}{Eu quero ser igual você quando eu crescer.} #I want to be just like you when I grow up.
+{182}{}{VocÃª Ã© um tribal legal, nÃ£o Ã© igual aos outros.} #You're a nice tribal, not like the others.
+{183}{}{Eu aposto que vocÃª toma alguns banhos.} #I bet you do to bathe.
+{184}{}{VocÃª Ã© mais esperto do que o Torr.} #You're smarter than Torr.
+{185}{}{Essa lÃ¢mina que vocÃª tem Ã© realmente afiada?} #Is that blade you have really sharp?
+{186}{}{Eu quero ser igual a vocÃª quando eu crescer!} #I want to be just like you when I grow up.
 {187}{}{Meu cachorro adora carne seca.} #My dog loves drymeat.
 {188}{}{Eu tenho uma pedra brilhante.} #I've got a shiny pebble.
-{189}{}{Você já viu meu amigo invisível?} #Have you seen my invisible friend?
+{189}{}{VocÃª jÃ¡ viu meu amigo invisÃ­vel?} #Have you seen my invisible friend?
 
-{190}{}{Posso me juntar a sua tribo?} #Can I join your tribe?
-{191}{}{Você é legal.} #You're nice.
-{192}{}{Você parece engraçado.} #You look funny.
-{193}{}{O que você está vestindo?} #Whatcha wearing?
+{190}{}{Posso me juntar Ã  sua tribo?} #Can I join your tribe?
+{191}{}{VocÃª Ã© legal.} #You're nice.
+{192}{}{VocÃª tem um jeito engraÃ§ado.} #You look funny.
+{193}{}{O que 'cÃª tÃ¡ vestindo?} #Whatcha wearing?
 {194}{}{Eu quero um passeio de brahmin!} #I want a brahmin ride!
-{195}{}{Você é de muito longe?} #Are you from far away?
+{195}{}{VocÃª Ã© de muito longe?} #Are you from far away?
 {196}{}{Weeee! Ha Ha Ha!}
-{197}{}{Não vá!} #Don't leave!
-{198}{}{Você tem alguma comida?} #Do you have some food?
+{197}{}{NÃ£o vai embora!} #Don't leave!
+{198}{}{VocÃª tem alguma comida?} #Do you have some food?
 {199}{}{Eu estou te incomodando?} #Am I bothering you?
-{200}{}{Para onde você está indo?} #Where ya going?
-{201}{}{Posso ir com você?} #Can I come with you?
-{202}{}{Quantos anos você tem?} #How old are you?
-{203}{}{Qual é o seu nome?} #What's your name?
-{204}{}{Você gosta de crianças?} #Do you like kids?
-{205}{}{O que é isso?} #What is that?
-{206}{}{Você quer jogar um jogo?} #Do you wanna play a game?
-{207}{}{O que você está fazendo?} -#Whatcha doing?
-{208}{}{Você já viu algum inseto?} #Have you seen any bugs?
-{209}{}{Onde você conseguiu isso?} -#Where did you get that?
-{210}{}{Eu posso ter isso?} -#Can I have that?
-{211}{}{O que você faz?} #What do you do?
-{212}{}{Eu posso correr rápido. Quer ver?} #I can run fast. Wanna see?
-{213}{}{Olhe para mim! Olhe para mim!} #Watch me! Watch me!
-{214}{}{Mamãe diz que eu falo demais.} #Mommy says I talk too much.
-{215}{}{Onde é sua casa?} #Where is your home?
+{200}{}{Para onde vocÃª estÃ¡ indo?} #Where ya going?
+{201}{}{Posso ir com vocÃª?} #Can I come with you?
+{202}{}{Quantos anos vocÃª tem?} #How old are you?
+{203}{}{Qual Ã© o seu nome?} #What's your name?
+{204}{}{VocÃª gosta de crianÃ§as?} #Do you like kids?
+{205}{}{O que Ã© isso?} #What is that?
+{206}{}{VocÃª quer jogar um jogo?} #Do you wanna play a game?
+{207}{}{O que vocÃª estÃ¡ fazendo?} #Whatcha doing?
+{208}{}{VocÃª viu algum inseto por aÃ­?} #Have you seen any bugs?
+{209}{}{Onde vocÃª conseguiu isso?} #Where did you get that?
+{210}{}{Posso ficar com isso?} #Can I have that?
+{211}{}{O que vocÃª faz?} #What do you do?
+{212}{}{Eu posso correr muito rÃ¡pido. Quer ver?} #I can run fast. Wanna see?
+{213}{}{Olha para mim! Olha para mim!} #Watch me! Watch me!
+{214}{}{MamÃ£e diz que eu falo demais.} #Mommy says I talk too much.
+{215}{}{Onde Ã© sua casa?} #Where is your home?
 {216}{}{Heeee! Heeee!}
-{217}{}{Você vai ficar aqui?} #Are you gonna stay here?
-{218}{}{Você tem filhos?} #Do you have kids?
-{219}{}{Por que você veio aqui?} #Why did you come here?
-{220}{}{Eu gosto de você.} #I like you.
-{221}{}{Você gosta de mim?} #Do you like me?
-{222}{}{Você é casado?} #Are you married?
-{223}{}{Um, dois, três - weee!} #One, two, three - weee!
+{217}{}{VocÃª vai ficar aqui?} #Are you gonna stay here?
+{218}{}{VocÃª tem filhos?} #Do you have kids?
+{219}{}{Por que vocÃª veio aqui?} #Why did you come here?
+{220}{}{Eu gosto de vocÃª.} #I like you.
+{221}{}{VocÃª gosta de mim?} #Do you like me?
+{222}{}{VocÃª Ã© casado?} #Are you married?
+{223}{}{Um, dois, trÃªs - weee!} #One, two, three - weee!
 
 #############################################################
 #  TELL ME ABOUTS WILL BE REMOVED                           #
 #############################################################
-{1000}{}{Ãncia}
+{1000}{}{AnciÃ£}
 {1001}{}{Fundador} #Founder
 {1002}{}{Vault Dweller}
 {1003}{}{Arroyo}
 {1004}{}{Klamath}
 {1005}{}{Vault}
 {1006}{}{O Escolhido} #Chosen One
-{1007}{}{Xamã}
+{1007}{}{XamÃ£}
 {1008}{}{Hakunin}
 {1009}{}{Healing Powder}
 {1010}{}{Ponte} #Bridge
 {1011}{}{Mynoc}
 
-{1100}{}{A anciã é a sua mãe e nossa lider.} # The Elder is your mother and our leader
+{1100}{}{A anciÃ£ Ã© a sua mÃ£e e nossa lider.} # The Elder is your mother and our leader
 {1101}{}{Nosso grande ancestral, que nos deu conhecimento.} # Our great ancestor who gave us knowledge.
 {1102}{}{O primeiro a lutar e vencer o caos.} # The first to fight and win over chaos.
 {1103}{}{Essa seria a nossa bela aldeia.} # That would be our beautiful village.
-{1104}{}{É um posto avançado de troca que fica a alguns dias a leste daqui.} # That's trading outpost a few days east of here.
-{1105}{}{O Vault é o céu.} # The Vault is heaven.
-{1106}{}{Você é O Escolhido.} # You are the Chosen One.
-{1107}{}{Ele nos cura com suas ervas e magia. Ele está localizado ao norte da nossa aldeia.} # He heals us with his herbs and magic. He is in the north part of our village.
-{1108}{}{Ele nos cura com suas ervas e magia. Ele está localizado ao norte da nossa aldeia.} # He heals us with his herbs and magic. He is in the north part of our village.
-{1109}{}{É um pó mágico que vai curá-lo, mas vai te deixar sonolento.} # It is a magic powder which will heal you, but will make you sleepy.
+{1104}{}{Ã‰ um posto avanÃ§ado de troca que fica a alguns dias a leste daqui.} # That's trading outpost a few days east of here.
+{1105}{}{O Vault Ã© o cÃ©u.} # The Vault is heaven.
+{1106}{}{VocÃª Ã© O Escolhido.} # You are the Chosen One.
+{1107}{}{Ele nos cura com suas ervas e magia. Ele estÃ¡ localizado ao norte da nossa aldeia.} # He heals us with his herbs and magic. He is in the north part of our village.
+{1108}{}{Ele nos cura com suas ervas e magia. Ele estÃ¡ localizado ao norte da nossa aldeia.} # He heals us with his herbs and magic. He is in the north part of our village.
+{1109}{}{Ã‰ um pÃ³ mÃ¡gico que vai curÃ¡-lo, mas vai te deixar sonolento.} # It is a magic powder which will heal you, but will make you sleepy.
 {1110}{}{A Grande Ponte fica ao sul de nossa aldeia.} # The Great Bridge exits our village in the south.
-{1111}{}{Ele protege a ponte que dá acesso à nossa aldeia.} # He guards the bridge leading into our village.
+{1111}{}{Ele protege a ponte que dÃ¡ acesso Ã  nossa aldeia.} # He guards the bridge leading into our village.
