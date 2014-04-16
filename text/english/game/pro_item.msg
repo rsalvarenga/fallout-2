@@ -19,7 +19,7 @@
 {1000}{}{Hunting Rifle}
 {1001}{}{Um Rifle Colt Rangemaster semi-automático, de calibre .223. Tiro Único. Min. FO: 5.}
 {1100}{}{Flamer}
-{1101}{}{Um Lança-Chamas modelo Flambe 450. Dispara um curto líquido inflamável extremamente quente. Requer combustível especializada para funcionar corretamente. Min. FO: 6.}
+{1101}{}{Um Lança-Chamas modelo Flambe 450. Dispara um curto líquido inflamável extremamente quente. Requer combustível especializado para funcionar corretamente. Min. FO: 6.}
 {1200}{}{Minigun}
 {1201}{}{Uma metralhadora pessoal Rockwell CZ53. Uma metralhadora de cano multiplo que dispara munições de 5mm a mais de 60.000 RPM. Min. FO: 7.}
 {1300}{}{Rocket Launcher}
@@ -33,7 +33,7 @@
 {1700}{}{Combat Armor}
 {1701}{}{Armadura de alta tecnologia, feito de polímeros defensivas avançadas.}
 {1800}{}{Desert Eagle .44}
-{1801}{}{Uma antiga pistola Desert Eagle, magnum .44. Sua participou de varios filmes no final do século 20 fez desta uma das armas mais populares de todos os tempos. Min. FO: 4.}
+{1801}{}{Uma antiga pistola Desert Eagle, magnum .44. Participou de varios filmes no final do século 20 fez desta uma das armas mais populares de todos os tempos. Min. FO: 4.}
 {1900}{}{Rocha}
 {1901}{}{É uma rocha. Modelo Granite-Inc. Este modelo é uma versão atualizada. Min. FO: 1.}
 {2000}{}{Crowbar}
@@ -686,108 +686,108 @@
 {35000}{}{Bozar}
 {35001}{}{O aperfeiçoamento da arte do franco-atirador. Embora, um pouco meticuloso e propenso a interferência se não for mantida rigorosamente limpas, a grande precisão deste rifle compensa os seus requisitos de manutenção extra. Min. FO: 6.}
 {35100}{}{FN FAL}
-{35101}{}{This rifle has been more widely used by armed forces than any other rifle in history. It's a reliable assault weapon for any terrain or tactical situation. Min ST: 5.}
+{35101}{}{Este rifle foi mais utilizado pelas forças armadas do que qualquer outro rifle na história. É uma arma de assalto confiável para qualquer tipo de terreno ou situação tática. Min. FO: 5.}
 {35200}{}{H&K G11}
-{35201}{}{This gun revolutionized assault weapon design. The weapon fires a caseless cartridge consisting of a block of propellant with a bullet buried inside. The resultant weight and space savings allow this weapon to have a very high magazine capacity. Min ST: 5.}
+{35201}{}{Esta arma revolucionou o design arma de assalto. A arma dispara um cartucho constituído por um bloco de propulsor com uma bala no interior. O peso e a economia de espaço resultantes permitem a esta arma ter uma capacidade muito alta de carga. Min. FO: 5.}
 {35300}{}{XL70E3}
-{35301}{}{This was an experimental weapon at the time of the war. Manufactured, primarily, from high-strength polymers, the weapon is almost indestructible. It's light, fast firing, accurate, and can be broken down without the use of any tools. Min ST: 5.}
+{35301}{}{Esta foi uma arma experimental na época da grande guerra. Fabricada principalmente com resistentes polímeros, a arma é praticamente indestrutível. É leve, dispara rápidamente, precisa e pode ser desarmada sem usar qualquer ferramenta. Min. FO: 5.}
 {35400}{}{Pancor Jackhammer}
-{35401}{}{The Jackhammer, despite its name, is an easy to control shotgun, even when fired on full automatic. The popular bullpup design, which places the magazine behind the trigger, makes the weapon well balanced & easy to control. Min ST: 5.}
+{35401}{}{Uma britadeira, apesar do nome, é um fácil de controlar, mesmo no modo de disparo automático. O seu designer foi projetado no estilo bullpup, quando se coloca o dedo no gatilho faz com que a arma fique equilibrada e fácil de controlar. FO Min 5.}
 {35500}{}{Light Support Weapon}
-{35501}{}{This squad-level support weapon has a bullpup design. The bullpup design makes it difficult to use while lying down. Because of this it was remanded to National Guard units. It, however, earned a reputation as a reliable weapon that packs a lot of punch for its size. Min ST: 6.}
-{35600}{}{Computer Voice Module}
-{35601}{}{A circuit board with several unidentifiable parts, a microphone, and an inscription that reads "Vault-Tec Voice Recognition Module."}
+{35501}{}{Esta arma de nível esquadrão de apoio tem um design bullpup. O design bullpup torna a arma difícil de ser usada enquanto deitado. Por isso, foi devolvido para as unidades da Guarda Nacional. Ela, no entanto, ganhou uma reputação como uma arma confiável com boa potência para o seu tamanho. Min. FO: 6.}
+{35600}{}{Módulo de Voz para computador} #Computer Voice Module
+{35601}{}{Uma placa de circuito com várias peças não identificáveis??, um microfone e uma inscrição que diz "Vault-Tec módulo de reconhecimento de voz."}
 {35700}{}{.45 Caliber}
-{35701}{}{Ammunition. .45 Caliber.}
+{35701}{}{Munições calibre .45.}
 {35800}{}{2mm EC}
-{35801}{}{Ammunition.}
+{35801}{}{Munições.}
 {35900}{}{4.7mm Caseless}
-{35901}{}{Ammunition. Caliber: 4.7mm, caseless.}
+{35901}{}{Munições calibre: 4.7mm, caseless.}
 {36000}{}{9mm}
-{36001}{}{Ammunition. Caliber: 9mm.}
+{36001}{}{Munições calibre: 9mm.}
 {36100}{}{HN Needler Cartridge}
-{36101}{}{Ammunition. This cartridge appears to be ammo for the HN Needler Pistol. Each 'bullet' is a small hypodermic designed to inject a target with its contents upon impact.}
+{36101}{}{Munições. Este cartucho parece ser munição para "HN Needler Pistol". Cada 'bala' é uma pequena seringa projetada para injetar seu conteúdo no momento do impacto.}
 {36200}{}{HN AP Needler Cartridge}
-{36201}{}{Ammunition. This cartridge appears to be armor-piercing ammo for the HN Needler Pistol. The hypodermic tips are made of a strange alloy and are incredibly sharp.}
+{36201}{}{Munições. Este cartucho parece ser munição que penetra em blindagens para "HN Needler Pistol". As pontas das seringas são feitas de uma liga estranha e são incrivelmente afiadas.}
 {36300}{}{7.62mm}
-{36301}{}{Ammunition. Caliber: 7.62mm.}
+{36301}{}{Munições calibre: 7.62mm.}
 {36400}{}{Robot Motivator}
-{36401}{}{This is the drive mechanism for a robot.}
-{36500}{}{Plant Spike}
-{36501}{}{An organic seed-spike that the carnivorous plants spit at potential food or seed carriers.}
+{36401}{}{Este é o mecanismo de comando de um robô.}
+{36500}{}{Espinho de planta} #Plant Spike
+{36501}{}{Um espinho de planta orgânica, as plantas carnívoras cospem sobre seus alvos de alimentos ou sementes.}
 {36600}{}{G.E.C.K.}
-{36601}{}{The Garden of Eden Creation Kit. This unit is standard equipment for all Vault-Tec vaults. A GECK is the resource for rebuilding civilization after the bomb. Just add water and stir.}
-{36700}{}{Ammo Crate}
-{36800}{}{Ammo Crate}
-{36900}{}{Ammo Crate}
-{37000}{}{Ammo Crate}
-{37100}{}{Claw}
-{37101}{}{Claw}
-{37200}{}{Claw}
-{37201}{}{Claw}
-{37300}{}{Vault 15 Keycard}
-{37301}{}{An electronic security key, color coded red.}
-{37400}{}{Gravesite}
-{37500}{}{Gravesite}
-{37600}{}{Gravesite}
-{37700}{}{Vault 15 Computer Parts}
-{37701}{}{Miscellaneous computer parts with various functions. A computer geek's dream.}
-{37800}{}{Cookie}
-{37801}{}{A chocolate chip cookie. Yum!}
+{36601}{}{Kit de Criação do Jardim do Éden. Este é um equipamento padrão para todos os refúgios Vault-Tec. O GECK é uma fonte de reconstrução da civilização depois da bomba. Basta adicionar água e mexer.}
+{36700}{}{Munição de caixa} #Ammo Crate
+{36800}{}{Munição de caixa}
+{36900}{}{Munição de caixa}
+{37000}{}{Munição de caixae}
+{37100}{}{Garra} #Claw
+{37101}{}{Garra}
+{37200}{}{Garra}
+{37201}{}{ClGarraaw}
+{37300}{}{Cartão de Acesso Vault 15} #Vault 15 Keycard
+{37301}{}{Um cartão eletrônico de segurança, com códigos de cor vermelho.}
+{37400}{}{Túmulo}
+{37500}{}{Túmulo}
+{37600}{}{Túmulo} #Gravesite
+{37700}{}{Peças do computador de Vault 15}
+{37701}{}{Diversas peças de computador com várias funções. O sonho de um nerd de computador.}
+{37800}{}{Biscoito}
+{37801}{}{Um biscoito com gotas de chocolate. Humm!}
 {37900}{}{Leather Armor Mark II}
-{37901}{}{An enhanced version of the basic leather armor with extra layers of protection. Finely crafted from tanned brahmin hide.}
+{37901}{}{Uma versão melhorada da básica Leather Armor com uma capa extra de proteção. Finamente trabalhada com couro curtido brahmin.}
 {38000}{}{Metal Armor Mark II}
-{38001}{}{Polished metal plates, finely crafted into a suit of armor.}
+{38001}{}{Placas de metal polido, pregadas manualmente em uma armadura.}
 {38100}{}{Combat Armor Mark II}
-{38101}{}{High tech armor, made out of advanced defensive polymers.}
+{38101}{}{Armadura de alta tecnologia, feito de polímeros defensivos avançados.}
 {38200}{}{Flamethrower Fuel MKII}
-{38201}{}{This flamethrower fuel uses an advanced super-burn mix.}
-{38300}{}{Shiv}
-{38301}{}{This home-made knife is as dangerous as it is easily concealed. Its presence can't be detected by others. Min ST: 1.}
-{38400}{}{Wrench}
-{38401}{}{A typical wrench used by mechanics. Min ST: 3.}
+{38201}{}{Este combustível para lança-chamas utiliza um mix avançado de super-queimadura.}
+{38300}{}{Canivete caseiro} #Shiv
+{38301}{}{Esta faca de fabricação caseira é tão perigosA como é facilmente escondidas. A sua presença não pode ser detectada por outros. Min FO: 1.}
+{38400}{}{Chave inglesa} #Wrench
+{38401}{}{Uma típica chave inglesa usado pela mecânicos. Min. FO: 3.}
 {38500}{}{Sawed-Off Shotgun}
-{38501}{}{Someone took the time to chop the last few inches off the barrel and stock of this shotgun. Now, the wide spread of this hand-cannon's short-barreled shots makes it perfect for short-range crowd control. Min ST: 4.}
+{38501}{}{Alguém levou muito tempo para cortar os últimos centímetros do cano desta espingarda. Agora, a ampla disseminação de tiros curtos a torna perfeito para controlar a multidão de curta distância. Min. FO: 4.}
 {38600}{}{Louisville Slugger}
-{38601}{}{This all-American, hardwood, baseball bat will knock anything right out of the park. Min ST: 4.}
+{38601}{}{Um bastão de baseball de madeira, americano que se preze derrubará qualquer um que chegue perto. Min FO: 4.}
 {38700}{}{M60}
-{38701}{}{This relatively light machine gun was prized by militaries around the world for its high rate of fire. This reliable, battlefield-proven design, was used on vehicles and for squad level fire-support. Min ST: 7.}
+{38701}{}{Esta metralhadora é relativamente leve e foi muito valorizada pelos militares em todo o mundo por sua alta taxa de disparo. Esta arma é confiável e comprovada no campo de batalha, foi usado em veículos para os esquadrões de apoio de fogo. Min FO: 7.}
 {38800}{}{Needler Pistol}
-{38801}{}{You suspect this Bringham needler pistol was once used for scientific field studies. It uses small hard-plastic hypodermic darts as ammo. Min ST: 3.}
+{38801}{}{Você suspeita que esta Needler Pistol uma vez foi usada para estudos científicos. Ela usa pequenos dardos hipodérmicos de plástico duro como munição. Min. FO: 3.}
 {38900}{}{Avenger Minigun}
-{38901}{}{Rockwell designed the Avenger as the replacement for their aging CZ53 Personal Minigun. The Avenger's design improvements include improved, gel-fin, cooling and chromium plated barrel-bores. This gives it a greater range and lethality. Min ST: 7.}
+{38901}{}{Rockwell desenhou o Avenger Minigun para substituir o seu antigo modelo CZ53. As melhorias no projeto do Avenger Minigun incluem, refrigeração em gel e canos cromados com pequenos furos. Isto aumenta seu alcance e letalidade. Min. FO: 7.}
 {39000}{}{Solar Scorcher}
-{39001}{}{Without the sun's rays to charge this weapon's capacitors this gun can't light a match. However, in full daylight, the experimental photo-electric cells that power the Scorcher allow it to turn almost anything into a crispy critter. Min ST: 3.}
+{39001}{}{Sem os raios do sol para carregar os capacitores desta arma essa arma não pode acender um fósforo. No entanto, em plena luz do dia, as células experimentais foto-elétrica que alimentam o Scorcher te permitem transformar quase qualquer coisa em uma criatura crocante. Min. FO: 3.}
 {39100}{}{H&K G11E}
-{39101}{}{This gun revolutionized squad level support weapon design. The gun fires a caseless cartridge consisting of a block of propellant with a bullet buried inside. The resultant weight and space savings allow it to have a very high magazine capacity. Min ST: 6.}
+{39101}{}{Esta arma revolucionou o designer de armamentos para esquadrões de apoio. Dispara cartuchos sem deformar a bala, constituído por um bloco de propulsor com uma bala no interior. O peso e a economia de espaço permite que ela tenha uma alta capacidade de carga. Min. FO: 6.}
 {39200}{}{M72 Gauss Rifle}
-{39201}{}{The M72 rifle is of German design. It uses an electromagnetic field to propel rounds at tremendous speed... and pierce almost any obstacle. Its range, accuracy and stopping power is almost unparalleled. Min ST: 6.}
+{39201}{}{O M72 tem um design alemão. Impulsiona um campo eletromagnético a uma velocidade tremenda... e penetram em quase qualquer obstáculo. Seu longo alcance, precisão e poder de fogo são quase incomparáveis. Min FO: 6.}
 {39300}{}{Phazer}
-{39301}{}{This mysterious high tech weapon appears to have some sort of energy generator inside. If it wasn't damaged, this gun could be the ultimate weapon against any enemy. The backup energy module consists of replaceable small energy cell. Min ST: 3.}
+{39301}{}{Esta arma misteriosa de alta tecnologia parece ter algum tipo de gerador de energia no interior. Se ele não estiver danificada, esta arma pode ser a arma definitiva contra qualquer inimigo. O módulo de energia de backup consiste em pequenas células de energia renovavel. Min. FO: 3.}
 {39400}{}{PPK12 Gauss Pistol}
-{39401}{}{Praised for its range and stopping power, the PPK12 Gauss Pistol is of German design. The pistol uses an electromagnetic field to propel rounds at tremendous speed and punch through almost any armor. Min ST: 4.}
+{39401}{}{Elogiada por seu alcance e poder incomparavel, a PPK12 Gauss Pistol é de design alemão. Impulsiona um campo eletromagnético a uma velocidade tremenda e atravessa quase todas as armaduras. Min. FO: 4.}
 {39500}{}{Vindicator Minigun}
-{39501}{}{The German Rheinmetal AG company created the ultimate minigun. The Vindicator throws over 90,000 caseless shells per minute down its six carbon-polymer barrels. As the pinnacle of Teutonic engineering skill, it is the ultimate hand-held weapon. Min ST: 7.}
+{39501}{}{A empresa alemã Rheinmetal AG criou o minigun final. O Vindicator dispara mais de 90.000 balas por minuto, através de seus seis canos de carbono de polímero. Como o auge da habilidade de engenharia teutônica, é a grande arma final. Min. FO: 7.}
 {39600}{}{YK32 Pulse Pistol}
-{39601}{}{The YK32 is an electrical pulse weapon that was developed by the Yuma Flats Energy Consortium. Though powerful, the YK32 was never considered a practical weapon due to its inefficient energy usage and bulky design. Min ST: 3.}
+{39601}{}{O YK32 é uma arma de pulso elétrico que foi desenvolvido por Yuma Flats Energy Consortium. Apesar de poderosa, a YK32 nunca foi considerada uma arma prática devido ao seu uso ineficiente da energia e design volumoso. Min. FO: 3.}
 {39700}{}{YK42B Pulse Rifle}
-{39701}{}{The YK42B is an electrical pulse weapon that was developed by the Yuma Flats Energy Consortium. It is considered a far superior weapon to the YK32 pistol, having a greater charge capacity and range. Min ST: 3.}
+{39701}{}{O YK42B é uma arma de pulso elétrico que foi desenvolvido por Yuma Flats Energy Consortium. Considera-se uma arma muito superior à pistola YK32, tendo uma maior capacidade de carga e gama. Min. FO: 3.}
 {39800}{}{.44 Magnum (Speed Load)}
-{39801}{}{A .44 Magnum Revolver with a speed loader. Min ST: 5.}
+{39801}{}{Uma Magnum .44 com um carregador rápido. Min FO: 5.}
 {39900}{}{Super Cattle Prod}
-{39901}{}{A Farmer's Best Friend model cattle prod from Wattz Electronics. This model has been upgraded to increase the electrical discharge. Min ST: 4.}
+{39901}{}{Um aparelho de tocar o gado modelo 'O melhor amigo do fazendeiro', de Wattz Electronics. Este modelo foi atualizado para aumentar a descarga elétrica. Min. FO: 4.}
 {40000}{}{Improved Flamer}
-{40001}{}{A Flambe 450 model flamethrower, varmiter variation. Fires a short spray of extremely hot, flammable liquid. Requires specialized fuel to work properly. This model has been modified to fire a hotter mixture which causes greater combustibility. Min ST: 6.}
+{40001}{}{Um Lança-Chamas modelo Flambe 450. Dispara um curto líquido inflamável extremamente quente. Requer combustível especializado para funcionar corretamente. Este modelo foi modificado para disparar uma mistura mais quente que causa maior combustibilidade. Min. FO: 6.}
 {40100}{}{Laser Rifle (Ext. Cap.)}
-{40101}{}{This Wattz 2000 laser rifle has had its recharging system upgraded and a special recycling chip installed that reduces the drain on the micro fusion cell by 50%. Min ST: 6.}
+{40101}{}{Este rifle de laser Wattz 2000 teve seu sistema de recarga atualizado e um chip especial instalado que a reciclagem reduz o consumo da célula micro fusão em 50%. Min. FO: 6.}
 {40200}{}{Magneto-Laser Pistol}
-{40201}{}{This Wattz 1000 laser pistol has been upgraded with a magnetic field targeting system that tightens the laser emission, giving this pistol extra penetrating power. Min ST: 3.}
+{40201}{}{Esta pistola de laser Wattz 1000 foi atualizada com um sistema de campo magnético que afina a emissão laser, proporcionando a esta arma um poder de penetração extra. Min. FO: 3.}
 {40300}{}{FN FAL (Night Sight)}
-{40301}{}{This rifle has been more widely used by armed forces than any other rifle in history. It's a reliable assault weapon for any terrain or tactical situation. This weapon has been equipped with a night sight for greater night accuracy. Min ST: 5.}
+{40301}{}{Este rifle foi mais utilizado pelas forças armadas do que qualquer outro rifle na história. É uma arma de assalto confiável para qualquer tipo de terreno ou situação tática. Esta arma foi equipada com uma visão noturna para maior precisão a noite. Min. FO: 5.}
 {40400}{}{Desert Eagle (Exp. Mag.)}
-{40401}{}{An ancient Desert Eagle pistol, in .44 magnum. Interest in late 20th century films made this one of the most popular handguns of all times. This one has been equipped with an expanded magazine for longer fun and games! Min ST: 4.}
+{40401}{}{Uma antiga pistola Desert Eagle, magnum .44. Participou de varios filmes no final do século 20 fez desta uma das armas mais populares de todos os tempos. Foi equipadA com um carregador expandido para uma diversão maior! Min. FO: 4.}
 {40500}{}{Assault Rifle (Exp. Mag.)}
-{40501}{}{This Assault Rifle has an extended, military sized, ammunition clip. The expanded magazine capacity makes it more fun than ever to Spray-and-Pray. Min ST: 5.}
+{40501}{}{Este rifle de assalto tem um porte militar, cartucho de munição ampliado. A capacidade de cartucho ampliada a torna mais divertida do que nunca. Min. FO: 5.}
 {40600}{}{Plasma Pistol (Ext. Cap.)}
 {40601}{}{This Glock 86 Plasma Pistol has had its magnetic housing chamber realigned to reduce the drain on its energy cell. Its efficiency has doubled, allowing it to fire more shots before the battery is expended. Min ST: 4.}
 {40700}{}{Mega Power Fist}
