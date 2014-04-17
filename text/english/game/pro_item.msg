@@ -185,9 +185,9 @@
 {9300}{}{Bolsa}
 {9301}{}{Um saco de tamanho médio. Feita a partir de pêlos brahmin.}
 {9400}{}{Shotgun}
-{9401}{}{Uma escopeta Winchester Widowmaker com cano duplo de calibre 12. Cano curto e aperto de mogno. Min FO: 4.}
+{9401}{}{Uma espingarda Winchester Widowmaker com cano duplo de calibre 12. Cano curto e cabo de mogno. Min FO: 4.}
 {9500}{}{12 gauge shotgun shell} 
-{9501}{}{Munição de escopeta. Esta munição especial indica que: "munição 12, proibido para crianças com idade inferior a 3 anos."}
+{9501}{}{Munição de espingarda. Esta munição especial indica que: "munição 12, proibido para crianças com idade inferior a 3 anos."}
 {9600}{}{Red Pass Key}
 {9601}{}{Uma chave de segurança eletrônica, com código de cores vermelho.}
 {9700}{}{Blue Pass Key}
@@ -319,9 +319,9 @@
 {16000}{}{Cattle Prod}
 {16001}{}{Um aparelho de tocar o gado modelo 'O melhor amigo do fazendeiro', de Wattz Electronics. Utiliza céluas PE de energia. Min FO: 4.}
 {16100}{}{Red Ryder BB Gun}
-{16101}{}{Uma escopeta Red Ryder BB. Clássica. Min. FO: 3.}
+{16101}{}{Uma espingarda Red Ryder BB. Clássica. Min. FO: 3.}
 {16200}{}{Red Ryder LE BB Gun}
-{16201}{}{Uma edição limitada da escopeta Red Ryder BB. Um verdadeiro clássico. Min FO: 3.}
+{16201}{}{Uma edição limitada da espingarda Red Ryder BB. Um verdadeiro clássico. Min FO: 3.}
 {16300}{}{BB's}
 {16301}{}{Um pacote de BB de antes da guerra. Em excelente estado de conservação. Em aço inoxidável.}
 {16400}{}{Brotherhood Tape}
@@ -471,7 +471,7 @@
 {24100}{}{.223 Pistol}
 {24101}{}{Uma rifle .223 modificado e modelado como pistola. Trata-se de uma arma única, obviamente feita com carinho e habilidade. Min FO: 5.}
 {24200}{}{Combat Shotgun}
-{24201}{}{Uma escopeta de combate Winchester City-Killer de calibre 12. Em excelentes condições, com um selante ambiental opcional DesertWarfare para maior confiabilidade. Min. FO: 5.}
+{24201}{}{Uma espingarda de combate Winchester City-Killer de calibre 12. Em excelentes condições, com um selante ambiental opcional DesertWarfare para maior confiabilidade. Min. FO: 5.}
 {24300}{}{Vaso}
 {24301}{}{Um simples vaso artesanal de barro.}
 {24400}{}{Vaso}
@@ -509,7 +509,7 @@
 {26000}{}{Jet Antidote}
 {26001}{}{Este antídoto curar os efeitos da dependência de Jet.}
 {26100}{}{Jonny's BB Gun}
-{26101}{}{Uma escopeta Red Ryder BB com o nome "Jonny" gravado no cabo. Min FO: 3.}
+{26101}{}{Uma espingarda Red Ryder BB com o nome "Jonny" gravado no cabo. Min FO: 3.}
 {26200}{}{Botas de borracha} #Rubber Boots
 {26201}{}{Um velho par de botas de borracha. Parece durável o suficiente para impedir a entrada de resíduos, ao menos por um tempo.}
 {26300}{}{Mensagem de Escória} #Slag Message
@@ -523,7 +523,7 @@
 {26700}{}{Cantil de Vic} #Vic's Water Flask
 {26701}{}{Esta relíquia do Vault foi provavelmente usado para algum sacramento sagrado. O sagrado número 13 estampado em um lado desse frasco mantem um vínculo precioso com o passado de seu povo e um futuro esperançoso.}
 {26800}{}{H&K CAWS}
-{26801}{}{O CAWS, é uma abreviatura de Close Assault Weapons System, é uma escopeta útil para combates de curto alcançe. Arma projeta para um manuseio simples e curto, mas seu cano é bastante longo para disparar em alta velocidade. FO Min: 6.}
+{26801}{}{O CAWS, é uma abreviatura de Close Assault Weapons System, é uma espingarda útil para combates de curto alcançe. Arma projeta para um manuseio simples e curto, mas seu cano é bastante longo para disparar em alta velocidade. FO Min: 6.}
 {26900}{}{Peças de robô}
 {26901}{}{Uma pilha de peças de robô danificadas.}
 {27000}{}{Robo Rocket Launcher}
@@ -789,94 +789,94 @@
 {40500}{}{Assault Rifle (Exp. Mag.)}
 {40501}{}{Este rifle de assalto tem um porte militar, cartucho de munição ampliado. A capacidade de cartucho ampliada a torna mais divertida do que nunca. Min. FO: 5.}
 {40600}{}{Plasma Pistol (Ext. Cap.)}
-{40601}{}{This Glock 86 Plasma Pistol has had its magnetic housing chamber realigned to reduce the drain on its energy cell. Its efficiency has doubled, allowing it to fire more shots before the battery is expended. Min ST: 4.}
+{40601}{}{Esta Pistola de plasma Glock 86 teve sua câmara magnética reajustada para reduzir o consumo em sua célula de energia. Sua eficiência dobrou, permitindo-lhe disparar mais tiros antes que termine a bateria. Min. FO: 4.}
 {40700}{}{Mega Power Fist}
-{40701}{}{A "Big Frigger" Power Fist from BeatCo. Considered by many to be the ultimate weapon to use in unarmed combat. This one has upgraded power servos for increased strength. Powered by small energy cells. Min ST: 1.}
+{40701}{}{Um Punho de energia de BeatCo. Considerada por muitos como a melhor arma de uso em combate desarmado. Esta versão foi melhorada para uma maior resistência. Desenvolvido por células de energia de pequeno porte. Min. ST: 1.}
 {40800}{}{Field Medic First Aid Kit}
-{40801}{}{A small kit containing basic emergency medical equipment. Bandages, wraps, antiseptic spray, and more.}
-{40900}{}{Paramedics Bag}
-{40901}{}{This bag contains instruments and chems used by paramedics in the field. The tools contained are specifically designed for high trauma and emergency cases.}
+{40801}{}{Um pequeno kit contendo equipamentos médicos básicos. Bandagens, gaze, spray de anti-séptico e muito mais.}
+{40900}{}{Bolsa de paramédico} #Paramedics Bag
+{40901}{}{Esta bolsa contém instrumentos e drogas utilizados por médicos na aplicação do exercicio de sua profissão. As ferramentas contidas nela são projetadas especificamente para casos de alto risco e de emergência.}
 {41000}{}{Expanded Lockpick Set}
-{41001}{}{A set of locksmith tools. Includes all the necessary picks and tension wrenches to open conventional pin and tumbler locks. This set also includes some special tools for more difficult mechanical locking mechanisms.}
+{41001}{}{Um conjunto de ferramentas de serralheiro. Com tudo que é necessário para abrir fechaduras convencionais. Este jogo também inclui ferramentas especiais para arrombar mecanismos mais difíceis.}
 {41100}{}{Electronic Lockpick MKII}
-{41101}{}{This is the second generation Wattz Electronics Micromanipulator FingerStuff electronic lockpick. For defeating electronic locks and security devices. This Mark II version includes updated software and interface tools.}
-{41200}{}{Oil Can}
-{41201}{}{You see a can of Armor-Go. A space-age, polymer, lubricant for powered armor.}
-{41300}{}{Stables ID Badge}
-{41301}{}{This is a temporary ID badge. It has a red stripe through it, which seems to indicate that you are a "Stables Researcher."}
-{41400}{}{Vault 15 Shack Key}
-{41401}{}{A standard key.}
-{41500}{}{Spectacles}
-{41501}{}{A set of spectacles for eye correction.}
-{41600}{}{Empty Jet Canister}
-{41601}{}{This empty jet canister was found in Richard Wright's room. It still has traces of Jet inside.}
-{41700}{}{Oxygen Tank}
-{41701}{}{This is the oxygen tank for Salvatore's breathing apparatus.}
-{41800}{}{Poison Tank}
-{41801}{}{This tank looks suspiciously like an oxygen tank, but there is a small skull and crossbones symbol etched in the bottom. If you hadn't examined it closely, you wouldn't have seen the symbol.}
-{41900}{}{Mine Parts}
-{41901}{}{You see a bundle of parts that are clearly labeled "GX-9 Air Purifier". Using your incredible deductive skills, you decide that they are probably parts for a broken air purifier.}
-{42000}{}{Morningstar Mine Scrip}
-{42001}{}{This is a small chit probably used to pay Morningstar Mine Workers.}
-{42100}{}{Holy Hand Grenade}
-{42101}{}{A Holy relic of godly might.}
-{42200}{}{Excavator Chip}
-{42201}{}{This chip appears to be for some sort of large industrial machine. Beneath the dirt and dust, it appears to be in surprisingly good shape.}
-{42300}{}{Gold Nugget}
-{42301}{}{A nugget of gold.}
-{42400}{}{Monument Chunk}
-{42401}{}{This is a piece of the disgruntled stone monument you found out in the desert. Although many of your village would no doubt regard it as a sacred relic, somehow you suspect that you have been cheated.}
-{42500}{}{Stone Head}
-{42501}{}{A huge stone monument.}
-{42600}{}{Uranium Ore}
-{42601}{}{A chunk of Uranium Ore, unrefined.}
-{42700}{}{Flame Breath}
-{42800}{}{Medical Supplies}
-{42801}{}{A box of assorted medical supplies. Nothing I can make use of though.}
-{42900}{}{Gold Tooth}
-{42901}{}{This gold tooth used to belong to someone else, but they won't be needing it anymore.}
-{43000}{}{Howitzer Shell}
-{43001}{}{A 75mm Howitzer shell. The casing has mostly corroded away, but you can make out these letters. EXP. 9-25-98.}
-{43100}{}{Ramirez Box, Closed}
-{43101}{}{This is the box you received from Big Jesus Mordino to give to Ramirez at the Stables.}
-{43200}{}{Ramirez Box, Open}
-{43201}{}{This is the box you received from Big Jesus Mordino to give to Ramirez at the Stables. It is open, and you have removed the Jet that was inside.}
-{43300}{}{Mirrored Shades}
-{43301}{}{This is a pair of fashionable and deadly-looking mirrored shades. Just having them in your inventory makes you feel cool.}
-{43400}{}{Wagon}
-{43401}{}{A caravan wagon converted from the wrecked remains of an ancient automobile.}
-{43500}{}{Wagon}
-{43501}{}{A caravan wagon converted from the wrecked remains of an ancient automobile.}
-{43600}{}{Deck of Cards}
-{43601}{}{A standard set of playing cards.}
-{43700}{}{Pack of Marked Cards}
-{43701}{}{Every card in this set is a red queen. Must make for some boring games.}
-{43800}{}{Temple Key}
-{43801}{}{A key for the Arroyo Temple door.}
-{43900}{}{Pocket Lint}
-{43901}{}{Some fuzz you found in a pocket.}
-{44000}{}{Biomed Gel}
-{44001}{}{A jar of Bio Gel used in the biomedical field.}
-{44100}{}{Blondie's Dog Tags}
-{44101}{}{These dog tags have the owner's name scratched off and the name "Blondie" scrawled on the back. Beneath the name is the number "11."}
-{44200}{}{Angel-Eyes' Dog Tags}
-{44201}{}{These dog tags list the owner as "Angel-Eyes." Beneath the name is the number "16."}
-{44300}{}{Tuco's Dog Tags}
-{44301}{}{These foul-smelling dog tags list the owner as "Tuco Benedicto Pacifico Juan Maria Ramirez," followed by the number "27."}
-{44400}{}{Raiders Map}
-{44401}{}{This is a crumpled map of pre-war Northern California. Reno and the surrounding caravan trails are outlined in red, and there is a red "X" far to the east of Reno with "Raiders" scrawled beneath it.}
-{44500}{}{Sheriff's Badge}
-{44501}{}{A Badge worn by the Sheriff of a town.}
-{44600}{}{Vertibird Plans}
-{44601}{}{A set of plans for building Vertibirds.}
+{41101}{}{Esta é a segunda geração da gazua eletrônica Micromanipulator FingerStuff de Wattz Eletrônicos. Para abrir fechaduras eletrônicas e dispositivos de segurança. Esta versão MarkII inclui um software atualizado com uma interface.}
+{41200}{}{Lata de Óleo} #Oil Can
+{41201}{}{Você vê uma lata de Óleo. Contem um lubrificante de polímero espacial para uma armadura.}
+{41300}{}{Stables ID Badge} #Stables ID Badge #Crachá de identificação de Stables
+{41301}{}{Este é um crachá de identificação temporário. Ele tem uma faixa vermelha, o que parece indicar que você é um "Investigador de Estábulos."}
+{41400}{}{Chave da cabana de Vault 15} #Vault 15 Shack Key
+{41401}{}{Uma chave normal.}
+{41500}{}{Óculos} #Spectacles
+{41501}{}{Um par de óculos para correção visual.}
+{41600}{}{Frasco vazio de Jet} Empty Jet Canister
+{41601}{}{Este frasco vazio de jet foi encontrado no quarto de Richard Wright. Ele ainda tem vestígios de Jet.}
+{41700}{}{Tanque de oxigênio} #Oxygen Tank
+{41701}{}{Este é o tanque de oxigênio para aparelhos de respiração de Salvatore.}
+{41800}{}{Tanque de veneno} #Poison Tank
+{41801}{}{Este tanque é semelhante ao tanque de oxigénio, mas tem um pequeno símbolo de uma caveira e ossos cruzados gravado no fundo. Se você não tivesse examinado muito de perto, você não teria visto o símbolo.}
+{41900}{}{Peças da Mina} #Mine Parts
+{41901}{}{Você vê um conjunto de peças que são claramente identificados "Purificador de ar GX-9". Usando suas habilidades dedutivas incríveis, você decide que eles provavelmente são peças para um purificador de ar quebrado.}
+{42000}{}{Bilhete da Mina Morningstar} #Morningstar Mine Scrip
+{42001}{}{Este é um pequeno bilhete provavelmente usado para pagar trabalhadores dea mina Morningstar.}
+{42100}{}{Granada sagrada} #Holy Hand Grenade
+{42101}{}{Uma relíquia sagrada de poder dos deuses.}
+{42200}{}{Chip de escavadeira} #Excavator Chip
+{42201}{}{Este chip parece ser de algum tipo de máquina industrial. Sob a sujeira e poeira, parece esta em um surpreendente bom estado.}
+{42300}{}{Pepita de ouro} #Gold Nugget
+{42301}{}{Uma pepita de ouro.}
+{42400}{}{Pedaço de Monumento} #Monument Chunk
+{42401}{}{Este é um pedaço do desconhecido de um monumento de pedra que você achou no deserto. Embora muitos de sua aldeia, sem dúvida o consideram como uma relíquia sagrada, de alguma forma você suspeitar que tenha sido enganado.}
+{42500}{}{Cabeça de pedra} #Stone Head
+{42501}{}{Um enorme monumento de pedra.}
+{42600}{}{Minério de urânio} #Uranium Ore
+{42601}{}{Uma pedaço de minério de urânio, não refinado.}
+{42700}{}{Sopro Flamejante} #Flame Breath
+{42800}{}{Suprimentos Médicos}
+{42801}{}{Uma caixa de diversos suprimentos médicos. Embora não há nada que você pode usar.}
+{42900}{}{Dente de Ouro} #Gold Tooth
+{42901}{}{Este dente de ouro pertencia a outra pessoa.}
+{43000}{}{Projétil de Howitzer} #Howitzer Shell
+{43001}{}{Munição pesada para uma arma de Howitzer 75mm. Seu revestimento esta corroído, mas você pode ver estas letras: EXP. 25-09-98.}
+{43100}{}{Maleta de Ramirez, trancada} #Ramirez Box, Closed
+{43101}{}{Esta é a maleta que você recebeu do Big Jesus Mordino para dar a Ramirez nos estábulos.}
+{43200}{}{Maleta de Ramirez, aberta} #Ramirez Box, Open
+{43201}{}{Esta é a maleta que você recebeu do Big Jesus Mordino para dar a Ramirez nos estábulos. Está aberta, e você pegou o Jet estava lá dentro.}
+{43300}{}{Óculos de sol espelhados} #Mirrored Shades
+{43301}{}{Este é um par de óculos de sol da última moda. Apenas tê-los em seu inventário faz você se sentir bem.}
+{43400}{}{Vagão} #Wagon
+{43401}{}{Um vagão de caravana contruído a partir dos restos de um automóvel antigo.}
+{43500}{}{Vagão} #Wagon
+{43501}{}{Um vagão de caravana contruído a partir dos restos de um automóvel antigo.}
+{43600}{}{Um jogo de cartas} #Deck of Cards
+{43601}{}{Um conjunto padrão de cartas de baralho.}
+{43700}{}{Pacote de cartas marcadas} #Pack of Marked Cards
+{43701}{}{Todas as cartas deste baralho são rainhas vermelhas. Deve ser para jogos chatos.}
+{43800}{}{Chave do Templo} #Temple Key
+{43801}{}{Uma chave para a porta do Templo de Arroyo.}
+{43900}{}{Fiapos de bolso} #Pocket Lint
+{43901}{}{Alguns fiapos que você encontrou em um bolso.}
+{44000}{}{Gel biomédico} #Biomed Gel
+{44001}{}{Um frasco de Bio Gel utilizado no campo da biomedicina.}
+{44100}{}{Etiqueta de identificação de Blondie} #Blondie's Dog Tags
+{44101}{}{Esta etiqueta de cachorro têm o nome do proprietário riscado de um lado e do outro o nome "Blondie". Sob o nome tem o número "11".}
+{44200}{}{Etiqueta de identificação de Angel-Eyes} #Angel-Eyes' Dog Tags
+{44201}{}{Esta etiqueta de cachorro têm o nome de "Angel-Eyes". Sob o nome tem o número "16".}
+{44300}{}{Etiqueta de identificação de Tuco} #Tuco's Dog Tags
+{44301}{}{Esta etiqueta de cachorro têm um mau cheiro e o nome do proprietário esta gravado como " Tuco Benedicto Pacifico Juan Maria Ramirez". Sob o nome tem o número "27".}
+{44400}{}{Mapa dos Raiders} #Raiders Map
+{44401}{}{Um mapa amassado do norte da Califórnia de antes da guerra. Reno e envolventes rotas de caravanas estão sublinhadas em vermelho, e há um "X" vermelho a leste de Reno em que está escrito "Raiders".}
+{44500}{}{Distintivo do xerife} #Sheriff's Badge
+{44501}{}{Um Distintivo usado pelo xerife de uma cidade.}
+{44600}{}{Planos Vertibird} #Vertibird Plans
+{44601}{}{Um conjunto de planos para a construção Vertibirds.}
 {44700}{}{Bishop's Holodisk}
-{44701}{}{This holodisk contains incriminating information on Bishop's secret deal with NCR. Apparently, Bishop hired mercenaries to attack Vault City in the hopes that Vault City would turn to NCR for military aid. This holodisk is audio only and has no text data. Vault City might be interested in this.}
-{44800}{}{Account Book}
-{44801}{}{This account book lists a series of monthly payments made to the mercenary band from the Bishop Family in New Reno. The payments depend heavily on how much "pressure" the mercenaries put on Vault City. Vault City might be interested in this.}
-{44900}{}{Unused}
-{44901}{}{Unused}
-{45000}{}{Torn Paper 1}
-{45001}{}{You see a piece of paper with writing on it. It looks like it's part of a code of some sort. Unfortunately, the code is incomplete. If only you could find all three pieces. You can make out the following: 1. Physics Password KSLJ, 2. Chemistry Password TIU, 3. Biology Password INTL}
+{44701}{}{Este holodisco contém informações incriminatórias sobre um acordo secreto do Bishop com a NCR. Aparentemente, Bishop contratou mercenários para atacar Vault City na esperança de que Vault City pediria ajuda militar a NCR. Este é apenas um holodisco de áudio e não tem dados de texto. Vault City pode estar interessado neste.}
+{44800}{}{Livro de contas} #Account Book
+{44801}{}{Este livro de contas enumera uma série de pagamentos mensais feitos à um bando de mercenário da Família Bishop em New Reno. Os pagamentos dependem muito de quanta "pressão" fazem os mercenários em Vault City. Vault City pode estar interessado neste.}
+{44900}{}{não usado} #Unused
+{44901}{}{não usado}
+{45000}{}{Papel rasgado 1} #Torn Paper 1
+{45001}{}{Você vê um pedaço de papel com algo escrito nele. Parece parte de algum tipo de código. Infelizmente, o código ésta incompleto. Se você pudesse encontrar todas três partes... Você pode ver o seguinte: 1. Senha Física KSLJ, 2. senha Química TIU, 3. Senha Biologia INTL}
 {45100}{}{Torn Paper 2}
 {45101}{}{You see a piece of paper with writing on it. It looks like it's part of a code of some sort. Unfortunately, the code is incomplete. If only you could find all three pieces. You can make out the following: KJ: Ken-Lee-9, ASPO- Lo-S, VR- Dnky-Pnch-}
 {45200}{}{Torn Paper 3}
