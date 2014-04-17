@@ -256,6 +256,7 @@
 {1023}{}{Homem feito: Mordino}
 {1024}{}{Homem feito: Wright}
 {1025}{}{Divorciado}
+{1026}{}{Fumante} #Smoker
 
 #
 # Karma description strings
@@ -286,6 +287,7 @@
 {1123}{}{Você é um mafioso da família Mordino. Está bem conhecido e respeitado.}
 {1124}{}{Você é um mafioso da família Wright. Está bem conhecido e respeitado.}
 {1125}{}{Sua esposa não esta mais com você. Espero que você esteja feliz.}
+{1126}{}{Você é um fumante. Dizem que vai matar você, mas você ainda não está morto. E de qualquer maneira, é uma boa maneira de curtir em um mundo pós-apocalíptico.}
 #
 # Town reputations
 #

@@ -2769,3 +2769,704 @@
 {184900}{}{Gabinete do computador}
 {185000}{}{Obturadores}
 {185100}{}{Vapor}
+
+#add rp
+
+{185200}{}{An old motorcycle}
+{185201}{}{An old pre-war motorcycle. It doesn't run anymore.}
+{185300}{}{A water tank}
+{185301}{}{A metal tower which holds drinkable water.}
+{185400}{}{Mom's Orphanage Sign}
+{185500}{}{Fan}
+{185600}{}{A healthy looking tree}
+{185700}{}{A healthy looking tree}
+{185800}{}{A healthy looking tree}
+{185900}{}{A healthy looking tree}
+{186000}{}{A healthy looking tree}
+{186100}{}{A healthy looking shrub}
+{186200}{}{Plant}
+{186201}{}{A mutated cornstalk. It seems to be thriving under these conditions. This one is a different color than the others you have seen.}
+{186300}{}{Fertile ground}
+{186400}{}{Fertile ground}
+{186500}{}{Fertile ground}
+{186600}{}{USED ART}
+{186601}{}{}
+{186700}{}{USED ART}
+{186701}{}{A throne for a leader or commander.}
+{186800}{}{Air vent}
+{186801}{}{A circular air vent to an underground facility.}
+{186900}{}{Rope}
+{186901}{}{A rope leading to an overhead air vent.}
+{187000}{}{Air Processing Vent}
+{187001}{}{A vent used to filter air underground.}
+{187100}{}{Vent}
+{187101}{}{A vent used to purify air.}
+{187200}{}{Brahmin sign}
+{187201}{}{A sign giving instructions.}
+{187300}{}{Brahmin sign}
+{187301}{}{A sign giving a warning.}
+{187400}{}{Crafting Machine}
+{187401}{}{A machine with which you can make your own drugs.}
+{187500}{}{Chemicals}
+{187501}{}{Foul smelling gelatinous chemicals.}
+{187600}{}{Chemicals}
+{187601}{}{Foul smelling gelatinous chemicals.}
+{187700}{}{Chemicals	}
+{187701}{}{Foul smelling gelatinous chemicals.}
+{187800}{}{Chemicals	}
+{187801}{}{Foul smelling gelatinous chemicals.}
+{187900}{}{Rope}
+{187901}{}{Rope to signify a non-walking area.}
+{188000}{}{Rope}
+{188001}{}{Rope preventing access to certain areas.}
+{188100}{}{Gallery Picture}
+{188101}{}{A picture depicting The Mona Lisa.}
+{188200}{}{Gallery Picture}
+{188201}{}{A picture depicting the first moon walk.}
+{188300}{}{Crafting Machine}
+{188301}{}{A machine with which you can make your own drugs.}
+{188400}{}{Fertile ground}
+{188401}{}{Ground ready for planting.}
+{188500}{}{Fertile ground}
+{188501}{}{Ground ready for planting.}
+{188600}{}{Parking sign}
+{188601}{}{A sign designating areas to park.}
+{188700}{}{Elevator}
+{188701}{}{An elevator to travel to another floor.}
+{188800}{}{Hibernation computer}
+{188801}{}{Computer controlling the hibernation vats.}
+{188900}{}{A group of barrels}
+{188901}{}{Barrels storing various chemicals.}
+{189000}{}{A burning barrel}
+{189001}{}{Apparently the sign says its flammable.}
+{189100}{}{A barrel}
+{189101}{}{A barrel filled with some sort of liquid.}
+{189200}{}{A barrel}
+{189201}{}{A barrel containing a thick noxious red liquid.}
+{189300}{}{A barrel}
+{189301}{}{A barrel with a biohazard warning label.}
+{189400}{}{Plant}
+{189401}{}{This plant appears to have some type of berry hanging from it.}
+{189500}{}{A Tree}
+{189600}{}{A toaster}
+{189601}{}{A silver toaster sitting on a desk.}
+{189700}{}{A hologram projector}
+{189701}{}{Your basic HD 2000 hologram projector.}
+{189800}{}{A hologram projector}
+{189801}{}{Your basic HD 2000 hologram projector.}
+{189900}{}{A hologram projector}
+{189901}{}{Your basic HD 2000 hologram projector.}
+{190000}{}{Shadow}
+{190001}{}{}
+{190100}{}{Vertibird}
+{190200}{}{A Cryogenic Freezer}
+{190201}{}{A freezer which can store a live human being. This one is open.}
+{190300}{}{A Cryogenic Freezer}
+{190301}{}{A freezer which can store a live human being. This one is closed.}
+{190400}{}{A desk}
+{190401}{}{A large, sturdy looking desk.}
+{190500}{}{Hibernation Chamber}
+{190501}{}{A hibernation chamber. A body of a white female is suspended inside.}
+{190600}{}{Hibernation Chamber}
+{190601}{}{A hibernation chamber. A body of a white male is suspended inside.}
+{190700}{}{Hibernation Chamber}
+{190701}{}{An open hibernation chamber. A body of a white female lies naked inside.}
+{190800}{}{Hibernation Chamber}
+{190801}{}{An open hibernation chamber. A body of a white male lies naked inside.}
+{190900}{}{Hibernation Chamber}
+{190901}{}{An open hibernation chamber. A body of a black male lies naked inside.}
+{191000}{}{Hibernation Chamber}
+{191001}{}{A hibernation chamber. A body of a black male is suspended inside.}
+{191100}{}{Hibernation Chamber}
+{191101}{}{An open hibernation chamber. It is empty.}
+{191200}{}{A WattzMan 2000 electric chair}
+{191300}{}{Imperial Shuttle}
+{191301}{}{A space vehicle of some kind. It has a license plate that reads: EMPRRULZ!}
+{191400}{}{Imperial Shuttle}
+{191401}{}{A space vehicle of some kind. It has a license plate that reads: EMPRRULZ!}
+{191500}{}{Millennium Falcon}
+{191501}{}{It looks like a bucket of bolts. You spot a pair of fuzzy dice hanging from the rear-view mirror.}
+{191600}{}{Burning brazier}
+{191601}{}{This brazier is full of burning coals.}
+{191700}{}{Bone}
+{191701}{}{}
+{191800}{}{Bone}
+{191900}{}{Bone}
+{192000}{}{Bones}
+{192001}{}{Scattered remains.}
+{192100}{}{Bones}
+{192101}{}{Are these human!}
+{192200}{}{Bones}
+{192201}{}{Scattered human bones.}
+{192300}{}{Bones}
+{192400}{}{Bones}
+{192500}{}{Bones}
+{192501}{}{Scattered human bones.}
+{192600}{}{Bones}
+{192601}{}{Scattered human remains.}
+{192700}{}{Bones}
+{192701}{}{Are these human!}
+{192800}{}{Bones}
+{192900}{}{Concrete barrier}
+{193000}{}{Concrete barrier}
+{193100}{}{Security Door}
+{193101}{}{This door looks very secure.}
+{193200}{}{Security Door}
+{193201}{}{This rusty door still looks very secure.}
+{193300}{}{Elevator Shaft}
+{193400}{}{Elevator Shaft}
+{193401}{}{The shaft is broken.}
+{193500}{}{Elevator Shaft}
+{193501}{}{The shaft has a rope hanging down from the edge.}
+{193600}{}{Elevator Shaft}
+{193601}{}{The shaft has a broken elevator and rope.}
+{193700}{}{Elevator Shaft}
+{193701}{}{The shaft is missing the elevator. Dangerous!}
+{193800}{}{Rusting Pipes}
+{193801}{}{A set of old rusting pipes.}
+{193900}{}{Power Generator}
+{193901}{}{A Wattz ElectroBox power generator. Fairly standard as back-up generators before the war.}
+{194000}{}{Power Generator}
+{194001}{}{A Wattz ElectroBox fuse box. Fairly standard as back-up generators before the war.}
+{194100}{}{Electrical Machinery}
+{194101}{}{This machine is buzzing with electricity.}
+{194200}{}{Small Monitor}
+{194201}{}{This small monitor appears to have someone talking.}
+{194300}{}{Monitor}
+{194301}{}{A large monitor, black and white only. This one has a woman lecturing on morals.}
+{194400}{}{Monitor}
+{194401}{}{A large monitor, black and white only. This one warns of fallout.}
+{194500}{}{Monitor}
+{194501}{}{A large monitor, black and white only. The strange film appears to be stuck in a loop.}
+{194600}{}{Large Monitor}
+{194601}{}{A large monitor, black and white only. This one has a figure in armor.}
+{194700}{}{Monitor}
+{194701}{}{A large monitor, black and white only. This one has a dignified, but simple looking man rambling on.}
+{194800}{}{Monitor}
+{194801}{}{A large monitor, black and white only. The picture is of a rotating cross and circle .}
+{194900}{}{spare}
+{195000}{}{spare}
+{195100}{}{Shadow}
+{195200}{}{Shadow}
+{195300}{}{Large Sticky Mechanical Pump}
+{195301}{}{You see a large mechanical pump covered in strange noxious biological goo.}
+{195400}{}{Floor Grating}
+{195401}{}{A rusting floor grating.}
+{195500}{}{Large Mechanical Pump}
+{195501}{}{A large mechanical pump rising up through a floor grating.}
+{195600}{}{Large Sticky Mechanical Pump}
+{195601}{}{You see a large mechanical pump covered in strange noxious biological goo.}
+{195700}{}{Destroyed Sticky Mechanical Pump}
+{195701}{}{You see a large mechanical pump covered in strange noxious biological goo. Its pumping days are over.}
+{195800}{}{Destroyed Sticky Mechanical Pump}
+{195801}{}{You see a large mechanical pump covered in strange noxious biological goo. Its pumping days are over.}
+{195900}{}{Floor Cavity}
+{196000}{}{Large Mechanical Pump}
+{196001}{}{A large mechanical pump rising up through a floor grating.}
+{196100}{}{Large Mechanical Pump}
+{196101}{}{A large mechanical pump rising up through a floor grating.}
+{196200}{}{Stack of Tires}
+{196201}{}{A stack of ancient rubber tires. They have vulcanized and hardened, probably due to the heat.}
+{196300}{}{Rubber Tires}
+{196301}{}{Two ancient rubber tires. They have vulcanized and hardened, probably due to the heat.}
+{196400}{}{Rubber Tire}
+{196401}{}{An ancient rubber tire. It has become vulcanized and hardened, probably due to the heat.}
+{196500}{}{Large Turbine}
+{196501}{}{A large spinning turbine.}
+{196600}{}{Vent}
+{196601}{}{An air vent, supplying processed and cleaned air to the entire complex.}
+{196700}{}{Vent}
+{196701}{}{An air vent, supplying processed and cleaned air to the entire complex.}
+{196800}{}{Air Vent}
+{196900}{}{Air Vent}
+{197000}{}{Rusty Air Vent}
+{197001}{}{This air vent is rusty and blocked.}
+{197100}{}{Rusty Air Vent}
+{197101}{}{This air vent is rusty and blocked.}
+{197200}{}{Rusty Air Vent}
+{197201}{}{This rusty air vent is blocked.}
+{197300}{}{Wall}
+{197400}{}{Wall}
+{197500}{}{Wood Paneling}
+{197600}{}{Vent}
+{197700}{}{Vent}
+{197800}{}{Well}
+{197801}{}{A typical well found in the wasteland.}
+{197900}{}{Stairs}
+{197901}{}{A set of broad stairs.}
+{198000}{}{Broad Rusting Stairs}
+{198001}{}{These stairs are rusting slowly away.}
+{198100}{}{Broad Rusting Stairs}
+{198101}{}{These stairs are rusting slowly away.}
+{198200}{}{Small Stairs}
+{198201}{}{Typical small stairs.}
+{198300}{}{Small Rusting Stairs}
+{198301}{}{These stairs are rusting away.}
+{198400}{}{Jammed Fan}
+{198401}{}{This fan has a piece of metal jamming the blades.}
+{198500}{}{Air Processing Vent}
+{198501}{}{Standard Vault-Tec ventilation system.}
+{198600}{}{Steel Wall}
+{198700}{}{Steel Wall}
+{198800}{}{Steel Wall}
+{198900}{}{Steel Wall}
+{199000}{}{Steel Wall}
+{199100}{}{Rusting Pipes}
+{199200}{}{Pipes}
+{199300}{}{Warehouse Door}
+{199400}{}{Warehouse Door}
+{199500}{}{Giant Copper Statue}
+{199501}{}{This statue rises from out of the earth. It has the slight smell of Ape piss.}
+{199600}{}{Giant Copper Statue}
+{199601}{}{This statue rises from out of the earth. It has the slight smell of Ape piss.}
+{199700}{}{Giant Copper Statue}
+{199701}{}{This statue rises from out of the earth. It has the slight smell of Ape piss.}
+{199800}{}{Giant Copper Statue}
+{199801}{}{This statue rises from out of the earth. It has the slight smell of Ape piss.}
+{199900}{}{Giant Copper Statue}
+{199901}{}{This statue rises from out of the earth. It has the slight smell of Ape piss.}
+{200000}{}{Shadow}
+{200001}{}{Shadow}
+{200100}{}{Shadow}
+{200200}{}{Suspension Tank}
+{200201}{}{Some sort of medical or experimental apparatus. This tank holds a strange green liquid.}
+{200300}{}{Water Tank}
+{200301}{}{A large tank that holds liquids. In this case, you believe that it was designed to store water.}
+{200400}{}{Door}
+{200500}{}{EPA Globe}
+{200501}{}{A rusting corporate logo.}
+{200600}{}{Shadow}
+{200700}{}{War Room Table}
+{200800}{}{War Room Table}
+{200900}{}{Security Door}
+{200901}{}{This door looks very secure.}
+{201000}{}{EPA Sign}
+{201100}{}{EPA Sign}
+{201200}{}{EPA Plaque}
+{201201}{}{A metal plaque with the letters EPA.}
+{201300}{}{EPA Plaque}
+{201301}{}{A metal plaque with the letters EPA.}
+{201400}{}{Rusting EPA Plaque}
+{201401}{}{This metal plaque is slowly rusting away.}
+{201500}{}{Metal Plaque}
+{201501}{}{A metal plaque with the number one.}
+{201600}{}{Metal Plaque}
+{201601}{}{A metal plaque with the number two.}
+{201700}{}{Metal Plaque}
+{201701}{}{A metal plaque with the number three.}
+{201800}{}{Metal Plaque}
+{201801}{}{A metal plaque with the number four.}
+{201900}{}{Metal Plaque}
+{201901}{}{A metal plaque with the number five.}
+{202000}{}{Metal Plaque}
+{202001}{}{A metal plaque with the number six.}
+{202100}{}{Museum Picture}
+{202200}{}{Museum Picture}
+{202300}{}{Musuem Picture}
+{202400}{}{EPA Globe}
+{202401}{}{The EPA corporation logo.}
+{202500}{}{Shadow}
+{202600}{}{Shadow}
+{202700}{}{Shadow}
+{202800}{}{Girlie Poster}
+{202900}{}{Girlie Poster}
+{203000}{}{Girlie Poster}
+{203100}{}{Girlie Poster}
+{203200}{}{Girlie Poster}
+{203300}{}{Girlie Poster}
+{203400}{}{Girlie Poster}
+{203500}{}{Girlie Poster}
+{203600}{}{Girlie Poster}
+{203700}{}{Girlie Poster}
+{203800}{}{Girlie Poster}
+{203900}{}{Girlie Poster}
+{204000}{}{Girlie Poster}
+{204100}{}{Girlie Poster}
+{204200}{}{Girlie Poster}
+{204300}{}{Girlie Poster}
+{204400}{}{Girlie Poster}
+{204500}{}{Girlie Poster}
+{204600}{}{}
+{204601}{}{}
+{204700}{}{Rug}
+{204701}{}{An old woven floor rug.}
+{204800}{}{Rug}
+{204801}{}{An old woven floor rug.}
+{204900}{}{Pot}
+{204901}{}{A finely crafted pot.}
+{205000}{}{Pot}
+{205001}{}{A finely crafted pot.}
+{205100}{}{Pot}
+{205101}{}{A finely crafted pot.}
+{205200}{}{Pot}
+{205201}{}{A finely crafted pot.}
+{205300}{}{Air Vent}
+{205400}{}{Air Vent}
+{205500}{}{Vault Outer Door}
+{205501}{}{This large door is the link between the vault and the outside world.}
+{205600}{}{Rusting Vault Outer Door}
+{205601}{}{This large rusting door is the link between the vault and the outside world.}
+{205700}{}{Rusting Vault Outer Door}
+{205701}{}{This large rusting door is the link between the vault and the outside world.}
+{205800}{}{Rusting Vault Outer Door}
+{205801}{}{The mechanism to open and close the heavy vault door has been damaged beyond repair.}
+{205900}{}{Rusting Vault Outer Door}
+{205901}{}{The door mechanism has been disabled.}
+{206000}{}{Vault Outer Door}
+{206001}{}{This large door is the link between the vault and the outside world.}
+{206100}{}{Pot}
+{206101}{}{A finely crafted pot.}
+{206200}{}{Pot}
+{206201}{}{A finely crafted pot.}
+{206300}{}{Pot}
+{206301}{}{A finely crafted pot.}
+{206400}{}{Pot}
+{206401}{}{A finely crafted pot.}
+{206500}{}{Wall}
+{206600}{}{Forcefield}
+{206700}{}{Metal Plaque}
+{206701}{}{A metal plaque with the number 7.}
+{206800}{}{Rocks}
+{206801}{}{A large pile of rocks.}
+{206900}{}{Rocks}
+{206901}{}{A large pile of rocks.}
+{207000}{}{Rusting Elevator}
+{207001}{}{This rusting elevator travels between levels.}
+{207100}{}{Dirty Bilge Water}
+{207200}{}{Iron Vat}
+{207201}{}{A huge iron vat with a strange green liquid.}
+{207300}{}{Security Door}
+{207301}{}{This door looks very secure.}
+{207400}{}{Worn Rug}
+{207401}{}{An old woven floor rug.}
+{207500}{}{Worn Rug}
+{207501}{}{An old woven floor rug.}
+{207600}{}{NCR Picture}
+{207601}{}{A picture of the NCR banner.}
+{207700}{}{NCR Picture}
+{207701}{}{A picture of the NCR banner.}
+{207800}{}{NCR Picture}
+{207801}{}{A picture of the NCR banner.}
+{207900}{}{Mountain}
+{207901}{}{These mountain walls look very inaccessible.}
+{208000}{}{Mountain}
+{208001}{}{These mountain walls look very inaccessible.}
+{208100}{}{Picture}
+{208200}{}{Picture}
+{208300}{}{Picture}
+{208400}{}{Vent}
+{208500}{}{Vent}
+{208600}{}{Vent}
+{208700}{}{Vent}
+{208800}{}{Vent}
+{208900}{}{Vent}
+{209000}{}{Wood Paneling}
+{209100}{}{Wood Paneling}
+{209200}{}{Vent}
+{209300}{}{Vent}
+{209400}{}{Wall Pipes}
+{209500}{}{Wall Pipes}
+{209600}{}{Wall Pipes}
+{209700}{}{Wall Pipes}
+{209800}{}{Wall Pipes}
+{209900}{}{Wall Pipes}
+{210000}{}{Security Door}
+{210001}{}{This metal door is embedded in the rock face.}
+{210100}{}{Vault Outer Door}
+{210101}{}{This vault door is embedded in the rock face of the mountain. It appears to have survived the blast of an atomic bomb.}
+{210200}{}{Vault Outer Door}
+{210201}{}{This large door is the link between the vault and the outside world. It has been scorched by a tremendous blast.}
+{210300}{}{Cave Entrance}
+{210301}{}{The cave appears to open up into a larger network of caves.}
+{210400}{}{Door Entry Computer}
+{210401}{}{This computer controls the large vault door. You have to enter a specific access code for the computer to work.}
+{210500}{}{Rusting Boat}
+{210501}{}{This boat looks barely seaworthy.}
+{210600}{}{Rusting Boat}
+{210601}{}{This boat looks barely seaworthy.}
+{210700}{}{Mooring Post}
+{210701}{}{A rope leads from the mooring post to the boat.}
+{210800}{}{Mooring Post}
+{210801}{}{A rope leads from the mooring post to the boat.}
+{210900}{}{Rusting Submarine Hatch}
+{210901}{}{With a bit of effort this hatch can still be opened.}
+{211000}{}{Rusting Submarine Tower}
+{211001}{}{The ravages of time and salt water are slowly consuming this rusting hulk.}
+{211100}{}{Rusting Submarine Tower}
+{211101}{}{The ravages of time and salt water are slowly consuming this rusting hulk.}
+{211200}{}{Rusting Ladder}
+{211201}{}{The salt water is gradually dissolving the metal ladder.}
+{211300}{}{Rusting Submarine Tower}
+{211301}{}{The ravages of time and salt water are slowly consuming this rusting hulk.}
+{211400}{}{Rusting Boat}
+{211401}{}{This boat looks barely seaworthy.}
+{211500}{}{Murky Ocean}
+{211600}{}{Rusting Hull}
+{211601}{}{The hull of the submarine lies submerged beneath the murky ocean.}
+{211700}{}{Rusting Hull}
+{211701}{}{The hull of the submarine lies submerged beneath the murky ocean.}
+{211800}{}{Rusting Hull}
+{211801}{}{The hull of the submarine lies submerged beneath the murky ocean.}
+{211900}{}{Murky Ocean}
+{212000}{}{Rusting Hull}
+{212001}{}{The hull of the submarine lies submerged beneath the murky ocean.}
+{212100}{}{Rusting Hull}
+{212101}{}{The hull of the submarine lies submerged beneath the murky ocean.}
+{212200}{}{Murky Ocean}
+{212300}{}{Murky Ocean}
+{212400}{}{Murky Ocean}
+{212500}{}{Murky Ocean}
+{212600}{}{Murky Ocean}
+{212700}{}{Rusting Hull}
+{212701}{}{The hull of the submarine lies submerged beneath the murky ocean.}
+{212800}{}{Rusting Hull}
+{212801}{}{The hull of the submarine lies submerged beneath the murky ocean.}
+{212900}{}{Rusting Boat}
+{212901}{}{This boat looks barely seaworthy.}
+{213000}{}{Murky Ocean}
+{213100}{}{Rusting Hull}
+{213101}{}{The hull of the submarine lies submerged beneath the murky ocean.}
+{213200}{}{Rusting Hull}
+{213201}{}{The hull of the submarine lies submerged beneath the murky ocean.}
+{213300}{}{Murky Ocean}
+{213400}{}{Murky Ocean}
+{213500}{}{Murky Ocean}
+{213600}{}{Rusting Hull}
+{213601}{}{The hull of the submarine lies submerged beneath the murky ocean.}
+{213700}{}{Rusting Hull}
+{213701}{}{The hull of the submarine lies submerged beneath the murky ocean.}
+{213800}{}{Murky Ocean}
+{213900}{}{Murky Ocean}
+{214000}{}{Murky Ocean}
+{214100}{}{Rusting Hull}
+{214200}{}{Torpedo Launcher}
+{214201}{}{These metal tubes are made up of a considerable number of interlocks. It looks like they're still in working condition.}
+{214300}{}{Rusting Hull}
+{214301}{}{Rusting Hull}
+{214400}{}{Rusting Hull}
+{214500}{}{Rusting Hull}
+{214600}{}{Rusting Hull}
+{214700}{}{Torpedoes}
+{214701}{}{Torpedoes}
+{214800}{}{Torpedoes}
+{214801}{}{Torpedoes}
+{214900}{}{Torpedoes}
+{214901}{}{Torpedoes}
+{215000}{}{Rusting Hull}
+{215100}{}{Rusting Hull}
+{215200}{}{Rusting Hull}
+{215300}{}{Rusty Machinery}
+{215400}{}{Rusty Machinery}
+{215500}{}{Torpedoes}
+{215501}{}{Torpedoes}
+{215600}{}{Torpedoes}
+{215601}{}{Torpedoes}
+{215700}{}{Rusty Machinery}
+{215800}{}{Rusting Hull}
+{215900}{}{Rusty Machinery}
+{216000}{}{Rusting Hull}
+{216100}{}{Rusty Machinery}
+{216200}{}{Rusty Machinery}
+{216300}{}{Rusty Machinery}
+{216400}{}{Rusty Machinery}
+{216500}{}{Rusting Hull}
+{216600}{}{Rusting Hull}
+{216700}{}{Rusting Hull}
+{216800}{}{Rusting Hull}
+{216900}{}{Rusting Hull}
+{217000}{}{Rusting Hull}
+{217100}{}{Rusting Hull}
+{217200}{}{Rusting Hull}
+{217300}{}{Submarine Hatch}
+{217400}{}{Chair}
+{217500}{}{Chair}
+{217600}{}{Poseidon Oil Sign}
+{217601}{}{This old neon sign still has some life left in it.}
+{217700}{}{Massive Steel Vault Doors}
+{217701}{}{These steel doors are practically indestructible.}
+{218800}{}{Sub Tower}
+{218900}{}{Sub Tower}
+{219000}{}{Stairs}
+{219001}{}{A set of wooden stairs.}
+{219100}{}{Stairs}
+{219101}{}{A set of wooden stairs.}
+{219200}{}{Stairs}
+{219201}{}{A set of wooden stairs.}
+{219300}{}{Ladder}
+{219400}{}{Rusting Submarine Hatch}
+{219500}{}{Rusting Submarine Hatch}
+{219501}{}{With a bit of effort this hatch can still be opened.}
+{219600}{}{Auto-Doc}
+{219700}{}{}
+{219800}{}{Wanted Sign}
+{219801}{}{A sketched portrait of a fugitive wanted by the local authorities.}
+{219900}{}{Fan}
+{220000}{}{Jammed Fan}
+{220100}{}{Rusty Steel Rail}
+{220200}{}{Sign}
+{220201}{}{This sign says: General Store.}
+{220300}{}{Worn Rug}
+{220301}{}{A simple rug. The weaver was obviously very talented.}
+{220400}{}{Glowing Bones}
+{220401}{}{A large pile of glowing animal bones. At least, you think all the bones are animal...}
+{220500}{}{Glowing Bones}
+{220501}{}{A large pile of glowing animal bones. At least, you think all the bones are animal...}
+{220600}{}{Glowing Bones}
+{220601}{}{A very large pile of glowing bones. You cannot determine the species of the dead critters.}
+{220700}{}{Glowing Bones}
+{220701}{}{You think these might be Horned Kangaroo bones, but you cannot be sure. They are glowing and too weathered to make a final determination.}
+{220800}{}{Glowing Bones}
+{220801}{}{You see the bones of a large, glowing two-headed cow.}
+{220900}{}{Cave In}
+{220901}{}{A large amount of glowing rocks, far more than could ever be moved easily.}
+{221000}{}{Glowing Metal Cover}
+{221001}{}{A heavy glowing man-hole cover. It looks like it is in good shape, and that it was recently moved.}
+{221100}{}{Glowing Sewer Hole}
+{221101}{}{It looks like an access hole for the sewer system. It's glowing green!}
+{221200}{}{Glowing Stalagmite}
+{221201}{}{A natural extension of the rock floor. This one's glowing green!}
+{221300}{}{Glowing Stalagmite}
+{221301}{}{A natural extension of the rock floor. This one's glowing green!}
+{221400}{}{Glowing Rock Column}
+{221401}{}{This thick column of rock extends from floor to ceiling. It's glowing!}
+{221500}{}{Glowing Rock Column}
+{221501}{}{This thin column of rock extends from floor to ceiling. It's glowing!}
+{221600}{}{Glowing Cave Wall}
+{221700}{}{Glowing Cave Wall}
+{221800}{}{Glowing Cave Wall}
+{221900}{}{Glowing Cave Wall}
+{222000}{}{Glowing Cave Wall}
+{222100}{}{Glowing Cave Wall}
+{222200}{}{Glowing Cave Wall}
+{222300}{}{Glowing Cave Wall}
+{222400}{}{Glowing Cave Wall}
+{222500}{}{Glowing Cave Wall}
+{222600}{}{Glowing Cave Wall}
+{222700}{}{Glowing Cave Wall}
+{222800}{}{Glowing Cave Wall}
+{222900}{}{Glowing Cave Wall}
+{223000}{}{Glowing Cave Wall}
+{223100}{}{Glowing Rocks}
+{223101}{}{A pile of glowing rocks. Not very interesting.}
+{223200}{}{Glowing Rocks}
+{223201}{}{A pile of glowing rocks. Not very interesting.}
+{223300}{}{Glowing Rocks}
+{223301}{}{A small pile of glowing rocks. Not in the least bit interesting to you.}
+{223400}{}{Glowing Rocks}
+{223401}{}{A very small pile of glowing rocks.}
+{223500}{}{Glowing Rocks}
+{223501}{}{A very small pile of glowing rocks.}
+{223600}{}{Glowing Rocks}
+{223601}{}{A very small pile of glowing rocks.}
+{223700}{}{Glowing Rocks}
+{223701}{}{A very small pile of glowing rocks.}
+{223800}{}{Glowing Rocks}
+{223801}{}{A pile of glowing rocks. Not very interesting.}
+{223900}{}{Glowing Egg Shell}
+{223901}{}{Pieces of a broken egg shell. It glows!}
+{224000}{}{Glowing Egg Shell}
+{224001}{}{Pieces of a broken egg shell. It glows!}
+{224100}{}{Glowing Egg Shell}
+{224101}{}{Pieces of a broken egg shell. It glows!}
+{224200}{}{Glowing Egg Shell}
+{224201}{}{Pieces of a broken egg shell. It glows!}
+{224300}{}{Small glowing rocks}
+{224301}{}{Scattered small glowing rocks.}
+{224400}{}{Small glowing rocks}
+{224401}{}{Scattered small glowing rocks.}
+{224500}{}{Small glowing rocks}
+{224501}{}{Scattered small glowing rocks.}
+{224600}{}{Glowing Egg Shell}
+{224601}{}{Pieces of a broken egg shell. It glows!}
+{224700}{}{Glowing Wood Planks}
+{224701}{}{These sturdy wooden planks have been firmly bound together.}
+{224800}{}{Glowing Wood Planks}
+{224801}{}{These sturdy wooden planks have been firmly bound together.}
+{224900}{}{Ladder}
+{224901}{}{It's an old, glowing, fairly rickety ladder. It looks like it will barely support your weight.}
+{225000}{}{Ladder Down}
+{225001}{}{A manmade hole with a ladder leading down.}
+{225100}{}{Glowing Rocks}
+{225101}{}{You study the glowing rocks for a while, but they never move.}
+{225200}{}{Glowing Rocks}
+{225201}{}{You keep a close eye on these glowing rocks, in case they move to attack you.}
+{225300}{}{Glowing Rocks}
+{225301}{}{A large pile of glowing rocks. They look radioactive.}
+{225400}{}{Glowing Rocks}
+{225401}{}{A small pile of glowing rocks.}
+{225500}{}{Glowing Rocks}
+{225501}{}{A small pile of glowing rocks.}
+{225600}{}{Glowing Rocks}
+{225601}{}{A large pile of glowing rocks.}
+{225700}{}{Glowing Rocks}
+{225701}{}{A very large pile of glowing rocks. They look dangerous just sitting there.}
+{225800}{}{Glowing Rocks}
+{225801}{}{A large pile of glowing rocks. If you look closely, you can see the faces of little old men in the sides of the stones.}
+{225900}{}{Glowing Rocks}
+{225901}{}{Rocks, rocks, rocks! Everywhere you look, glowing rocks!}
+{226000}{}{Glowing Rocks}
+{226001}{}{A small pile of glowing rocks.}
+{226100}{}{Glowing Rocks}
+{226200}{}{Glowing Rocks}
+{226300}{}{Glowing Rocks}
+{226400}{}{Glowing Rocks}
+{226500}{}{Glowing Rocks}
+{226600}{}{Glowing Rocks}
+{226700}{}{Glowing Rocks}
+{226800}{}{Glowing Wall}
+{226900}{}{Glowing Wall}
+{227000}{}{Glowing Wall}
+{227100}{}{Glowing Wall}
+{227200}{}{Glowing Wall}
+{227300}{}{Glowing Wall}
+{227400}{}{Glowing Drain}
+{227401}{}{There is some sort of rank, disgusting smell coming from this sewer drain. After a few moments, it doesn't smell as bad.}
+{227500}{}{Glowing Drain}
+{227501}{}{You can barely make out some movement behind the grate covering this drain. You can see small green glowing eyes peering back at you. Rat eyes.}
+{227600}{}{Glowing Drain}
+{227601}{}{Gurgling water sounds come from this drain. So does a really vile stench.}
+{227700}{}{Glowing Drain}
+{227701}{}{Gurgling water sounds come from beyond this drain. So does a really vile smell.}
+{227800}{}{Grimy Bed}
+{227801}{}{On closer examination, you determine that the sheets have not been changed in a very, very long time.}
+{227900}{}{Grimy Bed}
+{227901}{}{On closer examination, you determine that the sheets have not been changed in a very, very long time.}
+{228000}{}{Grimy Bed}
+{228001}{}{On closer examination, you determine that the sheets have not been changed in a very, very long time.}
+{228100}{}{Glass}
+{228101}{}{This glass is difficult to see through.}
+{228200}{}{Glass}
+{228201}{}{This glass is difficult to see through.}
+{228300}{}{Glass}
+{228301}{}{This glass is difficult to see through.}
+{228400}{}{Glass}
+{228401}{}{This glass is barely transparent.}
+{228500}{}{Glass}
+{228501}{}{This glass is barely transparent.}
+{228600}{}{Glass}
+{228601}{}{This glass is barely transparent.}
+{228700}{}{Metal Door}
+{228701}{}{A sturdy metal door.}
+{228800}{}{Metal Door}
+{228801}{}{A sturdy metal door.}
+{228900}{}{Guards Shack}
+{228901}{}{A run down guards shack.}
+{229000}{}{Guards Shack}
+{229001}{}{A run down guards shack.}
+{229100}{}{Green Bubbling Liquid}
+{229101}{}{Green bubbling liquid. It smells strange.}
+{229200}{}{Heavy Laser Tower}
+{229201}{}{The laser turret rests on this concrete tower.}
+{229300}{}{Heavy Laser Turret}
+{229301}{}{The turret rotates in a menacing way.}
+{229400}{}{Heavy Laser Tower}
+{229401}{}{The laser turret rests on this concrete tower.}
+{229500}{}{Heavy Laser Turret}
+{229501}{}{The turret rotates in a menacing way.}
+{229800}{}{Film Poster}
+{229801}{}{An old tatered film poster. "Hobo With a Shotgun".}
+{229900}{}{An odd looking creature}
+{229901}{}{A dead body with plant growth wrapped around it.}
+{230000}{}{An odd looking creature}
+{230001}{}{A dead body with plant growth wrapped around it.}
+
