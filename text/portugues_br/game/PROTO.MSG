@@ -103,7 +103,7 @@
 {462}{}{Manti}
 {463}{}{DeathClaws}
 {464}{}{Plantas}
-
+#
 #
 # Kill type info descriptions
 #

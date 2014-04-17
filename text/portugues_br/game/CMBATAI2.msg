@@ -1,10 +1,3 @@
-##########################
-# Traduzido e Revisado
-# rsalvarenga
-# 09/03/2014
-##########################
-
-
 #
 ####################################################################################
 #
@@ -107,7 +100,7 @@
 # target hit in head
 #
 {1100}{}{Maldição!}
-{1101}{}{Meu crânio doendo!}
+{1101}{}{Meu crânio dói!}
 {1102}{}{A minha cara! A minha cara!}
 #
 # target hit in left arm

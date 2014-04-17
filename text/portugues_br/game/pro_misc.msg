@@ -1,9 +1,3 @@
-##########################
-# Traduzido e Revisado
-# rsalvarenga
-# 05/03/2014
-##########################
-
 {100}{}{Foguete}
 {200}{}{Bola de Plasma}
 {300}{}{Explosão}
