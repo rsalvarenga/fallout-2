@@ -594,7 +594,7 @@
 {30201}{}{A etiqueta neste holodisco diz: "Dados econômicos de Gecko". É difícil interpretar a maioria dos gráficos técnicos, as tabelas e fórmulas que contem, mas a maioria das informações parece destacar as vantagens de uma parceria entre Vault City e Gecko.}
 {30300}{}{Reactor Holodisk}
 {30301}{}{A etiqueta neste holodisco diz: "Dados de rendimento do reator de Gecko". Este disco contém uma seqüência de números que não significam nada para você. De alguma forma, está certo de que muita das informações aqui devem ser importante para alguém.}
-{30400}{}{Um jogo de cartas "Tragic"}
+{30400}{}{Um jogo de cartas "Tragic"} #Tragic cards
 {30401}{}{Um baralho de um jogo de cartas colecionáveis. Parece ser um hobby caro.}
 {30500}{}{Cartão de Acesso Amarelo do Reator}
 {30501}{}{Uma chave eletrônica de segurança, código de cores amarelo.}
