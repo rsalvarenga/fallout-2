@@ -873,216 +873,217 @@
 {44701}{}{Este holodisco contém informações incriminatórias sobre um acordo secreto do Bishop com a NCR. Aparentemente, Bishop contratou mercenários para atacar Vault City na esperança de que Vault City pediria ajuda militar a NCR. Este é apenas um holodisco de áudio e não tem dados de texto. Vault City pode estar interessado neste.}
 {44800}{}{Livro de contas} #Account Book
 {44801}{}{Este livro de contas enumera uma série de pagamentos mensais feitos à um bando de mercenário da Família Bishop em New Reno. Os pagamentos dependem muito de quanta "pressão" fazem os mercenários em Vault City. Vault City pode estar interessado neste.}
-{44900}{}{não usado} #Unused
-{44901}{}{não usado}
+{44900}{}{Não usado} #Unused
+{44901}{}{Não usado}
 {45000}{}{Papel rasgado 1} #Torn Paper 1
 {45001}{}{Você vê um pedaço de papel com algo escrito nele. Parece parte de algum tipo de código. Infelizmente, o código ésta incompleto. Se você pudesse encontrar todas três partes... Você pode ver o seguinte: 1. Senha Física KSLJ, 2. senha Química TIU, 3. Senha Biologia INTL}
-{45100}{}{Torn Paper 2}
-{45101}{}{You see a piece of paper with writing on it. It looks like it's part of a code of some sort. Unfortunately, the code is incomplete. If only you could find all three pieces. You can make out the following: KJ: Ken-Lee-9, ASPO- Lo-S, VR- Dnky-Pnch-}
-{45200}{}{Torn Paper 3}
-{45201}{}{You see a piece of paper with writing on it. It looks like it's part of a code of some sort. Unfortunately, the code is incomplete. If only you could find all three pieces. You can make out the following: 7313, hi-S12908, 98790}
-{45300}{}{Password Paper}
-{45301}{}{This is three pieces of a single page that, when assembled, reveal three passwords. The text reads: 1. Physics Password KSLJKJ: Ken-Lee-97313, 2. Chemistry Password TIUASPO- Lo-Shi-S12908, 3. Biology Password INTLVR- Dnky-Pnch-98790}
-{45400}{}{Explosive Switch}
-{45401}{}{This toggle switch is the final component of an explosive device.}
-{45500}{}{Car Trunk}
-{45501}{}{The trunk is a great place to store your Coisas.}
-{45600}{}{Cell Door Key}
-{45601}{}{This key fits the Cell Door in Broken Hills.}
-{45700}{}{Hubologist Field Report}
-{45701}{}{A field office report for the membership drive in the True Faith.}
+{45100}{}{Papel rasgado 2}
+{45101}{}{Você vê um pedaço de papel com algo escrito nele. Parece parte de algum tipo de código. Infelizmente, o código ésta incompleto. Se você pudesse encontrar todas três partes... Você pode ver o seguinte: KJ: Ken-Lee-9, ASPO- Lo-S, VR- Dnky-Pnch-}
+{45200}{}{Papel rasgado 3}
+{45201}{}{Você vê um pedaço de papel com algo escrito nele. Parece parte de algum tipo de código. Infelizmente, o código ésta incompleto. Se você pudesse encontrar todas três partes... Você pode ver o seguinte: 7313, hi-S12908, 98790}
+{45300}{}{Papel com senha} #Password Paper
+{45301}{}{Esta folha de papel é formada por reunir três partes, revelando três senhas. O texto diz: 1. Senha Física KSLJKJ: Ken-Lee-97313, 2. Senha Química TIUASPO- Lo-Shi-S12908, 3. Senha Biologia INTLVR- Dnky-Pnch-98790.}
+{45400}{}{Interruptor de explosivo} #Explosive Switch
+{45401}{}{Este interruptor é o componente final de um artefato explosivo.}
+{45500}{}{Porta-malas} #Car Trunk
+{45501}{}{O porta-malas é um ótimo lugar para guardar suas coisas.}
+{45600}{}{Chave de cela} #Cell Door Key
+{45601}{}{Esta chave se encaixa em uma porta de cela em Broken Hills.}
+{45700}{}{Relatório de Campo Hubologist} #Hubologist Field Report
+{45701}{}{Um relatório de campo escrito para a unidade de participação da Fé Verdadeira.}
 {45800}{}{M.B. Holodisk 5}
-{45801}{}{The label reads: Message to CHQ- Confidential.}
+{45801}{}{O rótulo diz: Mensagem para CHQ-Confidencial.}
 {45900}{}{M.B. Holodisk 1}
-{45901}{}{The label reads: Radio transmission log checkpoint 1.}
+{45901}{}{O rótulo diz: registro de transmissão de rádio ponto de verificação 1.}
 {46000}{}{M.B. Holodisk 2}
-{46001}{}{The label reads: Radio transmission log checkpoint 2.}
+{46001}{}{O rótulo diz: registro de transmissão de rádio ponto de verificação 2.}
 {46100}{}{M.B. Holodisk 3}
-{46101}{}{The label reads: Radio transmission log checkpoint 3.}
+{46101}{}{O rótulo diz: registro de transmissão de rádio ponto de verificação 3.}
 {46200}{}{M.B. Holodisk 4}
-{46201}{}{The label reads: Radio transmission log research team.}
-{46300}{}{Evacuation Holodisk}
-{46301}{}{The label reads: Base evacuation notice.}
+{46201}{}{O rótulo diz: registro de transmissão por rádio da equipe de invetigaçõ.}
+{46300}{}{Evacuation Holodisk} #Evacuation Holodisk
+{46301}{}{O rótulo diz: aviso de evacuação da Base.}
 {46400}{}{Experiment Holodisk}
-{46401}{}{The label reads: Research log.}
+{46401}{}{O rótulo diz: registo de investigação.}
 {46500}{}{Medical Holodisk}
-{46501}{}{The label reads: Medical log.}
-{46600}{}{Password Paper}
-{46601}{}{A sheet of folded paper with the word "TCHAIKOVSKY" written on it.}
-{46700}{}{Jesse's Container}
+{46501}{}{O rótulo diz: Registo médico.}
+{46600}{}{Papel com senha} #Password Paper
+{46601}{}{Uma folha de papel dobrada com a palavra "TCHAIKOVSKY" escrito nele.}
+{46700}{}{Recipiente de Jesse} #Jesse's Container
 {46701}{}{}
-{46800}{}{Smitty's Meal}
-{46801}{}{It's some kind of salad and a sandwich made out of what you think is Brahmin meat covered in a thick dark yellow sauce. There is also a strange pickled green vegetable on the side.}
-{46900}{}{Rot Gut}
-{46901}{}{A very strong liquor or cleaning fluid, you decide.}
-{47000}{}{Ball Gag}
-{47001}{}{A questionable sexual device. If you need to ask, you don't want to know.}
-{47100}{}{The Lavender Flower}
-{47101}{}{It appears to be some kind of romance novel written by Dorothy Rixon. The cover has a woman laying on a bed surrounded by a hundred flowers.}
+{46800}{}{Refeição de Smitty} #Smitty's Meal
+{46801}{}{É algum tipo de salada e um sanduíche feito do que você acha que é carne de Brahmin coberto com um molho amarelo. Há também ao lado um estanho vegetal verde em conserva.}
+{46900}{}{Aguardente} #Rot Gut
+{46901}{}{Uma bebidas alcoólica muito forte ou fluido de limpeza, você decide.}
+{47000}{}{Mordaça} #Ball Gag
+{47001}{}{Um dispositivo sexual questionável. Se você precisa perguntar, você não quer saber.}
+{47100}{}{The Lavender Flower} #The Lavender Flower
+{47101}{}{Parece ser algum tipo de  novela romântica escrito por Dorothy Rixon. A capa tem uma mulher deitada em uma cama cercada por uma centena de flores.}
 {47200}{}{Hubologist Holodisk}
-{47201}{}{This holodisk is labeled "Hubology: The Truth Behind the Lies". It looks like it works with your PIPBoy.}
-{47300}{}{Mutated Toe}
-{47301}{}{You see your sixth toe. It is a small mutated part of yourself. For some reason, you feel a terrible sense of loss as you look at the tiny amputated toe.}
-{47400}{}{Daisies}
-{47401}{}{A flower pot of daisies. Aren't they nice?}
-{47500}{}{Unused}
-{47501}{}{Unused}
-{47600}{}{Enlightened One's Letter}
-{47601}{}{A report addressed to AHS-9 in San Francisco. It's really dry reading- tables of oppressive adjustments, expense reports, and other twaddle not worth wasting your time on.}
+{47201}{}{Este holodisk esta rotulado como: "Hubology: A verdade por trás das mentiras". Parece que funciona em seu PipBoy.}
+{47300}{}{Dedo mutante do pé} #Mutated Toe
+{47301}{}{Você vê o seu sexto dedo. É uma pequena parte mutante de si mesmo. Por alguma razão, você sente uma terrível sensação de perda quando você olha para o pequeno dedo do pé amputado.}
+{47400}{}{Margaridas} #Daisies
+{47401}{}{Um vaso de flores de margaridas. Elas não são agradáveis?}
+{47500}{}{Não usado}
+{47501}{}{Não usado}
+{47600}{}{Carta de O Iluminado} #Enlightened One's Letter
+{47601}{}{Um relatório dirigido a ASH-9 em San Francisco. É certamente uma leitura grosseira: Tabelas de ajustes opressivos, relatórios de despesas e outras tretas com que você não deve perder tempo.}
 {47700}{}{Broadcast Holodisk}
-{47701}{}{The label reads: "Galaxy News Network."}
+{47701}{}{O rótulo diz: "Galaxy News Network".}
 {47800}{}{Sierra Mission Holodisk}
 {47801}{}{The label reads: "Mission Statement."}
-{47900}{}{NavCom Parts}
-{47901}{}{These are computer parts that look like they slot into the interior of a machine. The fact that they say "Poseidon Oil" and "Navigational Computer" on them lead you to believe they fit into a Poseidon Oil Navigational Computer.}
-{48000}{}{Bonus +1 Agility}
-{48100}{}{Bonus +1 Intelligence}
-{48200}{}{Bonus +1 Strength}
-{48300}{}{Fallout 2 Hintbook}
-{48301}{}{Well, THIS would have been good to have at the beginning of the goddamn game.}
-{48400}{}{Player's Ear}
-{48401}{}{This is your ear. The Masticator bit it off during the fight and spit it on your unconscious body. If you are reading this, it probably means you will be reloading soon. Of course, it is possible this item has some special value.}
-{48500}{}{Masticator's Ear}
-{48501}{}{This is the Masticator's ear. You bit it off after pummeling him senseless. Congratulations on beating him. He's one of the toughest NPC's in the game, especially when you don't have any weapons or armor.}
-{48600}{}{Refined Uranium Ore}
-{48601}{}{A chunk of Uranium Ore. This ore seems to have been processed somehow. It seems heavier.}
-{48700}{}{Note from Francis}
-{48701}{}{"Zaius, Marcus isn't doing anything about that mutant-hater Jacob and his damned conspirators. First they disable the air purifier... and then what? I found their secret meeting tunnels. I figure a body or two down there could implicate Jacob. If you want in, let me know. And burn the damn note this time!" -Signed, Francis.}
+{47900}{}{Circuito NavCom} #NavCom Parts
+{47901}{}{Placa de circuito que parece que pode ser inserido em um computador. O fato de que eles dizem "Poseidon Oil" e "Navigational Computer" sobre eles levam a crer que eles se encaixam em um computador de Navegação Poseidon Oil.}
+{48000}{}{Bônus +1 Agilidade}
+{48100}{}{Bônus +1 Inteligência}
+{48200}{}{Bônus +1 Força}
+{48300}{}{Livro de pistas de Fallout 2}
+{48301}{}{Bem, isso teria sido bom ter no início desse maldito jogo.}
+{48400}{}{Orelha de jogador} #Player's Ear
+{48401}{}{Este é sua orelha. O Masticator mordeu durante a luta e cuspiu em seu corpo inconsciente. Se você está lendo isso, provavelmente significa que você vai recarregar a partida em breve. É claro, é possível que este objeto tenha algum valor especial.}
+{48500}{}{Orelha do Masticator} #Masticator's Ear
+{48501}{}{Esta é a orelha do Masticator. Você mordeu depois bater muito nele. Parabéns por espancá-lo. Ele é um NPC dos mais difíceis do jogo, especialmente quando você não tem nenhuma arma ou armadura.}
+{48600}{}{Mineral de urânio refinado} #Refined Uranium Ore
+{48601}{}{Um pedaço de minério de urânio. Este minério parece ter sido processado de alguma forma. Parece mais pesado.}
+{48700}{}{Nota de Francis} #Note from Francis
+{48701}{}{"Zaius, Marcus não está fazendo nada com esse mutante Jacob e seus malditos conspiradores. Primeiro eles desativam o purificador de ar... e depois? Eu encontrei seus túneis de reuniões secretas. Imagino que um par corpos poderia implicar Jacob. Se você quiser entrar, venha me ver. Queime esta maldita nota de uma vez! "-Assinado, Francis.}
 {48800}{}{K-9 Motivator}
-{48801}{}{This is the drive mechanism for a K-9 series robot.}
-{48900}{}{Special Boxer Weapon}
+{48801}{}{Este é o mecanismo de acionamento para uma série robô K-9.}
+{48900}{}{Arma especial de boxeador} #Special Boxer Weapon
 {49000}{}{NCR History Holodisk}
-{49001}{}{The label reads: "History of NCR."}
-{49100}{}{Mr. Nixon Doll}
-{49101}{}{You see a small doll with a big red nose. For some reason, you don't trust this seemingly-innocent child's toy.}
-{49200}{}{Tanker Fob}
-{49201}{}{An encoded passkey that provides access to high security areas.}
+{49001}{}{O rótulo diz: "História da NCR."}
+{49100}{}{Boneco do Sr. Nixon} #Mr. Nixon Doll
+{49101}{}{Você vê um pequeno boneco com um grande nariz vermelho. Por alguma razão, você não confia nesta cara de criança aparentemente inocente.}
+{49200}{}{Tanker Fob} #Tanker Fob
+{49201}{}{Uma senha codificada que permite o acesso a áreas de alta segurança.}
 {49300}{}{Teachings Holodisk}
-{49301}{}{The label reads: "Hubologist Teachings."}
+{49301}{}{O rótulo diz: "Ensinamentos Hubologistas".}
 {49400}{}{Kokoweef Mine Scrip}
-{49401}{}{This is a small chit probably used to pay Kokoweef Mine Workers.}
-{49500}{}{Presidential Access Key}
-{49501}{}{This access key has what looks like the presidential seal on it. It appears as though it's used to gain Presidential level access to computers.}
-{49600}{}{Boxing Gloves}
-{49601}{}{A pair of boxing gloves that smell faintly of sweat. They look like they have seen a lot of use: many old blood stains still remain.}
-{49700}{}{Plated Boxing Gloves}
-{49701}{}{Someone has "accidentally" slipped metal plates into these boxing gloves. It could technically be considered cheating, but you prefer to think of it as an increased opportunity to dispense bone-crunching damage.}
-{49800}{}{Dual Plasma Cannon}
-{49801}{}{Only use for Gun Turret critter.}
-{49900}{}{Pip Boy Lingual Enhancer}
-{49901}{}{This Pip Boy lingual enhancer consists of a storage holodisk, a microfilament cord, headgear, and an optical sensor that is placed over the user's right eye. When used, an optical flash transmits an entire dictionary into the user's memory, permanently improving the user's speech skills.}
+{49401}{}{Este é um pequeno bilhete provavelmente usado para pagar os trabalhadores da Mina Kokoweef.}
+{49500}{}{Chave de Acesso Presidencial} #Presidential Access Key
+{49501}{}{Esta chave de acesso tem sobre ela o que se parece com o selo presidencial. Parece que ela é usada para obter acesso de nível presidencial em computadores.}
+{49600}{}{Luvas de boxe} #Boxing Gloves
+{49601}{}{Um par de luvas de boxe que cheiram levemente a suor. Elas parecem muito usadas: muitas e velhas manchas de sangue ainda permanecem.}
+{49700}{}{Plated Boxing Gloves} #Plated Boxing Gloves
+{49701}{}{Alguém "acidentalmente" deixou cair placas de metal nestas luvas de boxe. Poderia ser tecnicamente considerado trapaça, mas prefiro pensar nisso como uma oportunidade para quebrar ossos.}
+{49800}{}{Duplo canhão de plasma} #Dual Plasma Cannon
+{49801}{}{Usado apenas por torres.}
+{49900}{}{Intensificador de línguagem Pip Boy} #Pip Boy Lingual Enhancer
+{49901}{}{Este Intensificador Pip Boy consiste em um holodisco de armazenamento, um cabo de microfilamentos, um capacete, e um sensor óptico que é colocado sobre o olho direito do usuário. Quando usado, um flash óptico transmite um dicionário inteiro na memória do usuário, melhorando permanentemente a habilidades de fala do usuário.}
 {50000}{}{FN FAL HPFA}
-{50001}{}{This rifle has been more widely used by armed forces than any other rifle in history. It's a reliable assault weapon for any terrain or tactical situation. The HPFA is more powerful than the standard FN FAL. Min ST: 5.}
-{50100}{}{Wall Safe}
-{50200}{}{Floor Safe}
-{50300}{}{Blue Memory Module}
-{50301}{}{A read only computer memory module containing medical information. This module details charisma enhancements.}
-{50400}{}{Green Memory Module}
-{50401}{}{A read only computer memory module containing medical information. This module details perception enhancements.}
-{50500}{}{Red Memory Module}
-{50501}{}{A read only computer memory module containing medical information. This module details strength enhancements.}
-{50600}{}{Yellow Memory Module}
-{50601}{}{A read only computer memory module containing medical information. This module details intelligence enhancements.}
-{50700}{}{Decomposing Body}
-{50701}{}{This is a partially decomposed body of a humanoid creature.}
-{50800}{}{Rubber Doll}
-{50801}{}{An inflatable rubber sex doll. This model is called "Tandi".}
-{50900}{}{Damaged Rubber Doll}
-{50901}{}{This inflatable rubber sex doll has a torn seam. It's obviously been well used.}
-{51000}{}{Pool Table}
-{51100}{}{Pool Table}
+{50001}{}{Este rifle foi mais utilizado pelas forças armadas do que qualquer outro rifle na história. É uma arma de assalto confiável para qualquer tipo de terreno ou situação tática. O HPFA é mais poderoso do que o padrão FN FAL. Min. FO: 5.}
+{50100}{}{Cofre de parede} #Wall Safe
+{50200}{}{Cofre de chão} #Floor Safe
+{50300}{}{Módulo de Memória Azul} #Blue Memory Module
+{50301}{}{Um módulo de memória só de leitura para um computador contendo informações médicas. Este módulo detalha melhorias de carisma.}
+{50400}{}{Módulo de Memória Verde} #Green Memory Module
+{50401}{}{Um módulo de memória só de leitura para um computador contendo informações médicas. Este módulo detalha melhorias de percepção.}
+{50500}{}{Módulo de Memória Vermelho} #Red Memory Module
+{50501}{}{Um módulo de memória só de leitura para um computador contendo informações médicas. Este módulo detalha melhorias de força.}
+{50600}{}{Módulo de Memória Amarelo} #Yellow Memory Module
+{50601}{}{Um módulo de memória só de leitura para um computador contendo informações médicas. Este módulo detalha melhorias de inteligência.}
+{50700}{}{Corpo em decomposição} #Decomposing Body
+{50701}{}{Este é um corpo parcialmente decomposto de uma criatura humanóide.}
+{50800}{}{Boneca inflável} #Rubber Doll
+{50801}{}{Uma boneca sexual inflável de borracha. Este modelo é chamado "Tandi".}
+{50900}{}{Boneca inflável danificada} #Damaged Rubber Doll
+{50901}{}{Esta boneca sexual inflável de borracha tem uma costura rasgada. É, obviamente, foi bem utilizado.}
+{51000}{}{Mesa de sinuca} #Mesa de sinuca
+{51100}{}{Mesa de sinuca}
 {51101}{}{}
-{51200}{}{Pool Table}
-{51300}{}{Pool Table}
-{51400}{}{Pool Table}
-{51500}{}{Pool Table}
-{51600}{}{Pip Boy Medical Enhancer}
-{51601}{}{This Pip Boy medical enhancer consists of a storage holodisk, microfilament cord, headgear, and an optical sensor that is placed over the user's left eye. When used, an optical flash transmits a dictionary of physician skills and know-how into the user's memory, permanently improving the user's doctor skill.}
-{51700}{}{"Little Jesus"}
-{51701}{}{This wicked looking blade once belonged to Lil' Jesus Mordino. It has numerous nicks and cuts along its surface, but its edge is razor sharp. On its handle is carved "Little Jesus."}
-{51800}{}{Dual Minigun}
-{51801}{}{Only use for Auto-Cannon critter.}
-{51900}{}{Bottle Caps}
-{51901}{}{These are worthless bottle caps. You've heard that at one time they were used as money, though you suspect its only a story.}
-{52000}{}{Heavy Dual Minigun}
-{52001}{}{Only use for Auto-Cannon Critter.}
-{52100}{}{Poor Box}
-{52101}{}{A small box used to collect money for the poor.}
-{52200}{}{Wakizashi Blade}
-{52201}{}{A short finely crafted knife. The tip seems to be designed to pierce armor.}
-{52300}{}{Survey Map}
-{52301}{}{It looks like a geological survey map of the Bay area.}
+{51200}{}{Mesa de sinuca}
+{51300}{}{Mesa de sinuca}
+{51400}{}{Mesa de sinuca}
+{51500}{}{Mesa de sinuca}
+{51600}{}{Intensificador Médico Pip Boy} #Pip Boy Medical Enhancer
+{51601}{}{Este Intensificador Pip Boy consiste em um holodisco de armazenamento, um cabo de microfilamentos, um capacete, e um sensor óptico que é colocado sobre o olho direito do usuário. Quando usado, um flash óptico transmite um dicionário de conhecimento médico e habilidades na memória do usuário, melhorando permanentemente sua habilidade médica.}
+{51700}{}{"Menino Jesus"} #Little Jesus
+{51701}{}{Esta lâmina parece que pertenceu ao Menino Jesus Mordino. Tem inúmeros arranhões e cortes em toda a sua superfície, mas sua lâmina é afiada. No cabo está gravado "Menino Jesus".}
+{51800}{}{Dual Minigun} #Dual Minigun
+{51801}{}{Só use para personagens com auto-canhão.}
+{51900}{}{Tampinhas} #Bottle Caps
+{51901}{}{Estas são tampinhas de garrafa sem valor. Você já ouviu falar que uma vez eles foram usados ??como dinheiro, apesar de você suspeitar que seja apenas história.}
+{52000}{}{Heavy Dual Minigun} #Heavy Dual Minigun
+{52001}{}{Só use para personagens com auto-canhão.}
+{52100}{}{Caixa de esmolas} #Poor Box
+{52101}{}{Uma pequena caixa usado para recolher dinheiro para os pobres.}
+{52200}{}{Wakizashi Blade} #Wakizashi Blade
+{52201}{}{Uma faca curta finamente trabalhada. A ponta parece ter sido desenhado para perfurar armadura.}
+{52300}{}{Mapa de reconhecimento} #Survey Map
+{52301}{}{Parece um mapa de reconhecimento geológico da área da baía}
 {52400}{}{Bridgekeeper's Robes}
-{52401}{}{This smelly, filthy garment must be made out of some special fabric in order to have withstood the foulness of the bridgekeeper's body. Oddly enough, it has plasma burns and scorch marks all over it, as if these weapons were used against it... to no effect. You have NO idea why it's purple.}
-{52500}{}{Hypo}
-{52501}{}{A medical injection instrument of some kind. It looks very high tech. You don't know what it's filled with but it appears to have only one dose left.}
-{52600}{}{Dead Redshirt}
-{52601}{}{This guy has a weird red uniform you have never seen. It looks like he died from dehydration.}
-{52700}{}{Dead Redshirt}
-{52701}{}{This guy has a weird red uniform you have never seen. It looks like he died from dehydration.}
-{52800}{}{Dead Redshirt}
-{52801}{}{This guy has a weird red uniform you have never seen. It looks like he died from dehydration.}
-{52900}{}{Mining Machine}
-{53000}{}{End Boss Knife}
-{53100}{}{End Boss Plasma Gun}
-{53200}{}{Sam Pritchard's Map}
-{53201}{}{This crudely-drawn map shows the area surrounding New Reno. It looks like there's some sort of military base to the north.}
-{53300}{}{Fire Gecko Pelt}
-{53301}{}{This is the dried and cured hide of a fire gecko. It is badly burned and as a result, has little value.}
-{53400}{}{Bucket}
-{53401}{}{A medium sized bucket used to haul water from a well.}
-{53500}{}{Scaly Fish}
-{53501}{}{A scaly looking fish. If cooked, it would probably make a tasty meal.}
-{53600}{}{Fish}
-{53601}{}{A raw looking fish. If cooked, it would probably make a tasty meal.}
-{53700}{}{Ode to the Flame Deluge}
-{53701}{}{A novel set after a devastating nuclear war. The book excerpt describes how a violent backlash against the culture of advanced knowledge and technology that had led to the development of nuclear weapons took place shortly after this war. Anyone of learning, and eventually anyone who could even read, was likely to be killed.}
-{53800}{}{Text Book}
-{53801}{}{An old text book from before the Great War. It is quite technical and doesn't appear to contain any useful information.}
-{53900}{}{Army Technical Manual}
-{53901}{}{An old technical manual designed for the United States Army Corps of Engineers.}
-{54000}{}{Operations Manual}
-{54001}{}{The operations manual to the KV-75; a portable, tactical cryptographic device. Also used by non-tactical users for high-level communications in the local wideband telephone networks and wideband satellite terminals.}
+{52401}{}{Esta peça de roupa fedorenta e suja deve ter sido feita de um tecido especial, a fim de ter resistido a sujeira do corpo do Bridgekeeper. Curiosamente, ela tem queimaduras de plasma e marcas de queimaduras por toda parte, como se essas armas fossem usadas contra ela... Você não tem idéia por que é roxo.}
+{52500}{}{Seringa} #Hypo
+{52501}{}{Algum tipo de instrumento médico de injeção. Parece alta tecnologia. Você não sabe do que ela está cheia, mas parece ter apenas uma dose.}
+{52600}{}{Morto com camisa vermelha}
+{52601}{}{Esse cara tem um uniforme vermelho estranho que você nunca viu. Parece que ele morreu de desidratação.}
+{52700}{}{Morto com camisa vermelha}
+{52701}{}{Esse cara tem um uniforme vermelho estranho que você nunca viu. Parece que ele morreu de desidratação.}
+{52800}{}{Morto com camisa vermelha}
+{52801}{}{Esse cara tem um uniforme vermelho estranho que você nunca viu. Parece que ele morreu de desidratação.}
+{52900}{}{Máquina de mineração} #Mining Machine
+{53000}{}{Faca do chefe final} #End Boss Knife
+{53100}{}{Arma de plasma do chefe} #End Boss Plasma Gun
+#add RP
+{53200}{}{Mapa de Sam Pritchard} #Sam Pritchard's Map
+{53201}{}{Este mapa toscamente desenhado mostra os arredores New Reno. Parece que há algum tipo de base militar para o norte.}
+{53300}{}{Pele de Gecko de fogo} #Fire Gecko Pelt
+{53301}{}{Esta é a pele seca e endurecida de um gecko de fogo. Esta muito queimado e como resultado tem pouco valor.}
+{53400}{}{Balde} #Bucket
+{53401}{}{Um balde de tamanho médio usado para transportar água de um poço.}
+{53500}{}{Peixe descamado} #Scaly Fish
+{53501}{}{Uma peixe descamado. Se cozido, ele provavelmente iria ser uma refeição saborosa.}
+{53600}{}{Peixe}
+{53601}{}{Um peixe cru. Se cozido, ele provavelmente iria fazer uma refeição saborosa.}
+{53700}{}{Ode to the Flame Deluge} #Ode to the Flame Deluge
+{53701}{}{Um romance ambientado após uma guerra nuclear devastadora. O trecho do livro descreve como uma reação violenta contra a cultura de conhecimento e tecnologia avançada que levou ao desenvolvimento de armas nucleares ocorreu logo após a guerra. Qualquer um que pudesse ler, era susceptível de ser morto.}
+{53800}{}{Text Book} #Text Book
+{53801}{}{Um livro de texto antigo de antes da Grande Guerra. É muito técnico e não parece conter todas as informações úteis.}
+{53900}{}{Army Technical Manual} #Army Technical Manual
+{53901}{}{Um manual técnico velho projetado pelo Corpo de Engenheiros do exército de Estados Unidos.}
+{54000}{}{manual de operações} #Operations Manual
+{54001}{}{O manual de operações para a KV-75; um dispositivo de criptografia tático portátil. Também é usado por usuários não-táticos para comunicações de alto nível nas redes de telefonia de banda larga locais e os terminais de banda larga por satélite.}
 {54100}{}{Chinese Army: Special Ops Manual}
-{54101}{}{You can't understand a thing from the text, but the illustrations are quite informative.}
-{54200}{}{Bottle of wine}
-{54201}{}{A fresh bottle of Abbey's finest wine.}
-{54300}{}{Diary}
-{54301}{}{It appears to be a diary which belonged to a young girl. The writing on the inside cover says: "Property of Anna" Most of the pages are either torn or faded, but one is still readable. "Day 271: Today my mother gave me a gold locket. It is the most beautiful thing I have ever owned. I will never part with it."}
+{54101}{}{Você não pode entender muita coisa do texto, mas as ilustrações são bastante informativas.}
+{54200}{}{Garrafa de vinho} #Bottle of wine
+{54201}{}{Uma garrafa fresca do melhor vinho do Abbey.}
+{54300}{}{Diário}
+{54301}{}{Parece ser um diário que pertencia a uma jovem. A escrita na parte interna da capa diz: "Propriedade de Anna" A maioria das páginas estão rasgadas ou desbotadas, mas ainda é legível. "Dia 271: Hoje minha mãe me deu um medalhão de ouro É a coisa mais linda que eu já possuí eu nunca vou deixar de usa-lo..."}
 {54400}{}{Botany Holodisk}
-{54401}{}{This information disk categorizes the various plant life that grew before the Great War.}
-{54500}{}{Expired G.E.C.K.}
-{54501}{}{The Garden of Eden Creation Kit. This unit is standard equipment for all Vault-Tec vaults. A GECK is the resource for rebuilding civilization after the bomb. Just add water and stir. This one is well beyond is expiration date. What a waste!}
-{54600}{}{Old Coin}
-{54601}{}{A very old coin. You are not sure whose face is on it, but it looks like it could be rare and worth a lot of money.}
-{54700}{}{A watch}
-{54701}{}{An antique watch. This brand stopped being manufactured long before the Great War.}
-{54800}{}{Pack of Cigarettes}
-{54801}{}{A pack of 'Commies'. On the back it says: 'Smoke a Commie to do your bit for democracy and feel better'. Lower down there's a health warning: 'As your doctor, I recommend Commies for fresher breath and a winning smile'. It looks like there's about 10 in a pack.}
-{54900}{}{Gas Mask}
-{54901}{}{The Protective Mask: Your mask is your first line of defense against biological agents. Take care of it.}
-{55000}{}{Toaster}
-{55001}{}{A silver toaster sitting on a desk.}
-{55100}{}{Syringe}
-{55101}{}{A pre war implement for administrating drugs. It is full of an unknown substance.}
-{55200}{}{Dog Food}
-{55201}{}{Several cans of dog food.}
-{55300}{}{Bug Spray}
-{55301}{}{A spray can full of a substance that kills all known bugs.}
+{54401}{}{Este disco contem informações de várias plantas que cresceram antes da Grande Guerra.}
+{54500}{}{G.E.C.K. Vencido} #Expired G.E.C.K.
+{54501}{}{Kit de Criação do Jardim do Éden. Este é um equipamento padrão para todos os refúgios Vault-Tec. O GECK é uma fonte de reconstrução da civilização depois da bomba. Basta adicionar água e mexer. Este está com a data de validade vencida. Que desperdício!}
+{54600}{}{Moeda Velha} #Old Coin
+{54601}{}{Uma moeda muito antiga. Você não tem certeza de que rosto esta sobre ela, mas parece que ela pode ser rara e vale muito dinheiro.}
+{54700}{}{Um relógio} #A watch
+{54701}{}{Um relógio antigo. Esta marca parou de ser fabricado muito antes da Grande Guerra.}
+{54800}{}{Maço de cigarros} #Pack of Cigarettes
+{54801}{}{Um bando de "comunistas". Na parte traseira diz: "Fume um comunista para fazer parte da democracia e se sentir melhor". Mais abaixo há uma advertência de saúde: "Como seu médico, eu recomendo comunistas para hálito fresco e um sorriso vencedor". Parece que há cerca de 10 unidades no pacote.}
+{54900}{}{Máscara de gás} #Gas Mask
+{54901}{}{Uma máscara de proteção: Sua máscara é a sua primeira linha de defesa contra agentes biológicos. Cuide bem dela.}
+{55000}{}{Torradeira} #Toaster
+{55001}{}{Uma torradeira prata jogada em uma mesa.}
+{55100}{}{Seringa} #Syringe
+{55101}{}{Uma seringa de antes da grande guerra para administrar drogas. Ela está cheia de uma substância desconhecida.}
+{55200}{}{Comida de Cachorro} #Dog Food
+{55201}{}{Várias latas de comida de cachorro.}
+{55300}{}{Repelente de insetos} #Bug Spray
+{55301}{}{Uma lata de spray cheia de uma substância que mata todos os insetos conhecidos}
 {55400}{}{Environmental Armor}
-{55401}{}{Armor best worn against biological attacks.}
+{55401}{}{Melhor armadura usada contra ataques biológicos.}
 {55500}{}{EPA Pamphlet}
-{55501}{}{A leaflet given out at the beginning of tours.}
-{55600}{}{Drugs}
-{55601}{}{Some sort of drugs preserved from before the war.}
+{55501}{}{Um folheto dado no início de passeios.}
+{55600}{}{Drogas} #Drugs
+{55601}{}{Algum tipo de drogas preservada de antes da guerra.}
 {55700}{}{Security Rooms Key Card}
-{55701}{}{A key card to unlock the security rooms.}
-{55800}{}{Test tube rack}
-{55801}{}{A rack for holding chemical test tubes.}
-{55900}{}{Keys}
-{55901}{}{Keys to allow access to the storage shed on the surface.}
-{56000}{}{Random Chemicals}
-{56001}{}{DANGER! Unknown chemicals. Use with caution.}
+{55701}{}{Um cartão chave para abrir as salas de segurança.}
+{55800}{}{Suporte para tubos de ensaio} #Test tube rack
+{55801}{}{Um rack para prender tubos de ensaio químico.}
+{55900}{}{Chaves}
+{55901}{}{Chaves para permitir o acesso ao galpão de armazenamento na superfície.}
+{56000}{}{Produtos Químicos aleatórios} #Random Chemicals
+{56001}{}{PERIGO! Produtos químicos desconhecidos. Use com cuidado.}
 {56100}{}{Corn Seeds}
 {56101}{}{Packets of seeds, used to grow plants. These are labeled as genetically modified corn seeds immune to both disease and insect infestation.}
 {56200}{}{Plant Spray}
