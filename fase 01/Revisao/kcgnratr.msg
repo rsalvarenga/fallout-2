@@ -1,4 +1,5 @@
 # Matheus Reis Traduzido
+# Noob-Saibot revisou este arquivo.
 
 # It looks like a generator
 {100}{}{Parece ser um gerador.}
@@ -7,7 +8,7 @@
 # The generator needs repairs first.
 {200}{}{O gerador precisa de conserto primeiro.}
 # The generator is already running.
-{201}{}{O gerador já está em execução.}
+{201}{}{O gerador já está funcionando.}
 # You shutdown the generator.
 {202}{}{Você desliga o gerador.}
 # That skill is useless on a generator.
