@@ -1,4 +1,5 @@
 # Matheus Reis traduzido.
+# Revisado por Noob-Saibot
 
 #############################################################
 #  Message File: kcitizen.msg                               #
