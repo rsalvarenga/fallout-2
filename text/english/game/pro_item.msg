@@ -808,7 +808,7 @@
 {41401}{}{Uma chave normal.}
 {41500}{}{Óculos} #Spectacles
 {41501}{}{Um par de óculos para correção visual.}
-{41600}{}{Frasco vazio de Jet} Empty Jet Canister
+{41600}{}{Frasco vazio de Jet} #Empty Jet Canister
 {41601}{}{Este frasco vazio de jet foi encontrado no quarto de Richard Wright. Ele ainda tem vestígios de Jet.}
 {41700}{}{Tanque de oxigênio} #Oxygen Tank
 {41701}{}{Este é o tanque de oxigênio para aparelhos de respiração de Salvatore.}
@@ -918,7 +918,7 @@
 {47000}{}{Mordaça} #Ball Gag
 {47001}{}{Um dispositivo sexual questionável. Se você precisa perguntar, você não quer saber.}
 {47100}{}{The Lavender Flower} #The Lavender Flower
-{47101}{}{Parece ser algum tipo de  novela romântica escrito por Dorothy Rixon. A capa tem uma mulher deitada em uma cama cercada por uma centena de flores.}
+{47101}{}{Parece ser algum tipo de novela romântica escrito por Dorothy Rixon. A capa tem uma mulher deitada em uma cama cercada por uma centena de flores.}
 {47200}{}{Hubologist Holodisk}
 {47201}{}{Este holodisk esta rotulado como: "Hubology: A verdade por trás das mentiras". Parece que funciona em seu PipBoy.}
 {47300}{}{Dedo mutante do pé} #Mutated Toe
@@ -932,7 +932,7 @@
 {47700}{}{Broadcast Holodisk}
 {47701}{}{O rótulo diz: "Galaxy News Network".}
 {47800}{}{Sierra Mission Holodisk}
-{47801}{}{The label reads: "Mission Statement."}
+{47801}{}{O rótulo diz: "Declaração da Missão".}
 {47900}{}{Circuito NavCom} #NavCom Parts
 {47901}{}{Placa de circuito que parece que pode ser inserido em um computador. O fato de que eles dizem "Poseidon Oil" e "Navigational Computer" sobre eles levam a crer que eles se encaixam em um computador de Navegação Poseidon Oil.}
 {48000}{}{Bônus +1 Agilidade}
@@ -965,7 +965,7 @@
 {49501}{}{Esta chave de acesso tem sobre ela o que se parece com o selo presidencial. Parece que ela é usada para obter acesso de nível presidencial em computadores.}
 {49600}{}{Luvas de boxe} #Boxing Gloves
 {49601}{}{Um par de luvas de boxe que cheiram levemente a suor. Elas parecem muito usadas: muitas e velhas manchas de sangue ainda permanecem.}
-{49700}{}{Plated Boxing Gloves} #Plated Boxing Gloves
+{49700}{}{Luvas de boxe com metal} #Plated Boxing Gloves
 {49701}{}{Alguém "acidentalmente" deixou cair placas de metal nestas luvas de boxe. Poderia ser tecnicamente considerado trapaça, mas prefiro pensar nisso como uma oportunidade para quebrar ossos.}
 {49800}{}{Duplo canhão de plasma} #Dual Plasma Cannon
 {49801}{}{Usado apenas por torres.}
@@ -989,7 +989,7 @@
 {50801}{}{Uma boneca sexual inflável de borracha. Este modelo é chamado "Tandi".}
 {50900}{}{Boneca inflável danificada} #Damaged Rubber Doll
 {50901}{}{Esta boneca sexual inflável de borracha tem uma costura rasgada. É, obviamente, foi bem utilizado.}
-{51000}{}{Mesa de sinuca} #Mesa de sinuca
+{51000}{}{Mesa de sinuca}
 {51100}{}{Mesa de sinuca}
 {51101}{}{}
 {51200}{}{Mesa de sinuca}
@@ -1028,8 +1028,8 @@
 #add RP
 {53200}{}{Mapa de Sam Pritchard} #Sam Pritchard's Map
 {53201}{}{Este mapa toscamente desenhado mostra os arredores New Reno. Parece que há algum tipo de base militar para o norte.}
-{53300}{}{Pele de Gecko de fogo} #Fire Gecko Pelt
-{53301}{}{Esta é a pele seca e endurecida de um gecko de fogo. Esta muito queimado e como resultado tem pouco valor.}
+{53300}{}{Pele de Gecko queimado} #Fire Gecko Pelt
+{53301}{}{Esta é a pele seca e endurecida de um gecko queimado. Esta muito queimado e como resultado tem pouco valor.}
 {53400}{}{Balde} #Bucket
 {53401}{}{Um balde de tamanho médio usado para transportar água de um poço.}
 {53500}{}{Peixe descamado} #Scaly Fish
@@ -1042,7 +1042,7 @@
 {53801}{}{Um livro de texto antigo de antes da Grande Guerra. É muito técnico e não parece conter todas as informações úteis.}
 {53900}{}{Army Technical Manual} #Army Technical Manual
 {53901}{}{Um manual técnico velho projetado pelo Corpo de Engenheiros do exército de Estados Unidos.}
-{54000}{}{manual de operações} #Operations Manual
+{54000}{}{Manual de operações} #Operations Manual
 {54001}{}{O manual de operações para a KV-75; um dispositivo de criptografia tático portátil. Também é usado por usuários não-táticos para comunicações de alto nível nas redes de telefonia de banda larga locais e os terminais de banda larga por satélite.}
 {54100}{}{Chinese Army: Special Ops Manual}
 {54101}{}{Você não pode entender muita coisa do texto, mas as ilustrações são bastante informativas.}
@@ -1076,7 +1076,7 @@
 {55501}{}{Um folheto dado no início de passeios.}
 {55600}{}{Drogas} #Drugs
 {55601}{}{Algum tipo de drogas preservada de antes da guerra.}
-{55700}{}{Security Rooms Key Card}
+{55700}{}{Cartão Chave Salas de Segurança} #Security Rooms Key Card
 {55701}{}{Um cartão chave para abrir as salas de segurança.}
 {55800}{}{Suporte para tubos de ensaio} #Test tube rack
 {55801}{}{Um rack para prender tubos de ensaio químico.}
@@ -1084,75 +1084,75 @@
 {55901}{}{Chaves para permitir o acesso ao galpão de armazenamento na superfície.}
 {56000}{}{Produtos Químicos aleatórios} #Random Chemicals
 {56001}{}{PERIGO! Produtos químicos desconhecidos. Use com cuidado.}
-{56100}{}{Corn Seeds}
-{56101}{}{Packets of seeds, used to grow plants. These are labeled as genetically modified corn seeds immune to both disease and insect infestation.}
-{56200}{}{Plant Spray}
-{56201}{}{A spray can full of a substance that kills various types of plants.}
-{56300}{}{Trigger activated dynamite}
-{56301}{}{Unlike normal dynamite which is set by a timer, this dynamite is activated by a trigger.}
-{56400}{}{Trigger switch}
-{56401}{}{Trigger for dynamite.}
-{56500}{}{Paper}
-{56501}{}{Paper with a passcode scribbled on it.}
-{56600}{}{Experimental Seeds}
-{56601}{}{Packet of experimental seeds. Result of germination is unknown.}
-{56700}{}{A drill}
-{56701}{}{An electric powered drill.}
-{56800}{}{Trigger activated dynamite}
-{56801}{}{Unlike normal dynamite which is set by a timer, this dynamite is activated by a trigger. This one is armed and ready to be triggered.}
-{56900}{}{Pop Rocks}
-{56901}{}{An unopened bag of a tasty carbonated candy made of sugar, lactose (more sugar), corn syrup (even more sugar), and flavoring. It is rumored that when mixed with drinks like Nuka Cola one's stomach would explode.}
-{57000}{}{Bottle of Shampoo}
-{57001}{}{A premium bottle of shampoo. Unlike other leading brands, this shampoo comes in an unusual flexi-plastic bottle. It was specially designed this way, so when the bottle was squeezed, the right amount of shampoo was poured out - no more, no less. Just a flip of the cap, and you're on your way.}
+{56100}{}{Sementes de milho} #Corn Seeds
+{56101}{}{Pacotes de sementes, usada para cultivar plantas. Estes são identificados como sementes de milho geneticamente modificadas para ambas as doenças do sistema imunológico e infestação de insectos.}
+{56200}{}{Pulverizador de Plantas} #Plant Spray
+{56201}{}{Uma lata de pulverizador completa de uma substância que mata todos os tipos de plantas.}
+{56300}{}{Gatilho de dinamite ativado} #Trigger activated dynamite
+{56301}{}{Ao contrário de uma dinamite normal que é acionada por um temporizador, esta dinamite é ativada por um gatilho.}
+{56400}{}{Gatilho} #Trigger switch
+{56401}{}{Gatilho para dinamite.}
+{56500}{}{Papel}
+{56501}{}{Papel com um código de acesso rabiscado nele.}
+{56600}{}{Sementes experimentais} #Experimental Seeds
+{56601}{}{Pacote de sementes experimentais. O resultado da germinação é desconhecida.}
+{56700}{}{Uma furadeira} #A drill
+{56701}{}{Uma furadeira elétrica.}
+{56800}{}{Gatilho de dinamite ativado} #Trigger activated dynamite
+{56801}{}{Ao contrário de uma dinamite normal que é acionada por um temporizador, esta dinamite é ativada por um gatilho.}
+{56900}{}{Pop Rocks} #Pop Rocks
+{56901}{}{Um saco fechado de um doce saboroso gaseificado feita de açúcar, lactose (mais açúcar), xarope de milho (ainda mais açúcar) e aromatizante. Há rumores de que quando misturado com a bebida Nuka Cola seu estômago poderia explodir.}
+{57000}{}{Frasco de Shampoo} #Bottle of Shampoo
+{57001}{}{Um frasco prémio de shampoo. Ao contrário de outras marcas líderes, este shampoo vem em uma frasco incomum de plástico flexível. Foi projetado especialmente dessa maneira, por isso, quando a garrafa for espremida, a quantidade certa de shampoo será derramado - nem mais, nem menos. Apenas um flip da tampa, e você ja está pronto para usar.}
 {57100}{}{K9 Kevlar}
-{57101}{}{A dusty old set of sturdy kevlar plates set into black nylon sleeves. You think it must be sized for a dwarf, until you notice a tag on the inside which reads: Canine Kevlar. Large. A DoggieBuddy product. Made in Taiwan.}
-{57200}{}{Human Ear}
-{57201}{}{A woman's ear. Gross! Only a mentally unstable person would ever remove a human ear.}
+{57101}{}{Um conjunto velho e empoeirado de placas de kevlar resistente e colocado em mangas de nylon preto. Você acha que deve ser projetado para um anão, até você notar uma etiqueta no interior onde se lê: Kevlar canina. Grande. Um produto DoggieBuddy. Made in Taiwan.}
+{57200}{}{Orelha Humana} #Human Ear
+{57201}{}{Orelha de uma mulher. Arrancada a força! Somente uma pessoa mentalmente instável remove uma orelha humana.}
 {57300}{}{ERSI canister}
-{57301}{}{A canister of Environmental Rejection Syndrome Inhibitors. Applied to specimens exiting from an extended period of hibernation.}
-{57400}{}{Lightsaber}
-{57401}{}{An ancient weapon from a more civilized age. Not as clumsy or as random as a blaster. It was given to you by Obi-Wan-Killap. Min ST: 2}
-{57500}{}{Blaster}
-{57501}{}{Hokey religions and ancient weapons are no match for a good blaster at your side, kid. Min ST: 3}
-{57600}{}{Lightsaber}
-{57601}{}{An ancient weapon from a more civilized age. Not as clumsy or as random as a blaster. It was given to you by Empress Timeslip. Min ST: 2.}
-{57700}{}{Air Processing Vent}
-{57701}{}{The grill on this vent looks different.}
-{57800}{}{Metal Armário}
+{57301}{}{Uma lata de Inibidores de Rejeição Síndrome Ambiental. Aplicado para amostras que saem de um período prolongado de hibernação.}
+{57400}{}{Sabre de Luz} #Lightsaber
+{57401}{}{Uma arma antiga de uma era mais civilizada. Não é tão desajeitado ou tão simples como uma espada. Foi dado a você por Obi-Wan-Killap. Min. FO: 2}
+{57500}{}{Desintegrador} #Blaster
+{57501}{}{Religiões e armas antigas não são páreo para um bom desintegrador ao seu lado. Min. FO: 3}
+{57600}{}{Sabre de Luz}
+{57601}{}{Uma arma antiga de uma era mais civilizada. Não é tão desajeitado ou tão simples como uma espada. Foi dado a você por Obi-Wan-Killap. Min. FO: 2}
+{57700}{}{Processamento de ventilação} #Air Processing Vent
+{57701}{}{A grade nesta ventilação parece diferente.}
+{57800}{}{Armário de metal} #Metal Locker
 {57801}{}{Uma contêiner de armazenamento.}
-{57900}{}{Metal Armário}
+{57900}{}{Armário de metal}
 {57901}{}{Uma contêiner de armazenamento.}
-{58000}{}{Chinese Code Chart}
-{58001}{}{You're not certain, but it appears to be a chart containing various Chinese command codes. Perhaps if you found a place to input these codes, you could learn a thing or two.}
-{58100}{}{Dead Tribal}
-{58101}{}{This person has died a horrible death on the medical table.}
-{58200}{}{Dead Tribal}
-{58201}{}{This person has died a horrible death on the medical table.}
-{58300}{}{Plant Spike}
-{58301}{}{An organic seed-spike that the carnivorous plants spit at potential food or seed carriers. This one is sharper, and harder than usual.}
-{58400}{}{Dead Vault Dweller}
-{58401}{}{This person has died a horrible death on the medical table.}
-{58500}{}{Dead Vault Dweller}
-{58501}{}{This person has died a horrible death on the medical table.}
-{58600}{}{Dead Tribal}
-{58601}{}{This person has died a horrible death on the medical table.}
-{58700}{}{Dead Tribal}
-{58701}{}{This person has died a horrible death on the medical table.}
+{58000}{}{Guia de código chinês} #Chinese Code Chart
+{58001}{}{Você não certeza, mas parece ser uma carta contendo vários códigos de comando chineses. Talvez, se você encontrar algum lugar para introduzir estes códigos, você pode aprender algumas coisas.}
+{58100}{}{Tribal morto} #Dead Tribal
+{58101}{}{Esta pessoa teve uma morte horrível na mesa médica.}
+{58200}{}{Tribal morto}
+{58201}{}{Esta pessoa teve uma morte horrível na mesa médica.}
+{58300}{}{Espinho de planta} #Plant Spike
+{58301}{}{Um espinho de planta orgânica, as plantas carnívoras cospem sobre seus alvos de alimentos ou sementes.}
+{58400}{}{Vault Dweller Morto} #Dead Vault Dweller
+{58401}{}{Esta pessoa teve uma morte horrível na mesa médica.}
+{58500}{}{Vault Dweller Morto}
+{58501}{}{Esta pessoa teve uma morte horrível na mesa médica.}
+{58600}{}{Tribal morto}
+{58601}{}{Esta pessoa teve uma morte horrível na mesa médica.}
+{58700}{}{Tribal morto}
+{58701}{}{Esta pessoa teve uma morte horrível na mesa médica.}
 {58800}{}{K9 Kevlar}
-{58801}{}{Wearable K9 Kevlar (FAKE)}
-{58900}{}{Mutant Armor}
-{58901}{}{Mutant Armor}
-{59000}{}{Mutant Armor}
-{59001}{}{Wearable Mutant Armor (FAKE)}
-{59100}{}{Small Scorpion Tail}
-{59101}{}{The severed tail of a small radscorpion.}
-{59200}{}{Plant seed}
-{59201}{}{A plant seed given to you by Dr. Sheng.}
-{59300}{}{Nothing out of the ordinary}
-{59301}{}{Nothing out of the ordinary.}
-{59400}{}{Nothing out of the ordinary}
-{59401}{}{Nothing out of the ordinary.}
-{59500}{}{Nothing out of the ordinary}
-{59501}{}{Nothing out of the ordinary.}
-{59600}{}{Fake Heart Pills}
-{59601}{}{These pills would normally be used by people with heart problems, except in this case death would ensue. These pills have been mixed with other chemicals, resulting in a guaranteed heart-exploding experience.}
+{58801}{}{Kevlar K9 - Fácil de usar (FALSO)}
+{58900}{}{Armadura mutante} #Mutant Armor
+{58901}{}{Armadura mutante}
+{59000}{}{Armadura mutante}
+{59001}{}{Armadura - Fácil de usar (FALSO)}
+{59100}{}{Pequena cauda de escorpião} #Small Scorpion Tail
+{59101}{}{Uma cauda cortada de um pequeno radscorpion.}
+{59200}{}{Semente de planta} #Plant seed
+{59201}{}{Uma semente da planta fornecido pelo Dr. Sheng}
+{59300}{}{Nada fora do comum.}
+{59301}{}{Nada fora do comum.}
+{59400}{}{Nada fora do comum.}
+{59401}{}{Nada fora do comum.}
+{59500}{}{Nada fora do comum.}
+{59501}{}{Nada fora do comum.}
+{59600}{}{Pílulas de coração falsas} #Fake Heart Pills
+{59601}{}{Essas pílulas são normalmente usadas por pessoas com problemas cardíacos, exceto neste caso a morte seria certa. Essas pílulas foram misturadas com outros produtos químicos, resultando em uma experiência de coração explodindo garantido.}
