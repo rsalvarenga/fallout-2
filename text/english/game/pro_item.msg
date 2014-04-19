@@ -110,7 +110,7 @@
 {5501}{}{Este é um chip de água Vault-Tec. Eles são tipicamente embalados em grupos de cinco unidades por caixa.}
 {5600}{}{Placas de identificação} #Dog Tags
 {5601}{}{Um conjunto de Placas de identificação militares. O nome Dickinson e a palavra Enclave são pouco legível.}
-{5700}{}{Microfone}
+{5700}{}{Microfone} #Bug
 {5701}{}{Um microfone em miniatura e dispositivo de transmissão.}
 {5800}{}{Fita} #Tape
 {5801}{}{Uma fita Wattz Eletrônica Holodisc. Esta fita em particular parece estar em muito mau estado.}
@@ -142,17 +142,17 @@
 {7101}{}{Um pedaço estranho de fruta. Sem conservantes e sem corante.}
 {7200}{}{Maleta} #Briefcase
 {7201}{}{Uma pasta com uma etiqueta Made-in-the-EUA. De couro. Em boas condições, mas a fechadura de combinação está quebrado.}
-{7300}{}{Grande Livro de Ciências}
+{7300}{}{Grande Livro de Ciências} #Big Book of Science
 {7301}{}{Um conjunto de livros, que contém informações sobre os diferentes campos científicos.}
 {7400}{}{Leather Jacket}
 {7401}{}{Uma jaqueta de couro preta e pesada.}
-{7500}{}{Conjunto de ferramentas}
+{7500}{}{Conjunto de ferramentas} #Tool
 {7501}{}{Um conjunto de ferramentas, que contém várias ferramentas úteis, incluindo um alicate.}
-{7600}{}{Deans Electronics}
+{7600}{}{Deans Electronics} #Deans Electronics
 {7601}{}{Um livro de estudo no campo da eletrônica. Uma nota na capa diz que é para os "jovens eletricista brotando em todo o mundo!"}
-{7700}{}{Electronic Lockpick}
+{7700}{}{Gazua Eletrônica} #Electronic Lockpick
 {7701}{}{Uma gazua eletrônica Micromanipulator FingerStuff de Wattz Eletrônicos. Para abrir fechaduras eletrônicas e dispositivos de segurança.}
-{7800}{}{Pintura distorcida}
+{7800}{}{Pintura distorcida} #Fuzzy Painting
 {7801}{}{Uma imagem de um cantor. Obviamente, muito antiga. A imagem tem um revestimento de feltro que ainda está em boas condições.}
 {7900}{}{Flare} #Flare
 {7901}{}{Um Flare. Cria uma luz durante um curto período de tempo. O papel está um pouco desgastado, mas está em boas condições. Gire a parte superior para ativá-lo.}
@@ -164,7 +164,7 @@
 {8201}{}{Uma chave. Uma chave que abrirá uma determinada fechadura.}
 {8300}{}{Chaveiro} #Key Ring
 {8301}{}{Várias chaves.}
-{8400}{}{Gazuas} #Lockpicks  Gazuas
+{8400}{}{Gazuas} #Lockpicks Gazuas
 {8401}{}{Um conjunto de ferramentas de serralheiro. Com tudo que é necessário para abrir fechaduras convencionais.}
 {8500}{}{Plastic Explosives}
 {8501}{}{Um pedaço de Cordex, uma marca militar de explosivos plásticos. Altamente instável e muito destrutivo. Inclui um temporizador.}
@@ -188,25 +188,25 @@
 {9401}{}{Uma espingarda Winchester Widowmaker com cano duplo de calibre 12. Cano curto e cabo de mogno. Min FO: 4.}
 {9500}{}{12 gauge shotgun shell} 
 {9501}{}{Munição de espingarda. Esta munição especial indica que: "munição 12, proibido para crianças com idade inferior a 3 anos."}
-{9600}{}{Red Pass Key}
+{9600}{}{Chave de acesso Vermelho} #Red Pass Key
 {9601}{}{Uma chave de segurança eletrônica, com código de cores vermelho.}
-{9700}{}{Blue Pass Key}
+{9700}{}{Chave de acesso Azul} #Blue Pass Key
 {9701}{}{Uma chave de segurança eletrônica, com código de cores azul.}
 {9800}{}{Sucata} #Junk
 {9801}{}{Uma pilha de peças de sucata. Um pouco de tudo.}
-{9900}{}{Gold Locket}
+{9900}{}{Medalhão de ouro} #Gold Locket
 {9901}{}{Um medalhão de ouro valioso.}
 {10000}{}{Rádio}
 {10001}{}{Modelo 2043B Radio Communicator, de uma excelente marca Wattz Electronics. Confiável, robusto e camuflados. Com interface opcional RS-121.}
-{10100}{}{Lighter}
+{10100}{}{Isqueiro} #Lighter
 {10101}{}{Um isqueiro de prata em bom estado.}
 {10200}{}{Guns and Bullets}
 {10201}{}{Uma revista dedicada ao uso prático de armas de fogo, com comentários um pouco imparcial.}
 {10300}{}{Iguana-on-a-stick}
 {10301}{}{Uma iguana cozida, assada em sua própria pele.}
-{10400}{}{Tape Recorder}
+{10400}{}{Gravador de fita} #Tape Recorder
 {10401}{}{Um gravador 'Play it-for-me' de Wattz Electronics. Grava e reproduz fitas padrão de alta densidade de uma única gravação de 30 minutos.}
-{10500}{}{Chave}
+{10500}{}{Chave} #Key
 {10501}{}{Algum tipo de chave especial.}
 {10600}{}{Nuka-Cola}
 {10601}{}{Uma garrafa de Nuka-Cola, a bebida mais saborosa do mundo pós-nuclear. É quente e sem gosto.}
@@ -220,7 +220,7 @@
 {11001}{}{Um elemento único com produtos químicos estranhos e desconhecidos, provavelmente de origem militar. Supõe-se que é para aumentar a potencial de combate de um soldado.}
 {11100}{}{.44 magnum FMJ}
 {11101}{}{Munição de calibre .44 para magnum, com jaqueta metálica.}
-{11200}{}{Urna}
+{11200}{}{Urna} #Urn
 {11201}{}{Uma bonita urna dourada com o nome de "Harriet" inscrito na parte da frente e de cor cinzas no interior.}
 {11300}{}{Robes}
 {11301}{}{Vestes usadas para o futuro.}
@@ -260,7 +260,7 @@
 {13001}{}{Baú básico. Guarda as coisas, fica no pé da cama e pode ser trancado com uma chave.}
 {13100}{}{Baú}
 {13101}{}{Baú básico. Guarda as coisas, fica no pé da cama e pode ser trancado com uma chave.}
-{13200}{}{Armário} #Armário
+{13200}{}{Armário} #Locker
 {13201}{}{Uma contêiner de armazenamento.}
 {13300}{}{Armário}
 {13301}{}{Uma contêiner de armazenamento.}
@@ -276,9 +276,9 @@
 {13801}{}{Uma contêiner de armazenamento.}
 {13900}{}{Armário}
 {13901}{}{Uma contêiner de armazenamento.}
-{14000}{}{Access Card}
+{14000}{}{Cartão de Acesso} #Access Card
 {14001}{}{Um cartão de acesso de segurança. Ainda funcional.}
-{14100}{}{Insígnia} #Insígnia
+{14100}{}{Insígnia} #COC Badge
 {14101}{}{Um emblema na forma de um símbolo das Crianças da Catedral. De um lado você nota umas saliências e recortes que lembra de uma chave.}
 {14200}{}{Insígnia}
 {14201}{}{Um emblema na forma de um símbolo das Crianças da Catedral. De um lado você nota umas saliências e recortes que lembra de uma chave.}
@@ -286,7 +286,7 @@
 {14301}{}{Um rifle franco-atirador DKS-501. Uma excelente arma de longo alcance. Originalmente de calibre .308, mas foi modificado para um calibre mais comum .223. Min FO: 5.}
 {14400}{}{Super Stimpak}
 {14401}{}{Um avançado produto químico de cura. Muito poderoso. Super Stimpak irá causar uma pequena quantidade de danos após um período de tempo, devido à natureza potente dos produtos químicos utilizados.}
-{14500}{}{Prateleiras} #Prateleiras
+{14500}{}{Prateleiras} #Bookshelf
 {14501}{}{Uma prateleira de madeira.}
 {14600}{}{Prateleiras}
 {14601}{}{Uma prateleira de madeira.}
@@ -314,7 +314,7 @@
 {15701}{}{Uma mesa de trabalho. Sim, a velha e popular mesa de trabalho de toda a vida. Esse conjunto também parece ser bom.}
 {15800}{}{Placa de ferramentas} #Tool Board
 {15801}{}{Esta placa se comparado a mesa de trabalho contem uma variedade bem maior de ferramentas.}
-{15900}{}{Coquetel Mólotov}
+{15900}{}{Coquetel Mólotov} #Molotov Cocktail
 {15901}{}{Uma granada inflamável caseira. Min. FO: 3.}
 {16000}{}{Cattle Prod}
 {16001}{}{Um aparelho de tocar o gado modelo 'O melhor amigo do fazendeiro', de Wattz Electronics. Utiliza céluas PE de energia. Min FO: 4.}
@@ -324,7 +324,7 @@
 {16201}{}{Uma edição limitada da espingarda Red Ryder BB. Um verdadeiro clássico. Min FO: 3.}
 {16300}{}{BB's}
 {16301}{}{Um pacote de BB de antes da guerra. Em excelente estado de conservação. Em aço inoxidável.}
-{16400}{}{Brotherhood Tape}
+{16400}{}{Fita de Brotherhood} #Brotherhood Tape
 {16401}{}{Um disco da Irmandade do aço.}
 {16500}{}{Iguana Stand}
 {16501}{}{A casa de picadinhos de Iguana de Bob. Quem ão gosta de iguanas frescas e assadas?}
@@ -376,9 +376,9 @@
 {18801}{}{Uma bilheteria.}
 {18900}{}{Bilheteria}
 {18901}{}{Uma bilheteria.}
-{19000}{}{FEV Disk}
+{19000}{}{Disco FEV} #FEV Disk
 {19001}{}{Um disco com informações médicas. Se pode usar para inserir informações em seu PIPBoy.}
-{19100}{}{Security Disk}
+{19100}{}{Disco de Segurança} #Security Disk
 {19101}{}{Um disco etiquetado como "Registro de segurança". Pode usa-lo para transferir os dados que contem para seu PIPBoy.}
 {19200}{}{Alpha Experiment Disk}
 {19201}{}{A etiqueta deste disco diz: "Registro de experimento Alpha".}
@@ -386,9 +386,9 @@
 {19301}{}{A etiqueta deste disco diz: "Registro de experimento Delta".}
 {19400}{}{Vree's Experiment Disk}
 {19401}{}{Este disco foi atualizado com dados médicos Vree da Irmandade do aço. Você pode usá-lo para transferir dados para o Pip-Boy.}
-{19500}{}{Brotherhood Honor Code}
+{19500}{}{Código de Honra Brotherhood} #Brotherhood Honor Code
 {19501}{}{Um disco com um símbolo parecido com a Irmandade do aço. Use o disco para transferir os dados para o seu PipBoy.}
-{19600}{}{Mutant Transmissions}
+{19600}{}{Transmissões de mutante} #Mutant Transmissions
 {19601}{}{Este disco parece que foi configurado para gravar dados de áudio de um rádio. Use-o para transferir as informações para o seu PipBoy.}
 {19700}{}{Caixa}
 {19800}{}{Caixa}
@@ -402,9 +402,9 @@
 {20501}{}{Um flare cria uma luz durante um curto período de tempo. O papel é um pouco desgastado, mas está em boas condições. Ele está iluminado.}
 {20600}{}{Dinamite}
 {20601}{}{Um explosivo de alta potência, que consiste em nitroglicerina misturado com a terra de diatomáceas substância absorvente. Inclui um temporizador, que está fazendo tic-tac.}
-{20700}{}{Geiger Counter}
+{20700}{}{Geiger Counter} #Geiger Counter
 {20701}{}{Um modelo de Wattz Eletrônica C-Radz Contador Geiger. Detecta a presença e a força de campos de radiação. Está ligado!}
-{20800}{}{Motion Sensor}
+{20800}{}{Sensor de movimento} #Motion Sensor
 {20801}{}{Um sensor de movimento modelo Wattz Electronics C-U. Detecta movimento de material biológico de uma distância de varios metros usando um dispositivo de radar sintonizado. Está ligado!}
 {20900}{}{Plastic Explosives}
 {20901}{}{Um pedaço de Cordex, uma marca militar de explosivos plásticos. Altamente instável e muito destrutivo. Inclui um temporizador, porque está fazendo tic-tac.}
@@ -418,37 +418,37 @@
 {21301}{}{Gizmo, ex-chefe do crime de Junktown, está morto. E bastante fedorento.}
 {21400}{}{Escritório}
 {21401}{}{Uma mesa de trabalho. Depois de observar detalhadamente você decide que ainda é uma mesa.}
-{21500}{}{Brotherhood History}
+{21500}{}{História de Brotherhood} #Brotherhood History
 {21501}{}{Um disco contendo informações relativas a Irmandade do aço. Pode ser usado para inserir informações em seu PipBoy 2000.}
-{21600}{}{História de Maxson}
-{21700}{}{Diário de Maxson}
+{21600}{}{História de Maxson} #Maxson's History
+{21700}{}{Diário de Maxson} #Maxson's Journal
 {21800}{}{Light Healing}
 {21801}{}{Negocie esta opção para uma cura rapida.}
 {21900}{}{Medium Healing}
 {21901}{}{Negocie esta opção para uma cura mediana.}
 {22000}{}{Heavy Healing}
 {22001}{}{Negocie esta opção se você quiser uma série de cuidados e cura intensa.}
-{22100}{}{Security Card}
+{22100}{}{Cartão de Segurança} #Security Card
 {22101}{}{Um cartão de acesso com um nível de segurança codificado com uma tecnologia muito simples.}
-{22200}{}{Interruptor}
+{22200}{}{Interruptor} #Field Switch
 {22201}{}{Um dispositivo de transmissão eletrônica, com um botão muito simples e um grande interruptor. Parece que foi criado recentemente e projetado para mãos muito grandes.}
-{22300}{}{Yellow Pass Key}
+{22300}{}{Chave de acesso Amarelo} #Yellow Pass Key
 {22301}{}{Uma chave de segurança eletrônica, com código de cores amarelo.}
-{22400}{}{Pequena Estatueta}
+{22400}{}{Pequena Estatueta} #Small Statuette
 {22401}{}{Você acha que isso pode ser uma escultura do "Pip Boy", mas você não ter certeza.}
 {22500}{}{Cat's Paw Magazine}
 {22501}{}{Uma edição da revista Cat's Paw.}
-{22600}{}{Caixa de macarrão}
+{22600}{}{Caixa de macarrão} #Box Of Noodles
 {22601}{}{Você não tem idéia do que significa "Espaguetes instantâneos".}
-{22700}{}{Pequena caixa empoeirada de algo}
+{22700}{}{Pequena caixa empoeirada de algo} #Small Dusty Box Of Some Sort
 {22701}{}{Você não tem certeza, mas definitivamente não é comestível. Você não tem certeza se ele sempre foi assim.}
-{22800}{}{Manual Técnico}
+{22800}{}{Manual Técnico} #Technical Manual
 {22801}{}{Um manual de reparações técnicas de armaduras T-51b.}
-{22900}{}{Pequeno pedaço de Máquinas}
+{22900}{}{Pequeno pedaço de Máquinas} #Small Piece Of Machinery
 {22901}{}{Algum componente mecânico para uma máquina. Em alguma máquina está faltando um destes, então ela não deve esta funcionando corretamente.}
 {23000}{}{Vault Records}
 {23001}{}{Um resumo de eventos e gravações importantes de um sistema de computador Vault. Possivelmente danificado.}
-{23100}{}{Código de Segurança da Base Militar}
+{23100}{}{Código de Segurança da Base Militar} #Military Base Security Code
 {23101}{}{}
 {23200}{}{Hardened Power Armor}
 {23201}{}{Um traje de armadura T-51b. O processo de endurecimento tem melhorado a capacidade defensiva desta armadura de alta tecnologia.}
@@ -460,9 +460,9 @@
 {23501}{}{Um Punho de energia de BeatCo. Considerada por muitos como a melhor arma de uso em combate desarmado. As outras apenas assustam. Desenvolvido por células de energia de pequeno porte. Min. FO: 1.}
 {23600}{}{Combat Knife}
 {23601}{}{Uma faca de combate de alta qualidade de SharpWit Inc. Esta lâmina afiada tem garantia de uso por mais de uma década! Min. FO: 2.}
-{23700}{}{Revistas de química}
+{23700}{}{Revistas de química} #Chemistry Journals
 {23701}{}{Uma pilha aleatória de literatura sobre a área de Química. As revistas  de Química Molecular são particularmente interessantes.}
-{23800}{}{Regulador de Transmissão}
+{23800}{}{Regulador de Transmissão} #Regulator Transmission
 {23801}{}{Uma disco com gravação de uma transmissão de áudio.}
 {23900}{}{Brotherhood Armor}
 {23901}{}{Uma versão superior de Armadura de combate. A Irmandade de Aço fez muitas melhorias em relação à versão padrão.}
@@ -488,9 +488,9 @@
 {24901}{}{Um simples vaso artesanal de barro.}
 {25000}{}{Ossos}
 {25001}{}{Um monte de ossos humanos.}
-{25100}{}{Ossos de Anna}
+{25100}{}{Ossos de Anna} #Anna's Bones
 {25101}{}{Estes ossos parecem instáveis.}
-{25200}{}{Medalhão de ouro de Anna}
+{25200}{}{Medalhão de ouro de Anna} #Anna's Gold Locket
 {25201}{}{Este medalhão de ouro se abre para revelar um encantador retrato.}
 {25300}{}{Controlador de Célula de Combustível} #Fuel Cell Controller
 {25301}{}{Este chip controla o fluxo de energia em motores elétricos de um carro. Muitos motoristas queimam rapidamente este chip através de uma aceleração freqüente e rápida. É uma peça muito valiosa... Só precisa de um veículo para instalá-lo.}
@@ -498,15 +498,15 @@
 {25401}{}{Alguns proprietários de veículos instalam este controlador, que dobra a quilometragem do seu carro entre as cargas, mas muitos motoristas não se preocupam com o alto consumo de combustível, afinal de contas, a energia é barata e abundante, então não há necessidade de se preocupar.}
 {25500}{}{Day Pass} #Day Pass
 {25501}{}{Este pedaço de papel amassado te concede acesso a todas as áreas de Vault City, funciona somente no próprio Vault, apenas durante o dia.}
-{25600}{}{Documentos falsos de Cidadania}
+{25600}{}{Documentos falsos de Cidadania} #False Citizenship Papers
 {25601}{}{Uns documentos falsos de cidadania. Eles parecem bastante autênticos, mas duvido que eles passariam por uma inspeção séria.}
-{25700}{}{Relógio de ouro de Cornelius}
+{25700}{}{Relógio de ouro de Cornelius} #Cornelius' Gold Watch
 {25701}{}{Este é um peça antiga de medir o tempo chamada de relógio de bolso. E faz tempo que a vida se acabou para este objeto.}
-{25800}{}{Objeto Hidrelétrico}
+{25800}{}{Objeto Hidrelétrico} #Hydroelectric Part
 {25801}{}{Este é um regulador Hidrelétrico Magnetosferico.}
 {25900}{}{Jet}
 {25901}{}{Jet é uma poderosa metanfetamina que estimula o sistema nervoso central. A euforia inicial raramente dura mais do que alguns minutos, mas durante esse tempo, o usuário é preenchido com uma onda de energia e força.}
-{26000}{}{Jet Antidote}
+{26000}{}{Antídoto de Jet} #Jet Antidote
 {26001}{}{Este antídoto curar os efeitos da dependência de Jet.}
 {26100}{}{Jonny's BB Gun}
 {26101}{}{Uma espingarda Red Ryder BB com o nome "Jonny" gravado no cabo. Min FO: 3.}
@@ -518,13 +518,13 @@
 {26401}{}{LONGA DESCRIÇÃO AQUI.}
 {26500}{}{Combat Leather Jacket}
 {26501}{}{Esta jaqueta de couro fortemente acolchoadas é incomum, pois tem duas mangas. Definitivamente você vai fazer um desfile de moda quando e onde você quiser e vai arrasar.}
-{26600}{}{Rádio de Vic}
+{26600}{}{Rádio de Vic} #Vic's Radio
 {26601}{}{Este rádio portátil parece não funcionar, mas ainda está em bom estado. Algumas de suas peças provavelmente poderiam ser utilizadas para outros rádios.}
 {26700}{}{Cantil de Vic} #Vic's Water Flask
 {26701}{}{Esta relíquia do Vault foi provavelmente usado para algum sacramento sagrado. O sagrado número 13 estampado em um lado desse frasco mantem um vínculo precioso com o passado de seu povo e um futuro esperançoso.}
 {26800}{}{H&K CAWS}
 {26801}{}{O CAWS, é uma abreviatura de Close Assault Weapons System, é uma espingarda útil para combates de curto alcançe. Arma projeta para um manuseio simples e curto, mas seu cano é bastante longo para disparar em alta velocidade. FO Min: 6.}
-{26900}{}{Peças de robô}
+{26900}{}{Peças de robô} #Robot Parts
 {26901}{}{Uma pilha de peças de robô danificadas.}
 {27000}{}{Robo Rocket Launcher}
 {27001}{}{Somente usado por robôs equipados com foguetes.}
@@ -536,13 +536,13 @@
 {27301}{}{Um poderoso pó mágico de cura, embora vai causar sonolência.}
 {27400}{}{Robo Rocket Ammo}
 {27401}{}{Somente usado por robôs equipados com foguetes.}
-{27500}{}{Troféu de Reconhecimento}
+{27500}{}{Troféu de Reconhecimento} #Trophy of Recognition
 {27501}{}{Um troféu de ouro maciço com a inscrição "Para: Dave, De: DC de, por: Ser uma pessoa especial."}
-{27600}{}{Pele de Gecko}
+{27600}{}{Pele de Gecko} #Gecko Pelt
 {27601}{}{Esta é a pele seca e endurecida de um gecko.}
-{27700}{}{Pele de Gecko dourado}
+{27700}{}{Pele de Gecko dourado} #Golden Gecko Pelt
 {27701}{}{Esta é a pele seca e endurecida de um gecko dourado.}
-{27800}{}{Pederneira}
+{27800}{}{Pederneira} #Flint
 {27801}{}{Uma pedra usada para afiar armas.}
 {27900}{}{Interface neural}
 {27901}{}{Parece ser um conjunto de eletrodos integrados em um capacete com uma interface de encaixe padrão para computadores.}
@@ -596,21 +596,21 @@
 {30301}{}{A etiqueta neste holodisco diz: "Dados de rendimento do reator de Gecko". Este disco contém uma seqüência de números que não significam nada para você. De alguma forma, está certo de que muita das informações aqui devem ser importante para alguém.}
 {30400}{}{Um jogo de cartas "Tragic"} #Tragic cards
 {30401}{}{Um baralho de um jogo de cartas colecionáveis. Parece ser um hobby caro.}
-{30500}{}{Cartão de Acesso Amarelo do Reator}
+{30500}{}{Cartão de Acesso Amarelo do Reator} #Yellow Reactor Keycard
 {30501}{}{Uma chave eletrônica de segurança, código de cores amarelo.}
-{30600}{}{Cartão de Acesso Vermelho do Reator}
+{30600}{}{Cartão de Acesso Vermelho do Reator} #Red Reactor Keycard
 {30601}{}{Uma chave eletrônica de segurança, código de cores vermelho.}
 {30700}{}{Transformador de Plasma} #Plasma Transformer
 {30701}{}{Isto é um transformador trifásico de plasma.}
 {30800}{}{Kit Super Ferramenta} #Super Tool Kit
 {30801}{}{Um conjunto de ferramentas impressionante feita por "Snap-Off".}
-{30900}{}{Talismã}
+{30900}{}{Talismã} #Talisman
 {30901}{}{Um talismã que é usado por seguidores de cérebro.}
 {31000}{}{Gamma Gulp Beer}
 {31001}{}{Uma garrafa de cerveja radioativa. Brilha no escuro!}
 {31100}{}{Roentgen Rum}
 {31101}{}{Uma garrafa de Rum Roentgen. Brilha no escuro!}
-{31200}{}{Formulário de solicitação de peças}
+{31200}{}{Formulário de solicitação de peças} #Part Requisition Form
 {31201}{}{Isto é um formulário de solicitação de peças.}
 {31300}{}{.44 Magnum Revolver}
 {31301}{}{Sendo que esta é a arma mais poderosa do mundo, capaz de explodir sua cabeça. Min. FO: 5.}
@@ -620,9 +620,9 @@
 {31501}{}{Esta é uma marca de preservativos Jimmy Hats, uma marca muito confiável. Este contém corante verde #2 e está coberto de lubrificante espermicida para proteção adicional.}
 {31600}{}{Preservativo (pacote vermelho)} #Condom (Red Package)
 {31601}{}{Esta é uma marca de preservativos Jimmy Hats, uma marca muito confiável. Este contém corante vermelho #5 e tem um sabor delicioso de canela.}
-{31700}{}{Cosmetics Case}
+{31700}{}{Estojo Cosmético} #Cosmetics Case
 {31701}{}{Este é um autêntico estojo Cosmético da marca Mary Kay.}
-{31800}{}{Seringa vazias} #Empty Hypodermic
+{31800}{}{Seringa vazia} #Empty Hypodermic
 {31801}{}{Uma seringa vazia.}
 {31900}{}{Canivete} #Switchblade
 {31901}{}{A lâmina desta pequena faca funciona através de uma mola. Quando se pressiona um botão no punho, a lâmina se ejeta com um som "Sssssshk". Min. FO: 1.}
@@ -630,30 +630,30 @@
 {32001}{}{Uma estaca de madeira bem afiada. Min FO: 4.}
 {32100}{}{Cérebro Cibernético} #Cybernetic Brain
 {32101}{}{Um cérebro humano que foi reforçado com acessórios eletrônicos e robóticos.}
-{32200}{}{Cérebro Humano}
+{32200}{}{Cérebro Humano} #Human Brain
 {32201}{}{Um cérebro humano normal. Normalmente eles são encontrados em crânios humanos. Eca!}
-{32300}{}{Cérebro Chimpanzé}
+{32300}{}{Cérebro Chimpanzé} #Chimpanzee Brain
 {32301}{}{Um cérebro de macaco. É macio e mole.}
-{32400}{}{Cérebro anormal}
+{32400}{}{Cérebro anormal} #Abnormal Brain
 {32401}{}{Muito possivelmente um cérebro humano. A cor não parece muito certo e o hemisfério esquerdo do cérebro tem um buraco.}
 {32500}{}{Dados}
 {32501}{}{Um par de dados de jogo normal. Seria genial levar um par desses para o seu carro.}
-{32600}{}{Dados carregados}
-{32601}{}{Um par de dados carregados. Não vai utilizar estes no casino.}
+{32600}{}{Dados carregados} #Loaded Dice
+{32601}{}{Um par de dados carregados. Não utilizar estes no casino.}
 {32700}{}{Ovo de Páscoa} #Easter Egg
 {32701}{}{Isso é um duro ovo de galinha pintado com tinta de diversas cores.}
 {32800}{}{Bola 8 mágica} #Magic 8-Ball
 {32801}{}{Esta esfera preta é algum tipo de dispositivo precognitivo estranho ... uma pequena janela no topo parece ser capaz de prever o futuro! A humanidade de antes da guerra devem ter sido gênios de inventar tal maravilha!}
 {32900}{}{Soro mutagênico} #Mutagenic Serum
 {32901}{}{Uma mistura orgânica estranha que poderia reverter a mutação em seres humanos.}
-{33000}{}{Verti-Bird Estragado}
+{33000}{}{Verti-Bird Estragado} #Crashed Verti-Bird
 {33001}{}{Restos de um vertibird. Parece que bateu aqui meses atrás.}
 {33100}{}{Cat's Paw Issue #5}
 {33101}{}{Este é muito difícil de se encontrar, edição #5 da revista Cat's Paw. As fotos de lado mostram que tem um maravilhoso artigo sobre armas de energia.}
 {33200}{}{M3A1 "Grease Gun" SMG}
 {33201}{}{Esta metralhadora cheia arsenais da Guarda Nacional depois que o Exército a substituiu por armas mais recentes. No entanto, a "Grease Gun" era simples e barato de fabricar assim, há muito poucas em uso. Min. FO: 4.}
-{33300}{}{Comprimidos do coração} #Heart pills
-{33301}{}{Estes comprimidos são usados por pessoas com problemas de coração.}
+{33300}{}{Pílulas de coração} #Heart pills
+{33301}{}{Estas pílulas são usados por pessoas com problemas de coração.}
 {33400}{}{Veneno}
 {33401}{}{Uma agulha hipodérmica cheia de veneno poderoso.}
 {33500}{}{Maleta de Moore} #Moore's Briefcase
@@ -666,7 +666,7 @@
 {33801}{}{Este é o holodisco que Westin te deu.}
 {33900}{}{NCR Spy Holodisk}
 {33901}{}{Este holodisk contém relatórios da NCR, horários de caravanas e informações de segurança. É dirigida a Darion e assinado como "F". Com esta informação, é fácil entender como os saqueadores evitam ser capturados.}
-{34000}{}{Documentos do Doutor } #Doctor's Papers
+{34000}{}{Documentos do Doutor} #Doctor's Papers
 {34001}{}{Um conjunto de planos muito detalhado para uma Unidade Canina Cibernética de Guarda. Com estas informações e habilidades adequadas uma pessoa pode ser capaz de construir um cão robo.}
 {34100}{}{Passe Presidencial} #Presidential Pass
 {34101}{}{O portador deste documento dispõe de um passe de segurança classe-A, conforme autorizado pelo Presidente da New California Republic. Esta assinado pelo presidente Tandi.}
@@ -717,14 +717,14 @@
 {36501}{}{Um espinho de planta orgânica, as plantas carnívoras cospem sobre seus alvos de alimentos ou sementes.}
 {36600}{}{G.E.C.K.}
 {36601}{}{Kit de Criação do Jardim do Éden. Este é um equipamento padrão para todos os refúgios Vault-Tec. O GECK é uma fonte de reconstrução da civilização depois da bomba. Basta adicionar água e mexer.}
-{36700}{}{Munição de caixa} #Ammo Crate
-{36800}{}{Munição de caixa}
-{36900}{}{Munição de caixa}
-{37000}{}{Munição de caixae}
+{36700}{}{Caixa de munição} #Ammo Crate
+{36800}{}{Caixa de munição}
+{36900}{}{Caixa de munição}
+{37000}{}{Caixa de munição}
 {37100}{}{Garra} #Claw
 {37101}{}{Garra}
 {37200}{}{Garra}
-{37201}{}{ClGarraaw}
+{37201}{}{Garra}
 {37300}{}{Cartão de Acesso Vault 15} #Vault 15 Keycard
 {37301}{}{Um cartão eletrônico de segurança, com códigos de cor vermelho.}
 {37400}{}{Túmulo}
