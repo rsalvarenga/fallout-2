@@ -21,135 +21,135 @@
 #  glanced and and examined.                                #
 #############################################################
 # You see one of Klamath's citizens
-{100}{}{Você vê um dos cidadãos de Klamath.}
+{100}{}{VocÃª vÃª um dos cidadÃ£os de Klamath.}
 # You see one of Klamath's citizens
-{101}{}{Você vê um dos cidadãos de Klamath.}
+{101}{}{VocÃª vÃª um dos cidadÃ£os de Klamath.}
 
 #############################################################
 #  The following lines are floaters for citizens            #
 #############################################################
 
 # Why don't you go back to your tribe?
-{150}{}{Por que você não volta para sua tribo?}
+{150}{}{Por que vocÃª nÃ£o volta para sua tribo?}
 # I'll give you some pretty beads if you leave me alone
-{151}{}{Te darei algumas pérolas bonitas se você me deixar em paz.}
+{151}{}{Te dou umas miÃ§angas bonitas se vocÃª me deixar em paz.}
 # Nice tribal, good tribal, don't hurt me
-{152}{}{Bom tribal, bom tribal, não me machuque.}
+{152}{}{Bom tribal, bom tribal, nÃ£o me machuque.}
 # I sure wish we had a wall around the town.
-{153}{}{Eu com certeza gostaria que tivéssemos um muro ao redor da cidade.}
+{153}{}{Eu com certeza gostaria que tivÃ©ssemos um muro ao redor da cidade.}
 # I don't have anything to steal; go away.
-{154}{}{Eu não tenho nada para roubar; vai embora.}
+{154}{}{Eu nÃ£o tenho nada para vocÃª roubar; vai embora.}
 # Why are you looking at me like that?
-{155}{}{Por que você está olhando para mim assim?}
+{155}{}{Por que vocÃª estÃ¡ olhando para mim desse jeito?}
 # Great, another tribal.
-{156}{}{Ótimo, mais um tribal.}
+{156}{}{Ã“timo, mais um tribal.}
 # Why don't you go back to the golden gecko?
-{157}{}{Por que você não volta para o gecko dourado?}
+{157}{}{Por que vocÃª nÃ£o volta para o gecko dourado?}
 # Just keep away from me.
-{158}{}{Fique longe de mim.}
+{158}{}{Fica longe de mim.}
 # We don't need you stirring up trouble.
-{159}{}{Não precisamos de você causando problemas.}
+{159}{}{NÃ£o precisamos de vocÃª causando problemas por aqui.}
 # You must have come north from the Den.
-{160}{}{Você deve ter vindo do norte de Den.}
+{160}{}{VocÃª deve ter vindo do norte de Den.}
 # Last thing we need is more like you.
-{161}{}{A última coisa que precisamos é de pessoas como você.}
+{161}{}{A Ãºltima coisa que precisamos Ã© de pessoas como vocÃª.}
 
 # Hello there, stranger.
-{170}{}{Olá, visitante.}
+{170}{}{OlÃ¡, visitante.}
 # I sure hope the trapping's good this season.
-{171}{}{Espero que a captura seja boa neste temporada.}
+{171}{}{Espero que a gente tenha uma boa temporada de caÃ§a.}
 # Lots of brahmin going missing lately.
-{172}{}{Muitos brahmin vêm sumido ultimamente.}
+{172}{}{Muitos brahmin tÃªm sumido ultimamente.}
 # (Crunch, crunch) Dunton's Drymeat sure is yummy.
-{173}{}{(Mastiga com ruido) A carne seca de Dunton é com certeza deliciosa.}
+{173}{}{(Mastiga com ruido) A carne seca dos Dunton Ã© com certeza deliciosa.}
 # Did you come here to trade hides for firewater?
-{174}{}{Você veio aqui para trocar couro por aguardente?}
+{174}{}{VocÃª veio aqui para trocar couro por cachaÃ§a?}
 # I thought all your people put a bone through their noses
-{175}{}{Pensei que todos do seu povo colocasse um osso através de seus narizes.}
+{175}{}{Pensei que todos do seu povo colocavam um osso atravessando o nariz.}
 # Watch out for the rats in Trapper Town.
-{176}{}{Cuidado com os ratos do Bairro dos Caçadores.}
+{176}{}{Cuidado com os ratos do Bairro dos CaÃ§adores.}
 # Now where'd I put those magic beans?
-{177}{}{Agora onde eu devo colocar estes feijões mágicos?}
+{177}{}{Onde Ã© que eu coloquei aqueles feijÃµes mÃ¡gicos?}
 # Geckos taste just like canned chicken, if you cook them right.
-{178}{}{Geckos têm gosto de galinha enlatada, se você cozinhá-los direito.}
+{178}{}{Geckos tÃªm gosto de galinha enlatada, se vocÃª cozinhÃ¡-los direito.}
 # I'm going to relax at the Bathhouse.
-{179}{}{Tô indo relaxar na casa de banho.} # Não sei se foi essa a tradução que vocês deram à bathhouse
+{179}{}{TÃ´ indo relaxar na casa de banho.} # NÃ£o sei se foi essa a traduÃ§Ã£o que vocÃªs deram Ã  bathhouse
 # Watch out for the Duntons.
 {180}{}{Cuidado com os Duntons.}
 # Buckner house always gives me a fair price on my goods.
-{181}{}{A Buckner house sempre me dá um preço justo em meus bens.}
+{181}{}{A Buckner House sempre dÃ¡ um preÃ§o justo nos meus bens.}
 # Nice day today.
-{182}{}{Está um ótimo dia hoje.}
+{182}{}{EstÃ¡ um Ã³timo dia hoje.}
 # You look like Sulik
-{183}{}{Você se parece com o Sulik.}
+{183}{}{VocÃª se parece com o Sulik.}
 # I wonder where that idiot Torr has gone?
 {184}{}{Gostaria de saber para onde foi aquele idiota do Torr?}
 # The big secret is - hey, what's this in my pocket?!?
-{185}{}{O grande segredo é - hey, o que é isso no meu bolso?!?}
+{185}{}{O grande segredo Ã© - hey, o que Ã© isso no meu bolso?!?}
 # No rest for the poor.
-{186}{}{Não existe descanso para os pobres.}
+{186}{}{Alegria de pobre dura pouco...}
 # My joints ache; weather must be changing.
-{187}{}{Minhas juntas doem; o tempo deve estar mudando.}
+{187}{}{Minhas juntas estÃ£o doendo; o tempo deve estar mudando.}
 # Wind's picking up a bit.
-{188}{}{O vento está um pouco forte.}
+{188}{}{O vento estÃ¡ um pouco forte.}
 
 # Nice to see you.
-{190}{}{Prazer em vê-lo.}
+{190}{}{Prazer em vÃª-lo.}
 # Any more like you at home?
-{191}{}{Mais alguém como você em casa?}
+{191}{}{Tem mais de vocÃª na sua vila?}
 # Hope you're enjoying Klamath.
 {192}{}{Espero que esteja gostando de Klamath.}
 # We could use a few more people of your caliber here.
-{193}{}{Nós poderíamos usar mais pessoas do seu caráter aqui.}
+{193}{}{NÃ³s poderÃ­amos usar mais pessoas do seu carÃ¡ter aqui.}
 # What's up, friend?
-{194}{}{E ai, amigo(a)?}
+{194}{}{Como vai, colega?}
 # Good fortune to you.
-{195}{}{Boa sorte pra você.}
+{195}{}{Que a sorte esteja sempre em seu favor.}
 # If you need to buy anything, go to Buckner House.
-{196}{}{Se você precisar comprar algo, vá para a Buckner House.}
+{196}{}{Se vocÃª precisar comprar algo, vÃ¡ para a Buckner House.}
 # You're not like Sulik at all.
-{197}{}{Você não é igual ao Sulik em tudo.}
+{197}{}{VocÃª nÃ£o parece nada com o Sulik, afinal.}
 # You're the most civilized tribal I've ever met.
-{198}{}{Você é o tribal mais civilizado que eu já conheci.}
+{198}{}{VocÃª Ã© o tribal mais civilizado que eu jÃ¡ conheci.}
 # Watch out for geckos that have changed color.
-{199}{}{Cuidado com os geckos que trocaram de cor.}
+{199}{}{Cuidado com os geckos de cores diferentes.}
 # Hello, traveler.
-{200}{}{Olá, viajante.}
+{200}{}{OlÃ¡, viajante.}
 # Glad to have you in Klamath.
-{201}{}{Fico feliz em tê-lo em Klamath.}
+{201}{}{Fico feliz em tÃª-lo em Klamath.}
 # Howdy, stranger.
-{202}{}{Olá, visitante.}
+{202}{}{OlÃ¡, visitante.}
 # Watch out for those Duntons; they're dangerous
-{203}{}{Cuidado com estes Duntons; eles são perigosos.}
+{203}{}{Cuidado com estes Duntons; eles sÃ£o perigosos.}
 # Trapper Town sure has a lot of rats
-{204}{}{O Bairro dos caçadores com certeza tem um monte de ratos.}
+{204}{}{O Bairro dos caÃ§adores com certeza tem um monte de ratos.}
 
 #############################################################
 #  TELL ME ABOUTS WILL BE REMOVED                           #
 #############################################################
 
-{1000}{}{Anciã}
+{1000}{}{AnciÃ£}
 {1001}{}{Fundador}
 {1002}{}{Vault Dweller}
 {1003}{}{Arroyo}
 {1004}{}{Klamath}
 {1005}{}{Vault}
 {1006}{}{Escolhido}
-{1007}{}{Xamã}
+{1007}{}{XamÃ£}
 {1008}{}{Hakunin}
 {1009}{}{Healing Powder}
 {1010}{}{Ponte}
 {1011}{}{Mynoc}
 
-{1100}{}{A anciã é a sua mãe e nossa lider.} # The Elder is your mother and our leader
+{1100}{}{A anciÃ£ Ã© a sua mÃ£e e nossa lider.} # The Elder is your mother and our leader
 {1101}{}{Nosso grande ancestral, que nos deu conhecimento.} # Our great ancestor who gave us knowledge.
 {1102}{}{O primeiro a lutar e vencer o caos.} # The first to fight and win over chaos.
 {1103}{}{Essa seria a nossa bela aldeia.} # That would be our beautiful village.
-{1104}{}{É um posto avançado de troca que fica a alguns dias a leste daqui.} # That's trading outpost a few days east of here.
-{1105}{}{O Vault é o céu.} # The Vault is heaven.
-{1106}{}{Você é O Escolhido.} # You are the Chosen One.
-{1107}{}{Ele nos cura com suas ervas e magia. Ele está localizado ao norte da nossa aldeia.} # He heals us with his herbs and magic. He is in the north part of our village.
-{1108}{}{Ele nos cura com suas ervas e magia. Ele está localizado ao norte da nossa aldeia.} # He heals us with his herbs and magic. He is in the north part of our village.
-{1109}{}{É um pó mágico que vai curá-lo, mas vai te deixar sonolento.} # It is a magic powder which will heal you, but will make you sleepy.
+{1104}{}{Ã‰ um posto avanÃ§ado de troca que fica a alguns dias a leste daqui.} # That's trading outpost a few days east of here.
+{1105}{}{O Vault Ã© o cÃ©u.} # The Vault is heaven.
+{1106}{}{VocÃª Ã© O Escolhido.} # You are the Chosen One.
+{1107}{}{Ele nos cura com suas ervas e magia. Ele estÃ¡ localizado ao norte da nossa aldeia.} # He heals us with his herbs and magic. He is in the north part of our village.
+{1108}{}{Ele nos cura com suas ervas e magia. Ele estÃ¡ localizado ao norte da nossa aldeia.} # He heals us with his herbs and magic. He is in the north part of our village.
+{1109}{}{Ã‰ um pÃ³ mÃ¡gico que vai curÃ¡-lo, mas vai te deixar sonolento.} # It is a magic powder which will heal you, but will make you sleepy.
 {1110}{}{A Grande Ponte fica ao sul de nossa aldeia.} # The Great Bridge exits our village in the south.
-{1111}{}{Ele protege a ponte que dá acesso à nossa aldeia.} # He guards the bridge leading into our village.
+{1111}{}{Ele protege a ponte que dÃ¡ acesso Ã  nossa aldeia.} # He guards the bridge leading into our village.
