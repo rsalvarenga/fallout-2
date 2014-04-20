@@ -2052,7 +2052,7 @@
 {118700}{}{Cartaz de Perigo de radiação}
 {118800}{}{Vapor}
 {118900}{}{Máquina}
-{118901}{}{Um pedaço genérico da Planta Nuclear.}
+{118901}{}{Um pedaço simples de Planta Nuclear.}
 {119000}{}{Tanque}
 {119100}{}{Fogo}
 {119200}{}{Água}

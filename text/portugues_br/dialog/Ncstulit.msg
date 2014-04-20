@@ -285,7 +285,7 @@
 
 # 39. . . . (42)
 {580}{}{(Olha pra você com piedade.) Você reparou que TRAGÉDIA? Eu me enganei reduzindo você a um esteriótipo, uma caricatura,
- um modelo de Fallout genérico, ao invés de o considerar como um específico, único personagem.}
+ um modelo de Fallout simples, ao invés de o considerar como um específico, único personagem.}
 {581}{}{Ahm, mas Stuart, EU SOU um típico modelo de herói. De fato, eu estou jogando como personagem desse jogo.}
 
 # 40. UH (13)

@@ -4,13 +4,13 @@
 {201}{}{Placas de metal polido, de forma grosseira, formando uma armadura.}
 {300}{}{Power Armor}
 {301}{}{Uma armadura com tecnologia avançada. Alimentado por um reator de micro-fusão, com combustível suficiente para durar cem anos.}
-{400}{}{Knife}
+{400}{}{Faca} #Knife
 {401}{}{Uma lâmina afiada feita para esfaqueamento. Min. FO: 2.}
-{500}{}{Club}
+{500}{}{Cassetete} #Club
 {501}{}{Um bastão de policial militar. Feito de madeira pesada. Min. FO: 3.}
-{600}{}{Sledgehammer}
+{600}{}{Marreta} #Sledgehammer
 {601}{}{Um grande martelo. Muito popular entre as pessoas fortes. Min. FO: 6.}
-{700}{}{Spear}
+{700}{}{Lança} #Spear
 {701}{}{Uma lança com a ponta bem afiada. A base é de madeira e a ponta é de aço trabalhado. Min. FO: 4. }
 {800}{}{10mm Pistol}
 {801}{}{Uma Colt 6520 pistola 10mm carregamento automático. Cada acionamento do gatilho recarregará automaticamente a arma de fogo até que o cilindro esteja vazio. Disparo único usando o potente círculo de 10 mm. Min. FO: 3.}
@@ -36,7 +36,7 @@
 {1801}{}{Uma antiga pistola Desert Eagle, magnum .44. Participou de varios filmes no final do século 20 fez desta uma das armas mais populares de todos os tempos. Min. FO: 4.}
 {1900}{}{Rocha}
 {1901}{}{É uma rocha. Modelo Granite-Inc. Este modelo é uma versão atualizada. Min. FO: 1.}
-{2000}{}{Crowbar}
+{2000}{}{Pé de cabra} #Crowbar
 {2001}{}{Uma peça muito sólida e pesada de metal, especialmente projetado para exercer pressão. Ou para golpear cabeças. Min. FO: 5.}
 {2100}{}{Brass Knuckles}
 {2101}{}{Aperto da junta endurecido feito de aço. Eles protegem sua mão e causam mais danos em combate desarmado. Min. FO: 1.}
@@ -46,11 +46,11 @@
 {2301}{}{Um rifle de assalto AK-112 de 5mm. Um modelo militar antigo, depreciado em tempos de guerra. Pode disparar um único tiro ou explosão, usando balas de 5mm de alta velocidad. Min FO: 5.}
 {2400}{}{Plasma Pistol}
 {2401}{}{Pistola de plasma Glock 86. Desenhado pelo Gaston Glock AI. Atira um pequeno feixe de plasma superaquecido. Desenvolvido por PE células de energia. FO Min: 4.}
-{2500}{}{Grenade (Frag)}
+{2500}{}{Grenade (Frag)} #Grenade (Frag)
 {2501}{}{Uma granada de fragmentação genérica. Contém uma pequena quantidade de explosivos, o próprio recipiente formando a maioria dos fragmentos prejudiciais. Explode em contato. Min. FO: 3.}
-{2600}{}{Grenade (Plasma)}
+{2600}{}{Grenade (Plasma)} #Grenade (Plasma)
 {2601}{}{Uma unidade de plasma magneticamente selado, com detonação de explosivos. Criar uma rajada de plasma superaquecido em contato. FO Min: 4.}
-{2700}{}{Grenade (Pulse)}
+{2700}{}{Grenade (Pulse)} #Grenade (Pulse)
 {2701}{}{Uma granada de pulso eletromagnético gera um forte campo magnético ao detonar. Não afeta criaturas biológicas. Ele derrete em contato. FO Min: 4.}
 {2800}{}{Gatling Laser}
 {2801}{}{Uma Gatling Laser L30 H & K. Projetado especificamente para uso militar, estava em fase de protótipo no início da guerra. Seus multiplos barris permitem mais tiros sem superaquecimento. Desenvolvido por células de Micro Fusão. Min. FO: 6.}
@@ -72,9 +72,9 @@
 {3601}{}{Municões de pequeno calibre. 5mm perfurante.}
 {3700}{}{Rocket AP}
 {3701}{}{Um colete com explosivo de baixa potência, desenhado para perfurar blindagens.}
-{3800}{}{Small Energy Cell}
+{3800}{}{Pequenas Células de Energia} #Small Energy Cell
 {3801}{}{Uma pequena unidade de armazenamento de energia.}
-{3900}{}{Micro Fusion Cell}
+{3900}{}{Micro Fusão celular} #Micro Fusion Cell
 {3901}{}{Uma unidade de produção de energia de tamanho médio. com reator de fusão autônomo.}
 {4000}{}{Stimpak}
 {4001}{}{Um produto químico de cura quando injetada, a bioquímica fornece cura imediata de pequenas feridas.}
@@ -86,8 +86,8 @@
 {4301}{}{Um tipo antigo de congelador. As dobradiças estão em boas condições.}
 {4400}{}{Congelador}
 {4401}{}{Um tipo antigo de congelador. As dobradiças estão em boas condições.}
-{4500}{}{Throwing Knife}
-{4501}{}{Uma faca, projetada especificamente para jogar. Feito de titânio e afiada a laser. Min. FO: 3.}
+{4500}{}{Faca Arremesso} #Throwing Knife
+{4501}{}{Uma faca, projetada especificamente para arremesso. Feito de titânio e afiada a laser. Min. FO: 3.}
 {4600}{}{Bolsa} #Bag
 {4601}{}{Um saco de tamanho médio. Feita a partir de pêlos brahmin.}
 {4700}{}{First Aid Kit}
@@ -458,7 +458,7 @@
 {23401}{}{Uma versão melhorada do Clássico Brass Knuckles. O Spiked Knuckles faz mais danos, rasgando a carne de seu oponente em um combate desarmado. Min. FO: 1.}
 {23500}{}{Power Fist}
 {23501}{}{Um Punho de energia de BeatCo. Considerada por muitos como a melhor arma de uso em combate desarmado. As outras apenas assustam. Desenvolvido por células de energia de pequeno porte. Min. FO: 1.}
-{23600}{}{Combat Knife}
+{23600}{}{Faca de combate} #Combat Knife
 {23601}{}{Uma faca de combate de alta qualidade de SharpWit Inc. Esta lâmina afiada tem garantia de uso por mais de uma década! Min. FO: 2.}
 {23700}{}{Revistas de química} #Chemistry Journals
 {23701}{}{Uma pilha aleatória de literatura sobre a área de Química. As revistas  de Química Molecular são particularmente interessantes.}
