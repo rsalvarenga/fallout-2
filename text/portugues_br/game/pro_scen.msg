@@ -1,11 +1,5 @@
-##########################
-# Traduzido e Revisado
-# rsalvarenga
-# 06/03/2014
-##########################
-
 {100}{}{Barril de metal com fogo}
-{101}{}{O barril contém papel e outros resíduos de fogo ardente.}
+{101}{}{O barril contém papel e outros resíduos de fogo.}
 {200}{}{Porta de Madeira.}
 {201}{}{Uma porta, feita de madeira.}
 {300}{}{Mesa de Madeira.}
@@ -2772,49 +2766,49 @@
 
 #add rp
 
-{185200}{}{An old motorcycle}
-{185201}{}{An old pre-war motorcycle. It doesn't run anymore.}
-{185300}{}{A water tank}
-{185301}{}{A metal tower which holds drinkable water.}
-{185400}{}{Mom's Orphanage Sign}
-{185500}{}{Fan}
-{185600}{}{A healthy looking tree}
-{185700}{}{A healthy looking tree}
-{185800}{}{A healthy looking tree}
-{185900}{}{A healthy looking tree}
-{186000}{}{A healthy looking tree}
-{186100}{}{A healthy looking shrub}
-{186200}{}{Plant}
-{186201}{}{A mutated cornstalk. It seems to be thriving under these conditions. This one is a different color than the others you have seen.}
-{186300}{}{Fertile ground}
-{186400}{}{Fertile ground}
-{186500}{}{Fertile ground}
-{186600}{}{USED ART}
+{185200}{}{Uma velha motocicleta}
+{185201}{}{Uma antiga motocicleta de antes da guerra. Ela não funciona mais.}
+{185300}{}{Um tanque de água}
+{185301}{}{Uma torre de metal que contém água potável.}
+{185400}{}{Entre no Orfanato da Mamãe} #Mom's Orphanage Sign
+{185500}{}{Ventilador}
+{185600}{}{Uma árvore com aspecto saudável} #A healthy looking tree
+{185700}{}{Uma árvore com aspecto saudável}
+{185800}{}{Uma árvore com aspecto saudável}
+{185900}{}{Uma árvore com aspecto saudável}
+{186000}{}{Uma árvore com aspecto saudável}
+{186100}{}{Um arbusto aspecto saudável}
+{186200}{}{Planta}
+{186201}{}{Um pé de milho mutante. Parece ser próspera sob estas condições. Tem uma cor diferente das outras que você já viu.}
+{186300}{}{Terreno fértil}
+{186400}{}{Terreno fértil}
+{186500}{}{Terreno fértil}
+{186600}{}{ARTIGOS USADOS}
 {186601}{}{}
-{186700}{}{USED ART}
-{186701}{}{A throne for a leader or commander.}
-{186800}{}{Air vent}
-{186801}{}{A circular air vent to an underground facility.}
-{186900}{}{Rope}
-{186901}{}{A rope leading to an overhead air vent.}
-{187000}{}{Air Processing Vent}
-{187001}{}{A vent used to filter air underground.}
-{187100}{}{Vent}
-{187101}{}{A vent used to purify air.}
-{187200}{}{Brahmin sign}
-{187201}{}{A sign giving instructions.}
-{187300}{}{Brahmin sign}
-{187301}{}{A sign giving a warning.}
-{187400}{}{Crafting Machine}
-{187401}{}{A machine with which you can make your own drugs.}
-{187500}{}{Chemicals}
-{187501}{}{Foul smelling gelatinous chemicals.}
-{187600}{}{Chemicals}
-{187601}{}{Foul smelling gelatinous chemicals.}
-{187700}{}{Chemicals	}
-{187701}{}{Foul smelling gelatinous chemicals.}
-{187800}{}{Chemicals	}
-{187801}{}{Foul smelling gelatinous chemicals.}
+{186700}{}{ARTIGOS USADOS}
+{186701}{}{Um trono para um líder ou comandante.}
+{186800}{}{Ventilação de ar}
+{186801}{}{Um circulador de ar para uma instalação subterrânea.}
+{186900}{}{Corda}
+{186901}{}{Uma corda que leva a uma entrada de ar para parte de cima.}
+{187000}{}{Processamento de ventilação}
+{187001}{}{Um respirador usado para filtrar o ar subterrâneo.}
+{187100}{}{Ventilação}
+{187101}{}{Uma abertura utilizada para purificar o ar.}
+{187200}{}{Placa de Brahmin}
+{187201}{}{Uma placa de instruções.}
+{187300}{}{Placa de Brahmin}
+{187301}{}{Uma placa de instruções.}
+{187400}{}{Máquina de manipulação}
+{187401}{}{Uma máquina com a qual você pode fazer suas próprias drogas.}
+{187500}{}{Produtos Químicos}
+{187501}{}{Mau cheiro de produtos químicos gelatinosos.}
+{187600}{}{Produtos Químicos}
+{187601}{}{Mau cheiro de produtos químicos gelatinosos.}
+{187700}{}{Produtos Químicos	}
+{187701}{}{Mau cheiro de produtos químicos gelatinosos.}
+{187800}{}{Produtos Químicos	}
+{187801}{}{Mau cheiro de produtos químicos gelatinosos.}
 {187900}{}{Rope}
 {187901}{}{Rope to signify a non-walking area.}
 {188000}{}{Rope}
@@ -2825,9 +2819,9 @@
 {188201}{}{A picture depicting the first moon walk.}
 {188300}{}{Crafting Machine}
 {188301}{}{A machine with which you can make your own drugs.}
-{188400}{}{Fertile ground}
+{188400}{}{Terreno fértil}
 {188401}{}{Ground ready for planting.}
-{188500}{}{Fertile ground}
+{188500}{}{Terreno fértil}
 {188501}{}{Ground ready for planting.}
 {188600}{}{Parking sign}
 {188601}{}{A sign designating areas to park.}
@@ -2836,7 +2830,7 @@
 {188800}{}{Hibernation computer}
 {188801}{}{Computer controlling the hibernation vats.}
 {188900}{}{A group of barrels}
-{188901}{}{Barrels storing various chemicals.}
+{188901}{}{Barrels storing various Produtos Químicos.}
 {189000}{}{A burning barrel}
 {189001}{}{Apparently the sign says its flammable.}
 {189100}{}{A barrel}
