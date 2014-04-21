@@ -2799,7 +2799,7 @@
 {187201}{}{Uma placa de instruções.}
 {187300}{}{Placa de Brahmin}
 {187301}{}{Uma placa de instruções.}
-{187400}{}{Máquina de manipulação}
+{187400}{}{Máquina de manipulação} #Crafting Machine
 {187401}{}{Uma máquina com a qual você pode fazer suas próprias drogas.}
 {187500}{}{Produtos Químicos}
 {187501}{}{Mau cheiro de produtos químicos gelatinosos.}
@@ -2809,362 +2809,361 @@
 {187701}{}{Mau cheiro de produtos químicos gelatinosos.}
 {187800}{}{Produtos Químicos	}
 {187801}{}{Mau cheiro de produtos químicos gelatinosos.}
-{187900}{}{Rope}
-{187901}{}{Rope to signify a non-walking area.}
-{188000}{}{Rope}
-{188001}{}{Rope preventing access to certain areas.}
-{188100}{}{Gallery Picture}
-{188101}{}{A picture depicting The Mona Lisa.}
-{188200}{}{Gallery Picture}
-{188201}{}{A picture depicting the first moon walk.}
-{188300}{}{Crafting Machine}
-{188301}{}{A machine with which you can make your own drugs.}
+{187900}{}{Corda}
+{187901}{}{A corda indica que é uma área onde não deve pisar.}
+{188000}{}{Corda}
+{188001}{}{A corda esta impedindo o acesso a determinadas áreas.}
+{188100}{}{Galeria de Imagens}
+{188101}{}{Uma imagem que descreve a Mona Lisa.}
+{188200}{}{Galeria de Imagens}
+{188201}{}{Uma imagem que representa a primeira viagem a lua.}
+{188300}{}{Máquina de manipulação}
+{188301}{}{Uma máquina com a qual você pode fazer suas próprias drogas.}
 {188400}{}{Terreno fértil}
-{188401}{}{Ground ready for planting.}
+{188401}{}{Aterrado e preparado para o plantio.}
 {188500}{}{Terreno fértil}
-{188501}{}{Ground ready for planting.}
-{188600}{}{Parking sign}
-{188601}{}{A sign designating areas to park.}
-{188700}{}{Elevator}
-{188701}{}{An elevator to travel to another floor.}
-{188800}{}{Hibernation computer}
-{188801}{}{Computer controlling the hibernation vats.}
-{188900}{}{A group of barrels}
-{188901}{}{Barrels storing various Produtos Químicos.}
-{189000}{}{A burning barrel}
-{189001}{}{Apparently the sign says its flammable.}
-{189100}{}{A barrel}
-{189101}{}{A barrel filled with some sort of liquid.}
-{189200}{}{A barrel}
-{189201}{}{A barrel containing a thick noxious red liquid.}
-{189300}{}{A barrel}
-{189301}{}{A barrel with a biohazard warning label.}
-{189400}{}{Plant}
-{189401}{}{This plant appears to have some type of berry hanging from it.}
-{189500}{}{A Tree}
-{189600}{}{A toaster}
-{189601}{}{A silver toaster sitting on a desk.}
-{189700}{}{A hologram projector}
-{189701}{}{Your basic HD 2000 hologram projector.}
-{189800}{}{A hologram projector}
-{189801}{}{Your basic HD 2000 hologram projector.}
-{189900}{}{A hologram projector}
-{189901}{}{Your basic HD 2000 hologram projector.}
-{190000}{}{Shadow}
+{188501}{}{Aterrado e preparado para o plantio.}
+{188600}{}{Placa de Estacionamento} #Parking sign
+{188601}{}{Um sinal de áreas designado para estacionar.}
+{188700}{}{Elevador}
+{188701}{}{Um Elevador que leva para outro andar.}
+{188800}{}{Computador de hibernação}
+{188801}{}{Computador controlar as tanques de hibernação.}
+{188900}{}{Um grupo de barris}
+{188901}{}{Barris que armazenam vários produtos químicos.}
+{189000}{}{Um barril em chamas}
+{189001}{}{Aparentemente, o sinal diz que é inflamável.}
+{189100}{}{Um barril}
+{189101}{}{Um barril cheio de algum tipo de líquido.}
+{189200}{}{Um barril}
+{189201}{}{Um barril contendo um líquido espesso nocivo vermelho.}
+{189300}{}{Um barril}
+{189301}{}{Um barril com uma etiqueta de aviso de risco biológico.}
+{189400}{}{Planta}
+{189401}{}{Esta planta parece ter algum tipo de fruta pendurada nela.}
+{189500}{}{Uma árvore}
+{189600}{}{Uma torradeira}
+{189601}{}{Uma torradeira prata jogada em uma mesa.}
+{189700}{}{Um projetor de holograma}
+{189701}{}{Seu básico projetor de holograma HD 2000.}
+{189800}{}{Um projetor de holograma}
+{189801}{}{Seu básico projetor de holograma HD 2000.}
+{189900}{}{Um projetor de holograma}
+{189901}{}{Seu básico projetor de holograma HD 2000.}
+{190000}{}{Sombra}
 {190001}{}{}
 {190100}{}{Vertibird}
-{190200}{}{A Cryogenic Freezer}
-{190201}{}{A freezer which can store a live human being. This one is open.}
-{190300}{}{A Cryogenic Freezer}
-{190301}{}{A freezer which can store a live human being. This one is closed.}
-{190400}{}{A desk}
-{190401}{}{A large, sturdy looking desk.}
-{190500}{}{Hibernation Chamber}
-{190501}{}{A hibernation chamber. A body of a white female is suspended inside.}
-{190600}{}{Hibernation Chamber}
-{190601}{}{A hibernation chamber. A body of a white male is suspended inside.}
-{190700}{}{Hibernation Chamber}
-{190701}{}{An open hibernation chamber. A body of a white female lies naked inside.}
-{190800}{}{Hibernation Chamber}
-{190801}{}{An open hibernation chamber. A body of a white male lies naked inside.}
-{190900}{}{Hibernation Chamber}
-{190901}{}{An open hibernation chamber. A body of a black male lies naked inside.}
-{191000}{}{Hibernation Chamber}
-{191001}{}{A hibernation chamber. A body of a black male is suspended inside.}
-{191100}{}{Hibernation Chamber}
-{191101}{}{An open hibernation chamber. It is empty.}
-{191200}{}{A WattzMan 2000 electric chair}
-{191300}{}{Imperial Shuttle}
-{191301}{}{A space vehicle of some kind. It has a license plate that reads: EMPRRULZ!}
-{191400}{}{Imperial Shuttle}
-{191401}{}{A space vehicle of some kind. It has a license plate that reads: EMPRRULZ!}
-{191500}{}{Millennium Falcon}
-{191501}{}{It looks like a bucket of bolts. You spot a pair of fuzzy dice hanging from the rear-view mirror.}
-{191600}{}{Burning brazier}
-{191601}{}{This brazier is full of burning coals.}
-{191700}{}{Bone}
+{190200}{}{Um congelador criogênico}
+{190201}{}{Um congelador que pode armazenar um ser humano vivo. Este é aberta.}
+{190300}{}{Um congelador criogênico}
+{190301}{}{Um congelador que pode armazenar um ser humano vivo. Esta é fechada.}
+{190400}{}{Um escrivaninha} #A desk
+{190401}{}{Uma mesa grande e parece bem resistente.}
+{190500}{}{Câmara de hibernação}
+{190501}{}{Um câmara de hibernação. Um corpo de uma mulher branca está suspenso dentro.}
+{190600}{}{Câmara de hibernação}
+{190601}{}{Um câmara de hibernação. Um corpo de um homem branco está suspenso dentro.}
+{190700}{}{Câmara de hibernação}
+{190701}{}{Uma câmara aberta de hibernação. Um corpo nu de uma mulher branca encontra-se la dentro.}
+{190800}{}{Câmara de hibernação}
+{190801}{}{Uma câmara aberta de hibernação. Um corpo nu de um homem branco encontra-se la dentro.}
+{190900}{}{Câmara de hibernação}
+{190901}{}{Uma câmara aberta de hibernação. Um corpo nu de um homem negro encontra-se la dentro.}
+{191000}{}{Câmara de hibernação}
+{191001}{}{Um câmara de hibernação. Um corpo de uma mulher negra está suspenso dentro.}
+{191100}{}{Câmara de hibernação}
+{191101}{}{Uma câmara aberta de hibernação. Está vazia.}
+{191200}{}{Um cadeira elétrica WattzMan 2000}
+{191300}{}{Lançadeira Imperial} #Imperial Shuttle
+{191301}{}{Um veículo espacial de algum tipo. Ele tem uma placa que diz: EMPRRULZ!}
+{191400}{}{Lançadeira Imperial}
+{191401}{}{Um veículo espacial de algum tipo. Ele tem uma placa que diz: EMPRRULZ!}
+{191500}{}{Falcão do Milênio}
+{191501}{}{Parece um balde de parafusos. Você encontrar um par de dados pendurados no espelho retrovisor.}
+{191600}{}{Braseiro em chamas} #Burning brazier
+{191601}{}{Este braseiro está cheio de brasas.}
+{191700}{}{Osso}
 {191701}{}{}
-{191800}{}{Bone}
-{191900}{}{Bone}
-{192000}{}{Bones}
-{192001}{}{Scattered remains.}
-{192100}{}{Bones}
-{192101}{}{Are these human!}
-{192200}{}{Bones}
-{192201}{}{Scattered human bones.}
-{192300}{}{Bones}
-{192400}{}{Bones}
-{192500}{}{Bones}
-{192501}{}{Scattered human bones.}
-{192600}{}{Bones}
-{192601}{}{Scattered human remains.}
-{192700}{}{Bones}
-{192701}{}{Are these human!}
-{192800}{}{Bones}
-{192900}{}{Concrete barrier}
-{193000}{}{Concrete barrier}
-{193100}{}{Security Door}
-{193101}{}{This door looks very secure.}
-{193200}{}{Security Door}
-{193201}{}{This rusty door still looks very secure.}
-{193300}{}{Elevator Shaft}
-{193400}{}{Elevator Shaft}
-{193401}{}{The shaft is broken.}
-{193500}{}{Elevator Shaft}
-{193501}{}{The shaft has a rope hanging down from the edge.}
-{193600}{}{Elevator Shaft}
-{193601}{}{The shaft has a broken elevator and rope.}
-{193700}{}{Elevator Shaft}
-{193701}{}{The shaft is missing the elevator. Dangerous!}
-{193800}{}{Rusting Pipes}
-{193801}{}{A set of old rusting pipes.}
-{193900}{}{Power Generator}
-{193901}{}{A Wattz ElectroBox power generator. Fairly standard as back-up generators before the war.}
-{194000}{}{Power Generator}
-{194001}{}{A Wattz ElectroBox fuse box. Fairly standard as back-up generators before the war.}
-{194100}{}{Electrical Machinery}
-{194101}{}{This machine is buzzing with electricity.}
-{194200}{}{Small Monitor}
-{194201}{}{This small monitor appears to have someone talking.}
+{191800}{}{Osso}
+{191900}{}{Osso}
+{192000}{}{Ossos}
+{192001}{}{Restos dispersos.}
+{192100}{}{Ossos}
+{192101}{}{Estes são de humano!}
+{192200}{}{Ossos}
+{192201}{}{Ossos de humano espalhados.}
+{192300}{}{Ossos}
+{192400}{}{Ossos}
+{192500}{}{Ossos}
+{192501}{}{Ossos de humano espalhados.}
+{192600}{}{Ossos}
+{192601}{}{Restos humanos espalhados.}
+{192700}{}{Ossos}
+{192701}{}{Estes são de humano!}
+{192800}{}{Ossos}
+{192900}{}{Barreira de concreto}
+{193000}{}{Barreira de concreto}
+{193100}{}{Porta de Segurança}
+{193101}{}{Esta porta parece muito segura.}
+{193200}{}{Porta de Segurança}
+{193201}{}{Este porta enferrujada ainda parece muito segura.}
+{193300}{}{Poço do elevador} #Elevador Shaft
+{193400}{}{Poço do elevador}
+{193401}{}{O Poço esta quebrado.}
+{193500}{}{Poço do elevador}
+{193501}{}{O poço tem uma corda pendurada na borda.}
+{193600}{}{O poço poço do Elevador quebrado tem uma corda.}
+{193700}{}{Poço do elevador}
+{193701}{}{O poço esta sem o Elevador. Muito Perigoso!}
+{193800}{}{Tubulações enferrujadas} #Rusting Pipes
+{193801}{}{Um conjunto de tubos velhos e enferrujados.}
+{193900}{}{Gerador de energia}
+{193901}{}{Um gerador de energia Wattz ElectroBox. Bastante utilizado como geradores back-up de antes da guerra.}
+{194000}{}{Gerador de energia}
+{194001}{}{Um gerador de energia Wattz ElectroBox. Bastante utilizado como geradores back-up de antes da guerra.}
+{194100}{}{Máquinas Elétricas}
+{194101}{}{Esta máquina está cheia de eletricidade.}
+{194200}{}{Pequeno monitor}
+{194201}{}{Este pequeno monitor parece ter alguém falando.}
 {194300}{}{Monitor}
-{194301}{}{A large monitor, black and white only. This one has a woman lecturing on morals.}
+{194301}{}{Um monitor grande preto e branco. Este tem uma mulher palestrando sobre moral.}
 {194400}{}{Monitor}
-{194401}{}{A large monitor, black and white only. This one warns of fallout.}
+{194401}{}{Um monitor grande preto e branco. Este alerta sobre Fallout.}
 {194500}{}{Monitor}
-{194501}{}{A large monitor, black and white only. The strange film appears to be stuck in a loop.}
-{194600}{}{Large Monitor}
-{194601}{}{A large monitor, black and white only. This one has a figure in armor.}
+{194501}{}{Um monitor grande preto e branco. O filme estranho parece estar preso em um loop.}
+{194600}{}{Monitor de grande}
+{194601}{}{Um monitor grande preto e branco. Este tem uma número com a armadura.}
 {194700}{}{Monitor}
-{194701}{}{A large monitor, black and white only. This one has a dignified, but simple looking man rambling on.}
+{194701}{}{Um monitor grande preto e branco. Este tem um homem de aparência digna, mas de fala simples e devagar.}
 {194800}{}{Monitor}
-{194801}{}{A large monitor, black and white only. The picture is of a rotating cross and circle .}
-{194900}{}{spare}
-{195000}{}{spare}
-{195100}{}{Shadow}
-{195200}{}{Shadow}
-{195300}{}{Large Sticky Mechanical Pump}
-{195301}{}{You see a large mechanical pump covered in strange noxious biological goo.}
-{195400}{}{Floor Grating}
-{195401}{}{A rusting floor grating.}
-{195500}{}{Large Mechanical Pump}
-{195501}{}{A large mechanical pump rising up through a floor grating.}
-{195600}{}{Large Sticky Mechanical Pump}
-{195601}{}{You see a large mechanical pump covered in strange noxious biological goo.}
-{195700}{}{Destroyed Sticky Mechanical Pump}
-{195701}{}{You see a large mechanical pump covered in strange noxious biological goo. Its pumping days are over.}
-{195800}{}{Destroyed Sticky Mechanical Pump}
-{195801}{}{You see a large mechanical pump covered in strange noxious biological goo. Its pumping days are over.}
-{195900}{}{Floor Cavity}
-{196000}{}{Large Mechanical Pump}
-{196001}{}{A large mechanical pump rising up through a floor grating.}
-{196100}{}{Large Mechanical Pump}
-{196101}{}{A large mechanical pump rising up through a floor grating.}
-{196200}{}{Stack of Tires}
-{196201}{}{A stack of ancient rubber tires. They have vulcanized and hardened, probably due to the heat.}
-{196300}{}{Rubber Tires}
-{196301}{}{Two ancient rubber tires. They have vulcanized and hardened, probably due to the heat.}
-{196400}{}{Rubber Tire}
-{196401}{}{An ancient rubber tire. It has become vulcanized and hardened, probably due to the heat.}
-{196500}{}{Large Turbine}
-{196501}{}{A large spinning turbine.}
-{196600}{}{Vent}
-{196601}{}{An air vent, supplying processed and cleaned air to the entire complex.}
-{196700}{}{Vent}
-{196701}{}{An air vent, supplying processed and cleaned air to the entire complex.}
-{196800}{}{Air Vent}
-{196900}{}{Air Vent}
-{197000}{}{Rusty Air Vent}
-{197001}{}{This air vent is rusty and blocked.}
-{197100}{}{Rusty Air Vent}
-{197101}{}{This air vent is rusty and blocked.}
-{197200}{}{Rusty Air Vent}
-{197201}{}{This rusty air vent is blocked.}
-{197300}{}{Wall}
-{197400}{}{Wall}
-{197500}{}{Wood Paneling}
-{197600}{}{Vent}
-{197700}{}{Vent}
-{197800}{}{Well}
-{197801}{}{A typical well found in the wasteland.}
-{197900}{}{Stairs}
-{197901}{}{A set of broad stairs.}
-{198000}{}{Broad Rusting Stairs}
-{198001}{}{These stairs are rusting slowly away.}
-{198100}{}{Broad Rusting Stairs}
-{198101}{}{These stairs are rusting slowly away.}
-{198200}{}{Small Stairs}
-{198201}{}{Typical small stairs.}
-{198300}{}{Small Rusting Stairs}
-{198301}{}{These stairs are rusting away.}
-{198400}{}{Jammed Fan}
-{198401}{}{This fan has a piece of metal jamming the blades.}
-{198500}{}{Air Processing Vent}
-{198501}{}{Standard Vault-Tec ventilation system.}
-{198600}{}{Steel Wall}
-{198700}{}{Steel Wall}
-{198800}{}{Steel Wall}
-{198900}{}{Steel Wall}
-{199000}{}{Steel Wall}
-{199100}{}{Rusting Pipes}
-{199200}{}{Pipes}
-{199300}{}{Warehouse Door}
-{199400}{}{Warehouse Door}
-{199500}{}{Giant Copper Statue}
-{199501}{}{This statue rises from out of the earth. It has the slight smell of Ape piss.}
-{199600}{}{Giant Copper Statue}
-{199601}{}{This statue rises from out of the earth. It has the slight smell of Ape piss.}
-{199700}{}{Giant Copper Statue}
-{199701}{}{This statue rises from out of the earth. It has the slight smell of Ape piss.}
-{199800}{}{Giant Copper Statue}
-{199801}{}{This statue rises from out of the earth. It has the slight smell of Ape piss.}
-{199900}{}{Giant Copper Statue}
-{199901}{}{This statue rises from out of the earth. It has the slight smell of Ape piss.}
-{200000}{}{Shadow}
-{200001}{}{Shadow}
-{200100}{}{Shadow}
-{200200}{}{Suspension Tank}
-{200201}{}{Some sort of medical or experimental apparatus. This tank holds a strange green liquid.}
-{200300}{}{Water Tank}
-{200301}{}{A large tank that holds liquids. In this case, you believe that it was designed to store water.}
-{200400}{}{Door}
-{200500}{}{EPA Globe}
-{200501}{}{A rusting corporate logo.}
-{200600}{}{Shadow}
-{200700}{}{War Room Table}
-{200800}{}{War Room Table}
-{200900}{}{Security Door}
-{200901}{}{This door looks very secure.}
-{201000}{}{EPA Sign}
-{201100}{}{EPA Sign}
-{201200}{}{EPA Plaque}
-{201201}{}{A metal plaque with the letters EPA.}
-{201300}{}{EPA Plaque}
-{201301}{}{A metal plaque with the letters EPA.}
-{201400}{}{Rusting EPA Plaque}
-{201401}{}{This metal plaque is slowly rusting away.}
-{201500}{}{Metal Plaque}
-{201501}{}{A metal plaque with the number one.}
-{201600}{}{Metal Plaque}
-{201601}{}{A metal plaque with the number two.}
-{201700}{}{Metal Plaque}
-{201701}{}{A metal plaque with the number three.}
-{201800}{}{Metal Plaque}
-{201801}{}{A metal plaque with the number four.}
-{201900}{}{Metal Plaque}
-{201901}{}{A metal plaque with the number five.}
-{202000}{}{Metal Plaque}
-{202001}{}{A metal plaque with the number six.}
-{202100}{}{Museum Picture}
-{202200}{}{Museum Picture}
-{202300}{}{Musuem Picture}
-{202400}{}{EPA Globe}
-{202401}{}{The EPA corporation logo.}
-{202500}{}{Shadow}
-{202600}{}{Shadow}
-{202700}{}{Shadow}
-{202800}{}{Girlie Poster}
-{202900}{}{Girlie Poster}
-{203000}{}{Girlie Poster}
-{203100}{}{Girlie Poster}
-{203200}{}{Girlie Poster}
-{203300}{}{Girlie Poster}
-{203400}{}{Girlie Poster}
-{203500}{}{Girlie Poster}
-{203600}{}{Girlie Poster}
-{203700}{}{Girlie Poster}
-{203800}{}{Girlie Poster}
-{203900}{}{Girlie Poster}
-{204000}{}{Girlie Poster}
-{204100}{}{Girlie Poster}
-{204200}{}{Girlie Poster}
-{204300}{}{Girlie Poster}
-{204400}{}{Girlie Poster}
-{204500}{}{Girlie Poster}
+{194801}{}{Um monitor grande preto e branco. Tem uma imagem de uma cruz de rotação e círculo.}
+{194900}{}{sobressalente}
+{195000}{}{sobressalente}
+{195100}{}{Sombra}
+{195200}{}{Sombra}
+{195300}{}{Grande bomba mecânica grudenta}
+{195301}{}{Você vê uma grande bomba mecânica coberto de estranho gosma biológica nociva.}
+{195400}{}{Piso de Grades}
+{195401}{}{Uma piso de grade cheio de ferrugem.}
+{195500}{}{Grande bomba mecânica}
+{195501}{}{Uma grande bomba mecânica em cima de uma grade.}
+{195600}{}{Grande bomba mecânica grudenta}
+{195601}{}{Você vê uma grande bomba mecânica coberto de estranho gosma biológica nociva.}
+{195700}{}{Grande bomba mecânica grudenta destruída}
+{195701}{}{Você vê uma grande bomba mecânica coberto de estranho gosma biológica nociva. Seus dias de bombeamento acabaram.}
+{195800}{}{Grande bomba mecânica grudenta destruída}
+{195801}{}{Você vê uma grande bomba mecânica coberto de estranho gosma biológica nociva. Seus dias de bombeamento acabaram.}
+{195900}{}{Assoalho da cavidade}
+{196000}{}{Grande bomba mecânica}
+{196001}{}{Uma grande bomba mecânica em cima de uma grade.}
+{196100}{}{Grande bomba mecânica}
+{196101}{}{Uma grande bomba mecânica em cima de uma grade.}
+{196200}{}{Pilha de pneus}
+{196201}{}{Uma pilha de pneus antigos. Eles estão vulcanizados e endurecidos, provavelmente devido ao calor.}
+{196300}{}{Pneus de borracha}
+{196301}{}{Dois pneus antigos Eles estão vulcanizados e endurecidos, provavelmente devido ao calor}
+{196400}{}{Pneus de borracha}
+{196401}{}{Um pneu antigo de borracha. esta vulcanizado e endurecido, provavelmente devido ao calor.}
+{196500}{}{Grande Turbina}
+{196501}{}{Uma turbina grande.}
+{196600}{}{Ventilação}
+{196601}{}{Um sistema de ventilação, fornecimento de ar processado e limpo para todo o complexo.}
+{196700}{}{Ventilação}
+{196701}{}{Um sistema de ventilação, fornecimento de ar processado e limpo para todo o complexo.}
+{196800}{}{Abertura de ventilação}
+{196900}{}{Abertura de ventilação}
+{197000}{}{Abertura de ventilação enferrujada}
+{197001}{}{Esta ventilação de ar está enferrujada e Bloqueado.}
+{197100}{}{Abertura de ventilação enferrujada}
+{197101}{}{Esta ventilação de ar está enferrujada e Bloqueado.}
+{197200}{}{Abertura de ventilação enferrujada}
+{197201}{}{Esta ventilação de ar está enferrujada e Bloqueado.}
+{197300}{}{Parede}
+{197400}{}{Parede}
+{197500}{}{Painel de Madeira}
+{197600}{}{Ventilação}
+{197700}{}{Ventilação}
+{197800}{}{Poço}
+{197801}{}{Um típico poço encontrado no deserto.}
+{197900}{}{Escada}
+{197901}{}{Um conjunto de amplas escadas.}
+{198000}{}{Um conjunto de amplas escadas enferrujadas.}
+{198001}{}{Estas escadas estão enferrujando lentamente.}
+{198100}{}{Um conjunto de amplas escadas enferrujadas.}
+{198101}{}{Estas escadas estão enferrujando lentamente.}
+{198200}{}{Escadas pequenas}
+{198201}{}{Típicas escadas pequenas.}
+{198300}{}{Pequenas escadas enferrujando}
+{198301}{}{Estas escadas estão enferrujando.}
+{198400}{}{Ventoinha Emperrada}
+{198401}{}{Esta ventoinha tem um pedaço de metal tocando as lâminas.}
+{198500}{}{Processamento Ventilação} #Air Processing Vent
+{198501}{}{O sistema padrão de ventilação Vault-Tec.}
+{198600}{}{Parede de Aço} #Steel Wall
+{198700}{}{Parede de Aço}
+{198800}{}{Parede de Aço}
+{198900}{}{Parede de Aço}
+{199000}{}{Parede de Aço}
+{199100}{}{Tubos enferrujados}
+{199200}{}{Tubos}
+{199300}{}{Porta de Armazém}
+{199400}{}{Porta de Armazém}
+{199500}{}{Estátua gigante de cobre}
+{199501}{}{Esta é a estátua que saiu da terra. Ela tem o cheiro de mijo de macaco.}
+{199600}{}{Estátua gigante de cobre}
+{199601}{}{Esta é a estátua que saiu da terra. Ela tem o cheiro de mijo de macaco.}
+{199700}{}{Estátua gigante de cobre}
+{199701}{}{Esta é a estátua que saiu da terra. Ela tem o cheiro de mijo de macaco.}
+{199800}{}{Estátua gigante de cobre}
+{199801}{}{Esta é a estátua que saiu da terra. Ela tem o cheiro de mijo de macaco.}
+{199900}{}{Estátua gigante de cobre}
+{199901}{}{Esta é a estátua que saiu da terra. Ela tem o cheiro de mijo de macaco.}
+{200000}{}{Sombra}
+{200001}{}{Sombra}
+{200100}{}{Sombra}
+{200200}{}{Tanque de suspensão}
+{200201}{}{Algum tipo de aparelhos médicos ou experimental. Este tanque contém um líquido verde estranho.}
+{200300}{}{Tanque de água}
+{200301}{}{Um grande tanque que contém os líquidos. Neste caso, você acredita que ele foi projetado para armazenar água.}
+{200400}{}{Porta}
+{200500}{}{Globo EPA}
+{200501}{}{Um logotipo corporativo enferrujado.}
+{200600}{}{Sombra}
+{200700}{}{Mesa de estratégia de guerra} #Mesa de estratégia de guerra
+{200800}{}{Mesa de estratégia de guerra}
+{200900}{}{Porta de Segurança}
+{200901}{}{Esta porta parece muito segura.}
+{201000}{}{Sinal EPA} #EPA Sign
+{201100}{}{Sinal EPA} #EPA Sign
+{201200}{}{Sinal EPA} #EPA Sign
+{201201}{}{Uma placa de metal com as letras EPA.}
+{201300}{}{Placa EPA}
+{201301}{}{Uma placa de metal com as letras EPA.}
+{201400}{}{Placa EPA enferrujada}
+{201401}{}{Esta placa de metal é lentamente enferrujada.}
+{201500}{}{Placa de metal}
+{201501}{}{Uma Placa de metal com o número 1.}
+{201600}{}{Placa de metal}
+{201601}{}{Uma Placa de metal com o número 2.}
+{201700}{}{Placa de metal}
+{201701}{}{Uma Placa de metal com o número 3.}
+{201800}{}{Placa de metal}
+{201801}{}{Uma Placa de metal com o número 4.}
+{201900}{}{Placa de metal}
+{201901}{}{Uma Placa de metal com o número 5.}
+{202000}{}{Placa de metal}
+{202001}{}{Uma Placa de metal com o número 6.}
+{202100}{}{Museu de fotografia} #Museum Picture
+{202200}{}{Museu de fotografia}
+{202300}{}{Museu de fotografia}
+{202400}{}{Globo EPA}
+{202401}{}{O logotipo da empresa EPA.}
+{202500}{}{Sombra}
+{202600}{}{Sombra}
+{202700}{}{Sombra}
+{202800}{}{Poster de garota} #Poster de garota
+{202900}{}{Poster de garota}
+{203000}{}{Poster de garota}
+{203100}{}{Poster de garota}
+{203200}{}{Poster de garota}
+{203300}{}{Poster de garota}
+{203400}{}{Poster de garota}
+{203500}{}{Poster de garota}
+{203600}{}{Poster de garota}
+{203700}{}{Poster de garota}
+{203800}{}{Poster de garota}
+{203900}{}{Poster de garota}
+{204000}{}{Poster de garota}
+{204100}{}{Poster de garota}
+{204200}{}{Poster de garota}
+{204300}{}{Poster de garota}
+{204400}{}{Poster de garota}
+{204500}{}{Poster de garota}
 {204600}{}{}
 {204601}{}{}
-{204700}{}{Rug}
-{204701}{}{An old woven floor rug.}
-{204800}{}{Rug}
-{204801}{}{An old woven floor rug.}
-{204900}{}{Pot}
-{204901}{}{A finely crafted pot.}
-{205000}{}{Pot}
-{205001}{}{A finely crafted pot.}
-{205100}{}{Pot}
-{205101}{}{A finely crafted pot.}
-{205200}{}{Pot}
-{205201}{}{A finely crafted pot.}
-{205300}{}{Air Vent}
-{205400}{}{Air Vent}
-{205500}{}{Vault Outer Door}
-{205501}{}{This large door is the link between the vault and the outside world.}
-{205600}{}{Rusting Vault Outer Door}
-{205601}{}{This large rusting door is the link between the vault and the outside world.}
-{205700}{}{Rusting Vault Outer Door}
-{205701}{}{This large rusting door is the link between the vault and the outside world.}
-{205800}{}{Rusting Vault Outer Door}
-{205801}{}{The mechanism to open and close the heavy vault door has been damaged beyond repair.}
-{205900}{}{Rusting Vault Outer Door}
-{205901}{}{The door mechanism has been disabled.}
-{206000}{}{Vault Outer Door}
-{206001}{}{This large door is the link between the vault and the outside world.}
-{206100}{}{Pot}
-{206101}{}{A finely crafted pot.}
-{206200}{}{Pot}
-{206201}{}{A finely crafted pot.}
-{206300}{}{Pot}
-{206301}{}{A finely crafted pot.}
-{206400}{}{Pot}
-{206401}{}{A finely crafted pot.}
-{206500}{}{Wall}
-{206600}{}{Forcefield}
-{206700}{}{Metal Plaque}
-{206701}{}{A metal plaque with the number 7.}
-{206800}{}{Rocks}
-{206801}{}{A large pile of rocks.}
-{206900}{}{Rocks}
-{206901}{}{A large pile of rocks.}
-{207000}{}{Rusting Elevator}
-{207001}{}{This rusting elevator travels between levels.}
-{207100}{}{Dirty Bilge Water}
-{207200}{}{Iron Vat}
-{207201}{}{A huge iron vat with a strange green liquid.}
-{207300}{}{Security Door}
-{207301}{}{This door looks very secure.}
-{207400}{}{Worn Rug}
-{207401}{}{An old woven floor rug.}
-{207500}{}{Worn Rug}
-{207501}{}{An old woven floor rug.}
-{207600}{}{NCR Picture}
-{207601}{}{A picture of the NCR banner.}
-{207700}{}{NCR Picture}
-{207701}{}{A picture of the NCR banner.}
-{207800}{}{NCR Picture}
-{207801}{}{A picture of the NCR banner.}
-{207900}{}{Mountain}
-{207901}{}{These mountain walls look very inaccessible.}
-{208000}{}{Mountain}
-{208001}{}{These mountain walls look very inaccessible.}
-{208100}{}{Picture}
-{208200}{}{Picture}
-{208300}{}{Picture}
-{208400}{}{Vent}
-{208500}{}{Vent}
-{208600}{}{Vent}
-{208700}{}{Vent}
-{208800}{}{Vent}
-{208900}{}{Vent}
-{209000}{}{Wood Paneling}
-{209100}{}{Wood Paneling}
-{209200}{}{Vent}
-{209300}{}{Vent}
-{209400}{}{Wall Pipes}
-{209500}{}{Wall Pipes}
-{209600}{}{Wall Pipes}
-{209700}{}{Wall Pipes}
-{209800}{}{Wall Pipes}
-{209900}{}{Wall Pipes}
-{210000}{}{Security Door}
+{204700}{}{Tapete}
+{204701}{}{Um velho Tapete de tecido.}
+{204800}{}{Tapete}
+{204801}{}{Um velho Tapete de tecido.}
+{204900}{}{Pote}
+{204901}{}{Um pote finamente trabalhado.}
+{205000}{}{Pote}
+{205001}{}{Um pote finamente trabalhado.}
+{205100}{}{Pote}
+{205101}{}{Um pote finamente trabalhado.}
+{205200}{}{Pote}
+{205201}{}{Um pote finamente trabalhado.}
+{205300}{}{Ventilação}
+{205400}{}{Ventilação}
+{205500}{}{Porta de saída do Vault} #Vault Outer Door
+{205501}{}{Este grande porta é o elo entre o refúgio e o mundo exterior.}
+{205600}{}{Porta de saída do Vault enferrujado}
+{205601}{}{Este grande porta enferrujada é o elo entre o refúgio e o mundo exterior.}
+{205700}{}{Porta de saída do Vault enferrujado}
+{205701}{}{Este grande porta enferrujada é o elo entre o refúgio e o mundo exterior.}
+{205800}{}{Porta de saída do Vault enferrujado}
+{205801}{}{O mecanismo para abrir esta fechar do refúgio foi danificado e não pode ser reparado.}
+{205900}{}{Porta de saída do Vault enferrujado}
+{205901}{}{O mecanismo da porta foi desativado.}
+{206000}{}{Porta de saída do Vault}
+{206001}{}{Este grande porta é o elo entre o refúgio e o mundo exterior.}
+{206100}{}{Pote}
+{206101}{}{Um pote finamente trabalhado.}
+{206200}{}{Pote}
+{206201}{}{Um pote finamente trabalhado.}
+{206300}{}{Pote}
+{206301}{}{Um pote finamente trabalhado.}
+{206400}{}{Pote}
+{206401}{}{Um pote finamente trabalhado.}
+{206500}{}{Parede}
+{206600}{}{Campo de Força}
+{206700}{}{Placa de metal}
+{206701}{}{Uma Placa de metal com o número 7.}
+{206800}{}{Pedras}
+{206801}{}{Uma grande pilha de pedras.}
+{206900}{}{Pedras}
+{206901}{}{Uma grande pilha de pedras.}
+{207000}{}{Elevador enferrujado}
+{207001}{}{Este enferrujado Elevador é o transporte entre os níveis.}
+{207100}{}{Porão sujo de água}
+{207200}{}{Tonel de ferro}
+{207201}{}{Uma enorme tonel de ferro com um líquido verde estranho.}
+{207300}{}{Porta de Segurança}
+{207301}{}{Esta porta parece muito segura.}
+{207400}{}{Tapete desgastado}
+{207401}{}{Um velho Tapete de tecido.}
+{207500}{}{Tapete desgastado}
+{207501}{}{Um velho Tapete de tecido.}
+{207600}{}{Foto NCR}
+{207601}{}{Uma imagem de banner NCR.}
+{207700}{}{Foto NCR}
+{207701}{}{Uma imagem de banner NCR.}
+{207800}{}{Foto NCR}
+{207801}{}{Uma imagem de banner NCR.}
+{207900}{}{Montanha}
+{207901}{}{Estas paredes da montanha parecem muito inacessível.}
+{208000}{}{Montanha}
+{208001}{}{Estas paredes da montanha parecem muito inacessível.}
+{208100}{}{Foto}
+{208200}{}{Foto}
+{208300}{}{Foto}
+{208400}{}{Ventilação}
+{208500}{}{Ventilação}
+{208600}{}{Ventilação}
+{208700}{}{Ventilação}
+{208800}{}{Ventilação}
+{208900}{}{Ventilação}
+{209000}{}{Painel de Madeira}
+{209100}{}{Painel de Madeira}
+{209200}{}{Ventilação}
+{209300}{}{Ventilação}
+{209400}{}{Tubos de parede}
+{209500}{}{Tubos de parede}
+{209600}{}{Tubos de parede}
+{209700}{}{Tubos de parede}
+{209800}{}{Tubos de parede}
+{209900}{}{Tubos de parede}
+{210000}{}{Porta de Segurança}
 {210001}{}{This metal door is embedded in the rock face.}
 {210100}{}{Vault Outer Door}
 {210101}{}{This vault door is embedded in the rock face of the mountain. It appears to have survived the blast of an atomic bomb.}
@@ -3299,18 +3298,18 @@
 {220100}{}{Rusty Steel Rail}
 {220200}{}{Sign}
 {220201}{}{This sign says: General Store.}
-{220300}{}{Worn Rug}
-{220301}{}{A simple rug. The weaver was obviously very talented.}
-{220400}{}{Glowing Bones}
-{220401}{}{A large pile of glowing animal bones. At least, you think all the bones are animal...}
-{220500}{}{Glowing Bones}
-{220501}{}{A large pile of glowing animal bones. At least, you think all the bones are animal...}
-{220600}{}{Glowing Bones}
-{220601}{}{A very large pile of glowing bones. You cannot determine the species of the dead critters.}
-{220700}{}{Glowing Bones}
-{220701}{}{You think these might be Horned Kangaroo bones, but you cannot be sure. They are glowing and too weathered to make a final determination.}
-{220800}{}{Glowing Bones}
-{220801}{}{You see the bones of a large, glowing two-headed cow.}
+{220300}{}{Tapete desgastado}
+{220301}{}{A simple Tapete. The weaver was obviously very talented.}
+{220400}{}{Glowing Ossos}
+{220401}{}{A large pile of glowing animal Ossos. At least, you think all the Ossos are animal...}
+{220500}{}{Glowing Ossos}
+{220501}{}{A large pile of glowing animal Ossos. At least, you think all the Ossos are animal...}
+{220600}{}{Glowing Ossos}
+{220601}{}{A very large pile of glowing Ossos. You cannot determine the species of the dead critters.}
+{220700}{}{Glowing Ossos}
+{220701}{}{You think these might be Horned Kangaroo Ossos, but you cannot be sure. They are glowing and too weathered to make a final determination.}
+{220800}{}{Glowing Ossos}
+{220801}{}{You see the Ossos of a large, glowing two-headed cow.}
 {220900}{}{Cave In}
 {220901}{}{A large amount of glowing rocks, far more than could ever be moved easily.}
 {221000}{}{Glowing Metal Cover}
