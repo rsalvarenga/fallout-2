@@ -5322,7 +5322,7 @@
 #
 # target hit in head
 #
-{70000}{}{You better hope that doesn't leave a scar.}
+{70000}{}{É melhor torcer para que não deixa uma cicatriz.}
 {70001}{}{Woah! Not the face!}
 {70002}{}{My face! My beautiful face!}
 {70003}{}{Hey! Don't mess with perfection.}
