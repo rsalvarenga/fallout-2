@@ -1646,313 +1646,314 @@
 {163200}{}{Entrada}
 {163300}{}{Parede}
 
-{163400}{}{Wall}
-{163500}{}{Wall}
-{163600}{}{Wall}
-{163700}{}{Wall}
-{163800}{}{Wall}
-{163900}{}{Wall}
-{164000}{}{Wall}
-{164100}{}{Wall}
-{164200}{}{Wall}
-{164300}{}{Wall}
-{164400}{}{Wall}
-{164500}{}{Wall}
-{164600}{}{Wall}
-{164700}{}{Wall}
-{164800}{}{Wall}
-{164900}{}{Forcefield Emitter}
-{165000}{}{Forcefield Emitter}
-{165100}{}{Forcefield Emitter}
-{165200}{}{Forcefield Emitter}
-{165300}{}{Forcefield Emitter}
-{165400}{}{Forcefield Emitter}
-{165500}{}{Forcefield Emitter}
-{165600}{}{Forcefield Emitter}
-{165700}{}{Forcefield Emitter}
-{165800}{}{Forcefield Emitter}
-{165900}{}{Forcefield Emitter}
-{166000}{}{Forcefield Emitter}
-{166100}{}{Forcefield Emitter}
-{166200}{}{Forcefield Emitter}
-{166300}{}{Forcefield Emitter}
-{166400}{}{Stone Pillar}
-{166500}{}{Stone Pillar}
-{166600}{}{Stone Pillar}
-{166700}{}{Stone Pillar}
-{166800}{}{Stone Pillar}
-{166900}{}{Wall}
-{167000}{}{Wall}
-{167100}{}{Wall}
-{167200}{}{Wall}
-{167300}{}{Wall Pillar}
-{167400}{}{Wall Pillar}
-{167500}{}{Wall Pillar}
-{167600}{}{Wall Pillar}
-{167700}{}{Wall}
-{167800}{}{Wall}
-{167900}{}{Wall}
-{168000}{}{Wall}
-{168100}{}{Wall}
-{168200}{}{Wall}
-{168300}{}{Wall}
-{168400}{}{Wall}
-{168500}{}{Wall}
-{168600}{}{Wall}
-{168700}{}{Wall}
-{168800}{}{Wall}
-{168900}{}{Wall}
-{169000}{}{Wall}
-{169100}{}{Wall}
-{169200}{}{Wall}
-{169300}{}{Wall}
-{169400}{}{Wall}
-{169500}{}{Wall}
-{169600}{}{Wall}
-{169700}{}{Wall}
-{170000}{}{Steel Wall}
-{170100}{}{Steel Wall}
-{170200}{}{Wall}
-{170300}{}{Wall}
-{170400}{}{Wall}
-{170500}{}{Wall}
-{170600}{}{Wall}
-{170700}{}{Wall}
-{170800}{}{Wall}
-{170900}{}{Wall}
-{171000}{}{Doorway}
-{171100}{}{Doorway}
-{171200}{}{Wall}
-{171300}{}{Wall}
-{171400}{}{Doorway}
-{171500}{}{Doorway}
-{171600}{}{Wall}
-{171700}{}{Wall}
-{171800}{}{Doorway}
-{171900}{}{Doorway}
-{172000}{}{Wall}
-{172100}{}{Rusty Steel Railing}
-{172200}{}{Rusty Steel Railing}
-{172300}{}{Rusty Steel Railing}
-{172400}{}{Rusty Steel Railing}
-{172500}{}{Rusty Steel Railing}
-{172600}{}{Rusty Steel Railing}
-{172700}{}{Rusty Steel Railing}
-{172800}{}{Rusty Steel Railing}
-{172900}{}{Rusty Steel Railing}
-{173000}{}{Rusty Steel Railing}
-{173100}{}{Rusty Steel Railing}
-{173200}{}{Rusty Steel Railing}
-{173300}{}{Rusty Steel Railing}
-{173400}{}{Wall}
-{173500}{}{Wall}
-{173600}{}{Wall}
-{173700}{}{Wall}
-{173800}{}{Wall}
-{173900}{}{Wall}
-{174000}{}{Wall}
-{174100}{}{Wall}
-{174200}{}{Wall}
-{174300}{}{Wall}
-{174400}{}{Wall}
-{174500}{}{Wall}
-{174600}{}{Wall}
-{174700}{}{Wall}
-{174800}{}{Wall}
-{174900}{}{Wall}
-{175000}{}{Wall}
-{175100}{}{Wall}
-{175200}{}{Wall}
-{175300}{}{Wall}
-{175400}{}{Wall}
-{175500}{}{Wall}
-{175600}{}{Pipe}
-{175700}{}{Wall}
-{175800}{}{Wall}
-{175900}{}{Wall}
-{176000}{}{Wall}
-{176100}{}{Wall}
-{176200}{}{Wall}
-{176300}{}{Wall}
-{176400}{}{Wall}
-{176500}{}{Wall}
-{176600}{}{Wall}
-{176700}{}{Wall}
-{176800}{}{Wall}
-{176900}{}{Wall}
-{177000}{}{Wall}
-{177100}{}{Wall}
-{177200}{}{Wall}
-{177300}{}{Wall}
-{177400}{}{Wall}
-{177500}{}{Wall}
-{177600}{}{Wall}
-{177700}{}{Wall}
-{177800}{}{Wall}
-{177900}{}{Wall}
-{178000}{}{Wall}
-{178100}{}{Wall}
-{178200}{}{Wall}
-{178300}{}{Wall}
-{178400}{}{Wall}
-{178500}{}{Forcefield Emitter}
-{178600}{}{Forcefield Emitter}
-{178700}{}{Rusty Steel Railing}
-{178800}{}{Wall}
-{178900}{}{Wall}
-{179000}{}{Forcefield Emitter}
-{179100}{}{Wall}
-{179200}{}{Forcefield Emitter}
-{179300}{}{Wall}
-{179400}{}{Wall}
-{179500}{}{Wall}
-{179600}{}{Hatchway}
-{179700}{}{Hatchway}
-{179800}{}{Internal Submarine Wall}
-{179900}{}{Internal Submarine Wall}
-{180000}{}{Internal Submarine Wall}
-{180100}{}{Internal Submarine Wall}
-{180200}{}{External Submarine Wall}
-{180300}{}{External Submarine Wall}
-{180400}{}{External Submarine Wall}
-{180500}{}{External Submarine Wall}
-{180600}{}{External Submarine Wall}
-{180700}{}{External Submarine Wall}
-{180800}{}{External Submarine Wall}
-{180900}{}{External Submarine Wall}
-{181000}{}{External Submarine Wall}
-{181100}{}{External Submarine Wall}
-{181200}{}{Internal Submarine Wall}
-{181300}{}{Internal Submarine Wall}
-{181400}{}{Internal Submarine Wall}
-{181500}{}{External Submarine Wall}
-{181600}{}{External Submarine Wall}
-{181700}{}{External Submarine Wall}
-{181800}{}{External Submarine Wall}
-{181900}{}{External Submarine Wall}
-{182000}{}{External Submarine Wall}
-{182100}{}{External Submarine Wall}
-{182200}{}{External Submarine Wall}
-{182300}{}{External Submarine Wall}
-{182400}{}{Internal Submarine Wall}
-{182500}{}{Internal Submarine Wall}
-{182600}{}{Internal Submarine Wall}
-{182700}{}{Hatchway}
-{182800}{}{Hatchway}
-{182900}{}{Internal Submarine Wall}
-{183000}{}{Internal Submarine Wall}
-{183100}{}{Internal Submarine Wall}
-{183200}{}{Internal Submarine Wall}
-{183300}{}{Wall}
-{183400}{}{Wall}
-{183500}{}{Glowing Cave Wall}
-{183600}{}{Glowing Cave Wall}
-{183700}{}{Glowing Cave Wall}
-{183800}{}{Glowing Cave Wall}
-{183900}{}{Glowing Cave Wall}
-{184000}{}{Glowing Cave Wall}
-{184100}{}{Glowing Cave Wall}
-{184200}{}{Glowing Cave Wall}
-{184300}{}{Glowing Cave Wall}
-{184400}{}{Glowing Cave Wall}
-{184500}{}{Glowing Cave Wall}
-{184600}{}{Glowing Cave Wall}
-{184700}{}{Glowing Cave Wall}
-{184800}{}{Glowing Cave Wall}
-{184900}{}{Glowing Cave Wall}
-{185000}{}{Glowing Cave Wall}
-{185100}{}{Glowing Cave Wall}
-{185200}{}{Glowing Cave Wall}
-{185300}{}{Glowing Cave Wall}
-{185400}{}{Glowing Cave Wall}
-{185500}{}{Glowing Cave Wall}
-{185600}{}{Glowing Cave Wall}
-{185700}{}{Glowing Cave Wall}
-{185800}{}{Glowing Cave Wall}
-{185900}{}{Glowing Cave Wall}
-{186000}{}{Glowing Cave Wall}
-{186100}{}{Glowing Cave Wall}
-{186200}{}{Glowing Cave Wall}
-{186300}{}{Glowing Cave Wall}
-{186400}{}{Glowing Cave Wall}
-{186500}{}{Glowing Cave Wall}
-{186600}{}{Glowing Cave Wall}
-{186700}{}{Glowing Cave Wall}
-{186800}{}{Glowing Cave Wall}
-{186900}{}{Glowing Cave Wall}
-{187000}{}{Glowing Cave Wall}
-{187100}{}{Glowing Cave Wall}
-{187200}{}{Glowing Cave Wall}
-{187300}{}{Glowing Cave Wall}
-{187400}{}{Glowing Cave Wall}
-{187500}{}{Glowing Cave Wall}
-{187600}{}{Glowing Cave Wall}
-{187700}{}{Glowing Cave Wall}
-{187800}{}{Glowing Cave Wall}
-{187900}{}{Glowing Cave Wall}
-{188000}{}{Glowing Cave Wall}
-{188100}{}{Glowing Cave Wall}
-{188200}{}{Glowing Cave Wall}
-{188300}{}{Glowing Cave Wall}
-{188400}{}{Glowing Cave Wall}
-{188500}{}{Glowing Cave Wall}
-{188600}{}{Glowing Cave Wall}
-{188700}{}{Doorway}
-{188800}{}{Doorway}
-{188900}{}{Wall}
-{189000}{}{Wall}
-{189100}{}{Wall}
-{189200}{}{Wall}
-{189300}{}{Wall}
-{189400}{}{Wall}
-{189500}{}{Wall}
-{189600}{}{Wall}
-{189700}{}{Window}
-{189800}{}{Window}
-{189900}{}{Window}
-{190000}{}{Wall}
-{190100}{}{Wall}
-{190200}{}{Wall}
-{190300}{}{Wall}
-{190400}{}{Wall}
-{190500}{}{Wall}
-{190600}{}{Wall}
-{190700}{}{Wall}
-{190800}{}{Window}
-{190900}{}{Window}
-{191000}{}{Window}
-{191100}{}{Wall}
-{191200}{}{Wall}
-{191300}{}{Wall}
-{191400}{}{Wall}
-{191500}{}{Wall}
-{191600}{}{Wall}
-{191700}{}{Wall}
-{191800}{}{Wall}
-{191900}{}{Wall}
-{192000}{}{Window}
-{192100}{}{Window}
-{192200}{}{Window}
-{192300}{}{Window}
-{192400}{}{Window}
-{192500}{}{Window}
-{192600}{}{Wall}
-{192700}{}{Wall}
-{192800}{}{Wall}
-{192900}{}{Wall}
-{193000}{}{Window}
-{193100}{}{Window}
-{193200}{}{Window}
-{193300}{}{Wall}
-{193400}{}{Wall}
-{193500}{}{Wall}
-{193600}{}{Wall}
-{193700}{}{Window}
-{193800}{}{Window}
-{193900}{}{Window}
-{194000}{}{Doorway}
-{194100}{}{Doorway}
-{194200}{}{Doorway}
-{194300}{}{Doorway}
-{194400}{}{Doorway}
+#add rp
+{163400}{}{Parede}
+{163500}{}{Parede}
+{163600}{}{Parede}
+{163700}{}{Parede}
+{163800}{}{Parede}
+{163900}{}{Parede}
+{164000}{}{Parede}
+{164100}{}{Parede}
+{164200}{}{Parede}
+{164300}{}{Parede}
+{164400}{}{Parede}
+{164500}{}{Parede}
+{164600}{}{Parede}
+{164700}{}{Parede}
+{164800}{}{Parede}
+{164900}{}{Emissor de campo de força}
+{165000}{}{Emissor de campo de força}
+{165100}{}{Emissor de campo de força}
+{165200}{}{Emissor de campo de força}
+{165300}{}{Emissor de campo de força}
+{165400}{}{Emissor de campo de força}
+{165500}{}{Emissor de campo de força}
+{165600}{}{Emissor de campo de força}
+{165700}{}{Emissor de campo de força}
+{165800}{}{Emissor de campo de força}
+{165900}{}{Emissor de campo de força}
+{166000}{}{Emissor de campo de força}
+{166100}{}{Emissor de campo de força}
+{166200}{}{Emissor de campo de força}
+{166300}{}{Emissor de campo de força}
+{166400}{}{Pilar de pedra}
+{166500}{}{Pilar de pedra}
+{166600}{}{Pilar de pedra}
+{166700}{}{Pilar de pedra}
+{166800}{}{Pilar de pedra}
+{166900}{}{Parede}
+{167000}{}{Parede}
+{167100}{}{Parede}
+{167200}{}{Parede}
+{167300}{}{Pilar da parede}
+{167400}{}{Pilar da parede}
+{167500}{}{Pilar da parede}
+{167600}{}{Pilar da parede}
+{167700}{}{Parede}
+{167800}{}{Parede}
+{167900}{}{Parede}
+{168000}{}{Parede}
+{168100}{}{Parede}
+{168200}{}{Parede}
+{168300}{}{Parede}
+{168400}{}{Parede}
+{168500}{}{Parede}
+{168600}{}{Parede}
+{168700}{}{Parede}
+{168800}{}{Parede}
+{168900}{}{Parede}
+{169000}{}{Parede}
+{169100}{}{Parede}
+{169200}{}{Parede}
+{169300}{}{Parede}
+{169400}{}{Parede}
+{169500}{}{Parede}
+{169600}{}{Parede}
+{169700}{}{Parede}
+{170000}{}{Parede de aço}
+{170100}{}{Parede de aço}
+{170200}{}{Parede}
+{170300}{}{Parede}
+{170400}{}{Parede}
+{170500}{}{Parede}
+{170600}{}{Parede}
+{170700}{}{Parede}
+{170800}{}{Parede}
+{170900}{}{Parede}
+{171000}{}{Porta de entrada}
+{171100}{}{Porta de entrada}
+{171200}{}{Parede}
+{171300}{}{Parede}
+{171400}{}{Porta de entrada}
+{171500}{}{Porta de entrada}
+{171600}{}{Parede}
+{171700}{}{Parede}
+{171800}{}{Porta de entrada}
+{171900}{}{Porta de entrada}
+{172000}{}{Parede}
+{172100}{}{Trilhos de aço enferrujados}
+{172200}{}{Trilhos de aço enferrujados}
+{172300}{}{Trilhos de aço enferrujados}
+{172400}{}{Trilhos de aço enferrujados}
+{172500}{}{Trilhos de aço enferrujados}
+{172600}{}{Trilhos de aço enferrujados}
+{172700}{}{Trilhos de aço enferrujados}
+{172800}{}{Trilhos de aço enferrujados}
+{172900}{}{Trilhos de aço enferrujados}
+{173000}{}{Trilhos de aço enferrujados}
+{173100}{}{Trilhos de aço enferrujados}
+{173200}{}{Trilhos de aço enferrujados}
+{173300}{}{Trilhos de aço enferrujados}
+{173400}{}{Parede}
+{173500}{}{Parede}
+{173600}{}{Parede}
+{173700}{}{Parede}
+{173800}{}{Parede}
+{173900}{}{Parede}
+{174000}{}{Parede}
+{174100}{}{Parede}
+{174200}{}{Parede}
+{174300}{}{Parede}
+{174400}{}{Parede}
+{174500}{}{Parede}
+{174600}{}{Parede}
+{174700}{}{Parede}
+{174800}{}{Parede}
+{174900}{}{Parede}
+{175000}{}{Parede}
+{175100}{}{Parede}
+{175200}{}{Parede}
+{175300}{}{Parede}
+{175400}{}{Parede}
+{175500}{}{Parede}
+{175600}{}{Tubo}
+{175700}{}{Parede}
+{175800}{}{Parede}
+{175900}{}{Parede}
+{176000}{}{Parede}
+{176100}{}{Parede}
+{176200}{}{Parede}
+{176300}{}{Parede}
+{176400}{}{Parede}
+{176500}{}{Parede}
+{176600}{}{Parede}
+{176700}{}{Parede}
+{176800}{}{Parede}
+{176900}{}{Parede}
+{177000}{}{Parede}
+{177100}{}{Parede}
+{177200}{}{Parede}
+{177300}{}{Parede}
+{177400}{}{Parede}
+{177500}{}{Parede}
+{177600}{}{Parede}
+{177700}{}{Parede}
+{177800}{}{Parede}
+{177900}{}{Parede}
+{178000}{}{Parede}
+{178100}{}{Parede}
+{178200}{}{Parede}
+{178300}{}{Parede}
+{178400}{}{Parede}
+{178500}{}{Emissor de campo de força}
+{178600}{}{Emissor de campo de força}
+{178700}{}{Trilhos de aço enferrujados}
+{178800}{}{Parede}
+{178900}{}{Parede}
+{179000}{}{Emissor de campo de força}
+{179100}{}{Parede}
+{179200}{}{Emissor de campo de força}
+{179300}{}{Parede}
+{179400}{}{Parede}
+{179500}{}{Parede}
+{179600}{}{Escotilha}
+{179700}{}{Escotilha}
+{179800}{}{Parede interna do submarino}
+{179900}{}{Parede interna do submarino}
+{180000}{}{Parede interna do submarino}
+{180100}{}{Parede interna do submarino}
+{180200}{}{Parede externa do submarino}
+{180300}{}{Parede externa do submarino}
+{180400}{}{Parede externa do submarino}
+{180500}{}{Parede externa do submarino}
+{180600}{}{Parede externa do submarino}
+{180700}{}{Parede externa do submarino}
+{180800}{}{Parede externa do submarino}
+{180900}{}{Parede externa do submarino}
+{181000}{}{Parede externa do submarino}
+{181100}{}{Parede externa do submarino}
+{181200}{}{Parede interna do submarino}
+{181300}{}{Parede interna do submarino}
+{181400}{}{Parede interna do submarino}
+{181500}{}{Parede externa do submarino}
+{181600}{}{Parede externa do submarino}
+{181700}{}{Parede externa do submarino}
+{181800}{}{Parede externa do submarino}
+{181900}{}{Parede externa do submarino}
+{182000}{}{Parede externa do submarino}
+{182100}{}{Parede externa do submarino}
+{182200}{}{Parede externa do submarino}
+{182300}{}{Parede externa do submarino}
+{182400}{}{Parede interna do submarino}
+{182500}{}{Parede interna do submarino}
+{182600}{}{Parede interna do submarino}
+{182700}{}{Escotilha}
+{182800}{}{Escotilha}
+{182900}{}{Parede interna do submarino}
+{183000}{}{Parede interna do submarino}
+{183100}{}{Parede interna do submarino}
+{183200}{}{Parede interna do submarino}
+{183300}{}{Parede}
+{183400}{}{Parede}
+{183500}{}{Parede brilhante da caverna}
+{183600}{}{Parede brilhante da caverna}
+{183700}{}{Parede brilhante da caverna}
+{183800}{}{Parede brilhante da caverna}
+{183900}{}{Parede brilhante da caverna}
+{184000}{}{Parede brilhante da caverna}
+{184100}{}{Parede brilhante da caverna}
+{184200}{}{Parede brilhante da caverna}
+{184300}{}{Parede brilhante da caverna}
+{184400}{}{Parede brilhante da caverna}
+{184500}{}{Parede brilhante da caverna}
+{184600}{}{Parede brilhante da caverna}
+{184700}{}{Parede brilhante da caverna}
+{184800}{}{Parede brilhante da caverna}
+{184900}{}{Parede brilhante da caverna}
+{185000}{}{Parede brilhante da caverna}
+{185100}{}{Parede brilhante da caverna}
+{185200}{}{Parede brilhante da caverna}
+{185300}{}{Parede brilhante da caverna}
+{185400}{}{Parede brilhante da caverna}
+{185500}{}{Parede brilhante da caverna}
+{185600}{}{Parede brilhante da caverna}
+{185700}{}{Parede brilhante da caverna}
+{185800}{}{Parede brilhante da caverna}
+{185900}{}{Parede brilhante da caverna}
+{186000}{}{Parede brilhante da caverna}
+{186100}{}{Parede brilhante da caverna}
+{186200}{}{Parede brilhante da caverna}
+{186300}{}{Parede brilhante da caverna}
+{186400}{}{Parede brilhante da caverna}
+{186500}{}{Parede brilhante da caverna}
+{186600}{}{Parede brilhante da caverna}
+{186700}{}{Parede brilhante da caverna}
+{186800}{}{Parede brilhante da caverna}
+{186900}{}{Parede brilhante da caverna}
+{187000}{}{Parede brilhante da caverna}
+{187100}{}{Parede brilhante da caverna}
+{187200}{}{Parede brilhante da caverna}
+{187300}{}{Parede brilhante da caverna}
+{187400}{}{Parede brilhante da caverna}
+{187500}{}{Parede brilhante da caverna}
+{187600}{}{Parede brilhante da caverna}
+{187700}{}{Parede brilhante da caverna}
+{187800}{}{Parede brilhante da caverna}
+{187900}{}{Parede brilhante da caverna}
+{188000}{}{Parede brilhante da caverna}
+{188100}{}{Parede brilhante da caverna}
+{188200}{}{Parede brilhante da caverna}
+{188300}{}{Parede brilhante da caverna}
+{188400}{}{Parede brilhante da caverna}
+{188500}{}{Parede brilhante da caverna}
+{188600}{}{Parede brilhante da caverna}
+{188700}{}{Porta de entrada}
+{188800}{}{Porta de entrada}
+{188900}{}{Parede}
+{189000}{}{Parede}
+{189100}{}{Parede}
+{189200}{}{Parede}
+{189300}{}{Parede}
+{189400}{}{Parede}
+{189500}{}{Parede}
+{189600}{}{Parede}
+{189700}{}{Janela}
+{189800}{}{Janela}
+{189900}{}{Janela}
+{190000}{}{Parede}
+{190100}{}{Parede}
+{190200}{}{Parede}
+{190300}{}{Parede}
+{190400}{}{Parede}
+{190500}{}{Parede}
+{190600}{}{Parede}
+{190700}{}{Parede}
+{190800}{}{Janela}
+{190900}{}{Janela}
+{191000}{}{Janela}
+{191100}{}{Parede}
+{191200}{}{Parede}
+{191300}{}{Parede}
+{191400}{}{Parede}
+{191500}{}{Parede}
+{191600}{}{Parede}
+{191700}{}{Parede}
+{191800}{}{Parede}
+{191900}{}{Parede}
+{192000}{}{Janela}
+{192100}{}{Janela}
+{192200}{}{Janela}
+{192300}{}{Janela}
+{192400}{}{Janela}
+{192500}{}{Janela}
+{192600}{}{Parede}
+{192700}{}{Parede}
+{192800}{}{Parede}
+{192900}{}{Parede}
+{193000}{}{Janela}
+{193100}{}{Janela}
+{193200}{}{Janela}
+{193300}{}{Parede}
+{193400}{}{Parede}
+{193500}{}{Parede}
+{193600}{}{Parede}
+{193700}{}{Janela}
+{193800}{}{Janela}
+{193900}{}{Janela}
+{194000}{}{Porta de entrada}
+{194100}{}{Porta de entrada}
+{194200}{}{Porta de entrada}
+{194300}{}{Porta de entrada}
+{194400}{}{Porta de entrada}
 

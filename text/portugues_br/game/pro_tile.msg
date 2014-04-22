@@ -813,129 +813,130 @@
 {150400}{}{}
 {162300}{}{Scotty}
 
-{310300}{}{Floor tile}
-{369100}{}{Roof}
-{369200}{}{Roof}
-{369300}{}{Roof}
-{369400}{}{Roof}
-{369500}{}{Roof}
-{369600}{}{Roof}
-{369700}{}{Roof}
-{369800}{}{Roof}
-{369900}{}{Roof}
-{370000}{}{Roof}
-{370100}{}{Roof}
-{370200}{}{Roof}
-{370300}{}{Roof}
-{370400}{}{Roof}
-{370500}{}{Roof}
-{370600}{}{Roof}
-{371000}{}{Roof}
-{371100}{}{Roof}
-{371200}{}{Roof}
-{371300}{}{Roof}
-{371500}{}{Roof}
-{371600}{}{Roof}
-{371800}{}{Roof}
-{371900}{}{Roof}
-{372100}{}{Roof}
-{372200}{}{Roof}
-{372300}{}{Roof}
-{372400}{}{Roof}
-{372500}{}{Roof}
-{372600}{}{Roof}
-{372700}{}{Roof}
-{372800}{}{Roof}
-{372900}{}{Roof}
-{373000}{}{Roof}
-{373100}{}{Roof}
-{373200}{}{Roof}
-{373300}{}{Roof}
-{373400}{}{Roof}
-{373500}{}{Roof}
-{373600}{}{Roof}
-{373700}{}{Roof}
-{373800}{}{Roof}
-{373900}{}{Roof}
-{374200}{}{Roof}
-{374300}{}{Roof}
-{374400}{}{Roof}
-{374500}{}{Roof}
-{374600}{}{Roof}
-{374700}{}{Roof}
-{374800}{}{Roof}
-{374900}{}{Roof}
-{375000}{}{Roof}
-{375100}{}{Roof}
-{375200}{}{Roof}
-{375300}{}{Roof}
-{375400}{}{Roof}
-{375500}{}{Roof}
-{375600}{}{Roof}
-{375700}{}{Roof}
-{375800}{}{Roof}
-{375900}{}{Roof}
-{376000}{}{Roof}
-{376100}{}{Roof}
-{376200}{}{Roof}
-{376300}{}{Roof}
-{376400}{}{Roof}
-{379100}{}{Roof Pipes}
-{379200}{}{Roof Pipes}
-{379300}{}{Roof Pipes}
-{379400}{}{Roof Pipes}
-{379500}{}{Roof Pipes}
-{379600}{}{Roof Pipes}
-{379700}{}{Roof Pipes}
-{379800}{}{Roof Pipes}
-{379900}{}{Roof Pipes}
-{380000}{}{Roof Pipes}
-{380100}{}{Roof Pipes}
-{380200}{}{Roof Pipes}
-{380300}{}{Roof Pipes}
-{380400}{}{Roof Pipes}
-{380500}{}{Roof Pipes}
-{380600}{}{Roof Pipes}
-{380700}{}{Roof Pipes}
-{380800}{}{Roof Pipes}
-{380900}{}{Roof Pipes}
-{381000}{}{Roof Pipes}
-{381100}{}{Roof Pipes}
-{381200}{}{Roof Pipes}
-{381300}{}{Roof Pipes}
-{381400}{}{Roof Pipes}
-{381500}{}{Roof Pipes}
-{381600}{}{Roof Pipes}
-{381700}{}{Roof Pipes}
-{381800}{}{Roof Pipes}
-{381900}{}{Roof Pipes}
-{385900}{}{Roof}
-{386000}{}{Roof}
-{386100}{}{Roof}
-{386200}{}{Roof}
-{386300}{}{Roof}
-{386400}{}{Roof}
-{386500}{}{Roof}
-{386600}{}{Roof}
-{386700}{}{Roof}
-{386800}{}{Roof}
-{386900}{}{Roof}
-{387000}{}{Roof}
-{387100}{}{Roof}
-{387200}{}{Roof}
-{387300}{}{Roof}
-{387400}{}{Roof}
-{387500}{}{Roof}
-{387600}{}{Roof}
-{387700}{}{Roof}
-{387800}{}{Roof}
-{387900}{}{Roof}
-{388000}{}{Roof}
-{388100}{}{Roof}
-{388200}{}{Roof}
-{388300}{}{Roof}
-{388400}{}{Roof}
-{388500}{}{Roof}
-{388600}{}{Roof}
-{388700}{}{Roof Vent}
+#add RP
+{310300}{}{Pavimento em mosaico}
+{369100}{}{Telhado}
+{369200}{}{Telhado}
+{369300}{}{Telhado}
+{369400}{}{Telhado}
+{369500}{}{Telhado}
+{369600}{}{Telhado}
+{369700}{}{Telhado}
+{369800}{}{Telhado}
+{369900}{}{Telhado}
+{370000}{}{Telhado}
+{370100}{}{Telhado}
+{370200}{}{Telhado}
+{370300}{}{Telhado}
+{370400}{}{Telhado}
+{370500}{}{Telhado}
+{370600}{}{Telhado}
+{371000}{}{Telhado}
+{371100}{}{Telhado}
+{371200}{}{Telhado}
+{371300}{}{Telhado}
+{371500}{}{Telhado}
+{371600}{}{Telhado}
+{371800}{}{Telhado}
+{371900}{}{Telhado}
+{372100}{}{Telhado}
+{372200}{}{Telhado}
+{372300}{}{Telhado}
+{372400}{}{Telhado}
+{372500}{}{Telhado}
+{372600}{}{Telhado}
+{372700}{}{Telhado}
+{372800}{}{Telhado}
+{372900}{}{Telhado}
+{373000}{}{Telhado}
+{373100}{}{Telhado}
+{373200}{}{Telhado}
+{373300}{}{Telhado}
+{373400}{}{Telhado}
+{373500}{}{Telhado}
+{373600}{}{Telhado}
+{373700}{}{Telhado}
+{373800}{}{Telhado}
+{373900}{}{Telhado}
+{374200}{}{Telhado}
+{374300}{}{Telhado}
+{374400}{}{Telhado}
+{374500}{}{Telhado}
+{374600}{}{Telhado}
+{374700}{}{Telhado}
+{374800}{}{Telhado}
+{374900}{}{Telhado}
+{375000}{}{Telhado}
+{375100}{}{Telhado}
+{375200}{}{Telhado}
+{375300}{}{Telhado}
+{375400}{}{Telhado}
+{375500}{}{Telhado}
+{375600}{}{Telhado}
+{375700}{}{Telhado}
+{375800}{}{Telhado}
+{375900}{}{Telhado}
+{376000}{}{Telhado}
+{376100}{}{Telhado}
+{376200}{}{Telhado}
+{376300}{}{Telhado}
+{376400}{}{Telhado}
+{379100}{}{Tubulações do telhado}
+{379200}{}{Tubulações do telhado}
+{379300}{}{Tubulações do telhado}
+{379400}{}{Tubulações do telhado}
+{379500}{}{Tubulações do telhado}
+{379600}{}{Tubulações do telhado}
+{379700}{}{Tubulações do telhado}
+{379800}{}{Tubulações do telhado}
+{379900}{}{Tubulações do telhado}
+{380000}{}{Tubulações do telhado}
+{380100}{}{Tubulações do telhado}
+{380200}{}{Tubulações do telhado}
+{380300}{}{Tubulações do telhado}
+{380400}{}{Tubulações do telhado}
+{380500}{}{Tubulações do telhado}
+{380600}{}{Tubulações do telhado}
+{380700}{}{Tubulações do telhado}
+{380800}{}{Tubulações do telhado}
+{380900}{}{Tubulações do telhado}
+{381000}{}{Tubulações do telhado}
+{381100}{}{Tubulações do telhado}
+{381200}{}{Tubulações do telhado}
+{381300}{}{Tubulações do telhado}
+{381400}{}{Tubulações do telhado}
+{381500}{}{Tubulações do telhado}
+{381600}{}{Tubulações do telhado}
+{381700}{}{Tubulações do telhado}
+{381800}{}{Tubulações do telhado}
+{381900}{}{Tubulações do telhado}
+{385900}{}{Telhado}
+{386000}{}{Telhado}
+{386100}{}{Telhado}
+{386200}{}{Telhado}
+{386300}{}{Telhado}
+{386400}{}{Telhado}
+{386500}{}{Telhado}
+{386600}{}{Telhado}
+{386700}{}{Telhado}
+{386800}{}{Telhado}
+{386900}{}{Telhado}
+{387000}{}{Telhado}
+{387100}{}{Telhado}
+{387200}{}{Telhado}
+{387300}{}{Telhado}
+{387400}{}{Telhado}
+{387500}{}{Telhado}
+{387600}{}{Telhado}
+{387700}{}{Telhado}
+{387800}{}{Telhado}
+{387900}{}{Telhado}
+{388000}{}{Telhado}
+{388100}{}{Telhado}
+{388200}{}{Telhado}
+{388300}{}{Telhado}
+{388400}{}{Telhado}
+{388500}{}{Telhado}
+{388600}{}{Telhado}
+{388700}{}{Ventilação de teto}
 
