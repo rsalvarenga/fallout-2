@@ -3164,302 +3164,301 @@
 {209800}{}{Tubos de parede}
 {209900}{}{Tubos de parede}
 {210000}{}{Porta de Segurança}
-{210001}{}{This metal door is embedded in the rock face.}
-{210100}{}{Vault Outer Door}
-{210101}{}{This vault door is embedded in the rock face of the mountain. It appears to have survived the blast of an atomic bomb.}
-{210200}{}{Vault Outer Door}
-{210201}{}{This large door is the link between the vault and the outside world. It has been scorched by a tremendous blast.}
-{210300}{}{Cave Entrance}
-{210301}{}{The cave appears to open up into a larger network of caves.}
-{210400}{}{Door Entry Computer}
-{210401}{}{This computer controls the large vault door. You have to enter a specific access code for the computer to work.}
-{210500}{}{Rusting Boat}
-{210501}{}{This boat looks barely seaworthy.}
-{210600}{}{Rusting Boat}
-{210601}{}{This boat looks barely seaworthy.}
-{210700}{}{Mooring Post}
-{210701}{}{A rope leads from the mooring post to the boat.}
-{210800}{}{Mooring Post}
-{210801}{}{A rope leads from the mooring post to the boat.}
-{210900}{}{Rusting Submarine Hatch}
-{210901}{}{With a bit of effort this hatch can still be opened.}
-{211000}{}{Rusting Submarine Tower}
-{211001}{}{The ravages of time and salt water are slowly consuming this rusting hulk.}
-{211100}{}{Rusting Submarine Tower}
-{211101}{}{The ravages of time and salt water are slowly consuming this rusting hulk.}
-{211200}{}{Rusting Ladder}
-{211201}{}{The salt water is gradually dissolving the metal ladder.}
-{211300}{}{Rusting Submarine Tower}
-{211301}{}{The ravages of time and salt water are slowly consuming this rusting hulk.}
-{211400}{}{Rusting Boat}
-{211401}{}{This boat looks barely seaworthy.}
-{211500}{}{Murky Ocean}
-{211600}{}{Rusting Hull}
-{211601}{}{The hull of the submarine lies submerged beneath the murky ocean.}
-{211700}{}{Rusting Hull}
-{211701}{}{The hull of the submarine lies submerged beneath the murky ocean.}
-{211800}{}{Rusting Hull}
-{211801}{}{The hull of the submarine lies submerged beneath the murky ocean.}
-{211900}{}{Murky Ocean}
-{212000}{}{Rusting Hull}
-{212001}{}{The hull of the submarine lies submerged beneath the murky ocean.}
-{212100}{}{Rusting Hull}
-{212101}{}{The hull of the submarine lies submerged beneath the murky ocean.}
-{212200}{}{Murky Ocean}
-{212300}{}{Murky Ocean}
-{212400}{}{Murky Ocean}
-{212500}{}{Murky Ocean}
-{212600}{}{Murky Ocean}
-{212700}{}{Rusting Hull}
-{212701}{}{The hull of the submarine lies submerged beneath the murky ocean.}
-{212800}{}{Rusting Hull}
-{212801}{}{The hull of the submarine lies submerged beneath the murky ocean.}
-{212900}{}{Rusting Boat}
-{212901}{}{This boat looks barely seaworthy.}
-{213000}{}{Murky Ocean}
-{213100}{}{Rusting Hull}
-{213101}{}{The hull of the submarine lies submerged beneath the murky ocean.}
-{213200}{}{Rusting Hull}
-{213201}{}{The hull of the submarine lies submerged beneath the murky ocean.}
-{213300}{}{Murky Ocean}
-{213400}{}{Murky Ocean}
-{213500}{}{Murky Ocean}
-{213600}{}{Rusting Hull}
-{213601}{}{The hull of the submarine lies submerged beneath the murky ocean.}
-{213700}{}{Rusting Hull}
-{213701}{}{The hull of the submarine lies submerged beneath the murky ocean.}
-{213800}{}{Murky Ocean}
-{213900}{}{Murky Ocean}
-{214000}{}{Murky Ocean}
-{214100}{}{Rusting Hull}
-{214200}{}{Torpedo Launcher}
-{214201}{}{These metal tubes are made up of a considerable number of interlocks. It looks like they're still in working condition.}
-{214300}{}{Rusting Hull}
-{214301}{}{Rusting Hull}
-{214400}{}{Rusting Hull}
-{214500}{}{Rusting Hull}
-{214600}{}{Rusting Hull}
-{214700}{}{Torpedoes}
-{214701}{}{Torpedoes}
-{214800}{}{Torpedoes}
-{214801}{}{Torpedoes}
-{214900}{}{Torpedoes}
-{214901}{}{Torpedoes}
-{215000}{}{Rusting Hull}
-{215100}{}{Rusting Hull}
-{215200}{}{Rusting Hull}
-{215300}{}{Rusty Machinery}
-{215400}{}{Rusty Machinery}
-{215500}{}{Torpedoes}
-{215501}{}{Torpedoes}
-{215600}{}{Torpedoes}
-{215601}{}{Torpedoes}
-{215700}{}{Rusty Machinery}
-{215800}{}{Rusting Hull}
-{215900}{}{Rusty Machinery}
-{216000}{}{Rusting Hull}
-{216100}{}{Rusty Machinery}
-{216200}{}{Rusty Machinery}
-{216300}{}{Rusty Machinery}
-{216400}{}{Rusty Machinery}
-{216500}{}{Rusting Hull}
-{216600}{}{Rusting Hull}
-{216700}{}{Rusting Hull}
-{216800}{}{Rusting Hull}
-{216900}{}{Rusting Hull}
-{217000}{}{Rusting Hull}
-{217100}{}{Rusting Hull}
-{217200}{}{Rusting Hull}
-{217300}{}{Submarine Hatch}
-{217400}{}{Chair}
-{217500}{}{Chair}
-{217600}{}{Poseidon Oil Sign}
-{217601}{}{This old neon sign still has some life left in it.}
-{217700}{}{Massive Steel Vault Doors}
-{217701}{}{These steel doors are practically indestructible.}
-{218800}{}{Sub Tower}
-{218900}{}{Sub Tower}
-{219000}{}{Stairs}
-{219001}{}{A set of wooden stairs.}
-{219100}{}{Stairs}
-{219101}{}{A set of wooden stairs.}
-{219200}{}{Stairs}
-{219201}{}{A set of wooden stairs.}
-{219300}{}{Ladder}
-{219400}{}{Rusting Submarine Hatch}
-{219500}{}{Rusting Submarine Hatch}
-{219501}{}{With a bit of effort this hatch can still be opened.}
+{210001}{}{Esta porta de metal está incorporado na frente da rocha.}
+{210100}{}{Porta de saída do Vault}
+{210101}{}{Esta porta de metal está incorporado na frente da rocha da montanha. Parece ter sobrevivido à explosão de uma bomba atômica.}
+{210200}{}{Porta de saída do Vault}
+{210201}{}{Este grande porta é o elo entre o refúgio e o mundo exterior. Foi arrasada por uma tremenda explosão.}
+{210300}{}{Entrada da caverna}
+{210301}{}{A caverna parece se expandir para uma rede maior de cavernas.}
+{210400}{}{Computador da porta de entrada}
+{210401}{}{Este computador controla a grande porta do refúgio. Você tem que digitar um código de acesso específico para o computador funcionar.}
+{210500}{}{Barco enferrujado} #Barco enferrujado
+{210501}{}{Este barco parece não ter condições de navegar.}
+{210600}{}{Barco enferrujado}
+{210601}{}{Este barco parece não ter condições de navegar.}
+{210700}{}{Cabeço de Ancoragem}
+{210701}{}{Uma corda que vai do posto de amarração até o barco.}
+{210800}{}{Cabeço de Ancoragem}
+{210801}{}{Uma corda que vai do posto de amarração até o barco.}
+{210900}{}{Escotilha enferrujada de submarino}
+{210901}{}{Com um pouco de esforço esta escotilha ainda pode ser aberta.}
+{211000}{}{Torre enferrujada de submario}
+{211001}{}{Os estragos do tempo e água salgada estão consumindo lentamente este casco de ferrugem.}
+{211100}{}{Torre enferrujada de submario}
+{211101}{}{Os estragos do tempo e água salgada estão consumindo lentamente este casco de ferrugem.}
+{211200}{}{Escada enferrujada}
+{211201}{}{A água salgada está gradualmente dissolvendo a escada de metal.}
+{211300}{}{Torre enferrujada de submario}
+{211301}{}{Os estragos do tempo e água salgada estão consumindo lentamente este casco de ferrugem.}
+{211400}{}{Barco enferrujado}
+{211401}{}{Este barco parece não ter condições de navegar.}
+{211500}{}{Oceano Turvo} #Oceano Turvo
+{211600}{}{Ferrugem do casco} #Rusting Hull
+{211601}{}{O casco do submarino encontra-se submersa sob o oceano turvo.}
+{211700}{}{Ferrugem do casco}
+{211701}{}{O casco do submarino encontra-se submersa sob o oceano turvo.}
+{211800}{}{Ferrugem do casco}
+{211801}{}{O casco do submarino encontra-se submersa sob o oceano turvo.}
+{211900}{}{Oceano Turvo}
+{212000}{}{Ferrugem do casco}
+{212001}{}{O casco do submarino encontra-se submersa sob o oceano turvo.}
+{212100}{}{Ferrugem do casco}
+{212101}{}{O casco do submarino encontra-se submersa sob o oceano turvo.}
+{212200}{}{Oceano Turvo}
+{212300}{}{Oceano Turvo}
+{212400}{}{Oceano Turvo}
+{212500}{}{Oceano Turvo}
+{212600}{}{Oceano Turvo}
+{212700}{}{Ferrugem do casco}
+{212701}{}{O casco do submarino encontra-se submersa sob o oceano turvo.}
+{212800}{}{Ferrugem do casco}
+{212801}{}{O casco do submarino encontra-se submersa sob o oceano turvo.}
+{212900}{}{Barco enferrujado}
+{212901}{}{Este barco parece não ter condições de navegar.}
+{213000}{}{Oceano Turvo}
+{213100}{}{Ferrugem do casco}
+{213101}{}{O casco do submarino encontra-se submersa sob o oceano turvo.}
+{213200}{}{Ferrugem do casco}
+{213201}{}{O casco do submarino encontra-se submersa sob o oceano turvo.}
+{213300}{}{Oceano Turvo}
+{213400}{}{Oceano Turvo}
+{213500}{}{Oceano Turvo}
+{213600}{}{Ferrugem do casco}
+{213601}{}{O casco do submarino encontra-se submersa sob o oceano turvo.}
+{213700}{}{Ferrugem do casco}
+{213701}{}{O casco do submarino encontra-se submersa sob o oceano turvo.}
+{213800}{}{Oceano Turvo}
+{213900}{}{Oceano Turvo}
+{214000}{}{Oceano Turvo}
+{214100}{}{Ferrugem do casco}
+{214200}{}{Lançador de torpedo} #Torpedo Launcher
+{214201}{}{Estes tubos de metal são feitos de um número considerável de intertravamento. Parece que eles ainda estão em condição de trabalho.}
+{214300}{}{Ferrugem do casco}
+{214301}{}{Ferrugem do casco}
+{214400}{}{Ferrugem do casco}
+{214500}{}{Ferrugem do casco}
+{214600}{}{Ferrugem do casco}
+{214700}{}{Torpedos}
+{214701}{}{Torpedos}
+{214800}{}{Torpedos}
+{214801}{}{Torpedos}
+{214900}{}{Torpedos}
+{214901}{}{Torpedos}
+{215000}{}{Ferrugem do casco}
+{215100}{}{Ferrugem do casco}
+{215200}{}{Ferrugem do casco} 
+{215300}{}{Máquinas enferrujadas} #Rusty Machinery
+{215400}{}{Máquinas enferrujadas}
+{215500}{}{Torpedos}
+{215501}{}{Torpedos}
+{215600}{}{Torpedos}
+{215601}{}{Torpedos}
+{215700}{}{Máquinas enferrujadas}
+{215800}{}{Ferrugem do casco}
+{215900}{}{Máquinas enferrujadas}
+{216000}{}{Ferrugem do casco}
+{216100}{}{Máquinas enferrujadas}
+{216200}{}{Máquinas enferrujadas}
+{216300}{}{Máquinas enferrujadas}
+{216400}{}{Máquinas enferrujadas}
+{216500}{}{Ferrugem do casco}
+{216600}{}{Ferrugem do casco}
+{216700}{}{Ferrugem do casco}
+{216800}{}{Ferrugem do casco}
+{216900}{}{Ferrugem do casco}
+{217000}{}{Ferrugem do casco}
+{217100}{}{Ferrugem do casco}
+{217200}{}{Ferrugem do casco}
+{217300}{}{Escotilha de submarino}
+{217400}{}{Cadeira}
+{217500}{}{Cadeira}
+{217600}{}{Placa do Petróleiro Poseidon} #Poseidon Oil Sign
+{217601}{}{Este letreiro de néon velho ainda tem um pouco de vida à esquerda nele.}
+{217700}{}{Portas maciças de aço do refúgio}
+{217701}{}{Estas portas de aço são praticamente indestrutíveis.}
+{218800}{}{Sub Torre} #Sub Tower
+{218900}{}{Sub Torre}
+{219000}{}{Escada}
+{219001}{}{Um conjunto de escada de madeira.}
+{219100}{}{Escada}
+{219101}{}{Um conjunto de escada de madeira.}
+{219200}{}{Escada}
+{219201}{}{Um conjunto de escada de madeira.}
+{219300}{}{Escada} #Escada
+{219400}{}{Escotilha de submarino enferrujada}
+{219500}{}{Escotilha de submarino enferrujada}
+{219501}{}{Com um pouco de esforço esta escotilha ainda pode ser aberta.}
 {219600}{}{Auto-Doc}
 {219700}{}{}
-{219800}{}{Wanted Sign}
-{219801}{}{A sketched portrait of a fugitive wanted by the local authorities.}
-{219900}{}{Fan}
-{220000}{}{Jammed Fan}
-{220100}{}{Rusty Steel Rail}
-{220200}{}{Sign}
-{220201}{}{This sign says: General Store.}
+{219800}{}{Placa de procurado} #Placa de procurado
+{219801}{}{Um retrato esboçado de um fugitivo procurado pelas autoridades locais.}
+{219900}{}{Ventilador}
+{220000}{}{Ventilador preso}
+{220100}{}{Trilho de aço enferrujado}
+{220200}{}{Placa}
+{220201}{}{Esta placa diz: Armazém geral.}
 {220300}{}{Tapete desgastado}
-{220301}{}{A simple Tapete. The weaver was obviously very talented.}
-{220400}{}{Glowing Ossos}
-{220401}{}{A large pile of glowing animal Ossos. At least, you think all the Ossos are animal...}
-{220500}{}{Glowing Ossos}
-{220501}{}{A large pile of glowing animal Ossos. At least, you think all the Ossos are animal...}
-{220600}{}{Glowing Ossos}
-{220601}{}{A very large pile of glowing Ossos. You cannot determine the species of the dead critters.}
-{220700}{}{Glowing Ossos}
-{220701}{}{You think these might be Horned Kangaroo Ossos, but you cannot be sure. They are glowing and too weathered to make a final determination.}
-{220800}{}{Glowing Ossos}
-{220801}{}{You see the Ossos of a large, glowing two-headed cow.}
-{220900}{}{Cave In}
-{220901}{}{A large amount of glowing rocks, far more than could ever be moved easily.}
-{221000}{}{Glowing Metal Cover}
-{221001}{}{A heavy glowing man-hole cover. It looks like it is in good shape, and that it was recently moved.}
-{221100}{}{Glowing Sewer Hole}
-{221101}{}{It looks like an access hole for the sewer system. It's glowing green!}
-{221200}{}{Glowing Stalagmite}
-{221201}{}{A natural extension of the rock floor. This one's glowing green!}
-{221300}{}{Glowing Stalagmite}
-{221301}{}{A natural extension of the rock floor. This one's glowing green!}
-{221400}{}{Glowing Rock Column}
-{221401}{}{This thick column of rock extends from floor to ceiling. It's glowing!}
-{221500}{}{Glowing Rock Column}
-{221501}{}{This thin column of rock extends from floor to ceiling. It's glowing!}
-{221600}{}{Glowing Cave Wall}
-{221700}{}{Glowing Cave Wall}
-{221800}{}{Glowing Cave Wall}
-{221900}{}{Glowing Cave Wall}
-{222000}{}{Glowing Cave Wall}
-{222100}{}{Glowing Cave Wall}
-{222200}{}{Glowing Cave Wall}
-{222300}{}{Glowing Cave Wall}
-{222400}{}{Glowing Cave Wall}
-{222500}{}{Glowing Cave Wall}
-{222600}{}{Glowing Cave Wall}
-{222700}{}{Glowing Cave Wall}
-{222800}{}{Glowing Cave Wall}
-{222900}{}{Glowing Cave Wall}
-{223000}{}{Glowing Cave Wall}
-{223100}{}{Glowing Rocks}
-{223101}{}{A pile of glowing rocks. Not very interesting.}
-{223200}{}{Glowing Rocks}
-{223201}{}{A pile of glowing rocks. Not very interesting.}
-{223300}{}{Glowing Rocks}
-{223301}{}{A small pile of glowing rocks. Not in the least bit interesting to you.}
-{223400}{}{Glowing Rocks}
-{223401}{}{A very small pile of glowing rocks.}
-{223500}{}{Glowing Rocks}
-{223501}{}{A very small pile of glowing rocks.}
-{223600}{}{Glowing Rocks}
-{223601}{}{A very small pile of glowing rocks.}
-{223700}{}{Glowing Rocks}
-{223701}{}{A very small pile of glowing rocks.}
-{223800}{}{Glowing Rocks}
-{223801}{}{A pile of glowing rocks. Not very interesting.}
-{223900}{}{Glowing Egg Shell}
-{223901}{}{Pieces of a broken egg shell. It glows!}
-{224000}{}{Glowing Egg Shell}
-{224001}{}{Pieces of a broken egg shell. It glows!}
-{224100}{}{Glowing Egg Shell}
-{224101}{}{Pieces of a broken egg shell. It glows!}
-{224200}{}{Glowing Egg Shell}
-{224201}{}{Pieces of a broken egg shell. It glows!}
-{224300}{}{Small glowing rocks}
-{224301}{}{Scattered small glowing rocks.}
-{224400}{}{Small glowing rocks}
-{224401}{}{Scattered small glowing rocks.}
-{224500}{}{Small glowing rocks}
-{224501}{}{Scattered small glowing rocks.}
-{224600}{}{Glowing Egg Shell}
-{224601}{}{Pieces of a broken egg shell. It glows!}
-{224700}{}{Glowing Wood Planks}
-{224701}{}{These sturdy wooden planks have been firmly bound together.}
-{224800}{}{Glowing Wood Planks}
-{224801}{}{These sturdy wooden planks have been firmly bound together.}
-{224900}{}{Ladder}
-{224901}{}{It's an old, glowing, fairly rickety ladder. It looks like it will barely support your weight.}
-{225000}{}{Ladder Down}
-{225001}{}{A manmade hole with a ladder leading down.}
-{225100}{}{Glowing Rocks}
-{225101}{}{You study the glowing rocks for a while, but they never move.}
-{225200}{}{Glowing Rocks}
-{225201}{}{You keep a close eye on these glowing rocks, in case they move to attack you.}
-{225300}{}{Glowing Rocks}
-{225301}{}{A large pile of glowing rocks. They look radioactive.}
-{225400}{}{Glowing Rocks}
-{225401}{}{A small pile of glowing rocks.}
-{225500}{}{Glowing Rocks}
-{225501}{}{A small pile of glowing rocks.}
-{225600}{}{Glowing Rocks}
-{225601}{}{A large pile of glowing rocks.}
-{225700}{}{Glowing Rocks}
-{225701}{}{A very large pile of glowing rocks. They look dangerous just sitting there.}
-{225800}{}{Glowing Rocks}
-{225801}{}{A large pile of glowing rocks. If you look closely, you can see the faces of little old men in the sides of the stones.}
-{225900}{}{Glowing Rocks}
-{225901}{}{Rocks, rocks, rocks! Everywhere you look, glowing rocks!}
-{226000}{}{Glowing Rocks}
-{226001}{}{A small pile of glowing rocks.}
-{226100}{}{Glowing Rocks}
-{226200}{}{Glowing Rocks}
-{226300}{}{Glowing Rocks}
-{226400}{}{Glowing Rocks}
-{226500}{}{Glowing Rocks}
-{226600}{}{Glowing Rocks}
-{226700}{}{Glowing Rocks}
-{226800}{}{Glowing Wall}
-{226900}{}{Glowing Wall}
-{227000}{}{Glowing Wall}
-{227100}{}{Glowing Wall}
-{227200}{}{Glowing Wall}
-{227300}{}{Glowing Wall}
-{227400}{}{Glowing Drain}
-{227401}{}{There is some sort of rank, disgusting smell coming from this sewer drain. After a few moments, it doesn't smell as bad.}
-{227500}{}{Glowing Drain}
-{227501}{}{You can barely make out some movement behind the grate covering this drain. You can see small green glowing eyes peering back at you. Rat eyes.}
-{227600}{}{Glowing Drain}
-{227601}{}{Gurgling water sounds come from this drain. So does a really vile stench.}
-{227700}{}{Glowing Drain}
-{227701}{}{Gurgling water sounds come from beyond this drain. So does a really vile smell.}
-{227800}{}{Grimy Bed}
-{227801}{}{On closer examination, you determine that the sheets have not been changed in a very, very long time.}
-{227900}{}{Grimy Bed}
-{227901}{}{On closer examination, you determine that the sheets have not been changed in a very, very long time.}
-{228000}{}{Grimy Bed}
-{228001}{}{On closer examination, you determine that the sheets have not been changed in a very, very long time.}
-{228100}{}{Glass}
-{228101}{}{This glass is difficult to see through.}
-{228200}{}{Glass}
-{228201}{}{This glass is difficult to see through.}
-{228300}{}{Glass}
-{228301}{}{This glass is difficult to see through.}
-{228400}{}{Glass}
-{228401}{}{This glass is barely transparent.}
-{228500}{}{Glass}
-{228501}{}{This glass is barely transparent.}
-{228600}{}{Glass}
-{228601}{}{This glass is barely transparent.}
-{228700}{}{Metal Door}
-{228701}{}{A sturdy metal door.}
-{228800}{}{Metal Door}
-{228801}{}{A sturdy metal door.}
-{228900}{}{Guards Shack}
-{228901}{}{A run down guards shack.}
-{229000}{}{Guards Shack}
-{229001}{}{A run down guards shack.}
-{229100}{}{Green Bubbling Liquid}
-{229101}{}{Green bubbling liquid. It smells strange.}
-{229200}{}{Heavy Laser Tower}
-{229201}{}{The laser turret rests on this concrete tower.}
-{229300}{}{Heavy Laser Turret}
-{229301}{}{The turret rotates in a menacing way.}
-{229400}{}{Heavy Laser Tower}
-{229401}{}{The laser turret rests on this concrete tower.}
-{229500}{}{Heavy Laser Turret}
-{229501}{}{The turret rotates in a menacing way.}
-{229800}{}{Film Poster}
-{229801}{}{An old tatered film poster. "Hobo With a Shotgun".}
-{229900}{}{An odd looking creature}
-{229901}{}{A dead body with plant growth wrapped around it.}
-{230000}{}{An odd looking creature}
-{230001}{}{A dead body with plant growth wrapped around it.}
-
+{220301}{}{Um Tapete simples. O tecelão foi obviamente muito talentoso.}
+{220400}{}{Ossos brilhantes}
+{220401}{}{Uma grande pilha de ossos brilhantes de animais. Pelo menos, você acha que todos os ossos são animais...}
+{220500}{}{Ossos brilhantes}
+{220501}{}{Uma grande pilha de ossos brilhantes de animais. Pelo menos, você acha que todos os ossos são animais...}
+{220600}{}{Ossos brilhantes}
+{220601}{}{Uma grande pilha de Ossos brilhantes. Você não pode determinar as espécies de criaturas mortas.}
+{220700}{}{Ossos brilhantes}
+{220701}{}{Você acha que estes ossos podem ser de um Canguru, mas você não tem certeza. Eles estão brilhando e também resistiu bem as condições do tempo.}
+{220800}{}{Ossos brilhantes}
+{220801}{}{Você vê o ossos de uma vaca grande, brilhante de duas cabeças.}
+{220900}{}{Desmoronamento}
+{220901}{}{Uma grande quantidade de pedras brilhantes, muito mais do que jamais poderia ser movido facilmente.}
+{221000}{}{Tampa de metal brilhante}
+{221001}{}{Uma tampa brilhante e pesada. Parece que ele está em boa forma, e que foi recentemente transferida.}
+{221100}{}{Buraco de esgoto brilhante}
+{221101}{}{Parece um buraco de acesso para o sistema de esgoto. É verde brilhante!}
+{221200}{}{Estalagmite brilhante}
+{221201}{}{Uma extensão natural de pedra do chão. Essa é verde brilhante!}
+{221300}{}{Estalagmite brilhante}
+{221301}{}{Uma extensão natural de pedra do chão. Essa é verde brilhante!}
+{221400}{}{Coluna de pedra brilhante}
+{221401}{}{Esta coluna espessa de pedra estende do chão ao teto. É brilhante!}
+{221500}{}{Coluna de pedra brilhante}
+{221501}{}{Esta coluna fina de pedra estende do chão ao teto. É brilhante!}
+{221600}{}{Parede brilhante da caverna}
+{221700}{}{Parede brilhante da caverna}
+{221800}{}{Parede brilhante da caverna}
+{221900}{}{Parede brilhante da caverna}
+{222000}{}{Parede brilhante da caverna}
+{222100}{}{Parede brilhante da caverna}
+{222200}{}{Parede brilhante da caverna}
+{222300}{}{Parede brilhante da caverna}
+{222400}{}{Parede brilhante da caverna}
+{222500}{}{Parede brilhante da caverna}
+{222600}{}{Parede brilhante da caverna}
+{222700}{}{Parede brilhante da caverna}
+{222800}{}{Parede brilhante da caverna}
+{222900}{}{Parede brilhante da caverna}
+{223000}{}{Parede brilhante da caverna}
+{223100}{}{Pedras brilhantes}
+{223101}{}{Uma pilha de Pedras Brilhantes. Não é muito interessante.}
+{223200}{}{Pedras brilhantes}
+{223201}{}{Uma pilha de Pedras Brilhantes. Não é muito interessante.}
+{223300}{}{Pedras brilhantes}
+{223301}{}{Uma pequena pilha de pedras brilhantes. Nem um pouco interessante para você.}
+{223400}{}{Pedras brilhantes}
+{223401}{}{Uma pequena pilha de pedras brilhantes.}
+{223500}{}{Pedras brilhantes}
+{223501}{}{Uma pequena pilha de pedras brilhantes.}
+{223600}{}{Pedras brilhantes}
+{223601}{}{Uma pequena pilha de pedras brilhantes.}
+{223700}{}{Pedras brilhantes}
+{223701}{}{Uma pequena pilha de pedras brilhantes.}
+{223800}{}{Pedras brilhantes}
+{223801}{}{Uma pilha de Pedras Brilhantes. Não é muito interessante.}
+{223900}{}{Casca de ovo brilhante}
+{223901}{}{Pedaços de casca de ovo quebrada. Ela brilha!}
+{224000}{}{Casca de ovo brilhante}
+{224001}{}{Pedaços de casca de ovo quebrada. Ela brilha!}
+{224100}{}{Casca de ovo brilhante}
+{224101}{}{Pedaços de casca de ovo quebrada. Ela brilha!}
+{224200}{}{Casca de ovo brilhante}
+{224201}{}{Pedaços de casca de ovo quebrada. Ela brilha!}
+{224300}{}{Pequenas pedras brilhantes}
+{224301}{}{Pequenas pedras brilhantes escpalhadas.}
+{224400}{}{Pequenas pedras brilhantes}
+{224401}{}{Scattered small Pedras brilhantes.}
+{224500}{}{Pequenas pedras brilhantes}
+{224501}{}{Pequenas pedras brilhantes espalhadas.}
+{224600}{}{Casca de ovo brilhante}
+{224601}{}{Pedaços de casca de ovo quebrada. Ela brilha!}
+{224700}{}{Tábuas de madeira brilhante}
+{224701}{}{Estas tábuas de madeira resistentes foram firmemente unidas.}
+{224800}{}{Tábuas de madeira brilhante}
+{224801}{}{Estas tábuas de madeira resistentes foram firmemente unidas.}
+{224900}{}{Escada}
+{224901}{}{É uma escada, velha, brilhante, bastante frágil. Parece mal vai suportar o seu peso.}
+{225000}{}{Escada para baixo}
+{225001}{}{Um buraco feito pelo homem com uma Escada levando para baixo.}
+{225100}{}{Pedras brilhantes}
+{225101}{}{Você observa as pedras brilhantes por um tempo, mas elas nunca se mexem.}
+{225200}{}{Pedras brilhantes}
+{225201}{}{Você mantém um olhar atento sobre estas pedras brilhantes, no caso de elas se moverem para atacá-lo.}
+{225300}{}{Pedras brilhantes}
+{225301}{}{Uma grande pilha de pedras brilhantes. Parecem radioativo.}
+{225400}{}{Pedras brilhantes}
+{225401}{}{Uma pequena pilha de pedras brilhantes.}
+{225500}{}{Pedras brilhantes}
+{225501}{}{Uma pequena pilha de pedras brilhantes.}
+{225600}{}{Pedras brilhantes}
+{225601}{}{Uma grande pilha de pedras brilhantes.}
+{225700}{}{Pedras brilhantes}
+{225701}{}{Uma grande pilha de pedras brilhantes. Parecem perigoso apenas sentar ali.}
+{225800}{}{Pedras brilhantes}
+{225801}{}{Uma grande pilha de pedras brilhantes. Se você olhar de perto, você pode ver os rostos dos velhinhos nas laterais das pedras.}
+{225900}{}{Pedras brilhantes}
+{225901}{}{Rochas, pedras, rochas! Onde quer que você olhe, pedras brilhantes!}
+{226000}{}{Pedras brilhantes}
+{226001}{}{Uma pequena pilha de pedras brilhantes.}
+{226100}{}{Pedras brilhantes}
+{226200}{}{Pedras brilhantes}
+{226300}{}{Pedras brilhantes}
+{226400}{}{Pedras brilhantes}
+{226500}{}{Pedras brilhantes}
+{226600}{}{Pedras brilhantes}
+{226700}{}{Pedras brilhantes}
+{226800}{}{Parede brilhante}
+{226900}{}{Parede brilhante}
+{227000}{}{Parede brilhante}
+{227100}{}{Parede brilhante}
+{227200}{}{Parede brilhante}
+{227300}{}{Parede brilhante}
+{227400}{}{Drenagem brilhante}
+{227401}{}{Existe algum tipo de classificação, um cheiro nojento esta vindo deste esgoto. Depois de alguns momentos, ele não cheira tão mal.}
+{227500}{}{Drenagem brilhante}
+{227501}{}{Você mal pode se mexer por trás da grelha. Você pode ver pequenos olhos brilhantes verdes olhando atrás de você. Olhos de ratos.}
+{227600}{}{Drenagem brilhante}
+{227601}{}{Borbulhante sons de água vêm desta drenagem. O mesmo acontece com um cheiro muito ruim.}
+{227700}{}{Drenagem brilhante}
+{227701}{}{Borbulhante sons de água vêm desta drenagem. O mesmo acontece com um cheiro muito ruim.}
+{227800}{}{Cama suja}
+{227801}{}{Numa análise mais aprofundada, você determinar que os lençóis não foram usados de alguma forma por muito, muito tempo.}
+{227900}{}{Cama suja}
+{227901}{}{Numa análise mais aprofundada, você determinar que os lençóis não foram usados de alguma forma por muito, muito tempo.}
+{228000}{}{Cama suja}
+{228001}{}{Numa análise mais aprofundada, você determinar que os lençóis não foram usados de alguma forma por muito, muito tempo.}
+{228100}{}{Vidro}
+{228101}{}{Esta vidro é difícil de ver.}
+{228200}{}{Vidro}
+{228201}{}{Esta vidro é difícil de ver.}
+{228300}{}{Vidro}
+{228301}{}{Esta vidro é difícil de ver.}
+{228400}{}{Vidro}
+{228401}{}{Esta vidro é pouco transparente.}
+{228500}{}{Vidro}
+{228501}{}{Esta vidro é pouco transparente.}
+{228600}{}{Vidro}
+{228601}{}{Esta vidro é pouco transparente.}
+{228700}{}{Porta de metal}
+{228701}{}{Uma resistente porta de metal.}
+{228800}{}{Porta de metal}
+{228801}{}{Uma resistente porta de metal.}
+{228900}{}{Guardas da barraca}
+{228901}{}{Uma olhada rapida para baixo e guardas da barraca.}
+{229000}{}{Guardas da barraca}
+{229001}{}{Uma olhada rapida para baixo e guardas da barraca.}
+{229100}{}{Líquido verde borbulhante}
+{229101}{}{Líquido verde borbulhante. Cheira estranho.}
+{229200}{}{Forte Torre Laser}
+{229201}{}{Uma torre de laser assentada em uma torre de concreto.}
+{229300}{}{Forte Torre Laser}
+{229301}{}{A torre gira de forma ameaçadora.}
+{229400}{}{Forte Torre Laser}
+{229401}{}{Uma torre de laser assentada em uma torre de concreto.}
+{229500}{}{Forte Torre Laser}
+{229501}{}{A torre gira de forma ameaçadora.}
+{229800}{}{Cartaz de cinema}
+{229801}{}{Um velho cartaz de cinema. "Hobo With a Shotgun".}
+{229900}{}{Olhando uma criatura estranha}
+{229901}{}{Um cadáver com o crescimento das plantas em torno dele.}
+{230000}{}{Olhando uma criatura estranha}
+{230001}{}{Um cadáver com o crescimento das plantas em torno dele.}
