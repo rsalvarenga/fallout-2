@@ -1,8 +1,3 @@
-#
-#
-#
-#
-#
 {0}{}{Definições do Jogo}
 {1}{}{Definições da Tela}
 
