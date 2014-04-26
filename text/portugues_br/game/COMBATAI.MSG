@@ -5323,59 +5323,59 @@
 # target hit in head
 #
 {70000}{}{É melhor torcer para que não deixa uma cicatriz.}
-{70001}{}{Woah! Not the face!}
-{70002}{}{My face! My beautiful face!}
-{70003}{}{Hey! Don't mess with perfection.}
-{70004}{}{Try that again motherfucker and see what happens.}
+{70001}{}{Woah! Na cara não!}
+{70002}{}{Minha cara! Minha linda cara!}
+{70003}{}{Hey! Não mexa comigo.}
+{70004}{}{Tente de novo filho da puta pra ver o que acontece.}
 #
 # target hit in left arm
 #
-{70010}{}{That hurt, asshole.}
-{70011}{}{Shit! My arm!}
-{70012}{}{Hey, lay off the guns.}
-{70013}{}{Son of a bitch, that hurt!}
+{70010}{}{Isso dói, imbecil.}
+{70011}{}{Merda! Meu braço!}
+{70012}{}{Ei, dispensar as armas.}
+{70013}{}{Filho da puta, isso dói!}
 #
 # target hit in right arm
 #
-{70020}{}{That hurt, asshole.}
-{70021}{}{Shit! My arm!}
-{70022}{}{Hey, lay off the guns.}
-{70023}{}{Son of a bitch, that hurt!}
+{70020}{}{Isso dói, imbecil.}
+{70021}{}{Merda! Meu braço!}
+{70022}{}{Ei, dispensar as armas.}
+{70023}{}{Filho da puta, isso dói!}
 #
 # target hit in torso
 #
-{70030}{}{I'm technically over a hundred and eighty years old, you should feel ashamed.}
-{70031}{}{I'm bleeding... that's not how this is supposed to work.}
-{70032}{}{You can't kill me, I've got the heart of a demon.}
-{70033}{}{Hit me again and I'll knife you in the groin.}
+{70030}{}{Estou tecnicamente com mais de cento e oitenta anos de idade, você deve se sentir envergonhado.}
+{70031}{}{Estou sangrando ... não é assim que isso deve funcionar.}
+{70032}{}{Você não pode me matar, eu tenho o coração de um demônio.}
+{70033}{}{Me bata de novo e eu vou te meter a faca na virilha.}
 #
 # target hit in right leg
 #
-{70040}{}{You trying to make me a gimp?}
-{70041}{}{Ah! My knee!}
-{70042}{}{Shit! My leg!}
-{70043}{}{You gave me a fucking Charley horse!}
+{70040}{}{Você está tentando me encorajar?}
+{70041}{}{Ah! Meu joelho!}
+{70042}{}{Merda! Minha perna!}
+{70043}{}{Você me deu um cavalo Charley porra!}
 #
 # target hit in left leg
 #
-{70050}{}{You trying to make me a gimp?}
-{70051}{}{Ah! My knee!}
-{70052}{}{Shit! My leg!}
-{70053}{}{You gave me a fucking Charley horse!}
+{70050}{}{Você está tentando me encorajar?}
+{70051}{}{Ah! Meu joelho!}
+{70052}{}{Merda! Minha perna!}
+{70053}{}{Você me deu um cavalo Charley porra!}
 #
 # target hit in eyes
 #
-{70060}{}{My eyes!}
-{70061}{}{Oh fuck, not my eyes!}
-{70062}{}{MAh! I can't see shit!}
-{70063}{}{My eyes! My dreamboat eyes!}
+{70060}{}{Meus olhos!}
+{70061}{}{Oh merda, meus olhos NÃO!}
+{70062}{}{MAh! Eu não consigo ver nada!}
+{70063}{}{MEUS Olhos! Meus olhos! Ja não sou mais uma pessoa atraente!}
 #
 # target hit in groin
 #
-{70070}{}{FUCK!}
-{70071}{}{You just made this REAL personal.}
-{70072}{}{Oh, you're going to regret that.}
-{70073}{}{That's top of the line pre-war tech you're fucking with.}
+{70070}{}{FODA!}
+{70071}{}{Você acabou de fazer disso pessoal.}
+{70072}{}{Oh, você vai se arrepender disso.}
+{70073}{}{Você está se metendo no topo da linha de tecnologia de antes da guerra.}
 {70074}{}{Jealous?}
 {70075}{}{Whoa! Whoa! Whoa! That was uncalled for!}
 #
@@ -5458,7 +5458,7 @@
 #
 {70260}{}{Motherfucker hit me in the eyes!}
 {70261}{}{Oh! I think my eye's bleeding!}
-{70262}{}{My eyes!}
+{70262}{}{Meus olhos!}
 #
 # target hit in groin
 #
@@ -5539,7 +5539,7 @@
 #
 # target hit in eyes
 #
-{70460}{}{Cào! My eyes!}
+{70460}{}{Cào! Meus olhos!}
 {70461}{}{Cheap shot!}
 {70462}{}{Hey! I can't afford another eye surgery!}
 #
