@@ -5373,45 +5373,45 @@
 # target hit in groin
 #
 {70070}{}{FODA!}
-{70071}{}{Você acabou de fazer disso pessoal.}
+{70071}{}{Você acabou de tornar isso pessoal.}
 {70072}{}{Oh, você vai se arrepender disso.}
 {70073}{}{Você está se metendo no topo da linha de tecnologia de antes da guerra.}
-{70074}{}{Jealous?}
-{70075}{}{Whoa! Whoa! Whoa! That was uncalled for!}
+{70074}{}{Ciumento?}
+{70075}{}{Whoa! Whoa! Whoa! Isso foi desnecessário!}
 #
 #  running away
 #
-{70100}{}{Look, this was all just a big misunderstanding.}
-{70101}{}{I'm sorry alright, now leave me alone.}
-{70102}{}{Fuck this, I'm outta' here.}
-{70103}{}{I'll come back later and knife you in your sleep.}
-{70104}{}{It was just a joke.}
-{70105}{}{I'm terribly sorry, I don't know what came over me.}
-{70106}{}{They made me do it, I swear!}
-{70107}{}{Let me live and I'll never kill again, I promise!}
-{70108}{}{Can't we just talk this over like civilized people?}
+{70100}{}{Olha, tudo isso foi apenas um grande mal-entendido.}
+{70101}{}{Eu estou bem arrependido, agora me deixe em paz.}
+{70102}{}{Foda-se, eu vou embora daqui.}
+{70103}{}{Vou voltar mais tarde e te esfaquear enquanto você dorme.}
+{70104}{}{Foi só uma piada.}
+{70105}{}{Sinto muito, eu não sei o que deu em mim.}
+{70106}{}{Eles me obrigaram a fazer isso, eu juro!}
+{70107}{}{Deixe-me viver e eu nunca vou matar de novo, eu prometo!}
+{70108}{}{Não podemos apenas falar sobre isso como pessoas civilizadas?}
 #
 # moving in to attack
 #
-{70120}{}{Oh, I'm going to enjoy this.}
-{70121}{}{I can't wait to hear some screams.}
-{70122}{}{I've been just itching to kill...}
-{70123}{}{Time to indulge in the joys of an unpoliced society.}
-{70124}{}{Alright! Groin shot time!}
+{70120}{}{Oh, eu vou gostar disso.}
+{70121}{}{Eu não posso esperar para ouvir alguns gritos.}
+{70122}{}{Eu apenas fui ansiosos para matar ...}
+{70123}{}{Hora de entrar nas alegrias de uma sociedade sem lei.}
+{70124}{}{Tudo bem! Hora de balear nas partes de baixo!}
 #
 # attacking
 #
-{70140}{}{Scream for me.}
-{70141}{}{Let me get a better look at your blood.}
-{70142}{}{I'll try and make this as painful as possible.}
-{70143}{}{This violence is giving me a hard-on.}
+{70140}{}{Grite para mim.}
+{70141}{}{Deixe-me dar uma olhada melhor no seu sangue.}
+{70142}{}{Vou tentar fazer isso o mais doloroso possível.}
+{70143}{}{Toda essa violência está me deixando de pau duro.}
 #
 # target being missed
 #
-{70160}{}{What a fuckin' joke.}
-{70161}{}{Holy shit do you suck.}
-{70162}{}{You're lucky you missed. Actually, you're not lucky, cuz I'm still gonna kill you.}
-{70163}{}{Way to fail, champ.}
+{70160}{}{O que... não esta brincando.}
+{70161}{}{Puta merda você chupa.}
+{70162}{}{Você tem sorte que você perdeu. Na verdade, você não tem sorte, porque eu ainda vou te matar.}
+{70163}{}{A caminho para o erro, campeão.}
 #
 #
 ############################################
@@ -5420,80 +5420,80 @@
 #
 # target hit in head
 #
-{70200}{}{You best hope that don't leave a scar...}
-{70201}{}{Damn! You chipped my tooth, monkey!}
-{70202}{}{Hey! Watch the face!}
+{70200}{}{A esperança que não deixar uma cicatriz ...}
+{70201}{}{Maldição! Você arrebentou meu dente seu macaco!}
+{70202}{}{Hey! Mire na cara!}
 #
 # target hit in left arm
 #
-{70210}{}{Shit! You got my arm!}
-{70211}{}{Ohh, that stings!}
-{70212}{}{That's gonna leave an ugly smegging bruise.}
+{70210}{}{Merda! Acertou meu braço!}
+{70211}{}{Ohh, esse picadas!}
+{70212}{}{Isso vai deixar uma contusão feia no pinto.}
 #
 # target hit in right arm
 #
-{70220}{}{Shit! You got my arm!}
-{70221}{}{Ohh, that stings!}
-{70222}{}{That's gonna leave an ugly smegging bruise.}
+{70220}{}{Merda! Acertou meu braço!}
+{70221}{}{Ohh, esse picadas!}
+{70222}{}{Isso vai deixar uma contusão feia no pinto.}
 #
 # target hit in torso
 #
-{70230}{}{Ah! Right in my smegging chest!}
-{70231}{}{There goes one of my lives...}
-{70232}{}{You missed my heart, monkey!}
+{70230}{}{Ah! Mesmo no meu peito!}
+{70231}{}{Lá se vai uma das minhas vidas ...}
+{70232}{}{Você acertou meu coração, macaco!}
 #
 # target hit in right leg
 #
-{70240}{}{You can't keep this cat from strutting.}
-{70241}{}{Shit, right in my kneecap!}
-{70242}{}{You can't slow me down!}
+{70240}{}{Você não pode suportar este gato.}
+{70241}{}{Merda, bem no meu joelho!}
+{70242}{}{Você não pode me atrasar!}
 #
 # target hit in left leg
 #
-{70250}{}{You can't keep this cat from strutting.}
-{70251}{}{Shit, right in my kneecap!}
-{70252}{}{You can't slow me down!}
+{70250}{}{Você não pode suportar este gato.}
+{70251}{}{Merda, bem no meu joelho!}
+{70252}{}{Você não pode me atrasar!}
 #
 # target hit in eyes
 #
-{70260}{}{Motherfucker hit me in the eyes!}
-{70261}{}{Oh! I think my eye's bleeding!}
+{70260}{}{Filho da puta me bateu nos olhos!}
+{70261}{}{Oh! Eu acho que meu olho esta com um sangramento!}
 {70262}{}{Meus olhos!}
 #
 # target hit in groin
 #
-{70270}{}{Whoa, no hitting below the belt.}
-{70271}{}{Going for the groin's not cool. Not cool at all.}
-{70272}{}{Hey now! The groin's off limits.}
-{70273}{}{This cat don't wanna be neutered!}
+{70270}{}{Whoa, não bater abaixo da cintura.}
+{70271}{}{Golpe abaixo da virilha não é legal.}
+{70272}{}{Hey agora! Fora dos limites da virilha.}
+{70273}{}{Este gato não quer ser castrado!}
 #
 #  running away
 #
-{70300}{}{A cat's got to look after himself!}
-{70301}{}{Screw it, you're not worth it.}
-{70302}{}{Fuck this, I'm outta' here.}
-{70303}{}{Gotta jet while I've still got a life to spare.}
-{70304}{}{You won this time, monkey!}
+{70300}{}{Um gato tem que cuidar de si mesmo!}
+{70301}{}{Dane-se, dá pena de você.}
+{70302}{}{Foda-se, eu vou embora daqui.}
+{70303}{}{Preciso de um Jet enquanto eu ainda estou vivo.}
+{70304}{}{Você ganhou desta vez, macaco!}
 #
 # moving in to attack
 #
-{70320}{}{Don't worry, this'll be over *real* soon.}
-{70321}{}{This cat's about to pounce!}
-{70322}{}{Let's waste these smegheads.}
+{70320}{}{Não se preocupe, isso vai acabar em breve.}
+{70321}{}{Este gato está prestes a atacar!}
+{70322}{}{Vamos perder esses ataques.}
 #
 # attacking
 #
-{70340}{}{Hurry up and die so I can go take a nap.}
-{70341}{}{At least I'm killing you with style.}
-{70342}{}{You best not bleed on my clothes. }
-{70343}{}{I better not break a nail. }
+{70340}{}{Apresse-se e morra para que eu possa ir tirar um cochilo.}
+{70341}{}{Pelo menos eu estou te matando com estilo.}
+{70342}{}{Tomara você não sujar minha roupa de sangue.}
+{70343}{}{Tomara que eu não quebre a unha.}
 #
 # target being missed
 #
-{70360}{}{Looks like this cat's too quick for you.}
-{70361}{}{Now that's just sad.}
-{70362}{}{Here, let me show you how to actually *hit* something.}
-{70363}{}{Hell, I almost feel sorry for you. Almost.}
+{70360}{}{Parece que este gato é muito rápido para você.}
+{70361}{}{Agora que é triste.}
+{70362}{}{Aqui, Me deixe te mostrar como realmente * bater * em alguma coisa.}
+{70363}{}{Inferno, eu quase sinto pena de você. Quase.}
 #
 #
 #
@@ -5503,73 +5503,73 @@
 #
 # target hit in head
 #
-{70400}{}{Ah! My head!}
-{70401}{}{I think my ear's bleeding.}
-{70402}{}{Cào! I hope that didn't break my nose.}
+{70400}{}{Ah! Minha cabeça!}
+{70401}{}{Eu acho que meu ouvido esta com um sangramento.}
+{70402}{}{Cào! Espero não ter quebrado meu nariz.}
 #
 # target hit in left arm
 #
-{70410}{}{Cào! My arm!}
-{70411}{}{Damn, that hurts!}
-{70412}{}{At least it's not broken… I don't think.}
+{70410}{}{Cào! Meu braço!}
+{70411}{}{Droga, isso dói!}
+{70412}{}{Pelo menos ele não está quebrado... Eu não acho.}
 #
 # target hit in right arm
 #
-{70420}{}{Cào! My arm!}
-{70421}{}{Damn, that hurts!}
-{70422}{}{At least it's not broken… I don't think.}
+{70420}{}{Cào! Meu braço!}
+{70421}{}{Droga, isso dói!}
+{70422}{}{Pelo menos ele não está quebrado... Eu não acho.}
 #
 # target hit in torso
 #
-{70430}{}{I think I broke a rib.}
-{70431}{}{I won't die that easily.}
-{70432}{}{Cào! That hurt!}
+{70430}{}{Acho que quebrei uma costela.}
+{70431}{}{Eu não vou morrer tão facilmente.}
+{70432}{}{Cào! Isso dói!}
 #
 # target hit in right leg
 #
-{70440}{}{Not the legs!}
-{70441}{}{Ah! Right in the shin.}
-{70442}{}{That hurt, but at least I can still walk.}
+{70440}{}{Nem as pernas!}
+{70441}{}{Ah! Na canela direita.}
+{70442}{}{Isso dói, mas pelo menos eu ainda posso andar.}
 #
 # target hit in left leg
 #
-{70450}{}{Not the legs!}
-{70451}{}{Ah! Right in the shin.}
-{70452}{}{That hurt, but at least I can still walk.}
+{70450}{}{Nem as pernas!}
+{70451}{}{Ah! Na canela direita.}
+{70452}{}{Isso dói, mas pelo menos eu ainda posso andar.}
 #
 # target hit in eyes
 #
 {70460}{}{Cào! Meus olhos!}
-{70461}{}{Cheap shot!}
-{70462}{}{Hey! I can't afford another eye surgery!}
+{70461}{}{Tiro barato!}
+{70462}{}{Hey! Eu não posso pagar outra cirurgia do olho!}
 #
 # target hit in groin
 #
-{70470}{}{I can't believe you just hit me there.}
-{70471}{}{I'm not that kind of girl!}
-{70472}{}{You just made this *real* personal.}
+{70470}{}{Eu não posso acreditar que você acabou de me bater lá.}
+{70471}{}{Eu não sou esse tipo de garota!}
+{70472}{}{Você acabou de tornar isso pessoal.}
 #
 #  running away
 #
-{70500}{}{Looks like I've no choice but to run...}
-{70501}{}{I'd rather flee than die.}
-{70502}{}{Alright. That's enough of this...}
+{70500}{}{Parece que eu não tenho escolha a não ser correr...}
+{70501}{}{Eu prefiro fugir do que morrer.}
+{70502}{}{Tudo bem. Isso é o suficiente...}
 #
 # moving in to attack
 #
-{70520}{}{Let's get this over with.}
-{70521}{}{Your death shall come swiftly.}
-{70522}{}{Looks like it's come to this...}
+{70520}{}{Vamos acabar logo com isso.}
+{70521}{}{Sua morte virá rapidamente.}
+{70522}{}{Parece que chegou sua hora...}
 #
 # attacking
 #
-{70540}{}{You asked for this.}
-{70541}{}{I take no pleasure from this.}
-{70542}{}{Now you see the consequence of your actions.}
+{70540}{}{Você pediu por isso.}
+{70541}{}{Não tenho prazer com isso.}
+{70542}{}{Agora você vê a conseqüência de suas ações.}
 #
 # target being missed
 #
-{70560}{}{Wow, that's pathetic.}
-{70561}{}{Too quick for you, huh?}
-{70562}{}{Not even close.}
+{70560}{}{Uau, isso é patético.}
+{70561}{}{Rápido demais para você, não é?}
+{70562}{}{Nem perto disso.}
 #
