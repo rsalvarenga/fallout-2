@@ -4,119 +4,119 @@
 #
 # Truly Generic strings (no need for gender/number issues)
 #
-{100}{}{You need %d action points.}
-{101}{}{Out of ammo.}
-{102}{}{Target out of range.}
-{103}{}{Combat cannot end with nearby hostile creatures.}
-{104}{}{Your aim is blocked.}
-{105}{}{You cannot use weapons with both arms crippled.}
-{106}{}{You cannot use two-handed weapons with a crippled arm.}
-{107}{}{You are not strong enough to use this weapon properly.}
-{108}{}{ and }
+{100}{}{Você precisa de %d pontos de ação.} #You need %d action points.
+{101}{}{Sem munições.} #Out of ammo.
+{102}{}{Alvo fora do intervalo.} #Target out of range.
+{103}{}{Não é possível finalizar o combate com criaturas hostis nas proximidades.} #Combat cannot end with nearby hostile creatures.
+{104}{}{Seu alvo esta bloqueado.} #Your aim is blocked.
+{105}{}{Você não pode usar armas com os dois braços quebrados.} #You cannot use weapons with both arms crippled.
+{106}{}{Você não pode usar armas de duas mãos com um braço quebrado.} #You cannot use two-handed weapons with a crippled arm.
+{107}{}{Você não é forte o suficiente para usar esta arma corretamente.} #You are not strong enough to use this weapon properly.
+{108}{}{ e } #and
 #
 # Combat Flag Strings (all of these happen to you, the MALE player)
 #
-{200}{}{knocked out}
-{201}{}{knocked down}
-{202}{}{crippled your left leg}
-{203}{}{crippled your right leg}
-{204}{}{crippled your left arm}
-{205}{}{crippled your right arm}
-{206}{}{blinded}
-{207}{}{were killed}
-{208}{}{hit}
-{209}{}{critical}
-{210}{}{on fire}
-{211}{}{had your armor bypassed}
-{212}{}{your weapon exploded}
-{213}{}{destroyed your weapon}
-{214}{}{dropped your weapon}
-{215}{}{lost your next turn}
-{216}{}{hit yourself}
-{217}{}{lost the rest of your ammo}
-{218}{}{fired a dud shot}
-{219}{}{hurt yourself}
-{220}{}{hit randomly}
-{221}{}{crippled a random limb}
-{222}{}{peppered with fragments}
+{200}{}{nocauteado} #knocked out
+{201}{}{derrubado} #knocked down
+{202}{}{perna esquerda quebrada} #crippled your left leg
+{203}{}{perna direita quebrada} #crippled your right leg
+{204}{}{braço esquerdo quebrado} #crippled your left arm
+{205}{}{braço direito quebrado} #crippled your right arm
+{206}{}{cego} #blinded
+{207}{}{foram mortos} #were killed
+{208}{}{acerto} #hit
+{209}{}{crítico}
+{210}{}{em chamas} #on fire
+{211}{}{sua armadura foi ignorada} #had your armor bypassed
+{212}{}{sua arma explodiu} #your weapon exploded
+{213}{}{sua arma foi destruída} #destroyed your weapon
+{214}{}{sua arma caiu} #dropped your weapon
+{215}{}{perdeu seu próximo turno} #lost your next turn
+{216}{}{acertou em você mesmo} #hit yourself
+{217}{}{perdeu o resto de sua munição} #lost the rest of your ammo
+{218}{}{tiro fracassado} #fired a dud shot
+{219}{}{você se feriu} #hurt yourself
+{220}{}{bater aleatoriamente} #hit randomly
+{221}{}{quebrar um membro aleatório} #crippled a random limb
+{222}{}{perfurar com fragmentos} #peppered with fragments
 #
 # Combat Flag Strings (all of these happen to you, the FEMALE player)
 #
-{250}{}{knocked out}
-{251}{}{knocked down}
-{252}{}{crippled your left leg}
-{253}{}{crippled your right leg}
-{254}{}{crippled your left arm}
-{255}{}{crippled your right arm}
-{256}{}{blinded}
-{257}{}{were killed}
-{258}{}{hit}
-{259}{}{critical}
-{260}{}{on fire}
-{261}{}{had your armor bypassed}
-{262}{}{your weapon exploded}
-{263}{}{destroyed your weapon}
-{264}{}{dropped your weapon}
-{265}{}{lost your next turn}
-{266}{}{hit yourself}
-{267}{}{lost the rest of your ammo}
-{268}{}{fired a dud shot}
-{269}{}{hurt yourself}
-{270}{}{hit randomly}
-{271}{}{crippled a random limb}
-{272}{}{peppered with fragments}
+{250}{}{nocauteada}
+{251}{}{derrubada}
+{252}{}{perna esquerda quebrada}
+{253}{}{perna direita quebrada}
+{254}{}{braço esquerdo quebrado}
+{255}{}{braço direito quebrado}
+{256}{}{cega}
+{257}{}{foram mortos}
+{258}{}{acerto}
+{259}{}{crítico}
+{260}{}{em chamas}
+{261}{}{sua armadura foi ignorada}
+{262}{}{sua arma explodiu}
+{263}{}{sua arma foi destruída}
+{264}{}{sua arma caiu}
+{265}{}{perdeu seu próximo turno}
+{266}{}{acertou em você mesma}
+{267}{}{perdeu o resto de sua munição}
+{268}{}{tiro fracassado}
+{269}{}{você se feriu}
+{270}{}{bater aleatoriamente}
+{271}{}{quebrar um membro aleatório}
+{272}{}{perfurar com fragmentos}
 #
 # Combat Flag Strings (all of these happen to a male)
 #
-{300}{}{knocked out}
-{301}{}{knocked down}
-{302}{}{crippled his left leg}
-{303}{}{crippled his right leg}
-{304}{}{crippled his left arm}
-{305}{}{crippled his right arm}
-{306}{}{blinded}
-{307}{}{was killed}
-{308}{}{hit}
-{309}{}{critical}
-{310}{}{on fire}
-{311}{}{had his armor bypassed}
-{312}{}{his weapon exploded}
-{313}{}{destroyed his weapon}
-{314}{}{dropped his weapon}
-{315}{}{lost his next turn}
-{316}{}{hit himself}
-{317}{}{lost the rest of his ammo}
-{318}{}{fired a dud shot}
-{319}{}{hurt himself}
-{320}{}{hit randomly}
-{321}{}{crippled a random limb}
-{322}{}{peppered with fragments}
+{300}{}{nocauteado}
+{301}{}{derrubado}
+{302}{}{quebrou sua perna esquerda} #crippled his left leg
+{303}{}{quebrou sua perna direita} #crippled his right leg
+{304}{}{quebrou seu braço esquerdo} #crippled his left arm
+{305}{}{quebrou seu braço direito} #crippled his right arm
+{306}{}{cego}
+{307}{}{morreu} #was killed
+{308}{}{acerto}
+{309}{}{crítico}
+{310}{}{em chamas}
+{311}{}{sua armadura foi ignorada} #had his armor bypassed
+{312}{}{sua arma explodiu} #his weapon exploded
+{313}{}{sua arma foi destruída} #destroyed his weapon
+{314}{}{deixou cair a arma} #dropped his weapon
+{315}{}{perdeu seu próximo turno} #lost his next turn
+{316}{}{acertou em você mesmo} #hit himself
+{317}{}{perdeu o resto de sua munição} #lost the rest of his ammo
+{318}{}{tiro fracassado}
+{319}{}{você se feriu} #hurt himself
+{320}{}{bater aleatoriamente}
+{321}{}{quebrar um membro aleatório}
+{322}{}{perfurar com fragmentos}
 #
 # Combat Flag Strings (all of these happen to a female)
 #
-{400}{}{knocked out}
-{401}{}{knocked down}
-{402}{}{crippled her left leg}
-{403}{}{crippled her right leg}
-{404}{}{crippled her left arm}
-{405}{}{crippled her right arm}
-{406}{}{blinded}
-{407}{}{was killed}
-{408}{}{hit}
-{409}{}{critical}
-{410}{}{on fire}
-{411}{}{had her armor bypassed}
-{412}{}{her weapon exploded}
-{413}{}{destroyed her weapon}
-{414}{}{her weapon dropped}
-{415}{}{lost her next turn}
-{416}{}{hit herself}
-{417}{}{lost the rest of her ammo}
-{418}{}{fired a dud shot}
-{419}{}{hurt herself}
-{420}{}{hit randomly}
-{421}{}{crippled a random limb}
-{422}{}{peppered with fragments}
+{400}{}{nocauteada}
+{401}{}{derrubada}
+{402}{}{quebrou sua perna esquerda}
+{403}{}{quebrou sua perna direita}
+{404}{}{quebrou seu braço esquerdo}
+{405}{}{quebrou seu braço direito}
+{406}{}{cega}
+{407}{}{morreu}
+{408}{}{acerto}
+{409}{}{crítico}
+{410}{}{em chamas}
+{411}{}{sua armadura foi ignorada}
+{412}{}{sua arma explodiu}
+{413}{}{sua arma foi destruída}
+{414}{}{deixou cair a arma}
+{415}{}{perdeu seu próximo turno}
+{416}{}{acertou em você mesma}
+{417}{}{perdeu o resto de sua munição}
+{418}{}{tiro fracassado}
+{419}{}{você se feriu}
+{420}{}{bater aleatoriamente}
+{421}{}{quebrar um membro aleatório}
+{422}{}{perfurar com fragmentos}
 #
 # Miscellaneous combat messages (all of these happen to you, the male player)
 # Note: the first %s will be replaced by the value of line 506, which
@@ -127,24 +127,24 @@
 #          will be a string from the section Hit Locations starting
 #          in the 1000's in this file, with the exception of line 509
 #          where the second %s is the name of another creature
-{506}{}{You}
-{509}{}{Oops! %s were hit instead of %s!}
-{511}{}{%s were critically hit in %s for %d hit points}
-{512}{}{%s were hit in %s for %d hit points}
-{513}{}{%s were hit for %d hit points}
-{514}{}{%s critically missed}
-{515}{}{%s missed}
-{520}{}{%s were critically hit for %d hit points}
-{521}{}{%s were critically hit in %s for 1 hit point}
-{522}{}{%s were hit in %s for 1 hit point}
-{523}{}{%s were hit for 1 hit point}
-{524}{}{%s were critically hit for 1 hit point}
-{525}{}{%s were critically hit in %s for no damage}
-{526}{}{%s were hit in %s for no damage}
-{527}{}{%s were hit for no damage}
-{528}{}{%s were critically hit for no damage}
-{533}{}{%s critically missed and took 1 hit point}
-{534}{}{%s critically missed and took %d hit points}
+{506}{}{Você}
+{509}{}{Oops! %s foi atingido, em vez de %s!} #were hit instead of
+{511}{}{%s foi criticalmente atingido no %s em %d pontos de vida} #%s were críticoly hit in %s for %d hit points
+{512}{}{%s foi atingido em %s para %d pontos de vida}
+{513}{}{%s foi atingido por %d pontos de vida}
+{514}{}{%s erro critico}#críticoly missed
+{515}{}{%s perdido} #missed
+{520}{}{%s foi criticalmente atingido %d pontos de vida} #were críticoly hit for
+{521}{}{%s foi criticalmente atingido no %s em 1 ponto de vida}
+{522}{}{%s foi atingido em %s 1 ponto de vida}
+{523}{}{%s foi atingido em 1 ponto de vida} #were hit for 1 hit point
+{524}{}{%s foi criticalmente atingido em 1 ponto de vida}
+{525}{}{%s foi criticalmente atingido no %s sem danos} #were críticoly hit in
+{526}{}{%s foi atingido em %s sem danos}
+{527}{}{%s foi atingido sem nenhum dano} #were hit for no damage
+{528}{}{%s foi criticalmente atingido sem danos}
+{533}{}{%s erro critico sofreu 1 ponto de vida} #and took
+{534}{}{%s erro critico sofreu %d pontos de vida} #and took
 #
 # Miscellaneous combat messages (all of these happen to you, the female player)
 # Note: the first %s will be replaced by the value of line 556, which
@@ -156,23 +156,23 @@
 #          in the 1000's in this file, with the exception of line 559
 #          where the second %s is the name of another creature
 {556}{}{You}
-{559}{}{Oops! %s were hit instead of %s!}
-{561}{}{%s were critically hit in %s for %d hit points}
-{562}{}{%s were hit in %s for %d hit points}
-{563}{}{%s were hit for %d hit points}
-{564}{}{%s critically missed}
-{565}{}{%s missed}
-{570}{}{%s were critically hit for %d hit points}
-{571}{}{%s were critically hit in %s for 1 hit point}
-{572}{}{%s were hit in %s for 1 hit point}
-{573}{}{%s were hit for 1 hit point}
-{574}{}{%s were critically hit for 1 hit point}
-{575}{}{%s were critically hit in %s for no damage}
-{576}{}{%s were hit in %s for no damage}
-{577}{}{%s were hit for no damage}
-{578}{}{%s were critically hit for no damage}
-{583}{}{%s critically missed and took 1 hit point}
-{584}{}{%s critically missed and took %d hit points}
+{559}{}{Oops! %s foi atingida, em vez de %s!}
+{561}{}{%s foi criticalmente atingida no %s for %d pontos de vida}
+{562}{}{%s foi atingida em %s for %d pontos de vida}
+{563}{}{%s foi atingida em %d pontos de vida}
+{564}{}{%s erro critico}
+{565}{}{%s perdido}
+{570}{}{%s foi criticalmente atingida %d pontos de vida}
+{571}{}{%s foi criticalmente atingida no %s em 1 ponto de vida}
+{572}{}{%s foi atingida em %s em 1 ponto de vida}
+{573}{}{%s foi atingida em 1 ponto de vida}
+{574}{}{%s foi criticalmente atingidoa 1 ponto de vida}
+{575}{}{%s foi criticalmente atingida no %s sem danos}
+{576}{}{%s foi atingida em %s sem danos}
+{577}{}{%s foi atingida sem nenhum dano}
+{578}{}{%s foi criticalmente atingida sem danos}
+{583}{}{%s erro critico sofreu 1 ponto de vida}
+{584}{}{%s erro critico sofreu %d pontos de vida}
 #
 # Miscellaneous combat messages (all of these happen to a male)
 # Note: the first %s is the name of the male creature
@@ -181,24 +181,24 @@
 #          in the 1000's in this file, with the exception of line 609
 #          where the second %s is the name of another creature
 #
-{608}{}{Oops! %s was hit instead of you!}
-{609}{}{Oops! %s was hit instead of %s!}
-{611}{}{%s was critically hit in %s for %d hit points}
-{612}{}{%s was hit in %s for %d hit points}
-{613}{}{%s was hit for %d hit points}
-{614}{}{%s critically missed}
+{608}{}{Oops! %s foi atingido em vez de vocês!} #was hit instead of you!
+{609}{}{Oops! %s foi atingido, em vez de %s!} #was hit instead of
+{611}{}{%s was críticoly hit in %s for %d pontos de vida}
+{612}{}{%s was hit in %s for %d pontos de vida}
+{613}{}{%s was hit for %d pontos de vida}
+{614}{}{%s erro critico}
 {615}{}{%s missed}
-{620}{}{%s was critically hit for %d hit points}
-{621}{}{%s was critically hit in %s for 1 hit point}
-{622}{}{%s was hit in %s for 1 hit point}
-{623}{}{%s was hit for 1 hit point}
-{624}{}{%s was critically hit for 1 hit point}
-{625}{}{%s was critically hit in %s for no damage}
+{620}{}{%s was críticoly hit for %d pontos de vida}
+{621}{}{%s was críticoly hit in %s for 1 ponto de vida}
+{622}{}{%s was hit in %s for 1 ponto de vida}
+{623}{}{%s was hit for 1 ponto de vida}
+{624}{}{%s was críticoly hit for 1 ponto de vida}
+{625}{}{%s was críticoly hit in %s for no damage}
 {626}{}{%s was hit in %s for no damage}
 {627}{}{%s was hit for no damage}
-{628}{}{%s was critically hit for no damage}
-{633}{}{%s critically missed and took 1 hit point}
-{634}{}{%s critically missed and took %d hit points}
+{628}{}{%s was críticoly hit for no damage}
+{633}{}{%s erro critico and took 1 ponto de vida}
+{634}{}{%s erro critico and took %d pontos de vida}
 #
 # Miscellaneous combat messages (all of these happen to a female)
 # Note: the first %s is the name of the female creature
@@ -207,24 +207,24 @@
 #          in the 1000's in this file, with the exception of line 709
 #          where the second %s is the name of another creature
 #
-{708}{}{Oops! %s was hit instead of you!}
-{709}{}{Oops! %s was hit instead of %s!}
-{711}{}{%s was critically hit in %s for %d hit points}
-{712}{}{%s was hit in %s for %d hit points}
-{713}{}{%s was hit for %d hit points}
-{714}{}{%s critically missed}
+{708}{}{Oops! %s foi atingido em vez de vocês!}
+{709}{}{Oops! %s foi atingido, em vez de %s!}
+{711}{}{%s was críticoly hit in %s for %d pontos de vida}
+{712}{}{%s was hit in %s for %d pontos de vida}
+{713}{}{%s was hit for %d pontos de vida}
+{714}{}{%s erro critico}
 {715}{}{%s missed}
-{720}{}{%s was critically hit for %d hit points}
-{721}{}{%s was critically hit in %s for 1 hit point}
-{722}{}{%s was hit in %s for 1 hit point}
-{723}{}{%s was hit for 1 hit point}
-{724}{}{%s was critically hit for 1 hit point}
-{725}{}{%s was critically hit in %s for no damage}
+{720}{}{%s was críticoly hit for %d pontos de vida}
+{721}{}{%s was críticoly hit in %s for 1 ponto de vida}
+{722}{}{%s was hit in %s for 1 ponto de vida}
+{723}{}{%s was hit for 1 ponto de vida}
+{724}{}{%s was críticoly hit for 1 ponto de vida}
+{725}{}{%s was críticoly hit in %s for no damage}
 {726}{}{%s was hit in %s for no damage}
 {727}{}{%s was hit for no damage}
-{728}{}{%s was critically hit for no damage}
-{733}{}{%s critically missed and took 1 hit point}
-{734}{}{%s critically missed and took %d hit points}
+{728}{}{%s was críticoly hit for no damage}
+{733}{}{%s erro critico and took 1 ponto de vida}
+{734}{}{%s erro critico and took %d pontos de vida}
 #
 # Hit Locations (by art_num alias)
 #
@@ -664,7 +664,7 @@
 
 
 #
-# Critical Hit Messages
+# crítico Hit Messages
 #
 # 5000 series - men (including generics)
 #
@@ -797,7 +797,7 @@
 {5316}{}{, nearly blinding the mutant}
 {5317}{}{, blinding the now-furious mutant}
 {5318}{}{, nearly blinding the mutant but throwing him off balance}
-{5319}{}{. The blinded mutant stumbles back, unprepared for the next attack}
+{5319}{}{. The cego mutant stumbles back, unprepared for the next attack}
 {5320}{}{, blinding the now-unconscious mutant}
 {5321}{}{. The eyes of the mutant glow for a moment, and then the light fades - permanently}
 #
@@ -806,11 +806,11 @@
 {5400}{}{. The ghoul is surprised, and fails to defend against this attack}
 {5401}{}{. The blow buries this ghoul}
 {5402}{}{. The stunned ghoul's hand flies open}
-{5403}{}{, sneaking through his armor and striking a critical joint}
+{5403}{}{, sneaking through his armor and striking a crítico joint}
 {5404}{}{, sneaking through his armor and lopping the arm off}
 {5405}{}{. The ghoul moves the wrong way at the wrong moment, and loses an eye}
 {5406}{}{. The ghoul is wearing no armor there}
-{5407}{}{, and without armor, the ghoul is blinded}
+{5407}{}{, and without armor, the ghoul is cego}
 {5408}{}{, causing the ghoul to look bewildered in his final moments}
 #
 # series 5500 - Brahmin
@@ -883,11 +883,11 @@
 # series 5900 - Centaurs
 #
 {5900}{}{. Pushed like a bad habit, the centaur falls over and is stunned}
-{5901}{}{ as the blow strikes a critical spot}
+{5901}{}{ as the blow strikes a crítico spot}
 {5902}{}{, causing massive neurological failure}
 {5903}{}{, stunning it with your violent attack}
 {5904}{}{, crippling the arm}
-{5905}{}{, striking a critical spot. The arm is crippled}
+{5905}{}{, striking a crítico spot. The arm is crippled}
 {5906}{}{, knocking the creature over and crippling the leg}
 {5907}{}{, stunning the centaur as it is knocked over with a crippled leg}
 {5908}{}{, blinding a head}
@@ -900,13 +900,13 @@
 #
 {6000}{}{, inflicting some structural damage}
 {6001}{}{. Sparks fly and the robot goes momentarily out of control}
-{6002}{}{, hitting a critical component and forcing the robot out of control}
-{6003}{}{, hitting a critical component and causing a massive malfunction}
+{6002}{}{, hitting a crítico component and forcing the robot out of control}
+{6003}{}{, hitting a crítico component and causing a massive malfunction}
 {6004}{}{. The robot attempts to compensate}
 {6005}{}{. The robot strains to compensate}
 {6006}{}{, hitting some key part and causing heavy damage}
 {6007}{}{, inflicting heavy structural damage}
-{6008}{}{, hitting a critical component and causing severe damage}
+{6008}{}{, hitting a crítico component and causing severe damage}
 {6009}{}{. The robot shudders under this intense attack}
 {6010}{}{, dismantling the robot}
 {6011}{}{. The robot attempts to compensate, but fails, falling to the ground}
@@ -921,7 +921,7 @@
 {6103}{}{. The animal coughs up a spurt of blood}
 {6104}{}{, crippling the leg}
 {6105}{}{, crippling the leg. The animal tries to remain standing, but fails}
-{6106}{}{. The blinded animal howls in pain}
+{6106}{}{. The cego animal howls in pain}
 {6107}{}{, neutering the poor animal}
 #
 # series 6200 - Manti
