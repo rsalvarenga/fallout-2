@@ -4,21 +4,21 @@
 #
 #   PERK NAMES
 #
-{101}{}{Awareness}
-{102}{}{Bonus HtH Attacks}
-{103}{}{Bonus HtH Damage}
-{104}{}{Bonus Move}
-{105}{}{Bonus Ranged Damage}
-{106}{}{Bonus Rate of Fire}
-{107}{}{Earlier Sequence}
-{108}{}{Faster Healing}
-{109}{}{More Criticals}
-{110}{}{Night Vision}
-{111}{}{Presence}
-{112}{}{Rad Resistance}
-{113}{}{Toughness}
-{114}{}{Strong Back}
-{115}{}{Sharpshooter}
+{101}{}{Consciência} #Awareness
+{102}{}{Bônus de ataque} #Bonus HtH Attacks
+{103}{}{Bônus de dano} #Bonus HtH Damage
+{104}{}{Bônus de movimento} #Bonus Move
+{105}{}{Bônus de dano a distância} #Bonus Ranged Damage
+{106}{}{Bônus frequência de tiro} #Bonus Rate of Fire
+{107}{}{Reação precoce} #Earlier Sequence
+{108}{}{Cura rápida} #Faster Healing
+{109}{}{Mais críticos} #More Criticals
+{110}{}{Visão noturna} #Night Vision
+{111}{}{Presença} #Presence
+{112}{}{Resistência a radiação} #Rad Resistance
+{113}{}{Resistência} #Toughness
+{114}{}{Strong Back} #?
+{115}{}{Atirador de Elite} #Sharpshooter
 {116}{}{Silent Running}
 {117}{}{Survivalist}
 {118}{}{Master Trader}
@@ -129,16 +129,16 @@
 #
 #   PERK DESCRIPTIONS
 #
-{1101}{}{With Awareness, you are given detailed information about any critter you examine. You see their exact hit points and information about any weapon they are equipped with.}
+{1101}{}{With Consciência, you are given detailed information about any critter you examine. You see their exact hit points and information about any weapon they are equipped with.}
 {1102}{}{You have learned the secret arts of the East, or you just punch faster. In any case, your Hand-to-Hand attacks cost 1 AP less to perform.}
 {1103}{}{Experience in unarmed combat has given you the edge when it comes to damage. You cause +2 points of damage with hand-to-hand and melee attacks for each level of this Perk.}
-{1104}{}{For each level of Bonus Move, you get 2 free APs each turn that can only be used for movement. In other words, you can move 2 free hexes each turn for each level of this Perk.}
+{1104}{}{For each level of Bônus de movimento, you get 2 free APs each turn that can only be used for movement. In other words, you can move 2 free hexes each turn for each level of this Perk.}
 {1105}{}{Your training in firearms and other ranged weapons has made you more deadly in ranged combat. For each level of this Perk, you do +2 points of damage with ranged weapons.}
 {1106}{}{This Perk allows you to pull the trigger a little faster and still remain as accurate as before. Each ranged weapon attack costs 1 AP less to perform.}
 {1107}{}{You are more likely to move before your opponents in combat, since your Sequence is +2 for each level of this Perk.}
 {1108}{}{With each level of this Perk, you get a +2 bonus to your Healing Rate. This is in addition to your normal healing rate, thus you heal faster.}
-{1109}{}{You are more likely to cause critical hits in combat if you have this Perk. Each level of More Criticals gets you an additional +5% chance to cause a critical hit.}
-{1110}{}{With the Night Vision Perk, you can see in the dark better. This will reduce the overall darkness level by 20%.}
+{1109}{}{You are more likely to cause critical hits in combat if you have this Perk. Each level of Mais críticos gets you an additional +5% chance to cause a critical hit.}
+{1110}{}{With the Visão noturna Perk, you can see in the dark better. This will reduce the overall darkness level by 20%.}
 {1111}{}{You command attention by just walking into a room. The initial reaction of another person is improved by 10% for each level of this Perk.}
 {1112}{}{You are better able to avoid radiation and the bad effects radiation causes. Each level of this Perk improves your Radiation Resistance by 15%.}
 {1113}{}{When you are tough, you take less damage. Each level of this Perk adds +10% to your general damage resistance.}
