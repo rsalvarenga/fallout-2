@@ -46,11 +46,11 @@
 {2301}{}{Um rifle de assalto AK-112 de 5mm. Um modelo militar antigo, depreciado em tempos de guerra. Pode disparar um único tiro ou explosão, usando balas de 5mm de alta velocidad. Min FO: 5.}
 {2400}{}{Plasma Pistol}
 {2401}{}{Pistola de plasma Glock 86. Desenhado pelo Gaston Glock AI. Atira um pequeno feixe de plasma superaquecido. Desenvolvido por PE células de energia. FO Min: 4.}
-{2500}{}{Grenade (Frag)} #Grenade (Frag)
+{2500}{}{Granada (Frag)} #Grenade (Frag)
 {2501}{}{Uma granada de fragmentação genérica. Contém uma pequena quantidade de explosivos, o próprio recipiente formando a maioria dos fragmentos prejudiciais. Explode em contato. Min. FO: 3.}
-{2600}{}{Grenade (Plasma)} #Grenade (Plasma)
+{2600}{}{Granada (Plasma)} #Grenade (Plasma)
 {2601}{}{Uma unidade de plasma magneticamente selado, com detonação de explosivos. Criar uma rajada de plasma superaquecido em contato. FO Min: 4.}
-{2700}{}{Grenade (Pulse)} #Grenade (Pulse)
+{2700}{}{Granada (Pulso)} #Grenade (Pulse)
 {2701}{}{Uma granada de pulso eletromagnético gera um forte campo magnético ao detonar. Não afeta criaturas biológicas. Ele derrete em contato. FO Min: 4.}
 {2800}{}{Gatling Laser}
 {2801}{}{Uma Gatling Laser L30 H & K. Projetado especificamente para uso militar, estava em fase de protótipo no início da guerra. Seus multiplos barris permitem mais tiros sem superaquecimento. Desenvolvido por células de Micro Fusão. Min. FO: 6.}
