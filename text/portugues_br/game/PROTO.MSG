@@ -36,7 +36,7 @@
 {202}{}{Elevador}
 {203}{}{Escada inferior}
 {204}{}{Escada superior}
-{205}{}{Cenário simples}
+{205}{}{Cenário genérico}
 
 #
 # Damage Code Types
