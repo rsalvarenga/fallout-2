@@ -671,20 +671,20 @@
 #
 # 5000 series - men (including generics)
 #
-{5000}{}{. Machuca de verdade} # . That really hurts
+{5000}{}{. Essa doeu} # . That really hurts
 {5001}{}{. Um ferimento grave é inflingido} # . A serious wound is inflicted
 {5002}{}{ sem a proteção da armadura} #  with no armor defenses
-{5003}{}{. O violento ataque deixa-o inconsciente} # . The damaging attack knocks him unconscious
-{5004}{}{. O ataque nocauteia ele no chão} # . The blow knocks him to the ground
-{5005}{}{. O forte ataque na cabeça nocauteia-o} # . The strong blow to na cabeça knocks him out
-{5006}{}{. O ataque destrói a têmpora. Boa noite, Cinderela} # . The attack crushes the temple. Good night, Gracie
+{5003}{}{. Ele foi nocauteado pelo violento ataque} # . The damaging attack knocks him unconscious
+{5004}{}{. Ele cai no chão, nocauteado pelo golpe} # . The blow knocks him to the ground
+{5005}{}{. O forte ataque na cabeça faz com que ele seja nocauteado} # . The strong blow to na cabeça knocks him out
+{5006}{}{. O ataque destrói a têmpora. Boa noite, Bela Adormecida} # . The attack crushes the temple. Good night, Gracie
 {5007}{}{. A morte é instantânea} # . Death is instantaneous
 {5008}{}{, causando uma severa lesão no cotovelo} # , causing severe tennis elbow
 {5009}{}{, tirando o braço da frente} # , pushing the arm out of the way
 {5010}{}{, deixando um grande roxo} # , leaving a big bruise
 {5011}{}{, danificando o braço esquerdo} # , crippling no braço esquerdo
 {5012}{}{, deixando o braço esquerdo pendurado pela pele} # , leaving no braço esquerdo dangling by the skin
-{5013}{}{. Aquele braço é agora um cotoco sangrento} # . That arm now looks like a bloody stump
+{5013}{}{. Esse braço agora é só um cotoco sangrento} # . That arm now looks like a bloody stump
 {5014}{}{, danificando o braço direito} # , leaving a crippled right arm
 {5015}{}{. Seu braço direito é pulverizado pelo poderoso ataque} # . His right arm is pulverized by this powerful blow
 {5016}{}{ em um potente ataque} #  in a forceful blow
@@ -712,42 +712,42 @@
 #
 # series 5100 - women
 #
-{5100}{}{. That really hurts} # 
-{5101}{}{. A serious wound is inflicted} # 
-{5102}{}{ with no armor} # 
-{5103}{}{. The damaging attack knocks her unconscious} # 
-{5104}{}{. The blow knocks her to the ground} # 
-{5105}{}{. The strong blow to na cabeça knocks her out} # 
-{5106}{}{. The attack crushes her temple. Good night, Gracie} # 
-{5107}{}{. Death is instantaneous} # 
-{5108}{}{, causing severe tennis elbow} # 
-{5109}{}{, pushing the arm out of the way} # 
-{5110}{}{, leaving a big bruise} # 
-{5111}{}{, crippling no braço esquerdo} # 
-{5112}{}{. no braço esquerdo is barely attached to her shoulder} # 
-{5113}{}{. That arm now looks like a bloody stump} # 
-{5114}{}{, leaving a crippled right arm} # 
-{5115}{}{. Her right arm is turned into hamburger by the blow} # 
-{5116}{}{ in a forceful blow} # 
-{5117}{}{, piercing through her defenses} # 
-{5118}{}{, inflicting an extra helping of damage} # 
-{5119}{}{ with no armor, knocking the female fighter to the ground} # 
-{5120}{}{, knocking the air out. She slumps to the ground} # 
-{5121}{}{. Unfortunately, her major organs have been exposed to the light} # 
-{5122}{}{, putting a major hurt on her leg} # 
-{5123}{}{, knocking her over like a bad blind date} # 
-{5124}{}{, knocking her down and crippling that leg} # 
-{5125}{}{, smashing the knee into the next town. She takes the fast track to the ground} # 
-{5126}{}{. She screams in pain from the broken leg} # 
-{5127}{}{, inflicting some extra pain} # 
-{5128}{}{, causing blindness. She grimaces} # 
-{5129}{}{. With no protection there, it causes serious pain} # 
-{5130}{}{. The wound causes severe blindness, as if there is any other kind} # 
-{5131}{}{. She faints from the blinding attack} # 
-{5132}{}{. Sadly, she doesn't get to pray to her gods before she meets them} # 
-{5133}{}{. She takes it like a man. That is to say, it hurts} # 
-{5134}{}{, knocking her to the ground} # 
-{5135}{}{. Her childbearing days are in trouble as she collapses in a limp heap} # 
+{5100}{}{. Essa doeu} # . That really hurts
+{5101}{}{. Um ferimento sério é inflingido} # . A serious wound is inflicted
+{5102}{}{ sem a proteção da armadura} #  with no armor
+{5103}{}{. Ela foi nocauteada pelo violento ataque} # . The damaging attack knocks her unconscious
+{5104}{}{. Ela cai no chão, nocauteada pelo golpe} # . The blow knocks her to the ground
+{5105}{}{. O forte golpe na cabeça faz com que ela seja nocauteada.} # . The strong blow to na cabeça knocks her out
+{5106}{}{. O ataque destrói sua têmpora. Boa noite, Bela Adormecida.} # . The attack crushes her temple. Good night, Gracie
+{5107}{}{. A morte é instantânea} # . Death is instantaneous 
+{5108}{}{, causando uma severa lesão no cotovelo} # , causing severe tennis elbow
+{5109}{}{, tirando o braço da frente} # , pushing the arm out of the way
+{5110}{}{, deixando um grande roxo} # , leaving a big bruise
+{5111}{}{, danificando o braço esquerdo} # , crippling no braço esquerdo
+{5112}{}{. O braço esquerdo agora está pendurado apenas por um fio de carne} # . o braço esquerdo is barely attached to her shoulder
+{5113}{}{. Esse braço agora é só um cotoco sangrento.} # . That arm now looks like a bloody stump
+{5114}{}{, danificando o braço direito} # , leaving a crippled right arm
+{5115}{}{. O braço direito dela virou carne moida com o golpe} # . Her right arm is turned into hamburger by the blow
+{5116}{}{ em um violento ataque} #  in a forceful blow
+{5117}{}{, atravessando suas defesas} # , piercing through her defenses
+{5118}{}{, inflingindo um dano extra} # , inflicting an extra helping of damage
+{5119}{}{ sem armadura, derrubando a combatente nocauteada no chão} #  with no armor, knocking the female fighter to the ground
+{5120}{}{, expulsando o ar de seus pulmões. Ela cai no chão, inconsciente} # , knocking the air out. She slumps to the ground
+{5121}{}{. Infelizmente, a maioria dos órgãos vitais dela estão agora de fora} # . Unfortunately, her major organs have been exposed to the light
+{5122}{}{, ferindo gravemente sua perna} # , putting a major hurt on her leg
+{5123}{}{, fazendo ela desmaiar como se tivesse visto a maior barata do mundo} # , knocking her over like a bad blind date
+{5124}{}{, derrubando-a e danificando sériamente esta perna} # , knocking her down and crippling that leg
+{5125}{}{, quebrando feio seu joelho. Ela vai direto pro chão} # , smashing the knee into the next town. She takes the fast track to the ground
+{5126}{}{. Ela grita de dor por causa da perna quebrada} # . She screams in pain from the broken leg
+{5127}{}{, inflingindo dor extra} # , inflicting some extra pain
+{5128}{}{, causando cegueira. Ela contorce o rosto} # , causing blindness. She grimaces
+{5129}{}{. Sem proteção ali, ela sofre uma dor severa} # . With no protection there, it causes serious pain
+{5130}{}{. O ferimento causa uma cegueira severa (como se existisse algum outro tipo)} # . The wound causes severe blindness, as if there is any other kind
+{5131}{}{. Ela desmaia após perder a visão com o ataque} # . She faints from the blinding attack
+{5132}{}{. Ela não tem tempo nem de pedir perdão à Deus antes de ir conhecê-lo pessoalmente} # . Sadly, she doesn't get to pray to her gods before she meets them
+{5133}{}{. Ela aguenta que nem macho. Ou seja, doeu muito} # . She takes it like a man. That is to say, it hurts
+{5134}{}{, derrubando-a no chão, nocauteada} # , knocking her to the ground
+{5135}{}{. As chances dela ter filhos diminuem sériamente enquanto ela cai no chão feito uma boneca de pano} # . Her childbearing days are in trouble as she collapses in a limp heap
 #
 # series 5200 - children
 #
