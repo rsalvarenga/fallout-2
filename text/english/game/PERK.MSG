@@ -18,38 +18,38 @@
 {112}{}{Resistência a radiação} #Rad Resistance
 {113}{}{Resistência} #Toughness
 {114}{}{Strong Back} #?
-{115}{}{Atirador de Elite} #Sharpshooter
-{116}{}{Silent Running}
-{117}{}{Survivalist}
-{118}{}{Master Trader}
-{119}{}{Educated}
-{120}{}{Healer}
-{121}{}{Fortune Finder}
-{122}{}{Better Criticals}
-{123}{}{Empathy}
-{124}{}{Slayer}
-{125}{}{Sniper}
-{126}{}{Silent Death}
-{127}{}{Action Boy}
-{128}{}{Mental Block}
-{129}{}{Lifegiver}
-{130}{}{Dodger}
-{131}{}{Snakeater}
-{132}{}{Mr. Fixit}
-{133}{}{Medic}
-{134}{}{Master Thief}
-{135}{}{Speaker}
-{136}{}{Heave Ho!}
+{115}{}{Atirador(a) de Elite} #Sharpshooter
+{116}{}{Operação Silenciosa} #Silent Running
+{117}{}{Sobrevivencialista} #Survivalist
+{118}{}{Negociante Mestre} #Master Trader
+{119}{}{Educado(a)} #Educated 
+{120}{}{Curandeiro(a)} #Healer
+{121}{}{Buscador da felicidade} #Fortune Finder
+{122}{}{Melhores Críticos} #Better Criticals
+{123}{}{Empatia} #Empathy
+{124}{}{Matador(a)} #Slayer
+{125}{}{Sniper} #Sniper (<-acho que não precisamos traduzir)
+{126}{}{Morte silenciosa} #Silent Death
+{127}{}{Garoto de Ação} #Action Boy
+{128}{}{Bloqueio Mental} #Mental Block
+{129}{}{Doador da vida} #Lifegiver
+{130}{}{Trapaceiro} #Dodger
+{131}{}{Comedor de cobras} #Snakeater
+{132}{}{Sr. Fixit} #Mr. Fixit
+{133}{}{Médico} #Medic
+{134}{}{Ladrão Mestre} #Master Thief
+{135}{}{Porta-voz} #Speaker
+{136}{}{Lançamento longo!} #Heave Ho!
 {137}{}{ERROR -- UNIMPED}  # was -- Friendly Foe
-{138}{}{Pickpocket}
-{139}{}{Ghost}
-{140}{}{Cult of Personality}
-{141}{}{Scrounger}
-{142}{}{Explorer}
-{143}{}{Flower Child}
-{144}{}{Pathfinder}
-{145}{}{Animal Friend}
-{146}{}{Scout}
+{138}{}{Cleptomaníaco} #Pickpocket
+{139}{}{Fantasma} #Ghost
+{140}{}{Culto de personalidade} #Cult of Personality
+{141}{}{Pedinte} #Scrounger
+{142}{}{Explorador} #Explorer
+{143}{}{Hippie} #Flower Child
+{144}{}{Pioneiro} #Pathfinder
+{145}{}{Amigo animal} #Animal Friend
+{146}{}{Recrutador} #Scout
 {147}{}{Mysterious Stranger}
 {148}{}{Ranger}
 {149}{}{Quick Pockets}
@@ -147,32 +147,32 @@
 {1116}{}{With this Perk, you now have the ability to move quickly and still remain quiet. You can Sneak and run at the same time. Without this Perk, you would automatically stop Sneaking if you ran.}
 {1117}{}{You are a master of the outdoors. This Perk confers the ability to survive in hostile environments. You get a +25% bonus to Outdoorsman.}
 {1118}{}{You have mastered one aspect of bartering - buying goods far more cheaply than normal. With this Perk, you get a 25% discount when purchasing items from a store or another trader.}
-{1119}{}{Each level of Educated adds +2 skill points when you gain a new experience level. This Perk works best when purchased early in your adventure.}
+{1119}{}{Each level of Educado(a) adds +2 skill points when you gain a new experience level. This Perk works best when purchased early in your adventure.}
 {1120}{}{The healing of bodies comes easier to you with this Perk. Each level of this Perk heals 4-10 additional hit points when using the First Aid or Doctor skills.}
 {1121}{}{You have the talent of finding money. You find additional money in random encounters in the desert.}
 {1122}{}{The critical hits you cause in combat are more devastating. You gain a 20% bonus on the critical hit table, almost ensuring that more damage will be done. This does not affect the chance to cause a critical hit.}
 {1123}{}{You have studied other human beings, giving you inside knowledge of their emotional reaction to you. You will see the reaction level of the person you are talking to when involved in an indepth conversation.}
-{1124}{}{The Slayer walks the earth! In hand-to-hand combat all of your hits are upgraded to critical hits, causing destruction and mayhem.}
+{1124}{}{The Matador walks the earth! In hand-to-hand combat all of your hits are upgraded to critical hits, causing destruction and mayhem.}
 {1125}{}{You have mastered the firearm as a source of pain. With this Perk, any successful hit in combat with a ranged weapon will be upgraded to a critical hit if you also make a Luck roll.}
-{1126}{}{While Sneaking, if you hit a critter in the back, you will cause double damage using a hand-to-hand attack. Silent Death is that kind of Perk.}
-{1127}{}{Each level of Action Boy (insert Girl if you wish) gives you an additional AP to spend every combat turn. You can use these generic APs on any task.}
-{1128}{}{Mental Block is the ability to tune out any outside mental interference. You must have learned this talent from a passing guru, or from a really late night at a bar.}
+{1126}{}{While Sneaking, if you hit a critter in the back, you will cause double damage using a hand-to-hand attack. Morte silenciosa is that kind of Perk.}
+{1127}{}{Each level of Garoto de Ação (insert Girl if you wish) gives you an additional AP to spend every combat turn. You can use these generic APs on any task.}
+{1128}{}{Bloqueio Mental is the ability to tune out any outside mental interference. You must have learned this talent from a passing guru, or from a really late night at a bar.}
 {1129}{}{With each level of this Perk, you gain an additional 4 Hit Points every time you advance a level. This is in addition to the hit points you already gain per level based off of your endurance.}
 {1130}{}{You are less likely to be hit in combat if you have this Perk. You gain a +5 to your Armor Class, in addition to the AC bonus from any armor worn.}
 {1131}{}{Yum! Tastes like chicken. For each level of this Perk, you gain +25% to your Poison Resistance.}
 {1132}{}{This Perk will give you a one-time bonus of +10% to the Repair and Science skills. A little late night cramming never hurt anybody, especially you.}
-{1133}{}{The Medic Perk gives you a one-time bonus of +10% to the First Aid and Doctor skills. Healing skills are a good thing.}
-{1134}{}{A Master Thief is proficient at stealing and picking locks. You gain +15 to Stealing and Lockpicking. Steal from the rich, and give to you.}
-{1135}{}{Being a Speaker means you have a one-time bonus of +20% to Speech. From the mouth of babes and all that.}
-{1136}{}{Each level of the Heave Ho! Perk gives you an additional +2 to Strength (up to 10,) for purposes of determining range with thrown weapons only. This Perk will not exceed a weapon's maximum range.}
+{1133}{}{The Médico Perk gives you a one-time bonus of +10% to the First Aid and Doctor skills. Healing skills are a good thing.}
+{1134}{}{A Ladrão Mestre is proficient at stealing and picking locks. You gain +15 to Stealing and Lockpicking. Steal from the rich, and give to you.}
+{1135}{}{Being a Porta-voz means you have a one-time bonus of +20% to Speech. From the mouth of babes and all that.}
+{1136}{}{Each level of the Lançamento longo! Perk gives you an additional +2 to Strength (up to 10,) for purposes of determining range with thrown weapons only. This Perk will not exceed a weapon's maximum range.}
 {1137}{}{ERROR.UNIMPED!}
 {1138}{}{You are much more adept at stealing than the normal crook. You can steal with the best of them, because with this Perk, you ignore size and facing modifiers when stealing from a person.}
-{1139}{}{When the sun goes down or you are in a poorly lit area, you move like a ghost with this Perk. Your Sneak skill is enhanced +20% in dark conditions.}
+{1139}{}{When the sun goes down or you are in a poorly lit area, you move like a Fantasma with this Perk. Your Sneak skill is enhanced +20% in dark conditions.}
 {1140}{}{Your reputation is always positive to people. Without this Perk, a large negative reputation would have a bad effect on good natured people. This works in the reverse as well. Evil people will even treat Mr. Goodie Good as one of the gang.}
 {1141}{}{You can find more ammo than the normal post-holocaust survivor. This Perk doubles the amount of ammo found in random encounters.}
-{1142}{}{The mark of the Explorer is to search out new and interesting locations. With this Perk, you have a greater chance of finding special places and people.}
+{1142}{}{The mark of the Explorador is to search out new and interesting locations. With this Perk, you have a greater chance of finding special places and people.}
 {1143}{}{With this Perk, you are less likely to be addicted to chems (50% less likely, actually), and you suffer half the withdrawal time of a normal person.}
-{1144}{}{The Pathfinder is better able to find the shortest route. With this Perk, your travel time on the World Map is reduced by 25% for each level.}
+{1144}{}{The Pioneiro is better able to find the shortest route. With this Perk, your travel time on the World Map is reduced by 25% for each level.}
 {1145}{}{Animals will not attack one of their friends, unless the animal is threatened or attacked first. Exactly what an animal is in this world is open to debate.}
 {1146}{}{You have improved your ability to see distant locations, increasing the size of explorations on the World Map by one square in each direction. You also have a better chance of finding special encounters.}
 {1147}{}{With this Perk, you have gained the attention of a Mysterious Stranger, who will appear to help you from time to time. If your ally is lost in combat, do not expect him (or her) to be replaced.}
@@ -236,7 +236,7 @@
 {1205}{}{You are much less likely to be knocked down in combat.}  # Stonewall
 {1206}{}{The blood of a thief runs through your veins. With the Thief Perk, you get a one-time bonus of +10% to your Sneak, Lockpick, Steal, and Traps skills. A well rounded thief is a live thief.}  # Thief
 {1207}{}{You can wield weapons much larger than normally allowed. You gain a +3 to your strength for the purposes of Strength checks when trying to wield weaponry.}  # Weapon Handling
-{1208}{}{You have received the Vault City medical training.}  # Vault City Training
+{1208}{}{You have received the Vault City Médicoal training.}  # Vault City Training
 {1209}{}{Your hit points have been enhanced a little by repeated drunkeness.}  # Alcohol Enhanced hit points
 {1210}{}{Your hit points have been enhanced a little more by repeated drunkeness.}  # Alcohol Enhanced hit points II
 {1211}{}{Your hit points have been lowered slightly by repeated drunkeness.}  # Alcohol Lowered hit points
