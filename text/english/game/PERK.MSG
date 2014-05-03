@@ -50,66 +50,66 @@
 {144}{}{Pioneiro} #Pathfinder
 {145}{}{Amigo animal} #Animal Friend
 {146}{}{Recrutador} #Scout
-{147}{}{Mysterious Stranger}
+{147}{}{Estranho misterioso} #Mysterious Stranger
 {148}{}{Ranger}
-{149}{}{Quick Pockets}
-{150}{}{Smooth Talker}
-{151}{}{Swift Learner}
-{152}{}{Tag!}
-{153}{}{Mutate!}
-{154}{}{Nuka-Cola Addiction}
-{155}{}{Buffout Addiction}
-{156}{}{Mentats Addiction}
-{157}{}{Psycho Addiction}
-{158}{}{Radaway Addiction}
-{159}{}{Weapon Long Range}
-{160}{}{Weapon Accurate}
-{161}{}{Weapon Penetrate}
-{162}{}{Weapon Knockback}
-{163}{}{Powered Armor}
-{164}{}{Combat Armor}
-{165}{}{Weapon Scope Range}
-{166}{}{Weapon Fast Reload}
-{167}{}{Weapon Night Sight}
-{168}{}{Weapon Flameboy}
-{169}{}{Armor Advanced I}
-{170}{}{Armor Advanced II}
-{171}{}{Jet Addiction}
-{172}{}{Tragic Addiction}
-{173}{}{Armor Charisma}
-{174}{}{Gecko Skinning}
-{175}{}{Dermal Impact Armor}
-{176}{}{Dermal Impact Asslt. Enhance.}
-{177}{}{Phoenix Armor Implants}
-{178}{}{Phoenix Assault Enhancement}
-{179}{}{Vault City Inoculations}
-{180}{}{Adrenaline Rush}
-{181}{}{Cautious Nature}
-{182}{}{Comprehension}
-{183}{}{Demolition Expert}
-{184}{}{Gambler}
-{185}{}{Gain Strength}
-{186}{}{Gain Perception}
-{187}{}{Gain Endurance}
-{188}{}{Gain Charisma}
-{189}{}{Gain Intelligence}
-{190}{}{Gain Agility}
-{191}{}{Gain Luck}
-{192}{}{Harmless}
-{193}{}{Here and Now}
-{194}{}{HtH Evade}
-{195}{}{Kama Sutra Master}
-{196}{}{Karma Beacon}
-{197}{}{Light Step}
-{198}{}{Living Anatomy}
-{199}{}{Magnetic Personality}
-{200}{}{Negotiator}
-{201}{}{Pack Rat}
-{202}{}{Pyromaniac}
-{203}{}{Quick Recovery}
-{204}{}{Salesman}
-{205}{}{Stonewall}
-{206}{}{Thief}
+{149}{}{Bolsos rápidos} #Quick Pockets
+{150}{}{Charlatão} #Smooth Talker
+{151}{}{Aprendizagem rápida} #Swift Learner
+{152}{}{Destacar!} #Tag
+{153}{}{Mutação!} #Mutate
+{154}{}{Vício em Nuka-Cola} #Nuka-Cola Addiction
+{155}{}{Vício em Buffout} #Buffout Addiction
+{156}{}{Vício em Mentats} #Mentats Addiction
+{157}{}{Vício em Psycho} #Psycho Addiction
+{158}{}{Vício em Radaway} #Radaway Addiction
+{159}{}{Arma de Longo Alcance} #Weapon Long Range
+{160}{}{Arma de precisão} #Weapon Accurate
+{161}{}{Arma de Penetração} #Weapon Penetrate
+{162}{}{Arma de Repulsão} #Weapon Knockback
+{163}{}{Armadura de força} #Powered Armor
+{164}{}{Armadura de combate} #Combat Armor
+{165}{}{Mira de armas telescópicas} #Weapon Scope Range
+{166}{}{Arma de Recarga rápida} #Weapon Fast Reload
+{167}{}{Arma com visão nortuna} #Weapon Night Sight
+{168}{}{Arma lança-chamas} #Weapon Flameboy
+{169}{}{Armor Advanced I} #Armor Advanced I
+{170}{}{Armadura Avançada II} #Armor Advanced II
+{171}{}{Vício em Jet} #Jet Addiction
+{172}{}{Vício em Tragic} #Tragic Addiction
+{173}{}{Armadura de Carisma} #Armor Charisma
+{174}{}{Descamar Gecko} #Descamar Gecko
+{175}{}{Armad. Imp. Dermal} #Dermal Impact Armor
+{176}{}{Armad. Imp. Dermal Asslt.} #Dermal Impact Asslt. Enhance.
+{177}{}{Armadura de Implantes Phoenix} #Phoenix Armor Implants
+{178}{}{Phoenix de Assalto Melhorado} #Phoenix Assault Enhancement
+{179}{}{Vacinação Vault City} #Vault City Inoculations
+{180}{}{Descarga de adrenalina} #Adrenaline Rush
+{181}{}{Natureza cautelosa} #Cautious Nature
+{182}{}{Compreensão} #Comprehension
+{183}{}{Especialista em Demolição} #Demolition Expert
+{184}{}{Jogador} #Gambler
+{185}{}{Ganho de Força} #Gain Strength
+{186}{}{Ganho de Percepção} #Gain Perception
+{187}{}{Ganho de Resistência} #Gain Endurance
+{188}{}{Ganho de Carisma} #Gain Charisma
+{189}{}{Ganho de Inteligência} #Gain Intelligence
+{190}{}{Ganho de Agillidade} #Gain Agility
+{191}{}{Ganho de Sorte} #Gain Luck
+{192}{}{Inofensivo} #Harmless
+{193}{}{Aqui e Agora} #Here and Now
+{194}{}{Esquivar} #HtH Evade
+{195}{}{Kama Sutra Mestre} #Kama Sutra Master
+{196}{}{Karma resplandecente} #Karma Beacon
+{197}{}{Passo leve} #Light Step
+{198}{}{Anatomia vital} #Living Anatomy
+{199}{}{Personalidade magnética} #Magnetic Personality
+{200}{}{Negociador} #Negotiator
+{201}{}{Acumulador} #Pack Rat
+{202}{}{Piromaníaco} #Pyromaniac
+{203}{}{Recuperação rápida} #Recuperação rápida
+{204}{}{Vendedor} #Salesman
+{205}{}{Muro de pedra} #Stonewall
+{206}{}{Ladrão} #Thief
 {207}{}{Weapon Handling}
 {208}{}{Vault City Training}
 {209}{}{Alcohol Raised hit points}
@@ -175,66 +175,66 @@
 {1144}{}{The Pioneiro is better able to find the shortest route. With this Perk, your travel time on the World Map is reduced by 25% for each level.}
 {1145}{}{Animals will not attack one of their friends, unless the animal is threatened or attacked first. Exactly what an animal is in this world is open to debate.}
 {1146}{}{You have improved your ability to see distant locations, increasing the size of explorations on the World Map by one square in each direction. You also have a better chance of finding special encounters.}
-{1147}{}{With this Perk, you have gained the attention of a Mysterious Stranger, who will appear to help you from time to time. If your ally is lost in combat, do not expect him (or her) to be replaced.}
+{1147}{}{With this Perk, you have gained the attention of a Estranho misterioso, who will appear to help you from time to time. If your ally is lost in combat, do not expect him (or her) to be replaced.}
 {1148}{}{You gain a +15% toward your Outdoorsman skill. You are more likely to avoid random encounters if you choose, and tend to find those "special" encounters more than most.}
 {1149}{}{You have learned to pack your equipment better. Accessing your inventory only costs you 2 Action Points in Combat instead of 4.}
 {1150}{}{You have learned to increase your dialog options without understanding what you're talking about. Each level of this Perk will increase your Intelligence by one, up to 10, for purposes of dialog only.}
-{1151}{}{You are indeed a Swift Learner with this Perk, as each level gives you an additional +5% bonus whenever you earn experience points. This is best taken early.}
-{1152}{}{Your skills have improved to the point where you can pick an additional Tag Skill. Tag skills increase twice as fast.}
-{1153}{}{The radiation of the wasteland has changed you! One of your Traits has mutated into something else...}
+{1151}{}{You are indeed a Aprendizagem rápida with this Perk, as each level gives you an additional +5% bonus whenever you earn experience points. This is best taken early.}
+{1152}{}{Your skills have improved to the point where you can pick an additional Destacar Skill. Destacar skills increase twice as fast.}
+{1153}{}{The radiation of the wasteland has changed you! One of your Traits has Mutaçãod into something else...}
 {1154}{}{You crave another Nuka-Cola.}
 {1155}{}{You've got the shakes.}
 {1156}{}{You feel groggy.}
 {1157}{}{You feel light-headed.}
 {1158}{}{You feel nauseous.}
-{1159}{}{Weapon Long Range}
-{1160}{}{Weapon Accurate}
-{1161}{}{Weapon Penetrate}
-{1162}{}{Weapon Knockback}
-{1163}{}{Powered Armor}
-{1164}{}{Combat Armor}
-{1165}{}{Weapon Scope Range}
-{1166}{}{Weapon Fast Reload}
-{1167}{}{Weapon Night Sight}
-{1168}{}{Weapon Flameboy}
+{1159}{}{Arma de Longo Alcance}
+{1160}{}{Arma de precisão}
+{1161}{}{Arma de Penetração}
+{1162}{}{Arma de Repulsão}
+{1163}{}{Armadura de força}
+{1164}{}{Armadura de combate}
+{1165}{}{Mira de armas telescópicas}
+{1166}{}{Recargar rápida de arma}
+{1167}{}{Arma com visão nortuna}
+{1168}{}{Arma lança-chamas}
 {1169}{}{Armor Advanced I}
-{1170}{}{Armor Advanced II}
+{1170}{}{Armadura Avançada II}
 {1171}{}{Everything is moving so slowly... you need to get some more Jet, right NOW!}
 {1172}{}{You feel a burning desire to open another box of Tragic cards.}
-{1173}{}{Armor Charisma}
+{1173}{}{Armadura de Carisma}
 {1174}{}{You have the knowledge of how to skin geckos properly to get their hides.}
-{1175}{}{You have inherent protection against physical attacks.}     # Dermal Impact Armor
+{1175}{}{You have inherent protection against physical attacks.}     # Armad. Imp. Dermal
 {1176}{}{You have extra inherent protection against physical attacks.}  # Dermal Impact Assault Enhancement
-{1177}{}{You have inherent protection against energy attacks.}     # Phoenix Armor Implants
-{1178}{}{You have extra inherent protection against energy attacks.}  # Phoenix Assault Enhancement
-{1179}{}{You have gained +10% resistance to both poison and radiation.}  # Vault City Inoculations
-{1180}{}{With this Perk, you gain +1 to your Strength when you drop below 1/2 of your max hit points.}  # Adrenaline Rush
-{1181}{}{You are more alert outdoors and enemies are less likely to sneak up on you. With this Perk you get a +3 to your perception in random encounters when determining placement.}  # Cautious Nature
-{1182}{}{You pay much closer attention to the smaller details when reading. You gain 50% more skill points when reading books.}  # Comprehension
-{1183}{}{You are an expert when it comes to the fine art of handling explosives. They always go off when they're supposed to, as well as causing extra damage.}  # Demolition Expert
-{1184}{}{You can roll with the best of them.  You gain +20% to your gambling skill.}  # Gambler
-{1185}{}{With this Perk you gain +1 to your Strength.}     # Gain Strength
-{1186}{}{With this Perk you gain +1 to your Perception.}   # Gain Perception
-{1187}{}{With this Perk you gain +1 to your Endurance.}    # Gain Endurance
-{1188}{}{With this Perk you gain +1 to your Charisma.}     # Gain Charisma
-{1189}{}{With this Perk you gain +1 to your Intelligence.} # Gain Intelligence
-{1190}{}{With this Perk you gain +1 to your Agility.}      # Gain Agility
-{1191}{}{With this Perk you gain +1 to your Luck.}         # Gain Luck
-{1192}{}{Your innocent demeanor makes stealing from people a little easier. You gain 20% to your Steal skill.}  # Harmless
-{1193}{}{With this Perk you immediately gain one experience level.}  # Here and Now
-{1194}{}{If both item slots are empty, each unused action point gives you a +2 instead of +1 towards your armor class at the end of your turn, plus 1/12 of your unarmed skill.}  # HtH Evade
-{1195}{}{When it comes to pleasing sexually, you wrote the book.}  # Kama Sutra Master
-{1196}{}{Your Karma shines twice as bright. Whether good or bad, your Karma is doubled for any kind of reaction or modifiers.}  # Karma Beacon
-{1197}{}{You are agile, lucky, and always careful. This perk halves your chances of setting off a trap.}  # Light Step
-{1198}{}{You have a better understanding of living creatures and their strengths and weaknesses. You get a one-time bonus of +10% to Doctor, and you do +5 damage per attack to living creatures.}  # Living Anatomy
-{1199}{}{You get 1 extra slot in your companion limit, but don't forget that more than 5 is always a crowd.}  # Magnetic Personality
-{1200}{}{You are a very skilled negotiator. Not only can you barter with the best of them, but you can talk your way into or out of almost anything. With this Perk you gain +10% to both Barter and Speech.}  # Negotiator
-{1201}{}{You are efficient at arranging your inventory in general. This makes it much easier to carry that little extra you've always needed.}  # Pack Rat
-{1202}{}{You do extra damage with fire-based weapons, and enemies always seem to die in the most painful fiery fashion.}  # Pyromaniac
-{1203}{}{You are quick at recovering from being knocked down.}  # Quick Recovery
-{1204}{}{You are an adept salesperson. With this Perk you gain +20% towards your Barter skill.}  # Salesman
-{1205}{}{You are much less likely to be knocked down in combat.}  # Stonewall
-{1206}{}{The blood of a thief runs through your veins. With the Thief Perk, you get a one-time bonus of +10% to your Sneak, Lockpick, Steal, and Traps skills. A well rounded thief is a live thief.}  # Thief
+{1177}{}{You have inherent protection against energy attacks.}     # Armadura de Implantes Phoenix
+{1178}{}{You have extra inherent protection against energy attacks.}  # Phoenix de Assalto Melhorado
+{1179}{}{You have gained +10% resistance to both poison and radiation.}  # Vacinação Vault City
+{1180}{}{With this Perk, you gain +1 to your Strength when you drop below 1/2 of your max hit points.}  # Descarga de adrenalina
+{1181}{}{You are more alert outdoors and enemies are less likely to sneak up on you. With this Perk you get a +3 to your perception in random encounters when determining placement.}  # Natureza cautelosa
+{1182}{}{You pay much closer attention to the smaller details when reading. You gain 50% more skill points when reading books.}  # Compreensão
+{1183}{}{You are an expert when it comes to the fine art of handling explosives. They always go off when they're supposed to, as well as causing extra damage.}  # Especialista em Demolição
+{1184}{}{You can roll with the best of them.  You gain +20% to your gambling skill.}  # Jogador
+{1185}{}{With this Perk you gain +1 to your Strength.}     # Ganho de Força
+{1186}{}{With this Perk you gain +1 to your Perception.}   # Ganho de Percepção
+{1187}{}{With this Perk you gain +1 to your Endurance.}    # Ganho de Resistência
+{1188}{}{With this Perk you gain +1 to your Charisma.}     # Ganho de Carisma
+{1189}{}{With this Perk you gain +1 to your Intelligence.} # Ganho de Inteligência
+{1190}{}{With this Perk you gain +1 to your Agility.}      # Ganho de Agillidade
+{1191}{}{With this Perk you gain +1 to your Luck.}         # Ganho de Sorte
+{1192}{}{Your innocent demeanor makes stealing from people a little easier. You gain 20% to your Steal skill.}  # Inofensivo
+{1193}{}{With this Perk you immediately gain one experience level.}  # Aqui e Agora
+{1194}{}{If both item slots are empty, each unused action point gives you a +2 instead of +1 towards your armor class at the end of your turn, plus 1/12 of your unarmed skill.}  # Esquivar
+{1195}{}{When it comes to pleasing sexually, you wrote the book.}  # Kama Sutra Mestre
+{1196}{}{Your Karma shines twice as bright. Whether good or bad, your Karma is doubled for any kind of reaction or modifiers.}  # Karma resplandecente
+{1197}{}{You are agile, lucky, and always careful. This perk halves your chances of setting off a trap.}  # Passo leve
+{1198}{}{You have a better understanding of living creatures and their strengths and weaknesses. You get a one-time bonus of +10% to Doctor, and you do +5 damage per attack to living creatures.}  # Anatomia vital
+{1199}{}{You get 1 extra slot in your companion limit, but don't forget that more than 5 is always a crowd.}  # Personalidade magnética
+{1200}{}{You are a very skilled Negociador. Not only can you barter with the best of them, but you can talk your way into or out of almost anything. With this Perk you gain +10% to both Barter and Speech.}  # Negociador
+{1201}{}{You are efficient at arranging your inventory in general. This makes it much easier to carry that little extra you've always needed.}  # Acumulador
+{1202}{}{You do extra damage with fire-based weapons, and enemies always seem to die in the most painful fiery fashion.}  # Piromaníaco
+{1203}{}{You are quick at recovering from being knocked down.}  # Recuperação rápida
+{1204}{}{You are an adept salesperson. With this Perk you gain +20% towards your Barter skill.}  # Vendedor
+{1205}{}{You are much less likely to be knocked down in combat.}  # Muro de pedra
+{1206}{}{The blood of a Ladrão runs through your veins. With the Ladrão Perk, you get a one-time bonus of +10% to your Sneak, Lockpick, Steal, and Traps skills. A well rounded Ladrão is a live Ladrão.}  # Ladrão
 {1207}{}{You can wield weapons much larger than normally allowed. You gain a +3 to your strength for the purposes of Strength checks when trying to wield weaponry.}  # Weapon Handling
 {1208}{}{You have received the Vault City Médicoal training.}  # Vault City Training
 {1209}{}{Your hit points have been enhanced a little by repeated drunkeness.}  # Alcohol Enhanced hit points
