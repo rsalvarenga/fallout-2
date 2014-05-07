@@ -819,20 +819,20 @@
 # #
 # series 5500 - Brahmin #
 # #
-{5500}{}{, knocking the big beast to the ground} #
-{5501}{}{, stunning both brains and felling the giant animal} #
-{5502}{}{. The mutant cow gives a loud, startled cry} #
-{5503}{}{, breaking one of the Brahmin's legs} #
-{5504}{}{, seriously hurting the mutant cow} #
-{5505}{}{, easily penetrating the thick hide of the giant beast} #
-{5506}{}{, penetrating straight through both hearts of the mutant cow} #
-{5507}{}{, blinding both sets of eyes with a single blow} #
-{5508}{}{, blinding both heads and stunning the mutant cow} #
-{5509}{}{, completely blinding the Brahmin and knocking it out} #
-{5510}{}{. The large mutant bovine stumbles for a moment} #
-{5511}{}{. The Brahmin shakes with rage} #
-{5512}{}{. The Brahmin snorts with pain} #
-{5513}{}{. The Brahmin is most upset with this udderly devastating attack} #
+{5500}{}{, derrubando a grande besta no chão} #, knocking the big beast to the ground
+{5501}{}{, atordoando os dois cérebros e derrubando o gigante animal} #, stunning both brains and felling the giant animal
+{5502}{}{. A vaca mutante faz um alto som, claramente assustada} #. The mutant cow gives a loud, startled cry
+{5503}{}{, quebrando uma das patas do Brahmin} #, breaking one of the Brahmin's legs
+{5504}{}{, ferindo gravemente a vaca mutante} #, seriously hurting the mutant cow
+{5505}{}{, penetrando facilmente na grossa carne do animal} #, easily penetrating the thick hide of the giant beast
+{5506}{}{, atravessando diretamente os dois corações da vaca mutante} #, penetrating straight through both hearts of the mutant cow
+{5507}{}{, cegando todos os olhos com um único ataque} #, blinding both sets of eyes with a single blow
+{5508}{}{, cegando as duas cabeças e atordoando a vaca mutante} #, blinding both heads and stunning the mutant cow
+{5509}{}{, cegando completamente o Brahmin, que cai nocauteado em seguida} #, completely blinding the Brahmin and knocking it out
+{5510}{}{. O gigantesco mutante bovino perde o equilíbrio por um momento} #. The large mutant bovine stumbles for a moment
+{5511}{}{. O Brahmin balança com ódio} #. The Brahmin shakes with rage
+{5512}{}{. O Brahmin perde o ar com a dor} #. The Brahmin snorts with pain
+{5513}{}{. O Brahmin fica bem chateado com esse ataque super devastador} #. The Brahmin is most upset with this udderly devastating attack
 # #
 # series 5600 - Radscorpions #
 # #
