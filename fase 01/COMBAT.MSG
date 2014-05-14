@@ -836,205 +836,205 @@
 # #
 # series 5600 - Radscorpions #
 # #
-{5600}{}{, sending the Radscorpion flying on its back} #
-{5601}{}{, separating the head from the carapace} #
-{5602}{}{, seriously damaging the tail} #
-{5603}{}{, putting a major hurt on its claws} #
-{5604}{}{. The blow slips between the cracks of the Radscorpion's tough carapace} #
-{5605}{}{, striking through the tough carapace without pausing} #
-{5606}{}{, passing through the natural armor and knocking the Radscorpion over} #
-{5607}{}{. The Radscorpion cannot cope with a new sensation, like missing internal organs} #
-{5608}{}{, sending the 'scorpion flying and crippling some of its legs} #
-{5609}{}{. The attack cuts through an unprotected joint on the leg, severing it} #
-{5610}{}{, seriously wounding and blinding the mutant creature} #
-{5611}{}{, penetrating almost to the brain. Talk about squashing a bug} #
-{5612}{}{, almost penetrating to the brain, but blinding the creature instead} #
-{5613}{}{. The attack is fiendish, and far too sophisticated for this simple creature} #
-{5614}{}{. If it was human, you would swear it's pretty pissed off} #
-{5615}{}{, knocking the poor creature senseless} #
-{5616}{}{, spiking the brain to the floor} #
+{5600}{}{, } #, sending the Radscorpion flying on its back
+{5601}{}{, } #, separating the head from the carapace
+{5602}{}{, } #, seriously damaging the tail
+{5603}{}{, } #, putting a major hurt on its claws
+{5604}{}{. } #. The blow slips between the cracks of the Radscorpion's tough carapace
+{5605}{}{, } #, striking through the tough carapace without pausing
+{5606}{}{, } #, passing through the natural armor and knocking the Radscorpion over
+{5607}{}{. } #. The Radscorpion cannot cope with a new sensation, like missing internal organs
+{5608}{}{, } #, sending the 'scorpion flying and crippling some of its legs
+{5609}{}{. } #. The attack cuts through an unprotected joint on the leg, severing it
+{5610}{}{, } #, seriously wounding and blinding the mutant creature
+{5611}{}{, } #, penetrating almost to the brain. Talk about squashing a bug
+{5612}{}{, } #, almost penetrating to the brain, but blinding the creature instead
+{5613}{}{. } #. The attack is fiendish, and far too sophisticated for this simple creature
+{5614}{}{. } #. If it was human, you would swear it's pretty pissed off
+{5615}{}{, } #, knocking the poor creature senseless
+{5616}{}{, } #, spiking the brain to the floor
 # #
 # series 5700 - Rats #
 # #
-{5700}{}{. The rodent's skull makes several unhealthy sounds} #
-{5701}{}{, squashing the rodent's skull like a wet paper bag} #
-{5702}{}{, and the left paw now looks a little flat} #
-{5703}{}{. The left paw of the rat is blown off} #
-{5704}{}{. The right paw is heavily damaged} #
-{5705}{}{, blowing the right paw off} #
-{5706}{}{. The rat is seriously wounded by this attack} #
-{5707}{}{, seriously wounding the rat and knocking it around} #
-{5708}{}{, splattering the rat across the floor} #
-{5709}{}{, crippling the right leg} #
-{5710}{}{, putting a big hole in the left leg} #
-{5711}{}{, doing some extra damage due to the sensitive location} #
-{5712}{}{, summoning this creature to the great ratcatcher in the sky} #
+{5700}{}{} #. The rodent's skull makes several unhealthy sounds
+{5701}{}{} #, squashing the rodent's skull like a wet paper bag
+{5702}{}{} #, and the left paw now looks a little flat
+{5703}{}{} #. The left paw of the rat is blown off
+{5704}{}{} #. The right paw is heavily damaged
+{5705}{}{} #, blowing the right paw off
+{5706}{}{} #. The rat is seriously wounded by this attack
+{5707}{}{} #, seriously wounding the rat and knocking it around
+{5708}{}{} #, splattering the rat across the floor
+{5709}{}{} #, crippling the right leg
+{5710}{}{} #, putting a big hole in the left leg
+{5711}{}{} #, doing some extra damage due to the sensitive location
+{5712}{}{} #, summoning this creature to the great ratcatcher in the sky
 # #
 # series 5800 - Floaters #
 # #
-{5800}{}{. The floater drops to the ground} #
-{5801}{}{. The floater falls to the ground, seemingly lifeless} #
-{5802}{}{, with serious consequences to the creature's continued existence} #
-{5803}{}{, stunning the foul creature} #
-{5804}{}{, hitting a sensitive spot there and stunning the floater} #
-{5805}{}{. The blow causes the floater to shudder violently in a spray of crimson} #
-{5806}{}{. The blow causing some sort of violent reaction in the creature} #
-{5807}{}{. The floater suddenly bursts into flames} #
-{5808}{}{. It jerks wildly and quivers like a pudding surprise} #
-{5809}{}{, with the blow hitting a sensitive spot} #
-{5810}{}{. The creature is obviously agitated} #
+{5800}{}{} #. The floater drops to the ground
+{5801}{}{} #. The floater falls to the ground, seemingly lifeless
+{5802}{}{} #, with serious consequences to the creature's continued existence
+{5803}{}{} #, stunning the foul creature
+{5804}{}{} #, hitting a sensitive spot there and stunning the floater
+{5805}{}{} #. The blow causes the floater to shudder violently in a spray of crimson
+{5806}{}{} #. The blow causing some sort of violent reaction in the creature
+{5807}{}{} #. The floater suddenly bursts into flames
+{5808}{}{} #. It jerks wildly and quivers like a pudding surprise
+{5809}{}{} #, with the blow hitting a sensitive spot
+{5810}{}{} #. The creature is obviously agitated
 # #
 # series 5900 - Centaurs #
 # #
-{5900}{}{. Pushed like a bad habit, the centaur falls over and is stunned} #
-{5901}{}{ as the blow strikes a critical spot} #
-{5902}{}{, causing massive neurological failure} #
-{5903}{}{, stunning it with your violent attack} #
-{5904}{}{, crippling the arm} #
-{5905}{}{, striking a critical spot. The arm is crippled} #
-{5906}{}{, knocking the creature over and crippling the leg} #
-{5907}{}{, stunning the centaur as it is knocked over with a crippled leg} #
-{5908}{}{, blinding a head} #
-{5909}{}{, surprising the centaur. It blindly stumbles for a moment} #
-{5910}{}{, surprising the centaur. It collapses in a heap} #
-{5911}{}{, surprising the centaur. It collapses in a pile of goo} #
-{5912}{}{. The attack was not as effective as it could have been} #
+{5900}{}{} #. Pushed like a bad habit, the centaur falls over and is stunned
+{5901}{}{} # as the blow strikes a critical spot
+{5902}{}{} #, causing massive neurological failure
+{5903}{}{} #, stunning it with your violent attack
+{5904}{}{} #, crippling the arm
+{5905}{}{} #, striking a critical spot. The arm is crippled
+{5906}{}{} #, knocking the creature over and crippling the leg
+{5907}{}{} #, stunning the centaur as it is knocked over with a crippled leg
+{5908}{}{} #, blinding a head
+{5909}{}{} #, surprising the centaur. It blindly stumbles for a moment
+{5910}{}{} #, surprising the centaur. It collapses in a heap
+{5911}{}{} #, surprising the centaur. It collapses in a pile of goo
+{5912}{}{} #. The attack was not as effective as it could have been
 # #
 # series 6000 - Robots #
 # #
-{6000}{}{, inflicting some structural damage} #
-{6001}{}{. Sparks fly and the robot goes momentarily out of control} #
-{6002}{}{, hitting a critical component and forcing the robot out of control} #
-{6003}{}{, hitting a critical component and causing a massive malfunction} #
-{6004}{}{. The robot attempts to compensate} #
-{6005}{}{. The robot strains to compensate} #
-{6006}{}{, hitting some key part and causing heavy damage} #
-{6007}{}{, inflicting heavy structural damage} #
-{6008}{}{, hitting a critical component and causing severe damage} #
-{6009}{}{. The robot shudders under this intense attack} #
-{6010}{}{, dismantling the robot} #
-{6011}{}{. The robot attempts to compensate, but fails, falling to the ground} #
-{6012}{}{. The robot strains under the pressure, falling to the ground} #
-{6013}{}{, breaking the sensor lenses} #
+{6000}{}{} #, inflicting some structural damage
+{6001}{}{} #. Sparks fly and the robot goes momentarily out of control
+{6002}{}{} #, hitting a critical component and forcing the robot out of control
+{6003}{}{} #, hitting a critical component and causing a massive malfunction
+{6004}{}{} #. The robot attempts to compensate
+{6005}{}{} #. The robot strains to compensate
+{6006}{}{} #, hitting some key part and causing heavy damage
+{6007}{}{} #, inflicting heavy structural damage
+{6008}{}{} #, hitting a critical component and causing severe damage
+{6009}{}{} #. The robot shudders under this intense attack
+{6010}{}{} #, dismantling the robot
+{6011}{}{} #. The robot attempts to compensate, but fails, falling to the ground
+{6012}{}{} #. The robot strains under the pressure, falling to the ground
+{6013}{}{} #, breaking the sensor lenses
 # #
 # series 6100 - Dogs #
 # #
-{6100}{}{, knocking the pooch to the ground} #
-{6101}{}{, right across the snout} #
-{6102}{}{. The dog falls over, but it is still breathing} #
-{6103}{}{. The animal coughs up a spurt of blood} #
-{6104}{}{, crippling the leg} #
-{6105}{}{, crippling the leg. The animal tries to remain standing, but fails} #
-{6106}{}{. The blinded animal howls in pain} #
-{6107}{}{, neutering the poor animal} #
+{6100}{}{} #, knocking the pooch to the ground
+{6101}{}{} #, right across the snout
+{6102}{}{} #. The dog falls over, but it is still breathing
+{6103}{}{} #. The animal coughs up a spurt of blood
+{6104}{}{} #, crippling the leg
+{6105}{}{} #, crippling the leg. The animal tries to remain standing, but fails
+{6106}{}{} #. The blinded animal howls in pain
+{6107}{}{} #, neutering the poor animal
 # #
 # series 6200 - Manti #
 # #
-{6200}{}{, knocking down this mutated insect} #
-{6201}{}{. It collapses} #
-{6202}{}{. The manti ponders whether or not to continue living} #
-{6203}{}{, crippling the limb} #
-{6204}{}{, causing the manti to lick its wounds. It holds the limb oddly} #
-{6205}{}{, bypassing the chitinous armor} #
-{6206}{}{. The manti shrieks and shivers most inhuman like} #
-{6207}{}{, which causes the manti to fall over. A limb is bent at an odd angle} #
-{6208}{}{, shredding the wings} #
-{6209}{}{, bypassing the chitinous armor and throwing the manti around} #
-{6210}{}{, blinding the insect with an accurate blow} #
+{6200}{}{} #, knocking down this mutated insect
+{6201}{}{} #. It collapses
+{6202}{}{} #. The manti ponders whether or not to continue living
+{6203}{}{} #, crippling the limb
+{6204}{}{} #, causing the manti to lick its wounds. It holds the limb oddly
+{6205}{}{} #, bypassing the chitinous armor
+{6206}{}{} #. The manti shrieks and shivers most inhuman like
+{6207}{}{} #, which causes the manti to fall over. A limb is bent at an odd angle
+{6208}{}{} #, shredding the wings
+{6209}{}{} #, bypassing the chitinous armor and throwing the manti around
+{6210}{}{} #, blinding the insect with an accurate blow
 # #
 # series 6300 - Deathclaw #
 # #
-{6300}{}{. Even this beast seems fazed by that stunning attack} #
-{6301}{}{, slipping past the huge claws to strike the monster. The Deathclaw shakes and growls} #
-{6302}{}{. The result is massive damage to the Deathclaw's eyes} #
+{6300}{}{} #. Even this beast seems fazed by that stunning attack
+{6301}{}{} #, slipping past the huge claws to strike the monster. The Deathclaw shakes and growls
+{6302}{}{} #. The result is massive damage to the Deathclaw's eyes
 # #
 # series 6400 - Spore Plant  # Was The Master #
 # #
-{6400}{}{, breaking past the plant's defenses} #
-{6401}{}{, tearing some of its leaves off} #
-{6402}{}{, breaking some of its fronds} #
-{6403}{}{, damaging its chlorophyll intake} #
-{6404}{}{, knocking the pollen out of it} #
-{6405}{}{, almost tipping it over} #
-{6406}{}{, damaging some of its branches} #
+{6400}{}{} #, breaking past the plant's defenses
+{6401}{}{} #, tearing some of its leaves off
+{6402}{}{} #, breaking some of its fronds
+{6403}{}{} #, damaging its chlorophyll intake
+{6404}{}{} #, knocking the pollen out of it
+{6405}{}{} #, almost tipping it over
+{6406}{}{} #, damaging some of its branches
 #
 # series 6500 - The Player
 #
-{6500}{}{. You'll have a headache tomorrow, if you live that long} #
-{6501}{}{. Your armor provides no protection from this well-aimed blow} #
-{6502}{}{. You feel the pain for just a moment, and then darkness takes you..} #
-{6503}{}{, bypassing your armor. The blow knocks you off your feet} #
-{6504}{}{. The shock makes your vision go dark. After a moment, you notice that your vision has not returned} #
-{6505}{}{. You get a nice view of your body as your head sails through the air} #
-{6506}{}{. Surprisingly, the damage feels no worse than normal} #
-{6507}{}{, stunning you for a moment} #
-{6508}{}{. Feel the pain} #
-{6509}{}{. The attack leaves your arm useless} #
-{6510}{}{, slipping past your armor. The blow cracks the bones in your arm like deadwood} #
-{6511}{}{, bypassing your armor. Your arm now hangs limply at your side} #
-{6512}{}{. The bruise will look nice, and maybe the scars will make good party talk} #
-{6513}{}{, crushing your internal organs. All you can do is gurgle blood} #
-{6514}{}{, sending you head over heels} #
-{6515}{}{, sending you flying and breaking your leg} #
-{6516}{}{, melting through your armor. The blow knocks you over and seriously hurts your knee} #
-{6517}{}{. The pain from your broken leg sends you into unconsciousness} #
-{6518}{}{. The painful blow makes you flinch, but does little else} #
-{6519}{}{. Unluckily for you, it also causes immediate vision loss} #
-{6520}{}{. It takes you a moment to wipe the blood from your eyes} #
-{6521}{}{, slipping past your armor. You stand stunned as your realize you cannot see anymore} #
-{6522}{}{. You feel a strange sensation in your head. You realize it's imminent brain-death} #
-{6523}{}{, making you cringe} #
-{6524}{}{. You cup your groin and fall to the floor in pain} #
-{6525}{}{. The pain is sufficient to knock you out. Ouch} #
-{6526}{}{. There are not enough words in the universe to describe the pain you are feeling at this moment} #
+{6500}{}{} #. You'll have a headache tomorrow, if you live that long
+{6501}{}{} #. Your armor provides no protection from this well-aimed blow
+{6502}{}{} #. You feel the pain for just a moment, and then darkness takes you..
+{6503}{}{} #, bypassing your armor. The blow knocks you off your feet
+{6504}{}{} #. The shock makes your vision go dark. After a moment, you notice that your vision has not returned
+{6505}{}{} #. You get a nice view of your body as your head sails through the air
+{6506}{}{} #. Surprisingly, the damage feels no worse than normal
+{6507}{}{} #, stunning you for a moment
+{6508}{}{} #. Feel the pain
+{6509}{}{} #. The attack leaves your arm useless
+{6510}{}{} #, slipping past your armor. The blow cracks the bones in your arm like deadwood
+{6511}{}{} #, bypassing your armor. Your arm now hangs limply at your side
+{6512}{}{} #. The bruise will look nice, and maybe the scars will make good party talk
+{6513}{}{} #, crushing your internal organs. All you can do is gurgle blood
+{6514}{}{} #, sending you head over heels
+{6515}{}{} #, sending you flying and breaking your leg
+{6516}{}{} #, melting through your armor. The blow knocks you over and seriously hurts your knee
+{6517}{}{} #. The pain from your broken leg sends you into unconsciousness
+{6518}{}{} #. The painful blow makes you flinch, but does little else
+{6519}{}{} #. Unluckily for you, it also causes immediate vision loss
+{6520}{}{} #. I. It takes you a moment to wipe the blood from your eyest takes you a moment to wipe the blood from your eyes
+{6521}{}{} #, slipping past your armor. You stand stunned as your realize you cannot see anymore
+{6522}{}{} #. You feel a strange sensation in your head. You realize it's imminent brain-death
+{6523}{}{} #, making you cringe
+{6524}{}{} #. You cup your groin and fall to the floor in pain
+{6525}{}{} #. The pain is sufficient to knock you out. Ouch
+{6526}{}{} #. There are not enough words in the universe to describe the pain you are feeling at this moment
 # Fallout 2:
 #
 # series 6700 - Gecko
 #
-{6700}{}{, breaking past the lizard's defenses} #
-{6701}{}{, tearing some of its slimy skin off} #
-{6702}{}{, breaking some of its digits} #
-{6703}{}{, damaging its breathing ability} #
-{6704}{}{, knocking the stuffing out of it} #
-{6705}{}{, almost tipping it over} #
-{6706}{}{, damaging some of its limbs} #
+{6700}{}{} #, breaking past the lizard's defenses
+{6701}{}{} #, tearing some of its slimy skin off
+{6702}{}{} #, breaking some of its digits
+{6703}{}{} #, damaging its breathing ability
+{6704}{}{} #, knocking the stuffing out of it
+{6705}{}{} #, almost tipping it over
+{6706}{}{} #, damaging some of its limbs
 #
 # series 6800 - Alien
 #
-{6800}{}{, sliding past the creature's defenses} #
-{6801}{}{, smearing some of its slime off} #
-{6802}{}{, mashing some of its suction-feelers} #
-{6803}{}{, damaging its air (?) intake} #
-{6804}{}{, knocking the icky stuff out of it} #
-{6805}{}{, almost tipping it over} #
-{6806}{}{, damaging some of its tentacles} #
+{6800}{}{} #, sliding past the creature's defenses
+{6801}{}{} #, smearing some of its slime off
+{6802}{}{} #, mashing some of its suction-feelers
+{6803}{}{} #, damaging its air (?) intake
+{6804}{}{} #, knocking the icky stuff out of it
+{6805}{}{} #, almost tipping it over
+{6806}{}{} #, damaging some of its tentacles
 #
 # series 6900 - Giant Ant
 #
-{6900}{}{, breaking past the ant's defenses} #
-{6901}{}{, ripping some of its antennae off} #
-{6902}{}{, breaking some of its feelers} #
-{6903}{}{, damaging its health} #
-{6904}{}{, knocking it around a bit} #
-{6905}{}{, almost tipping it over} #
-{6906}{}{, damaging some of its exoskeleton} #
+{6900}{}{} #, breaking past the ant's defenses
+{6901}{}{} #, ripping some of its antennae off
+{6902}{}{} #, breaking some of its feelers
+{6903}{}{} #, damaging its health
+{6904}{}{} #, knocking it around a bit
+{6905}{}{} #, almost tipping it over
+{6906}{}{} #, damaging some of its exoskeleton
 #
 # series 7000 - Gun Turret  -- WIP! Won't Work!
 #
-{7000}{}{, breaking past the ant's defenses} #
-{7001}{}{, ripping some of its antennae off} #
-{7002}{}{, breaking some of its feelers} #
-{7003}{}{, damaging its health} #
-{7004}{}{, knocking it around a bit} #
-{7005}{}{, almost tipping it over} #
-{7006}{}{, damaging some of its exoskeleton} #
+{7000}{}{} #, breaking past the ant's defenses
+{7001}{}{} #, ripping some of its antennae off
+{7002}{}{} #, breaking some of its feelers
+{7003}{}{} #, damaging its health
+{7004}{}{} #, knocking it around a bit
+{7005}{}{} #, almost tipping it over
+{7006}{}{} #, damaging some of its exoskeleton
 #
 # Series 7100 - End Boss
 #
-{7100}{}{, blowing past the Bodyguard's armor} #
-{7101}{}{, bringing the Bodyguard to his knees} #
-{7102}{}{, destroying his arm control mechanism} #
-{7103}{}{, destroying his leg rotator mechanism} #
-{7104}{}{, shattering his bionic eye} #
-{7105}{}{, causing him to pause and shake off your massive attack} #
-{7106}{}{, compacting his chest plate} #
+{7100}{}{} #, blowing past the Bodyguard's armor
+{7101}{}{} #, bringing the Bodyguard to his knees
+{7102}{}{} #, destroying his arm control mechanism
+{7103}{}{} #, destroying his leg rotator mechanism
+{7104}{}{} #, shattering his bionic eye
+{7105}{}{} #, causing him to pause and shake off your massive attack
+{7106}{}{} #, compacting his chest plate
