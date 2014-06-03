@@ -836,23 +836,23 @@
 # #
 # series 5600 - Radscorpions #
 # #
-{5600}{}{, } #, sending the Radscorpion flying on its back
-{5601}{}{, } #, separating the head from the carapace
-{5602}{}{, } #, seriously damaging the tail
-{5603}{}{, } #, putting a major hurt on its claws
-{5604}{}{. } #. The blow slips between the cracks of the Radscorpion's tough carapace
-{5605}{}{, } #, striking through the tough carapace without pausing
-{5606}{}{, } #, passing through the natural armor and knocking the Radscorpion over
-{5607}{}{. } #. The Radscorpion cannot cope with a new sensation, like missing internal organs
-{5608}{}{, } #, sending the 'scorpion flying and crippling some of its legs
-{5609}{}{. } #. The attack cuts through an unprotected joint on the leg, severing it
-{5610}{}{, } #, seriously wounding and blinding the mutant creature
-{5611}{}{, } #, penetrating almost to the brain. Talk about squashing a bug
-{5612}{}{, } #, almost penetrating to the brain, but blinding the creature instead
-{5613}{}{. } #. The attack is fiendish, and far too sophisticated for this simple creature
-{5614}{}{. } #. If it was human, you would swear it's pretty pissed off
-{5615}{}{, } #, knocking the poor creature senseless
-{5616}{}{, } #, spiking the brain to the floor
+{5600}{}{, fazendo o Radscorpion voar longe} #, sending the Radscorpion flying on its back
+{5601}{}{, separando o cabeça da carapaça} #, separating the head from the carapace
+{5602}{}{, danificando sériamente a cauda} #, seriously damaging the tail
+{5603}{}{, ferindo sériamente suas garras} #, putting a major hurt on its claws
+{5604}{}{. O ataque passa entre a grossa carapaça do Radscorpion} #. The blow slips between the cracks of the Radscorpion's tough carapace
+{5605}{}{, atravessando a carapaça sem perder velocidade} #, striking through the tough carapace without pausing
+{5606}{}{, perfurando a armadura natural e nocauteando o Radscorpion} #, passing through the natural armor and knocking the Radscorpion over
+{5607}{}{. O Radscorpion não consegue lidar com uma sensação nova, tipo a de perder órgãos internos} #. The Radscorpion cannot cope with a new sensation, like missing internal organs
+{5608}{}{, fazendo o escorpião voar longe e quebrando algumas de suas pernas} #, sending the 'scorpion flying and crippling some of its legs
+{5609}{}{. O ataque abre um rasgo em uma parte desprotegida da perna, mutilando-a} #. The attack cuts through an unprotected joint on the leg, severing it
+{5610}{}{, ferindo gravemente e cegando a criatura mutante} #, seriously wounding and blinding the mutant creature
+{5611}{}{, penetrando quase até o cérebro. Isso que eu chamo de esmagar insetos} #, penetrating almost to the brain. Talk about squashing a bug
+{5612}{}{, quase chegando até o cérebro, cegando a criatura ao invés disso} #, almost penetrating to the brain, but blinding the creature instead
+{5613}{}{. O ataque é forte, e sofisticado de mais para que } #. The attack is fiendish, and far too sophisticated for this simple creature
+{5614}{}{. Se fosse um humano, você poderia ter certeza de que ele estaria muito puto} #. If it was human, you would swear it's pretty pissed off
+{5615}{}{, fazendo a pobre criatura cair no chão, sem os sentidos} #, knocking the poor creature senseless
+{5616}{}{, deixando pedaços de seu cérebro no chão} #, spiking the brain to the floor
 # #
 # series 5700 - Rats #
 # #
