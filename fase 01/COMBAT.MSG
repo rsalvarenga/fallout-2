@@ -856,33 +856,33 @@
 # #
 # series 5700 - Rats #
 # #
-{5700}{}{} #. The rodent's skull makes several unhealthy sounds
-{5701}{}{} #, squashing the rodent's skull like a wet paper bag
-{5702}{}{} #, and the left paw now looks a little flat
-{5703}{}{} #. The left paw of the rat is blown off
-{5704}{}{} #. The right paw is heavily damaged
-{5705}{}{} #, blowing the right paw off
-{5706}{}{} #. The rat is seriously wounded by this attack
-{5707}{}{} #, seriously wounding the rat and knocking it around
-{5708}{}{} #, splattering the rat across the floor
-{5709}{}{} #, crippling the right leg
-{5710}{}{} #, putting a big hole in the left leg
-{5711}{}{} #, doing some extra damage due to the sensitive location
-{5712}{}{} #, summoning this creature to the great ratcatcher in the sky
+{5700}{}{. A cabeça do roedor faz sons nada saudáveis} #. The rodent's skull makes several unhealthy sounds
+{5701}{}{, esmagando a cabeça do roedor como se fosse uma bola de papel molhada} #, squashing the rodent's skull like a wet paper bag
+{5702}{}{, e a pata da esquerda agora está meio achatada} #, and the left paw now looks a little flat
+{5703}{}{. A pata da esquerda do rato está completamente destruida} #. The left paw of the rat is blown off
+{5704}{}{. A pata direita está gravemente ferida} #. The right paw is heavily damaged
+{5705}{}{, explodindo a pata direita} #, blowing the right paw off
+{5706}{}{. O rato é severamente ferido com este ataque} #. The rat is seriously wounded by this attack
+{5707}{}{, ferindo gravemente o rato, que é nocauteado} #, seriously wounding the rat and knocking it around
+{5708}{}{, espalhando o rato pelo chão} #, splattering the rat across the floor
+{5709}{}{, quebrando a perna direita} #, crippling the right leg
+{5710}{}{, fazendo um enorme buraco na perna esquerda} #, putting a big hole in the left leg
+{5711}{}{, fazendo um dano extra devido a sensibilidade da área atingida} #, doing some extra damage due to the sensitive location
+{5712}{}{. Sua alma foi arrebatada para conhecer o maravilhoso (porém pequeno) deus rato} #, summoning this creature to the great ratcatcher in the sky
 # #
 # series 5800 - Floaters #
 # #
-{5800}{}{} #. The floater drops to the ground
-{5801}{}{} #. The floater falls to the ground, seemingly lifeless
-{5802}{}{} #, with serious consequences to the creature's continued existence
-{5803}{}{} #, stunning the foul creature
-{5804}{}{} #, hitting a sensitive spot there and stunning the floater
-{5805}{}{} #. The blow causes the floater to shudder violently in a spray of crimson
-{5806}{}{} #. The blow causing some sort of violent reaction in the creature
-{5807}{}{} #. The floater suddenly bursts into flames
-{5808}{}{} #. It jerks wildly and quivers like a pudding surprise
-{5809}{}{} #, with the blow hitting a sensitive spot
-{5810}{}{} #. The creature is obviously agitated
+{5800}{}{. O floater cai no chão} #. The floater drops to the ground
+{5801}{}{. O floater cai no chão, aparentemente morto} #. The floater falls to the ground, seemingly lifeless
+{5802}{}{, deixando sérias sequelas que vão prejudicar bastante a vida da criatura} #, with serious consequences to the creature's continued existence
+{5803}{}{, atordoando a terrível criatura} #, stunning the foul creature
+{5804}{}{, atigindo uma área sensível e atordoando o floater} #, hitting a sensitive spot there and stunning the floater
+{5805}{}{. O golpe faz com que a criatura trema violentamente, numa névoa de sangue} #. The blow causes the floater to shudder violently in a spray of crimson
+{5806}{}{. O ataque causa algum tipo de reação violenta na criatura} #. The blow causing some sort of violent reaction in the creature
+{5807}{}{. O floater de repente explode em chamas} #. The floater suddenly bursts into flames
+{5808}{}{. A criatura sacode selvagemente e treme como um pudim surpreso} #. It jerks wildly and quivers like a pudding surprise
+{5809}{}{, atingindo uma área sensível} #, with the blow hitting a sensitive spot
+{5810}{}{. A criatura está obviamente agitada} #. The creature is obviously agitated
 # #
 # series 5900 - Centaurs #
 # #
@@ -1011,13 +1011,13 @@
 #
 # series 6900 - Giant Ant
 #
-{6900}{}{} #, breaking past the ant's defenses
-{6901}{}{} #, ripping some of its antennae off
-{6902}{}{} #, breaking some of its feelers
-{6903}{}{} #, damaging its health
-{6904}{}{} #, knocking it around a bit
-{6905}{}{} #, almost tipping it over
-{6906}{}{} #, damaging some of its exoskeleton
+{6900}{}{, ultrapassando as defesas da formiga} #, breaking past the ant's defenses
+{6901}{}{, arrancando uma de suas antenas fora} #, ripping some of its antennae off
+{6902}{}{, quebrando algumas de suas pernas} #, breaking some of its feelers
+{6903}{}{, ferindo a formiga gravemente} #, damaging its health
+{6904}{}{, fazendo com que ela tropece um pouco} #, knocking it around a bit
+{6905}{}{, deixando a formiga atordoada} #, almost tipping it over
+{6906}{}{, danificando uma parte de seu exoesqueleto} #, damaging some of its exoskeleton
 #
 # series 7000 - Gun Turret  -- WIP! Won't Work!
 #
