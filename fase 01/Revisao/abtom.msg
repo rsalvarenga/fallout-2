@@ -8,11 +8,11 @@
 #[The old man jolts with surprise when he sees you approach.] Uh, look, I really must be going...
 {200}{}{[O velho se sacode com surpresa quando vê você se aproximando.] Uh, olha, eu realmente tenho que ir...}
 #Now you hold on a minute. [You grab the man by the arm as he begins to walk away.] Who are you, and what are you
- doing here at this hour?
+# doing here at this hour?
 {201}{}{Agora espere um minuto. [Você pega o homem pelo braço quando ele começa a se afastar.] quem é você, e o que você está
  fazendo aqui a essa hora?}
 #What? Why, uh...the name's Tom and can't an old man enjoy a nightly stroll anymore without getting asked a bunch of
- questions?
+# questions?
 {202}{}{Que? porque, uh...o nome é Tom e um homem velho não pode disfrutar de um passeio noturno sem ser feito um monte de perguntas?}
 #Not when he's slinking around like a thief and carrying a shovel.
 {203}{}{Não quando ele está se esgueirando por aí como um ladrão e carregando uma pá.}
@@ -23,7 +23,7 @@
 #Nevermind. Sorry to bother you
 {206}{}{Deixa pra lá. Desculpe incomodá-lo.}
 #You mean this ol' thing? [He glances down at the rusty shovel in his hands.] Well, uh, you never know when you
- might find something that needs digging up. Always be prepared I say.
+# might find something that needs digging up. Always be prepared I say.
 {207}{}{O que está fazendo com essa coisa velha? [ele olha para baixo, para a pá enferrujada em sua mãos .] bem, uh, nunca se sabe quando você encontra alguma que precisa desenterrar. sempre esteja preparado digo.}
 #Find something, eh? You mean like something in a grave?
 {208}{}{Encontra alguma coisa, eh? quer dizer, como algo em uma cova?}
@@ -32,19 +32,19 @@
 #(Tom's eyes widen) I'm not quite sure what you, uh, mean
 {210}{}{(Os olhos de Tom arregalaram) Eu não tenho certeza do que você, uh, quero dizer.}
 #Tom, you're in a graveyard, you've got mud all over you, and it's past midnight. Why, even Torr could draw a
- conclusion from this. It's time to start giving me some answers, Tom. Why are you digging up these graves?
+# conclusion from this. It's time to start giving me some answers, Tom. Why are you digging up these graves?
 {211}{}{Tom, você está em um cemitério, tem lama em cima de você, e já é meia noite. por que, até mesmo Torr poderia tirar uma
  conclusão disso. é hora de começar a me dar algumas respostas. Tom, por que você está desenterrando esses túmulos?}
 #[He puts down the shovel and sighs.] Alright, I'll tell you. My body ain't what it used to be. I've got no job,
- and no real means to get food. I know grave diggin ain't something that folks smile upon, but it's been a way for me to
- bring in some money. I'm just trying to survive...I don't mean no harm
+# and no real means to get food. I know grave diggin ain't something that folks smile upon, but it's been a way for me to
+# bring in some money. I'm just trying to survive...I don't mean no harm
 {212}{}{[Ele abaixa a pá e suspira.] certo, eu vou te dizer. Meu corpo não é o que costumava ser. Eu não tenho nenhum trabalho,
  e sem meios reais para conseguir comida. eu sei que escavar túmulos não é uma coisa que faça agente sorrir, mas tem sido uma maneira para eu conseguir algum dinheiro. Eu estou apenas tentando sobreviver... Eu não quero causar nenhum mal.}
 #I don't think that digging graves is a good thing for a man in your condition. Tell you what. You just mosey on
- out of here and we'll forget that this conversation ever happened. I never want to see your face again though, Okay?
+# out of here and we'll forget that this conversation ever happened. I never want to see your face again though, Okay?
 {213}{}{Eu não acho que cavar sepulturas é uma boa coisa para um homem na sua condição. vou lhe dizer. você sai daqui de fininho e vamos esquecer que essa conversa aconteceu. eu nunca mais quero ver seu rosto novamente, ok?}
 #[The old man looks like he's about to protest, then stops.] Alright, you win. You've seen the last of poor old Tom.
- [He picks up his shovel and shuffles away.]
+# [He picks up his shovel and shuffles away.]
 {214}{}{[O velho parece que está prestes a protestar, depois pára.] certo, você venceu. é a ultima vez que você vê o pobre Tom.
  [Ele pega a pá e joga longe.]}
 #On second thought, maybe it would be better for the world if I kill you
@@ -66,7 +66,7 @@
  ele até se ofereceu para conversar com quem estava roubando as suas plantações e chegar a um acordo razoável. vá falar com ele.
  Tenho certeza que ele pode ajudá-lo de alguma forma.}
 #(The old man's eyes light up.) That doesn't sound like a bad idea at all. Hey, thanks. Maybe this world aint as
- cruel as I thought it was.
+# cruel as I thought it was.
 {221}{}{(Os olhos do velho brilharam.) Isso não soa como uma má ideia ao todo. ei, obrigado. Talvez este mundo não é tão cruel como eu pensei que era.}
 #You take care then, Tom. I'll check with you later and see how things are going.
 {222}{}{toma cuidado então, Tom. Vou falar com você mais tarde e ver como as coisas estão indo.}
@@ -82,7 +82,7 @@
 #You're welcome, Tom. You take care of yourself now
 {302}{}{de nada, Tom. cuide-se de si mesmo agora.}
 #Alright I wi- Oh, wait a second. I want to give you something for helping an old fella like me out. I found this
- lighter on some lad I dug up a couple weeks ago. I have no use for it and hopefully you might.
+# lighter on some lad I dug up a couple weeks ago. I have no use for it and hopefully you might.
 {303}{}{certo eu wi- Oh, espere um segundo. eu quero te dar-lhe algo para ajudar um cara velho como eu . Eu encontrei esse
  isqueiro em algum rapaz que desenterrei duas semanas atrás. Eu não tenho nenhum uso para ele e espero que você tenha.} #Correto podem traduzir isqueiro!
 #Thanks, Tom. I'm sure this'll come in handy. See you around.
