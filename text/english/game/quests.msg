@@ -33,7 +33,7 @@
 #
 # Klamath Quests
 #
-{300}{}{Reabasteça o imóvel.}
+{300}{}{Reabasteça o alambique.}
 {301}{}{Resgate Smiley o caçador.}
 {302}{}{Proteja os brahmin.}
 {303}{}{Roubar os brahmin.}
