@@ -27,7 +27,6 @@
 {104}{}{¿No tienes nada mejor que hacer que pararte a hablar
  con una vaca bicéfala?}
 {105}{}{Es un brahmin. Tiene dos cabezas.}
-
 {201}{}{Muuu...}
 {202}{}{Muuu Muuu Muuu...}
 {203}{}{Muuu...}
