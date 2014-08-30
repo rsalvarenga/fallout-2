@@ -71,7 +71,7 @@
 
 #Jan-u-wine Antee-cues. They don't make it like they usta. In fact, they mostly don't make it at
 # all. If you want the good old stuff, see Vic the Trader -— East side of Downtown.
-{400}{}{Ótimas Antiguidades. Eles não fazem como eles costumavam fazer. De facto eles nem fazem mais. Se é bugigangas oque você procura, Procure Vic the trader -— Lado leste do centro da cidade.}
+{400}{}{Ótimas Antiguidades. Eles não fazem mais como antigamente. De fato eles nem fazem mais. Se é bugigangas o que você procura, Procure Vic o comerciante -— Lado leste de Downtown.}
 #I think I'll take a look at another notice.
 {410}{}{Acho que vou dar uma olhada em outro aviso.}
 #That's all the info that I need for now.

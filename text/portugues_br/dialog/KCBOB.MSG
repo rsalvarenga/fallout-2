@@ -19,8 +19,8 @@
 {130}{}{Bem, talvez eu volte aqui mais tarde. Tchau.}
 {131}{}{Bem, espero te ver por aqui de novo, gatinha. Até mais.}
 
-{140}{}{Humph, não quero você como companheiro de bebedeira. Vaza.}
-{141}{}{Humph, acho que prefiro ir para casa de banho de Sally do que passar o tempo com você. Tchau.}
+{140}{}{Hum, não quero você como companheiro de bebedeira. Vaza.}
+{141}{}{Hum, acho que prefiro ir para casa de banho de Sally do que passar o tempo com você. Tchau.}
 
 {150}{}{Saudações, tribal. Meu nome é Whiskey Bob. E o seu?}
 {151}{}{Meu nome é }
@@ -35,7 +35,7 @@
 {163}{}{Eu não quero te comprar uma bebida, Whiskey Bob.}
 {164}{}{Com um apelido como o seu, Whiskey Bob, talvez seja você o fornecedor de bebidas.}
 
-{170}{}{Valeu pelo drink. Agora que molhei o bico, posso compartilhar um pequeno probleminha que tenho. Hei -- talvez você queira me ajudar?}
+{170}{}{Valeu pelo drink. Agora que molhei o bico, posso compartilhar um pequeno probleminha que tenho. Ei -- talvez você queira me ajudar?}
 {171}{}{Bem, eu to bem ocupado agora. Acho que não vou poder te ajudar...}
 {172}{}{Como posso te ajudar?}
 {173}{}{Se não for me tomar muito tempo, acho que posso te ajudar. Por um preço é claro.}
