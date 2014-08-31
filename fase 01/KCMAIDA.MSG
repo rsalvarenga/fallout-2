@@ -6,7 +6,7 @@
 
  #You've really made me angry. I don't want anything further to do with you. Now just get out.
  #Tribals, humph! (mutter, mutter) ...shiftless, worthless, lazy...
-{200}{}{Você realmente me deixou com raiva. Eu não quero mais com você. Agora cai fora.
+{200}{}{Você realmente me deixou com raiva. Eu não quero mais nada com você. Agora cai fora.
  Tribais, humph! (murmurar, murmurar) ... Insolente, inútil, preguiçoso...}
 {201}{}{You are even more infuriating than Sulik! I don't have time to talk to you. Go away.}
 {202}{}{I don't want to have anything to do with you either. Goodbye.}
