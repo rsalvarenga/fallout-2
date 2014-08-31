@@ -1,5 +1,5 @@
 # Noob-Saibot revisou e traduziu este arquivo.
-{100}{}{Diante de você está Hakunin, o xamã da tribo. Ele te observa com seu olhar insano, de algum lugar no mundo que só ele habita...} # Before you stands Hakunin, the village shaman. He appraises you with his crazy eyes from somewhere in the world only he inhabits...
+{100}{}{Diante de você está Hakunin, o shaman da tribo. Ele te observa com seu olhar insano, de algum lugar no mundo que só ele habita...} # Before you stands Hakunin, the village shaman. He appraises you with his crazy eyes from somewhere in the world only he inhabits...
 {101}{}{Você vê Hakunin caido no chão. Ele está gravemente ferido.} # You see Hakunin lying on the ground. He's badly wounded.
 {102}{}{Você vê Hakunin. Ele está bem perto da morte.} # You see Hakunin. He's very near death.
 {103}{}{Hakunin está sériamente queimado. Ele cheira a frango frito, e se parece com uma almôndega queimada. Você não sabe como ele conseguiu permanecer vivo.} # Hakunin is badly burned. He smells like roast chicken, looks like burnt meatloaf, and you don't know how he's managed to stay alive this long.
@@ -31,7 +31,7 @@
 {129}{}{Eu acho que não. Eu preciso começar minha jornada agora.} # I don't think so. I need to start my quest right away.
 {130}{}{Eu sei que você não é um cara ruim, mas eu já estou com dor de cabeça... Então fica pra próxima.} # I know you're not a bad guy, but I've got a headache already, so I think I'll have to pass.
 {131}{}{Esquece. Eu sou o futuro líder dessa tribo, e portanto não posso me preocupar em ser seu jardineiro.} # Forget it. I'm the future leader of this tribe and it would be undignified for me to do your gardening for you.
-{132}{}{Eu ficaria honrado, Xamã.} # I'd be honored, holy one.
+{132}{}{Eu ficaria honrado, shaman.} # I'd be honored, holy one.
 {133}{}{Você me pediu pra aparar seu jardim? Se é isso, tá ok.} # Did you just ask me to weed your garden? If that's the case, okay.
 {134}{}{Por um preço.} # For a price.
 {135}{hak006}{Pedir pagamento por um presente vai te trazer menos que o presente em si. Eu te darei tal presente, e com ele a lição de sua auto-decepção ao recebê-lo.} # To ask payment for a gift will bring you less than the gift itself.  I will give you such and add the lesson of your self-disappointment at the receiving.
@@ -60,7 +60,7 @@
 {158}{}{Falar com você me faz duvidar dessa idéia de que o tempo não pode ser desperdiçado... Tô vazando daqui.} # You know, talking to you makes me wonder about that time can't be wasted idea. I'm outta here. 
 {159}{}{Ah, se eu tivesse sua sabedoria, ó sabio. Perdoe-me - é claro que farei o que for preciso para você.} # If only I had your wisdom, wise one. Forgive me- of course I'll take care of it for you.
 {160}{hak012}{Você pode usar a veste do escolhido, mas sua alma negra berra por dentro.} # You may bear the mantle of the Chosen, but your dark soul cries from within.
-{161}{}{Me perdoe, xamã. Como posso limpar minha alma?} # I beg your forgiveness, holy one. How can I cleanse my soul? 
+{161}{}{Me perdoe, shaman. Como posso limpar minha alma?} # I beg your forgiveness, holy one. How can I cleanse my soul? 
 {162}{}{Você está certo, Hakunin, e se você for sábio você não vai esquecer disto.} # That's right, Hakunin, and you'd be a real wise man not to forget it.
 {163}{}{Minha cabeça dói só de te ouvir. Até mais.} # My head aches from within listening to you. I'm gone. 
 {164}{}{Booka!} # Booka!
@@ -74,7 +74,7 @@
 {172}{}{Você quer dizer que eu tô melhor, né?} # You mean I'm better, right?
 {173}{hak015}{Para fazer um inteiro, é necessário que tenhamos um senso de plenitude. Você faria bem em entender, Escolhido.} # To make one whole instills a sense of fullness that you would be well to understand, Chosen.
 {174}{}{Pera, deixa comigo. Eu estou melhor e você se sente bem por isso, certo? Obrigado.} # Wait, don't tell me. I'm better and you felt good doing it, right? Thanks.
-{175}{}{Você é sábio e bondoso, Santo Xamã.} # You are wise and kind, Holy One.
+{175}{}{Você é sábio e bondoso, Santo shaman.} # You are wise and kind, Holy One.
 {176}{hak017}{De que forma posso tocar a alma escolhida, Semente do Fundador?} # In what way may I touch the chosen soul, Seed of the Dweller?
 {177}{}{Ahn... Onde exatamente fica o seu jardim?} # Uh, where exactly is your garden?
 {178}{}{Estou ferido. Você pode me curar?} # I'm hurt. Can you heal me?
@@ -117,7 +117,7 @@
 {215}{E sua habilidade de falar normalmente, não-existente. Eu ainda estou procurando.}{} # And your ability to speak normally, non-existent. I'm still trying.
 {216}{}{Estou fazendo o possível.} # I'm on it.
 {217}{}{Para de encher, velhote. Eu tô fazendo o melhor que posso.} # Get off my back, old man. I'm doing the best I can.
-{218}{}{Eu ainda estou procurando, Santo Xamã. Eu espero ter o GECK em breve.} # I'm still looking, holy one. I hope to have the GECK soon.
+{218}{}{Eu ainda estou procurando, Santo shaman. Eu espero ter o GECK em breve.} # I'm still looking, holy one. I hope to have the GECK soon.
 {219}{hak028a}{Que a Terra amorteça os passos de sua caminhada.} # May the Earth cushion the steps you must take.
 {220}{hak028b}{Que as Águas suavizem sua jornada. } # May the Waters soothe your journey.
 {221}{hak028c}{Que o Vento te guie até o seu objetivo.} # May the Wind guide you to your goal.
@@ -130,18 +130,18 @@
 {228}{}{Uh-huh.} # 
 {229}{}{Estou tentando. Eu queria ver formigas andandando a mesma quantidade de quilômetros que eu...} # I'm trying. I'd like to see the ant covering the miles I am.
 {230}{}{Estou dando o meu melhor.} # I'm doing my best.
-{231}{}{Vou tentar com o dobro de vontade, Santo Xamã. Eu não vou te decepcionar.} # I'll double my efforts, holy one. I will not let you down.
+{231}{}{Vou tentar com o dobro de vontade, Santo shaman. Eu não vou te decepcionar.} # I'll double my efforts, holy one. I will not let you down.
 {232}{}{Tá, tá.. Eu já ouvi tudo isso antes.} # Yeah, yeah. I've heard it all before.
 {233}{hak030}{Escolhido - a vila chora  de desespero. As crianças estão fracas e com fome. Por favor, nós não vamos aguentar muito tempo.} # Chosen - the village cries in desperation. The children are weak with hunger. Please, we cannot hold out much longer.
 {234}{}{Uh-huh.} # 
 {235}{}{Tô tentando. Tô tentando! Me dá um tempo!} # I'm trying. I'm trying! Give me a break!
-{236}{}{Eu acharei o GECK, Xamã. Você tem minha palavra.} # I'll find the GECK, holy one. You have my word.
+{236}{}{Eu acharei o GECK, shaman. Você tem minha palavra.} # I'll find the GECK, holy one. You have my word.
 {237}{}{Eu farei meu melhor pra achar o GECK.} # I'll do my best to find the GECK.
 {238}{hak031}{Escolhido, das areias do tempo restam apenas alguns grãos. Por favor. Traga o GECK logo, e faça com que a vida na aldeia volte a crescer rapidamente, como uma erva daninha. Rápido, antes que o último grão caia.} # Chosen, the sands of time are but a few grains. Please. Bring the GECK soon and make the future of the village like the beach of the ocean. Quickly, before the last grain falls.
 {239}{}{Uh-huh.} # 
 {240}{}{Tá ok. Eu vou encontrá-lo.} # All right. I'm off to find it.
 {241}{}{A vida é uma "erva", huh?} # Life's a beach, huh?
-{242}{}{Eu econtrarei o GECK, Xamã. Eu não vou decepcionar nosso povo.} # I will find the GECK, holy one. I will not let our people down.
+{242}{}{Eu econtrarei o GECK, shaman. Eu não vou decepcionar nosso povo.} # I will find the GECK, holy one. I will not let our people down.
 {243}{hak032}{Escolhido, os espíritos dos nossos ancestrais me guiaram até o mundo dos sonhos para que eu pudesse tocar seus pensamentos. Nossa vila sofre sem o GECK. Suas mãos seguram nossas vidas, como um pai segura seus filhos.} # Chosen, the spirits of our ancestors guide me to a world of dreams that I may touch thoughts. Our village suffers without the holy GECK. Your hands hold our lives as a father holds his children.
 {244}{hak033}{Novamente meu espírito te toca do vazio, Escolhido. Nossas plantações falham, e nossas reservas diminuem. Retorne para nós com o GECK. Seu sucesso é nossa última esperança.} # Once again my spirit touches you from the void, Chosen. Our crops fail, our reserves are meager. Return to us with the GECK. Your failure is our last light.
 {245}{hak034}{Escolhido. Nossa vila enfraquece. É mais difícil tocar seus sonhos. Você precisa correr, ou vamos todos........} # Chosen. The village weakens. It is harder to touch your dreams. You must hurry or we will all...

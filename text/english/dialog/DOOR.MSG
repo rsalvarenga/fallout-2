@@ -30,8 +30,8 @@
 #############################################################
 
 # look_at_proc
-{100}{}{You see a wooden door.}
-{101}{}{You see a metal door.}
+{100}{}{Você vê uma porta de madeira.} #You see a wooden door.
+{101}{}{Você vê uma porta de metal.} #You see a metal door.
 
 # description_proc
 
