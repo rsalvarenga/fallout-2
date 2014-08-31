@@ -1,10 +1,13 @@
-{100}{}{You see a plain looking, sturdily built young woman with a scowl on her face.}
-{101}{}{You see Maida Buckner, Mrs. Buckner's daughter.}
-{102}{}{You see a plain looking, sturdily built young woman. She's looking back at you with a scowl on
- her face.}
+{100}{}{Você vê uma moça de constituição forte e não muito bonita. Está olhando franzindo a testa} #You see a plain looking, sturdily built young woman with a scowl on her face.
+{101}{}{Você vê Maida Buckner, filha da senhora Buckner.} #You see Maida Buckner, Mrs. Buckner's daughter.
+{102}{}{Você vê uma moça de constituição forte e não muito bonita. Está olhando franzindo a testa} 
+#You see a plain looking, sturdily built young woman. She's looking back at you with a scowl on
+# her face.
 
-{200}{}{You've really made me angry. I don't want anything further to do with you. Now just get out.
- Tribals, humph! (mutter, mutter) ...shiftless, worthless, lazy...}
+ #You've really made me angry. I don't want anything further to do with you. Now just get out.
+ #Tribals, humph! (mutter, mutter) ...shiftless, worthless, lazy...
+{200}{}{Você realmente me deixou com raiva. Eu não quero mais com você. Agora cai fora.
+ Tribais, humph! (murmurar, murmurar) ... Insolente, inútil, preguiçoso...}
 {201}{}{You are even more infuriating than Sulik! I don't have time to talk to you. Go away.}
 {202}{}{I don't want to have anything to do with you either. Goodbye.}
 {203}{}{I'm very sorry that I upset you. I'm just ignorant of your ways here. I was trying to show you
