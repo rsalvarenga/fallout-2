@@ -12,7 +12,7 @@
 {109}{slk3}{Maioria das pessoas ter espíritos mau. Você? Você ter espíritos estúpidos... Melhor você ir ver shaman, ter buraco na cabeça... Grande buraco... Muito grande... Enorme.}
 {110}{}{Hein?}
 {111}{}{Hã-ham!}
-{112}{}{*Gulp!* (você se preocupa)}#gulp=engolir seco. mas nao parece. modifica aí se achar melhor.
+{112}{}{*Gulp!* (você se preocupa)} #gulp=engolir seco. mas nao parece. modifica aí se achar melhor.
 
 {113}{slk4}{Não querer buraco? Você ver Torr, ele seu espírito-irmão. Ele trabalhar para Maida-sem-sorriso. Como nós e mim.}
 {114}{}{Hã-ham..}
@@ -175,7 +175,7 @@
 {452}{slk27kc}{Você poder fazer um amigo aqui.}
 
 {460}{slk27la}{Quem ser culpado por envenenar a juventude?}
-{461}{slk27lb}{Certo é certo.}#ou direita é direita? ou direita é certo? 'Right is right'
+{461}{slk27lb}{Certo é certo.} #ou direita é direita? ou direita é certo? 'Right is right'
 {462}{slk27lc}{Esse lugar ser cheio de veneno.}
 
 {470}{slk27ma}{Aqueles que permanece na frente ataca por trás.}
@@ -256,7 +256,7 @@
 {730}{slk37a}{Espíritos ajuda também. Isso e armadura quase suficiente pra você.}
 {731}{slk37b}{Boa idéia. Você atrair pessoas com raiva como moscas em merda no pasto.}
 {732}{slk37c}{Com você perto, nós precisar de tudo o que puder pegar.}
-{733}{slk37d}{'Tá muito pesado, amigo. Nós gostar de correr das coisas más.}
+{733}{slk37d}{Tá muito pesado, amigo. Nós gostar de correr das coisas más.}
 
 {734}{slk38a}{Você precisar, você mandar.}
 {735}{slk38b}{Vamos fazer isso.}
@@ -280,7 +280,7 @@
 {750}{slk42}{Nós e mim agradece. Você tentar fazer coisa boa, só não ter o dinheiro. Talvez você aumentar um pouco?}
 {751}{}{Uh.}
 {752}{}{Desculpe, eu devo ter me enganado. Tchau.}
-{753}{}{Achei que tivesse o suficiente. Desculpe. Deixe-me perguntá-lo outra coisa.}
+{753}{}{Achei que tivesse o suficiente. Desculpe. Deixe-me perguntar outra coisa.}
 
 {754}{slk43a}{É. Nós dar isso pra Maida, então nós livre. Quer que nós anda junto?}
 {755}{slk43b}{É. Você pode parecer feio por fora, mas ser legal por dentro. Nós livre pra procurar irmã agora.}
@@ -298,10 +298,10 @@
 {767}{}{O que você está fazendo aqui?}
 {768}{}{Estou interessado em uma informação local.}
 {769}{}{Você gostaria de vir comigo? Nós poderíamos achar sua irmã no caminho das minhas viagens.}
-{770}{}Eu acho que não preciso saber de mais nada agora.}
+{770}{}{Eu acho que não preciso saber de mais nada agora.}
 
 {771}{slk45}{Tribo ser perto da Grande Água Salgada. Duas luas daqui, amigo.}
-{772}{}{Deixe-me perguntá-lo outra coisa.}
+{772}{}{Deixe-me perguntar outra coisa.}
 {773}{}{Duas luas? Isso é longe. Como viajou de tão longe seguramente?}
 {774}{}{Isso é tudo o que preciso saber agora. Tchau.}
 
@@ -340,12 +340,12 @@
 {803}{}{Acho que não preciso de nada agora. Tchau.}
 
 {804}{slk55}{Muitas perguntas. Maida ser mercadora aqui. A mãe, Ardin, cuidar dos quartos. Não ter Shaman na cidade, mas você poder trocar por medicamentos.}
-{805}{}{Ah, obrigado. Deixe-me perguntá-lo sobre outra coisa, então.}
+{805}{}{Ah, obrigado. Deixe-me perguntar sobre outra coisa, então.}
 {806}{}{Acho que é tudo o que eu precisava saber. Tchau.}
 
 {807}{slk56}{Nunca ouvir falar. Mas Maida deixar nós muito ocupados.}
 {808}{}{Quem é Maida?}
-{809}{}{Deixe-me perguntá-lo mais alguma coisa.}
+{809}{}{Deixe-me perguntar mais alguma coisa.}
 {810}{}{Bem, acho que vou deixá-lo voltar a trabalhar então. Tchau.}
 
 {811}{slk57a}{Lugar movimentado. Homens-inseto roubando gado, espíritos ambulantes, Smiley desaparecido.}
@@ -355,17 +355,17 @@
 {815}{}{Espíritos ambulantes? Fale-me sobre isso.}
 {816}{}{Smiley? Quem é Smiley?}
 {817}{}{Torr se perdeu? Onde você acha que ele pode ter ido?}
-{818}{}{Deixe-me perguntá-lo mais uma coisa.}
+{818}{}{Deixe-me perguntar mais uma coisa.}
 {819}{}{Eu acho que não preciso saber de mais nada por enquanto. Tchau.}
 
 # Will be removing the word Pistol from his dialog when the new audio is back.
 {820}{slk58alt}{Nós ser bom com as mãos, lança, martelo ou sub-metralhadora. Nós ter muitas habilidades.}
 
 {821}{slk59}{Torr falar sobre insetos que anda em dois pés e roubar Brahmin. Assustar ele.}
-{822}{}{Interessante. Deixe-me perguntá-lo outra coisa.}
+{822}{}{Interessante. Deixe-me perguntar outra coisa.}
 {823}{}{Acho que é tudo o que eu preciso saber. Tchau.}
 
-{824}{slk60}{O canyon a leste da área de pastagem parece ter espírto ambulante barulhento. Assutar os moradores. Vovô Osso não falar um palavra.}
+{824}{slk60}{O desfiladeiro a leste da área de pastagem parece ter espírito ambulante barulhento. Assutar os moradores. Vovô Osso não falar um palavra.}
 
 {825}{slk61}{Smiley ser bom caçador. Dizer estar procurando ninho de Golden Geckos. Não voltar mais.}
 
@@ -438,7 +438,7 @@
 
 {912}{slk69a}{Guerreiros do mal manter o resto ocupado e levar eles embora. Irmã com eles. Amigo, nós acha ela ou morrer tentando.}
 {913}{}{Parece escravagistas pra mim. Descobriu alguma coisa sobre eles?}
-{914}{}{Sinto muito em ouvir isso. Espero que você a ache. Deixe-me perguntá-lo outra coisa.}
+{914}{}{Sinto muito em ouvir isso. Espero que você a ache. Deixe-me perguntar outra coisa.}
 {915}{}{Acho que é tudo o que eu preciso saber agora. Tchau.}
 
 {916}{slk70a}{Parecer centro de formigueiro aqui. Muito lotado pra nós.}
@@ -525,7 +525,7 @@
 {2304}{}{Nós acha que você precisa de tempo pra cheirar flores. Vovô Osso diz que você muito ocupado todo tempo. Precisar levar vida mais devagar.}
 {2305}{}{Nós nos mover então}
 {2306}{}{Nós e mim ir até aqui agora.}
-{2307}{}{Relaxa, ser feliz, nós mover agora.}#Acho que esses 'moves' são quando você manda ele sai do caminho. se quiser substituir por 'sair'...
+{2307}{}{Relaxa, ser feliz, nós mover agora.} #Acho que esses 'moves' são quando você manda ele sai do caminho. se quiser substituir por 'sair'...
 
 {3000}{}{Pro norte.}
 {3001}{}{Pro noroeste.}
