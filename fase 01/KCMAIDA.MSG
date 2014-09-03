@@ -8,8 +8,11 @@
  #Tribals, humph! (mutter, mutter) ...shiftless, worthless, lazy...
 {200}{}{Você realmente me deixou com raiva. Eu não quero mais nada com você. Agora cai fora.
  Tribais, humph! (murmurar, murmurar) ... Insolente, inútil, preguiçoso...}
-{201}{}{You are even more infuriating than Sulik! I don't have time to talk to you. Go away.}
-{202}{}{I don't want to have anything to do with you either. Goodbye.}
+
+#You are even more infuriating than Sulik! I don't have time to talk to you. Go away.
+{201}{}{Você é ainda mais irritante do que Sulik! Eu não tenho tempo para falar com você. Vá embora.}
+#I don't want to have anything to do with you either. Goodbye.
+{202}{}{Eu também não quero mais nada com você. Adeus.}
 {203}{}{I'm very sorry that I upset you. I'm just ignorant of your ways here. I was trying to show you
  respect in the manner of my tribe.}
 {204}{}{Gosh, I'm really, really sorry. I'm just an ignorant tribal, after all. Can you possibly forgive
