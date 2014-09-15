@@ -1,12 +1,12 @@
 #You see a plain looking, sturdily built young woman with a scowl on her face.
-{100}{}{Você vê uma moça de constituição forte e aparência simples com o cenho franzido.} 
+{100}{}{Você vê uma moça de constituição forte e aparência simples com um olhar severo.} 
 
 #You see Maida Buckner, Mrs. Buckner's daughter.
 {101}{}{Você vê Maida Buckner, filha da senhora Buckner.} 
 
 #You see a plain looking, sturdily built young woman. She's looking back at you with a scowl on
  her face.
-{102}{}{Você vê uma moça de constituição forte e aparência simples. Ela fica te encarando com o cenho franzido.} 
+{102}{}{Você vê uma moça de constituição forte e aparência simples. Ela fica te encarando com um olhar severo.} 
 
 
 #You've really made me angry. I don't want anything further to do with you. Now just get out. Tribals, humph! (mutter, mutter) ...shiftless, worthless, lazy...
@@ -90,7 +90,7 @@ Então cuidado com o que faz, ou vai acabar igual o Sulik.}
 
 # Questions, huh? Well get on with it, then. Talking to you doesn't get my work any closer to
  being finished.
-{240}{}{Perguntas, huh? Vá em frente então. Conversar com você não faz meu trabalho ir mais rápido.}
+{240}{}{Perguntas, huh? Vá em frente e seja rápido. Conversar com você não irá fazer meu trabalho ir mais rápido.}
 
 # More questions? Well go on, then, and be quick about it.
 {241}{}{Mais perguntas? Bem, vai logo então.}
@@ -145,7 +145,7 @@ Então cuidado com o que faz, ou vai acabar igual o Sulik.}
  povo civilizado e vocês.}
  
 # Uh, I guess. Tell me about something else then.
-{271}{}{Ok, eu acho. Então me fale sobre outra coisa.
+{271}{}{Ok, eu acho. Então me fale sobre outra coisa.}
 
 # Gee, I guess I have a lot to learn from you folks. I'd like to be civilized, too, someday.
 {272}{}{Poxa, acho que tenho muito o que aprender com sua gente. Eu quero me civilizar também, algum dia.}
@@ -341,7 +341,7 @@ ou menos uma semana ao sul daqui, mas a maioria dos que vão para lá, nunca mais 
  alguém o encontrar.} 
  
 # Well, have you seen Torr anywhere? It seems as though he's run off, and we're sure worried.
-{421}{}{Ei, você viu o Torr por aí? Parece que ele fugiu, e estamos preocupadas.
+{421}{}{Ei, você viu o Torr por aí? Parece que ele fugiu, e estamos preocupadas.}
 
 # OK, I'll talk to Mrs. Buckner about that then. Let me ask you something else though.
 {422}{}{OK, vou tratar isso com a senhora Buckner. Deixa eu perguntar outra coisa.}
@@ -384,7 +384,7 @@ ou menos uma semana ao sul daqui, mas a maioria dos que vão para lá, nunca mais 
 # Happy to help you out. Maybe you could do me a favor and free Sulik in return for my finding
  your brother?
 {434}{}{Fico feliz em ajudar. Você poderia me fazer um favor e libertar o Sulik em troca de eu ter
-achado seu irmão?)
+achado seu irmão?)}
 
 # Have you seen my brother Torr anywhere? He lost some more brahmin and ma yelled at him. He must
  have run off after that.
