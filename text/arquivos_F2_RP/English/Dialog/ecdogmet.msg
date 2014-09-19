@@ -41,8 +41,8 @@
 {139}{}{(I wonder if I can get Dogmeat to follow me differently?)}
 #added by killap - expansion
 {150}{}{Woof! Woof!}
-{200}{}{Here boy, I got something for you! Let's see somebody mess with you now! (You place the K9 Kevlar on Dogmeat.)}
-{201}{}{Is the armor weighting you down, boy? Here, let's take that thing off. (You remove the K9 Kevlar from Dogmeat.) }
+{200}{}{Here boy, I got something for you! Let's see somebody mess with you now! (You place the K-9 Kevlar on Dogmeat.)}
+{201}{}{Is the armor weighting you down, boy? Here, let's take that thing off. (You remove the K-9 Kevlar from Dogmeat.) }
 
 #added by killap - NPC info
 {300}{}{*Wimper*}

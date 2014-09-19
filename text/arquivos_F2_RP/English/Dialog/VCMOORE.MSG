@@ -113,7 +113,7 @@
 {187}{}{That's a shame. Oh well, goodbye.}
 {188}{}{We can throw our gates wide and welcome them in! They need our help, yet
  STILL we turn a blind eye!}
-{189}{}{Amen! Vault City's advanced technology should be shared, not horded.}
+{189}{}{Amen! Vault City's advanced technology should be shared, not hoarded.}
 {190}{}{Hmm... I don't know. We have it pretty good here. Do we really need them? After all, they'd
  bring down our standard of living... contaminate us, even.}
 {191}{}{Hmmm. Well, it's something to think about. Goodbye.}

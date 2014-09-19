@@ -16,7 +16,7 @@
 {801}{}{A little green guy. He looks OLD.}
 {900}{}{You see Obi-Wan-Killap.}
 {901}{}{He seems like a kindly old man with something slightly bear-like about him.}
-{1000}{}{You see Emperor Timeslip.}
+{1000}{}{You see Empress Timeslip.}
 {1001}{}{You see a mean-looking cloaked figure with a stoop.}
 {1100}{}{You see Luke Skynet.}
 {1101}{}{A hooded figure who looks quietly confident.}
