@@ -4,11 +4,9 @@
 #############################################################
 
 
-{100}{}{Você vê dois homens muito parecidos...eles podem ser gêmeos.
- Ambos são musculosos e têm sobrancelhas bem grossas.}
+{100}{}{Você vê dois homens muito parecidos...eles podem ser gêmeos. Ambos são musculosos e têm sobrancelhas bem grossas.}
 {101}{}{Você quer ver Chuck ou Buck Dunton, eles se parecem tanto que você não tem certeza de qual deles está olhando agora.}
-{102}{}{Você vê um homem alto e musculoso, que, debaixo dessa testa marrenta,
- se mostra um valentão. Ele se parece com seu irmão.}
+{102}{}{Você vê um homem alto e musculoso, que, debaixo dessa testa marrenta, se mostra um valentão. Ele se parece com seu irmão.}
  
 {110}{}{É melhor não empurrar, ou meu irmão e eu vamos esmagar sua cabeça.}
 {111}{}{Ei, vá com calma. Eu só estava brincando. Eu sinto muito. Não me bata, por favor. Alias, gostaria de fazer duas perguntas.}
@@ -53,8 +51,7 @@
 {169}{}{Okay. Até mais.}
 
 {170}{}{Maldito saco de merda de gecko! O que diabos está fazendo aqui de novo?}
-{171}{}{Eu só queria pedir desculpas. Eu não quero incomoda-los. Eu só não sou tão bom em roubar como vocês dois.
- Além do mais, preciso de algo de você.}
+{171}{}{Eu só queria pedir desculpas. Eu não quero incomoda-los. Eu só não sou tão bom em roubar como vocês dois. Além do mais, preciso de algo de você.}
 {172}{}{Bem, você está certo. Poderia ter feito um trabalho melhor. Eu acho que não sou um ladrão nato como vocês dois são. No entanto, preciso de uma coisa.}
 {173}{}{Merda de gecko? Estamos falando sobre o que você come ou o que você usa para no lugar do cérebro?}
 
@@ -62,8 +59,7 @@
 {181}{}{Olá, amigo. Fizemos um bom trabalho com esse idiota do Torr hein? Vejamos a sua parte da ação.}
 {182}{}{Este foi um bom negócio. Estou ansioso pra saber quando vai ter outro trabalho semelhante. Agora preciso de outra coisa.}
 {183}{}{Estou aqui pela minha parte, parceiro.}
-{184}{}{O que fizemos me faz ter vergonha de mim mesmo. Enganando um idiota? Por que vocês não brincam com
- alguém que possa se defender, seus covardes? Tchau.}
+{184}{}{O que fizemos me faz ter vergonha de mim mesmo. Enganando um idiota? Por que vocês não brincam com alguém que possa se defender, seus covardes? Tchau.}
 {185}{}{No momento não preciso de nada. Até mais.}
 
 {190}{}{OK - aqui está os $50 e um extra pra você alguns espetos de carne seca Dunton}
@@ -105,7 +101,7 @@
 {240}{}{Bem, é um prazer fazer negócios com você. he..he..É precisa de mais alguma coisa?}
 {241}{}{Hmm...Eu acho que esqueci de trocar algo.}
 {242}{}{Sim, eu sei.}
-{243}{}{Não, isso é tudo por enquanto, Chuck
+{243}{}{Não, isso é tudo por enquanto, Chuck.}
 {244}{}{Não, isso é tudo por enquanto, Buck.}
 
 {250}{}{Ei parceiro, contamos com você está noite. O que posso fazer por você?}
@@ -115,12 +111,9 @@
 
 {259}{}{Bem, se não é nosso amigo forte e armado.}
 {260}{}{Ei, como está o seu braço? Pronto pra outra?}
-{261}{}{Ei, seu moleque. O que está fazendo em nosso bar? Deve mostrar que é digno de estar
- aqui, disputando uma luta corpo-a-corpo com os Dunton (ha ha ha)}
-{262}{}{Não me parece tão durão assim. Por que não luta corpo-a-corpo comigo, Chuck Dunton,
- para ganhar o direito de beber em nosso bar?}
-{263}{}{Não me parece tão durão assim. Por que não luta corpo-a-corpo comigo, Bhuck Dunton,
- para ganhar o direito de beber em nosso bar??}
+{261}{}{Ei, seu moleque. O que está fazendo em nosso bar? Deve mostrar que é digno de estar aqui, disputando uma luta corpo-a-corpo com os Dunton (ha ha ha)}
+{262}{}{Não me parece tão durão assim. Por que não luta corpo-a-corpo comigo, Chuck Dunton, para ganhar o direito de beber em nosso bar?}
+{263}{}{Não me parece tão durão assim. Por que não luta corpo-a-corpo comigo, Bhuck Dunton, para ganhar o direito de beber em nosso bar??}
 {264}{}{Ei bonzão. Terá que ganhar o direito de entrar no nosso bar, terá que lugar corpo-a-corpo comigo, Chuck Dunton.}
 {265}{}{Ei bonzão. Terá que ganhar o direito de entrar no nosso bar, terá que lugar corpo-a-corpo comigo, Buck Dunton.}
 
@@ -138,14 +131,11 @@
 {283}{}{Não quero sua cerveja. Obrigado, deixe-me perguntar umas coisas.}
 {284}{}{Não quero sua cerveja. Tchau.}
 
-
-{290}{}{Você tem sorte de eu não quebrar o seu braço como um galho seco. (Hyuk, hyk, hyuk), bem,
- acho que não terei um desafio aqui na cidade.}
+{290}{}{Você tem sorte de eu não quebrar o seu braço como um galho seco. (Hyuk, hyk, hyuk), bem, acho que não terei um desafio aqui na cidade.}
 {291}{}{Você não abusou o suficiente de mim para uma noite?}
 {292}{}{Eu quero uma revanche, desta vez vou ganhar.}
 {293}{}{Ouch. okay, okay, eu já tive o suficiente. Hei, deixe-me fazer uma pergunta.}
 {294}{}{Ja é o suficiente pra mim. Adeus.}
-
 
 {300}{}{O que! Não quer lutar corpo-a-corpo com a gente? Você acha que é bom demais para lutar corpo-a-corpo com um dos irmãos Dunton?}
 {301}{}{Acredito que me machucaria se disputar com vocês.}
@@ -153,13 +143,11 @@
 {303}{}{Não seria justo. Eu ia ganhar. Adeus.}
 {304}{}{Você tem pinta de ser frouxo. Eu só disputo corpo-a-corpo com homens de verdades. Saía, seu perdedor.}
 
-{310}{}{O que você esta procurando? Com certeza quem esteve em Garden of Eden esteve com a linda Jenny
- de bathhouse nos braços(hyuk, hyuk, hyuk)}
+{310}{}{O que você esta procurando? Com certeza quem esteve em Garden of Eden esteve com a linda Jenny de bathhouse nos braços(hyuk, hyuk, hyuk)}
 {311}{}{É, Obrigado, deixe-me fazer outra pergunta.}
 {312}{}{Por enquanto, é tudo que preciso saber. Adeus.}
 
-{320}{}{Bem, eu ouvi que há alguns (hyuk, hyuk) homens-insetos matando brahmins a leste daqui. Mas, eu
- não acredito em tudo que ouço. (hyuk, hyuk, hyuk)}
+{320}{}{Bem, eu ouvi que há alguns (hyuk, hyuk) homens-insetos matando brahmins a leste daqui. Mas, eu não acredito em tudo que ouço. (hyuk, hyuk, hyuk)}
 {321}{}{Oh, Eu imagino; Obrigado. Há outra coisa que eu queria saber.}
 {322}{}{Acho que isso é tudo que eu preciso saber por agora. Tchau.}
 
@@ -175,7 +163,6 @@
 {341}{}{O que quero dizer é que alguns deles parecem ter uma marca diferente que alguém desajeitadamente colocou sobre a outra.}
 {342}{}{Oh, eu pensei.. heh-heh, devo ter me equivocado. Tenho que ir agora. Tchau.}
 {343}{}{Bem, suponho que não entendo muito de brahmins. Talvez seja sua coloração ou algo do tipo. Você tem belos brahmins.}
-
 
 {350}{}{Bem, Deixa eu lhe dizer: nossa carne seca é uma incrível mistura de onze ervas e especiarias. É de lamber
  os dedos, os animais adoram também, eles são vão persegui-lo para conseguir um pouco. Deve ser pelo cheiro de podridão.}
