@@ -117,7 +117,7 @@
 {264}{}{Ei bonzão. Terá que ganhar o direito de entrar no nosso bar, terá que lugar corpo-a-corpo comigo, Chuck Dunton.}
 {265}{}{Ei bonzão. Terá que ganhar o direito de entrar no nosso bar, terá que lugar corpo-a-corpo comigo, Buck Dunton.}
 
-{266}{}{Hey, parece que temos um candidato aqui. Você tem que lutar corpo-a-corpo com Cuck Dunton, para beber aqui.}
+{266}{}{Hey, parece que temos um candidato aqui. Você tem que lutar corpo-a-corpo com Chuck Dunton, para beber aqui.}
 {267}{}{Hey, parece que temos um candidato aqui. Você tem que lutar corpo-a-corpo com Buck Dunton, para beber aqui.}
 
 {268}{}{Vamos a luta corpo-a-corpo, suponho que seja a única maneira das coisas se acalmarem.}
