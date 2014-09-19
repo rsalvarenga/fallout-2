@@ -1103,7 +1103,7 @@
 {56901}{}{An unopened bag of a tasty carbonated candy made of sugar, lactose (more sugar), corn syrup (even more sugar), and flavoring. It is rumored that when mixed with drinks like Nuka Cola one's stomach would explode.}
 {57000}{}{Bottle of Shampoo}
 {57001}{}{A premium bottle of shampoo. Unlike other leading brands, this shampoo comes in an unusual flexi-plastic bottle. It was specially designed this way, so when the bottle was squeezed, the right amount of shampoo was poured out - no more, no less. Just a flip of the cap, and you're on your way.}
-{57100}{}{K9 Kevlar}
+{57100}{}{K-9 Kevlar}
 {57101}{}{A dusty old set of sturdy kevlar plates set into black nylon sleeves. You think it must be sized for a dwarf, until you notice a tag on the inside which reads: Canine Kevlar. Large. A DoggieBuddy product. Made in Taiwan.}
 {57200}{}{Human Ear}
 {57201}{}{A woman's ear. Gross! Only a mentally unstable person would ever remove a human ear.}
@@ -1137,8 +1137,8 @@
 {58601}{}{This person has died a horrible death on the medical table.}
 {58700}{}{Dead Tribal}
 {58701}{}{This person has died a horrible death on the medical table.}
-{58800}{}{K9 Kevlar}
-{58801}{}{Wearable K9 Kevlar (FAKE)}
+{58800}{}{K-9 Kevlar}
+{58801}{}{Wearable K-9 Kevlar (FAKE)}
 {58900}{}{Mutant Armor}
 {58901}{}{Mutant Armor}
 {59000}{}{Mutant Armor}

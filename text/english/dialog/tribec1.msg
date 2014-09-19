@@ -83,9 +83,9 @@
 
 # PC is female with Charisma of 7 or higher
 # line 200
-{270}{}{[He grins wolfishly. Despite his scared and rough appearance, he possesses a rugged handsomeness.] Tell me, girl,
+{270}{}{[He grins wolfishly. Despite his scarred and rough appearance, he possesses a rugged handsomeness.] Tell me, girl,
  what's your name, and what brings you to our village?}
-{280}{}{[Gladly. [He looks into your eyes and grins wolfishly. Despite his scared and rough appearance, he possesses a rugged handsomeness.]
+{280}{}{[Gladly. [He looks into your eyes and grins wolfishly. Despite his scarred and rough appearance, he possesses a rugged handsomeness.]
  Tell me, girl, what's your name, and what brings you to our village?}
 
 # Response to "What have you got in mind, big guy?" and "Yeah, big guy. I need something, alright." (seen further down)

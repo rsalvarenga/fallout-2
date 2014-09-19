@@ -11,7 +11,7 @@
 
 #added by RP 1.3
 {150}{}{[A tall and powerfully built warrior stands before you, his eyes blaze with hatred as he looks you over.] So, they cast out Kaga, then deem YOU the Chosen One? Ha! You think being the grandchild of the Vault Dweller makes you special?! You think you are better than I, Kaga the Great?!}
-{151}{}{Well, I AM, the Chosen One, aren't I?}
+{151}{}{Well, I AM the Chosen One, aren't I?}
 {152}{}{Hey now, hold on a second. I never said I was better than you.}
 
 {160}{}{That title will mean nothing when Kaga rips the head from your shoulders!}

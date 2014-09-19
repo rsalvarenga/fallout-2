@@ -56,7 +56,7 @@
 {148}{}{You know where Vault 13?}
 {149}{}{Me look for geck. You have?}
 {150}{}{What you tell about New Reno?}
-{151}{}{What you tell about Frank Westin?}
+{151}{}{What you tell about Roger Westin?}
 {152}{}{What you tell about Carlson?}
 {153}{}{Elder tell story. Talk about Vaultdweller, Tandi. You that Tandi?}
 {154}{}{This Shadeesans Elder talk about?}
@@ -66,7 +66,7 @@
 {158}{}{Do you know where Vault 13 is?}
 {159}{}{I'm looking for a GECK. Would you happen to have one?}
 {160}{}{What can you tell me about New Reno?}
-{161}{}{What can you tell me about Frank Westin?}
+{161}{}{What can you tell me about Roger Westin?}
 {162}{}{What you can tell me about Carlson?}
 {163}{}{The Elder tells a story about the Vault Dweller and someone named Tandi. Are you that Tandi?}
 {164}{}{Is this the Shadeesands the Elder speaks of?}

@@ -30,15 +30,16 @@
 {210}{}{Find weakness in Tyler's gang guarding the church.}
 {211}{}{Help Lara attack Tyler's gang.}
 {212}{}{Find a way to get the orphans off the streets.}
+
 #
 # Klamath Quests
 #
-{300}{}{Reabasteça o alambique.}
-{301}{}{Resgate Smiley o caçador.}
-{302}{}{Proteja os brahmin.}
-{303}{}{Roubar os brahmin.}
-{304}{}{Mate o Deus rato.}
-{305}{}{Resgate Torr.}
+{300}{}{Reabasteça o alambique.} #Refuel the still.
+{301}{}{Resgate Smiley o caçador.} #Rescue Smiley the Trapper.
+{302}{}{Proteja os brahmin.} #Guard the brahmin.
+{303}{}{Roubar os brahmin.} #Rustle the brahmin.
+{304}{}{Mate o Deus rato.} #Kill the rat god.
+{305}{}{Resgate Torr.} #Rescue Torr.
 {306}{}{Descobrir o que está sussurrando como brahmin.} #Figure out who is rustling the brahmin.
 
 #
@@ -200,7 +201,7 @@
 #
 #1515, ...
 {1600}{}{Deal with the Deathclaw.}
-{1601}{}{Fix K9.}
+{1601}{}{Fix K-9.}
 {1602}{}{Retrieve the FOB from the base Commander.}
 
 #

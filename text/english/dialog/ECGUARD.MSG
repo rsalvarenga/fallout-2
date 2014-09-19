@@ -1,4 +1,4 @@
-{100}{}{You see a scared traveler.}
+{100}{}{You see a scarred traveler.}
 {101}{}{You see the merchant's guard.}
 
 {200}{}{No drawn weapons near the boss.}
