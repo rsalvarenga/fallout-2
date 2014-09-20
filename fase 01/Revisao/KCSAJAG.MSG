@@ -1,7 +1,3 @@
-# Verificar dialogo 231, 281, 331 e 390
-# Matheus Reis Traduzindo
-#Noob-Saibot revisou este arquivo.
-
 # You see a short, swarthy man smiling at you
 {100}{}{Você vê um homem baixo e moreno sorrindo para você.}
 # You see Sajag, the owner and barman of the Golden Gecko
@@ -209,16 +205,18 @@
 #Well, let's see. All sorts of things going on in town lately. (counts on his fingers) There's
 # brahmin-mutilating bugmen, rodents of unusual size, a walking spirit, and a missing hunter. Klamath's
 # become a real hot spot lately.
-{290}{}{Bem, vamos ver. Todos os tipos de coisas acontecendo na cidade recentemente. (conta nos dedos dele) Há homens-inseto mutiladores de brahmins, roedores de tamanho incomum, um espírito ambulante, e um caçador desaparecido. Klamath está realmente se tornando um ponto quente ultimamente.}
+{290}{}{Bem, vamos ver. Todos os tipos de coisas acontecendo na cidade recentemente. (conta nos dedos dele) Há homens-inseto mutiladores de brahmins,
+ roedores de tamanho incomum, um espírito ambulante, e um caçador desaparecido.
+ Klamath está realmente se tornando um ponto quente ultimamente.}
 # Tell me about the brahmin-mutilating bugmen, please.
 {291}{}{Diga-me sobre os homens-inseto multiladores de brahmin, por favor.}
 # Tell me about the RUS's, please.
-{292}{}{Diga-me sobre os RTIs, por favor.}
+{292}{}{Diga-me sobre os Ratos, por favor.}
 # Tell me about the walking spirit, please.
 {293}{}{Diga-me sobre o espírito ambulante, por favor.}
 # I'm not surprised that a hunter's gone missing with all this excitement, but tell me about him,
 #too.
-{294}{}{Não me surpreende que um caçador desapareceu com toda essa agitação, mas diga-me sobre ele também.}
+{294}{}{Não me surpreende que um caçador desapareceu com toda essa agitação, mas me diga sobre ele também.}
 # I'd like to ask about other things.
 {295}{}{Gostaria de perguntar sobre outras coisas.}
 # I don't want to know about anything else.
@@ -231,7 +229,7 @@
  por falar nisso, Torr, o rapaz Buckner, está com medo de ir vigiar os brahmins à noite por conta dos
  homens-inseto.}
 # Thanks; I have another question for you.
-{301}{}{Obrigado; tenho outra pergunta pra lhe fazer.}
+{301}{}{Obrigado; tenho outra pergunta pra te fazer.}
 # I guess that's all I need to know. But I do need something else.
 {302}{}{Acho que isso é tudo que preciso saber. Mas preciso de algo mais.}
 # That's all I need for now. Goodbye.
@@ -240,19 +238,23 @@
 # There are a couple of settlements nearby. There are some tribals northwest of us -- but I 'spose
 # you know about them. (smiles) Then there's the Den a few days southeast of here -- that's the closest --
 # and there's a mining town called Redding quite a ways to the southeast.
-{310}{}{Há um par de estabelecimentos nas proximidades. Existem alguns tribais ao noroeste de nós -- mas eu suponho que você saiba sobre eles. (sorri) Então, tem o Den a poucos dias daqui no sudeste -- Este é o mais próximo -- e há uma cidade de mineiração chamada Redding também no sudeste, mas você terá um caminho mais longo a percorrer.}
+{310}{}{Há um par de estabelecimentos nas proximidades. Existem alguns tribais ao noroeste de nós
+ -- mas eu suponho que você saiba sobre eles. (sorri) Então, tem o Den a poucos dias daqui no sudeste
+ -- Este é o mais próximo -- e há uma cidade de mineiração chamada Redding também no sudeste, mas você terá um caminho mais longo a percorrer.}
 
 # Not too many traders in town. Just Vic, that I can think of. He's got a house in the east
 # part of town. He used to trade prewar stuff at the Den and to tribals. Haven't seen him for a bit,
 # though.
-{320}{}{Não há muitos comerciantes na cidade. Só consigo pensar no Vic. Ele tem uma casa na parte leste da cidade. Ele costumava negociar coisas da prewar no Den e com os tribais. Apesar de eu não o ver há um tempo.}
+{320}{}{Não há muitos comerciantes na cidade. Só consigo pensar no Vic. Ele tem uma casa na parte leste da cidade. Ele costumava negociar coisas de antes da guerra no Den e com os tribais. Apesar de eu não o ver há algum tempo.}
 
 # Well, I don't have prices like this for just anybody. It's not easy to get this stuff from the
 #Den.
 {330}{}{Bem, eu não faço preços como este para qualquer pessoa. Não é fácil conseguir estas coisas do Den.}
  # I'd like to make you one of my special friends, sweetheart. (grins) It's not easy to get this
  # stuff from the Den. Tell you what -- I'll give you a special price on what I've got.
-{331}{}{Gostaria de fazer de você uma das minhas amigas especiais, querida. (sorri) Não é fácil conseguir estas coisas do Den. Sabe -- Te darei um preço especial pelas coisas que tenho.} # Não tenho certeza, mas acho que este diálogo só é exibido quando o personagem é mulher.
+{331}{}{Gostaria de fazer de você uma das minhas amigas especiais, querida. (sorri) Não é fácil conseguir estas coisas do Den.
+ Sabe -- Te darei um preço especial pelas coisas que tenho.} 
+ # Não tenho certeza, mas acho que este diálogo só é exibido quando o personagem é mulher.
 
 # I don't know what you're talking about, pal. Do you want to trade or not?
 {340}{}{Não sei do que você está falando, camarada. Você quer negociar ou não?}
@@ -281,7 +283,7 @@
 #Well, Smiley was one of the best trappers there ever was. He up and left Mrs. Buckner one day,
 # and said he was going to find where all the golden geckos come from. Said he'd be rich if he could
 # find it. But he hasn't come back -- and that was a while back, too.
-{380}{}{Bem, Smiley foi um dos melhores caçadores que já existiu. Ele partiu e deixou Mrs. Buckner um dia, ele falou que iria procurar o lugar de onde os geckos dourados viam. Disse que seria rico se pudesse encontrar. Mas ele não voltou -- isso foi há um tempo atrás também.}
+{380}{}{Bem, Smiley foi um dos melhores caçadores que já existiu. Um dia ele partiu e deixou a Sra. Buckner, ele falou que iria procurar o lugar de onde os geckos dourados viam. Disse que seria rico se pudesse encontrar. Mas ele não voltou -- isso foi há um tempo atrás também.}
 # That's incredible. Tell me more local news.
 {381}{}{Isso é incrivel. Diga-me mais noticias do local.}
 # That's all I need to know for now.

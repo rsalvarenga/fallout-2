@@ -3,8 +3,8 @@
 # Traduzido por Ricardo Alvarenga                               #
 #################################################################
 
-{100}{}{Você vê um grande cão sarnento de cor berge e aspecto selvagem.}
-{101}{}{Você vê um empoeirado cão de cor berge.}
+{100}{}{Você vê um grande cão sarnento de cor bege e aspecto selvagem.}
+{101}{}{Você vê um empoeirado cão de cor bege.}
 
 {110}{}{Grrrrrr. Woof! Woof! Grrrrrr?.}
 {111}{}{Woof, Arf, Arf?}
@@ -26,7 +26,7 @@
 
 {140}{}{Woof, woof. Woof-woof!}
 {141}{}{Woof, woof? Eru?}
-{142}{}{Bom cachorro, bom garto.}
+{142}{}{Bom cachorro, bom garoto.}
 {143}{}{Você está com fome, não é, rapaz? Aposto que você gostaria um pouco de carne seca, não é? Vamos ver se eu tenho alguma aqui comigo.}
 
 
