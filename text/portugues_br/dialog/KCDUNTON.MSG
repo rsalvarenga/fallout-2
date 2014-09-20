@@ -19,7 +19,7 @@
 {122}{}{Oh, okay, Desculpe. Não me bata. Por favor.}
 {123}{}{Pelo menos não vou ter que olhar para suas caras de bunda feia mais.}
 
-{130}{}{O que você quer saber sobre nós?}
+{130}{}{O que você quer saber de nós?}
 {131}{}{Acredito que nós não precisamos dizer nada. De qualquer forma, o que diabos você quer?}
 {132}{}{Então seria covardia nossa, de qualquer forma o que quer de nós?}
 {133}{}{Algum de vocês já ouviu falar sobre uma coisa chamada de Garden of Eden Creation Kit?}
@@ -85,9 +85,9 @@
 {213}{}{Você pensa baixo, certo? Eu sou Buck Dunton.}
 {214}{}{Você é incapaz de entender, malditos Tribais. Eu sou Chuck, seu imbecil.}
 {215}{}{Você é incapaz de entender, malditos Tribais. Eu sou Buck, seu imbecil.}
-{216}{}{Eu sou Sally 'Nariz Grande' Dunton gostou do meu vestido? Eu sou Chuck Dunton, seu estupido tribal.}
-{217}{}{Eu sou Sally 'Nariz Grande' Dunton gostou do meu vestido? Eu sou Buck Dunton, seu estúpido tribal.}
-{218}{}{É, tudo bem sim, eu pensei que... desculpa.}
+{216}{}{Eu sou Sally 'Nariguda' Dunton gostou do meu vestido? Eu sou Chuck Dunton, seu estúpido tribal.}
+{217}{}{Eu sou Sally 'Nariguda' Dunton gostou do meu vestido? Eu sou Buck Dunton, seu estúpido tribal.}
+{218}{}{É, tudo bem, eu pensei que... desculpa.}
 {219}{}{Não se preocupe, eu entendi, preciso de uma coisa, eh, Sr. Dunton.}
 {220}{}{É, seja o que for, só me diga o que preciso saber.}
 {221}{}{Bem, os dois são estúpidos e feios. Além disso, eu não dou a mínima com qual Dunton estou falando. Tchau, idiotas.}
@@ -106,45 +106,45 @@
 
 {250}{}{Ei parceiro, contamos com você está noite. O que posso fazer por você?}
 {251}{}{Eh, vou reconsiderar. Não quero ajuda-los esta noite.}
-{252}{}{Yup! eu estarei lá, deixe-me perguntar uma coisa.}
+{252}{}{Yup! eu estarei lá, deixa eu te perguntar uma coisa.}
 {253}{}{Claro que vou. Tchau.}
 
 {259}{}{Bem, se não é nosso amigo forte e armado.}
 {260}{}{Ei, como está o seu braço? Pronto pra outra?}
-{261}{}{Ei, seu moleque. O que está fazendo em nosso bar? Deve mostrar que é digno de estar aqui, disputando uma luta corpo-a-corpo com os Dunton (ha ha ha)}
-{262}{}{Não me parece tão durão assim. Por que não luta corpo-a-corpo comigo, Chuck Dunton, para ganhar o direito de beber em nosso bar?}
-{263}{}{Não me parece tão durão assim. Por que não luta corpo-a-corpo comigo, Bhuck Dunton, para ganhar o direito de beber em nosso bar??}
-{264}{}{Ei bonzão. Terá que ganhar o direito de entrar no nosso bar, terá que lugar corpo-a-corpo comigo, Chuck Dunton.}
-{265}{}{Ei bonzão. Terá que ganhar o direito de entrar no nosso bar, terá que lugar corpo-a-corpo comigo, Buck Dunton.}
+{261}{}{Ei, seu moleque. O que está fazendo em nosso bar? Deve mostrar que é digno de estar aqui, disputando uma luta com os Dunton (ha ha ha)}
+{262}{}{Não me parece tão durão assim. Por que não luta comigo, Chuck Dunton, para ganhar o direito de beber em nosso bar?}
+{263}{}{Não me parece tão durão assim. Por que não luta comigo, Buck Dunton, para ganhar o direito de beber em nosso bar??}
+{264}{}{Ei bonzão. Terá que ganhar o direito de entrar no nosso bar, terá que lugar comigo, Chuck Dunton.}
+{265}{}{Ei bonzão. Terá que ganhar o direito de entrar no nosso bar, terá que lugar comigo, Buck Dunton.}
 
-{266}{}{Hey, parece que temos um candidato aqui. Você tem que lutar corpo-a-corpo com Chuck Dunton, para beber aqui.}
-{267}{}{Hey, parece que temos um candidato aqui. Você tem que lutar corpo-a-corpo com Buck Dunton, para beber aqui.}
+{266}{}{Hey, parece que temos um candidato aqui. Você tem que lutar com Chuck Dunton, para poder beber aqui.}
+{267}{}{Hey, parece que temos um candidato aqui. Você tem que lutar com Buck Dunton, para poder beber aqui.}
 
-{268}{}{Vamos a luta corpo-a-corpo, suponho que seja a única maneira das coisas se acalmarem.}
-{269}{}{Eu não quero lutar corpo-a-corpo agora.}
-{270}{}{Não quero lutar corpo-a-corpo, só quero uma informação.}
+{268}{}{Vamos a luta então, suponho que seja a única maneira das coisas se acalmarem.}
+{269}{}{Eu não quero lutar agora.}
+{270}{}{Não quero lutar, só quero uma informação.}
 {271}{}{É, eu acho que estou no bar errado. Tchau.}
 
 {280}{}{Você ganhou desta vez. Bem, você é um tipo corajoso. Rápido como um gecko com as costas em chamas. O primeiro copo é por minha conta.}
 {281}{}{Obrigado, talvez você possa me dizer algumas coisas.}
 {282}{}{Foi apenas sorte. Obrigado.}
-{283}{}{Não quero sua cerveja. Obrigado, deixe-me perguntar umas coisas.}
+{283}{}{Não quero sua cerveja. Obrigado, deixa eu te perguntar umas coisas.}
 {284}{}{Não quero sua cerveja. Tchau.}
 
 {290}{}{Você tem sorte de eu não quebrar o seu braço como um galho seco. (Hyuk, hyk, hyuk), bem, acho que não terei um desafio aqui na cidade.}
 {291}{}{Você não abusou o suficiente de mim para uma noite?}
 {292}{}{Eu quero uma revanche, desta vez vou ganhar.}
-{293}{}{Ouch. okay, okay, eu já tive o suficiente. Hei, deixe-me fazer uma pergunta.}
+{293}{}{Ouch. okay, okay, eu já tive o suficiente. Hei, deixa eu te fazer uma pergunta.}
 {294}{}{Ja é o suficiente pra mim. Adeus.}
 
-{300}{}{O que! Não quer lutar corpo-a-corpo com a gente? Você acha que é bom demais para lutar corpo-a-corpo com um dos irmãos Dunton?}
+{300}{}{O que! Não quer lutar com a gente? Você acha que é bom demais para lutar com um dos irmãos Dunton?}
 {301}{}{Acredito que me machucaria se disputar com vocês.}
 {302}{}{Talvez quem sabe depois, no momento preciso de uma informação.}
 {303}{}{Não seria justo. Eu ia ganhar. Adeus.}
-{304}{}{Você tem pinta de ser frouxo. Eu só disputo corpo-a-corpo com homens de verdades. Saía, seu perdedor.}
+{304}{}{Você tem pinta de ser frouxo. Eu só disputo com homens de verdades. Saía, seu perdedor.}
 
 {310}{}{O que você esta procurando? Com certeza quem esteve em Garden of Eden esteve com a linda Jenny de bathhouse nos braços(hyuk, hyuk, hyuk)}
-{311}{}{É, Obrigado, deixe-me fazer outra pergunta.}
+{311}{}{É, Obrigado, deixa eu te fazer outra pergunta.}
 {312}{}{Por enquanto, é tudo que preciso saber. Adeus.}
 
 {320}{}{Bem, eu ouvi que há alguns (hyuk, hyuk) homens-insetos matando brahmins a leste daqui. Mas, eu não acredito em tudo que ouço. (hyuk, hyuk, hyuk)}
