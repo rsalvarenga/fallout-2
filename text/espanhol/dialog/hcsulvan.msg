@@ -5,41 +5,33 @@
 {100}{}{Ves a un hombre alto y canoso con una jarra de cerveza.}
 {101}{}{Ves a John L. Sullivan. El boxeador.}
 {102}{}{Ves a un hombre viejo, alto, con los brazos musculosos y un afilado mostacho daliniano.}
-
 {103}{}{Eh, no te pases con el alcohol.}
 {104}{}{Behorah, menudo idiota.}
 {105}{}{Le has hecho sudar tinta china a Torr.}
 {106}{}{Tú a lo tuyo, forastero.}
 {107}{}{Puaj, otro tribal con la sesera vacía.}
-
 {108}{}{(Te mira de arriba a abajo evaluándote) Anda, ¿qué tenemos aquí? Tienes pinta de tener algo de idea de la dulce ciencia, ¿o qué?}
 {109}{}{Si fueras un poco menos soberbio, igual te ayudaba y todo.}
 {110}{}{¿De qué estás hablando?}
 {111}{}{Uh, sí, vale, señor. Ya nos veremos. Quizá.}
-
 {112}{}{Bien, tan sólo es mi humilde opinión pero creo que viendo la forma en que te mueves podrías mejorar mucho con un par de consejos.}
 {113}{}{¿Consejos? ¿Consejos de qué?}
 {114}{}{No lo creo, anciano. Dudo que 'tú' puedas enseñarme nada. Adiós.}
-
 {115}{}{De la dulce ciencia, por supuesto. Ya sabes, el arte.}
 {116}{}{Uh, ¿el arte? Estás hablando de... ¿¿¿magia???! ¿Puedes enseñarme a lanzar hechizos?}
 {117}{}{¿De qué hablas?}
-
 {118}{}{(Con una sonrisa de oreja a oreja) Claro, por Dios. Puedo enseñarte todo lo que sé sobre duendes, leprechauns, spriggans, ban'sidhe y demás. ¿Qué te parece?}
 {119}{}{Suena genial. Hazlo, por favor.}
 {120}{}{Pugilismo, boxeo; el varonil arte del combate cuerpo a cuerpo. De eso es de lo que hablo.}
 {121}{}{Pugilismo, boxeo; el varonil, eh... y femenino arte del combate cuerpo a cuerpo. De eso es de lo que hablo.}
 {122}{}{Bien, supongo que me vendría bien algo de ayuda.}
 {123}{}{Creo que ya sé más de lo que tu puedas enseñarme.}
-
 {124}{}{(dirigiéndose a los demás) ¿Le habéis oído? Qué tipo. Quiere oír hablar de las hadas y los gnomos y eso. (Jajaja, jaja, jajaje - se dobla de risa-) Mira colega, invítame a una jarra. Es tu billete al mundo de las hadas.}
 {125}{}{(dirigiéndose a los demás) ¿La habéis oído? Qué mujer. Quiere oír hablar de las hadas y los gnomos y eso. (Jajaja, jaja, jajaje - se dobla de risa-) Mira cariño, invítame a una jarra. Es tu billete al mundo de las hadas.}
 {126}{}{¿Tan sólo una jarra? Genial. Gracias.}
 {127}{}{Espera, creo que me estás tomando el pelo.}
-
 {128}{}{Bueno, la jarra sólo es un comienzo. También tendrás que encontrar un túmulo encantado. (le guiña el ojo a los demás parroquianos)}
 {129}{}{¿Y luego qué?}
-
 {130}{}{Entonces, te sientas sobre el túmulo y esperas hasta que veas el círculo de las hadas en el rocío. Si saltas dentro del círculo, tendrás que bailar con los duendes hasta el amanecer. Y si sobrevives, se te llevarán al mundo de las hadas (jeee, ja, ja, ja).}
 {131}{}{Vaya, ¿cómo sabes todo eso?}
 {132}{}{Espera, creo que me estás tomando el pelo.}
