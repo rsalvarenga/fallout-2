@@ -11,9 +11,9 @@
 {106}{}{Trilha seu caminho agora, forastero.}
 {107}{}{Ugh, outro tribal com cérebro vazio.}
 {108}{}{(Ele olha para cima e para baixo de forma avaliadora) Vamos lá, o que temos aqui? Você parece ter alguma idéia da ciência doce , ou o quê?}
-{109}{}{If you would get off your wee high horse, I could see helpin' ye a bit with your skills.}
-{110}{}{What are you talking about?}
-{111}{}{Uh, yeah, whatever, mister. See you around. Maybe.}
+{109}{}{Se você fosse um pouco menos arrogante, todos te ajudariam.}
+{110}{}{Do que você está falando?}
+{111}{}{Uh, sim, que seja, senhor. Vejo você por aí. Talvez.}
 {112}{}{Well, it's just my educated opinion but I can see by the way you move that you could do with a few pointers.}
 {113}{}{Pointers? With what?}
 {114}{}{I don't think so, old man. I doubt that *you* could teach me anything. Goodbye.}
