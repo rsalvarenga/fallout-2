@@ -11,7 +11,7 @@
 {110}{}{Nothing.}
 {111}{}{I'm the Captain. I run the ship. Any more questions, go talk to one of the Shi or Badger or someone. I don't have time for you.}
 {112}{}{[DONE]}
-{113}{}{This ship's a Poseidon tanker. It's equipped with tech that lasted through the war. It's got a FOB that allows access to the navigation computer room, and it's got an IFF transponder that protects it from Poseidon guns.}
+{113}{}{This ship's a Poseidon tanker. It's equipped with tech that lasted through the war. It's got a FOB that allows access to the navigation computer room, and its got an IFF transponder that protects it from Poseidon guns. Course, that ain't gonna help you any against that old Chinese sub, so you best hope that thing's as dead as she looks.}
 {114}{}{How do you know all this?}
 {115}{}{What's an IFF transponder?}
 {116}{}{How do you get it to go?}
@@ -21,7 +21,7 @@
 {120}{}{What exactly is the Enclave?}
 {121}{}{How do you get this thing to go?}
 {122}{}{Bye.}
-{123}{}{How do you pilot this rig? Fill 'er up with some gas - try the Hubologists or the Shi after you've taken care of everything else - and press the button. The computer will take care of the rest, if it's still working. It'll sail right out to the oil rig, and they won't fire at you because you've got the IFF transponder. Just make sure you've got what you need to access everything: FOB, working computer, and fuel. Easy enough, huh?}
+{123}{}{How do you pilot this rig? Fill 'er up with some gas - try the Hubologists or the Shi after you've taken care of everything else - and press the button. The computer will take care of the rest, if it's still working. It'll sail right out to the oil rig - unless that old sub blows it up. But at least you won't have to worry about the Enclave firing at you, because you've got the IFF transponder. Just make sure you've got what you need to access everything: FOB, working computer, and fuel. Easy enough, huh?}
 {124}{}{Sure. How do you know all this?}
 {125}{}{What's an IFF transponder and a FOB?}
 {126}{}{What oil rig?}
@@ -50,8 +50,8 @@
 {149}{}{I see. How do I pilot this again?}
 {150}{}{Thanks. Bye.}
 {151}{}{You made a bad mistake messin' with the Captain and his friends...}
-{152}{}{How do you pilot this rig? Well, I see you already gassed her up. When you've taken care of everything else, just press the button. The computer will take care of the rest, if it's still working. It'll sail right out to the oil rig, and they won't fire at you because you've got the IFF transponder. Just make sure you've got what you need to access everything: FOB, working computer, and fuel. Easy enough, huh?}
-{153}{}{Oh, yeah. You gotta get the navigation computer working as well.  I bet you'd find parts for it in one of those old vaults.}
+{152}{}{How do you pilot this rig? Well, I see you already gassed her up. When you've taken care of everything else, just press the button. The computer will take care of the rest, if it's still working. It'll sail right out to the oil rig - unless that old sub blows it up. But at least you won't have to worry about the Enclave firing at you, because you've got the IFF transponder. Just make sure you've got what you need to access everything: FOB, working computer, and fuel. Easy enough, huh?}
+{153}{}{Oh, yeah. You gotta get the navigation computer working as well. I bet you'd find parts for it in one of those old vaults.}
 {154}{}{Good to see you again. What do you need?}
 # Begin Seraph's Code
 {155}{}{, and unless I miss my bet, that's where your friends are, too.}

@@ -212,6 +212,7 @@
 {471}{}{Sounds like good advice. I'll be careful. Let me ask you something, though.}
 {472}{}{I think they've got the right idea. Just a little genetic cleansing. I hope they start with you.
  Goodbye.}
+{473}{}{Well, right now they're pretty crazed about the village nearby. Do you know anything about this?}
 
 {480}{}{'Bout the only way us ghouls are going to get an even break is when we're toting a harp of our
  own.}

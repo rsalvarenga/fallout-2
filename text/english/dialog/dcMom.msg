@@ -93,6 +93,7 @@
 {405}{}{I'm so disappointed in you. Poor Smitty had to come get his own meal. Now what do you want?}
 {406}{}{Hello there, my name's Mom and I run this place. Got the best food north of New Reno, too.}
 {407}{}{What did you want to talk to Mom about?}
+{417}{}{Well if it isn't my hero. What can Mom do you for today?}
 {408}{}{You're not my mom.}
 {409}{}{Have you heard of a Vault or anyone named Vic?}
 {410}{}{What's there to do here in town?}
@@ -211,3 +212,4 @@
  excited! Thanks again. Here, this meal's on me.}
 {824}{}{Thanks Mom. See you around.}
 {850}{}{You help establish an orphanage for the children of The Den.}
+

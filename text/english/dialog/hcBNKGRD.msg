@@ -50,7 +50,7 @@
 
 {138}{}{You'll be putting your weapons away now, pal.}
 
-{139}{}{You again? Do you actually need something?}
+{139}{}{You again? Do you need something?}
 {140}{}{Just looking around.}
 {141}{}{Err… no, not really.}
 {142}{}{Yeah. I'm here to talk to your prisoners.}
