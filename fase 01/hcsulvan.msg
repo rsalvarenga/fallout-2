@@ -1,8 +1,12 @@
-{100}{}{You see a tall, graying, man with a tankard of beer.}
-{101}{}{You see John L. Sullivan. The pugilist.}
-{102}{}{You see a tall, older, man with muscular arms and a gray, but neatly groomed, handlebar mustache.}
-{103}{}{Sure now, you've had a wee bit too much already.}
-{104}{}{Begorah, but aren't you a stupid one.}
+##############################################################################
+#John L. Sullivan (Klamath/Broken Hills)
+##############################################################################
+
+{100}{}{Você vê um homem alto e grisalho segurando uma caneca de cerveja.}
+{101}{}{Você vê John L. Sullivan. O boxeador.}
+{102}{}{Você vê um velho alto, com braços musculosos e um bigode perfeitamente preparado cinza.}
+{103}{}{Eh, não exagere com álcool.} #Sure now, you've had a wee bit too much already.
+{104}{}{Begorah, mas você não é um idiota.} #Begorah, but aren't you a stupid one.
 {105}{}{You'd give Torr a good run for his money.}
 {106}{}{On your way now, ya wee strange one.}
 {107}{}{Ach, another tribal tiched in the hayed.}
