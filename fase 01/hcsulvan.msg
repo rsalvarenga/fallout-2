@@ -14,10 +14,10 @@
 {109}{}{Se você fosse um pouco menos arrogante, todos te ajudariam.}
 {110}{}{Do que você está falando?}
 {111}{}{Uh, sim, que seja, senhor. Vejo você por aí. Talvez.}
-{112}{}{Well, it's just my educated opinion but I can see by the way you move that you could do with a few pointers.}
-{113}{}{Pointers? With what?}
-{114}{}{I don't think so, old man. I doubt that *you* could teach me anything. Goodbye.}
-{115}{}{About the sweet science, of course. The sportin' art.}
+{112}{}{Bem, isso é apenas a minha humilde opinião, mas eu posso ver pela maneira como você se move que você poderia melhorar muito com algumas dicas.}
+{113}{}{Conselhos? Conselhos de quê?} #Pointers? With what?
+{114}{}{Eu não acho que um homem velho como *você* poderia me ensinar alguma coisa. Adeus.}
+{115}{}{Sobre a nobre arte, é claro. A 'arte do esporte'.}
 {116}{}{Uh, the art? Are you talking about magic!?! Can you teach me magic spells?}
 {117}{}{What are you talking about?}
 {118}{}{(he grins broadly) Sure and begorah, I could teach you about the wee folk, leprechauns, spriggans, Ban'sidhe and the like. Would you like that?}
