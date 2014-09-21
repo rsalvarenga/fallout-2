@@ -7,10 +7,10 @@
 {102}{}{Você vê um velho alto, com braços musculosos e um bigode perfeitamente preparado cinza.}
 {103}{}{Eh, não exagere com álcool.} #Sure now, you've had a wee bit too much already.
 {104}{}{Begorah, mas você não é um idiota.} #Begorah, but aren't you a stupid one.
-{105}{}{You'd give Torr a good run for his money.}
-{106}{}{On your way now, ya wee strange one.}
-{107}{}{Ach, another tribal tiched in the hayed.}
-{108}{}{(Looks you up and down appraisingly) Well now, what have we here? Looks as though you dinnay know much about the sweet science at all do ye?}
+{105}{}{You'd give Torr a good run for his money.} #fiquei em duvida (Você daria Torr uma boa corrida para o seu dinheiro.) e/ou (Você fez suar tinta chinesa em Torr.)
+{106}{}{Trilha seu caminho agora, forastero.}
+{107}{}{Ugh, outro tribal com cérebro vazio.}
+{108}{}{(Ele olha para cima e para baixo de forma avaliadora) Vamos lá, o que temos aqui? Você parece ter alguma idéia da ciência doce , ou o quê?}
 {109}{}{If you would get off your wee high horse, I could see helpin' ye a bit with your skills.}
 {110}{}{What are you talking about?}
 {111}{}{Uh, yeah, whatever, mister. See you around. Maybe.}
