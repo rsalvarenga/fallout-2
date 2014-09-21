@@ -205,9 +205,14 @@
 #Well, let's see. All sorts of things going on in town lately. (counts on his fingers) There's
 # brahmin-mutilating bugmen, rodents of unusual size, a walking spirit, and a missing hunter. Klamath's
 # become a real hot spot lately.
-{290}{}{Bem, vamos ver. Todos os tipos de coisas acontecendo na cidade recentemente. (conta nos dedos dele) Há homens-inseto mutiladores de brahmins,
- roedores de tamanho incomum, um espírito ambulante, e um caçador desaparecido.
- Klamath está realmente se tornando um ponto quente ultimamente.}
+{290}{}{Bem, vamos ver. Todos os tipos de coisas acontecendo na cidade recentemente.}
+{2900}{}{(conta nos dedos dele)}
+{2901}{}{ Há homens-inseto mutiladores de brahmins}
+{2902}{}{ roedores de tamanho incomum}
+{2903}{}{ um espírito ambulante}
+{2904}{}{ e um caçador desaparecido}
+{2905}{}{. Klamath está realmente se tornando um ponto quente ultimamente.}
+
 # Tell me about the brahmin-mutilating bugmen, please.
 {291}{}{Diga-me sobre os homens-inseto multiladores de brahmin, por favor.}
 # Tell me about the RUS's, please.
