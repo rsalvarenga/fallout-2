@@ -292,7 +292,7 @@
 
 {4000}{}{Well, okay, but I sure don't want to be left all alone here.}
 {4001}{}{All right, if you think it's really a good idea.}
-{4002}{}{Well, I don't like to use weapons unless I really have to, but I suppose I could use a knife, I think. I can use a pistol, at least I used to be able to. If I really had to, I think I could handle a submachine gun. If only they weren't so loud. I'm a healer, not a fighter.}
+{4002}{}{Well, I don't like to use weapons unless I really have to, but I suppose I could use a knife, I think. I can use a spear, at least I used to be able to. If I really had to, I think I could handle a rifle. If only they weren't so loud. I'm a healer, not a fighter.}
 {4003}{}{Gosh I hope I won't need that.}
 
 #added by killap - NPC info
@@ -344,3 +344,4 @@
 {6090}{}{Oh. Heh. Musta b'been a little before your t'time. Sorry. Anything else I can d'do for you?}
 {6091}{}{Well, since you asked...}
 {6092}{}{Nope, that'll do. Thanks, Lenny.}
+
