@@ -2,24 +2,24 @@
 #John L. Sullivan (Klamath/Broken Hills)
 ##############################################################################
 
-{100}{}{Você vê um homem alto e grisalho segurando uma caneca de cerveja.}
-{101}{}{Você vê John L. Sullivan. O boxeador.}
-{102}{}{Você vê um velho alto, com braços musculosos e um bigode perfeitamente preparado cinza.}
-{103}{}{Eh, não exagere com álcool.} #Sure now, you've had a wee bit too much already.
-{104}{}{Begorah, mas você não é um idiota.} #Begorah, but aren't you a stupid one.
-{105}{}{You'd give Torr a good run for his money.} #fiquei em duvida (Você daria Torr uma boa corrida para o seu dinheiro.) e/ou (Você fez suar tinta chinesa em Torr.)
+{100}{}{VocÃª vÃª um homem alto e grisalho segurando uma caneca de cerveja.}
+{101}{}{VocÃª vÃª John L. Sullivan. O boxeador.}
+{102}{}{VocÃª vÃª um velho alto, com braÃ§os musculosos e um bigode perfeitamente preparado cinza.}
+{103}{}{Eh, nÃ£o exagere com Ã¡lcool.} #Sure now, you've had a wee bit too much already.
+{104}{}{Begorah, mas vocÃª nÃ£o Ã© um idiota.} #Begorah, but aren't you a stupid one.
+{105}{}{You'd give Torr a good run for his money.} #fiquei em duvida (VocÃª daria Torr uma boa corrida para o seu dinheiro.) e/ou (VocÃª fez suar tinta chinesa em Torr.)
 {106}{}{Trilha seu caminho agora, forastero.}
-{107}{}{Ugh, outro tribal com cérebro vazio.}
-{108}{}{(Ele olha para cima e para baixo de forma avaliadora) Vamos lá, o que temos aqui? Você parece ter alguma idéia da ciência doce , ou o quê?}
-{109}{}{Se você fosse um pouco menos arrogante, todos te ajudariam.}
-{110}{}{Do que você está falando?}
-{111}{}{Uh, sim, que seja, senhor. Vejo você por aí. Talvez.}
-{112}{}{Bem, isso é apenas a minha humilde opinião, mas eu posso ver pela maneira como você se move que você poderia melhorar muito com algumas dicas.}
-{113}{}{Conselhos? Conselhos de quê?} #Pointers? With what?
-{114}{}{Eu não acho que um homem velho como *você* poderia me ensinar alguma coisa. Adeus.}
-{115}{}{Sobre a nobre arte, é claro. A 'arte do esporte'.}
-{116}{}{Uh, the art? Are you talking about magic!?! Can you teach me magic spells?}
-{117}{}{What are you talking about?}
+{107}{}{Ugh, outro tribal com cÃ©rebro vazio.}
+{108}{}{(Ele olha para cima e para baixo de forma avaliadora) Vamos lÃ¡, o que temos aqui? VocÃª parece ter alguma idÃ©ia da ciÃªncia doce , ou o quÃª?}
+{109}{}{Se vocÃª fosse um pouco menos arrogante, todos te ajudariam.}
+{110}{}{Do que vocÃª estÃ¡ falando?}
+{111}{}{Uh, sim, que seja, senhor. Vejo vocÃª por aÃ­. Talvez.}
+{112}{}{Bem, isso Ã© apenas a minha humilde opiniÃ£o, mas eu posso ver pela maneira como vocÃª se move que vocÃª poderia melhorar muito com algumas dicas.}
+{113}{}{Conselhos? Conselhos de quÃª?} #Pointers? With what?
+{114}{}{Eu nÃ£o acho que um homem velho como *vocÃª* poderia me ensinar alguma coisa. Adeus.}
+{115}{}{Sobre a nobre arte, Ã© claro. A 'arte'.}
+{116}{}{Uh, a arte? VocÃª estÃ¡ falando de magia!?! VocÃª pode me ensinar feitiÃ§os mÃ¡gicos?} #Uh, the art? Are you talking about magic!?! Can you teach me magic spells?
+{117}{}{O que vocÃª estÃ¡ falando?} #What are you talking about?
 {118}{}{(he grins broadly) Sure and begorah, I could teach you about the wee folk, leprechauns, spriggans, Ban'sidhe and the like. Would you like that?}
 {119}{}{That sounds great. Teach away.}
 {120}{}{Pugilism, the manly art of hand-to-hand combat. That's what I mean.}
