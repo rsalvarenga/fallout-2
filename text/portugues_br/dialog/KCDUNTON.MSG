@@ -154,7 +154,7 @@
 {330}{}{Olá. Veio comprar a nossa mundialmente famosa carne seca Dunton?}
 {331}{}{Bem, veio comprar carne seca ou o que?}
 {332}{}{Boa idéia. Quero comprar.}
-{333}{}{Carne seca? Parece interessante, diga-me mais sobre ela.}
+{333}{}{Carne seca? Parece interessante, fale mais sobre ela.}
 {334}{}{Na verdade, eu tinha algumas perguntas para você.}
 {335}{}{No momento não preciso de nada, obrigado. Adeus.}
 {336}{}{Eu tenho uma curiosidade sobre todos esses brahmins que você tem lá fora. Eles não apresentam ter as mesmas marcas.}
@@ -165,7 +165,7 @@
 {343}{}{Bem, suponho que não entendo muito de brahmins. Talvez seja sua coloração ou algo do tipo. Você tem belos brahmins.}
 
 {350}{}{Bem, Deixa eu lhe dizer: nossa carne seca é uma incrível mistura de onze ervas e especiarias. É de lamber
- os dedos, os animais adoram também, eles são vão persegui-lo para conseguir um pouco. Deve ser pelo cheiro de podridão.}
+ os beiços, os animais adoram também, eles são vão persegui-lo para conseguir um pouco. Deve ser pelo cheiro de podridão.}
 {351}{}{Não há nada parecido com ele em lugar nenhum. É muito es-pe-ci-al e a maioria das pessoas adoram.}
 {352}{}{É GENTE! Hyuk, Hyuk, Hyuk, só queria ver sua cara quando eu dissesse isso. Heck, só compram poucas pessoas. Hyuk, Hyuk.}
 {353}{}{É diferente das coisas que a maioria das pessoas estão acostumadas a comer. É bem diferente. Não melhor, apenas diferente.}
@@ -183,7 +183,7 @@
 {370}{}{Você aqui, mudou de idéia? Você quer ajudar a recuperar aqueles pobres brahmins do Torr?}
 {371}{}{O que diabos você está fazendo aqui? Vai nos ajudar ou não? Podemos ter um trabalho para você se
  estiver interessado.}
-{372}{}{Sim, estou interessado. Diga-me sobre o trabalho.}
+{372}{}{Sim, estou interessado. Fale sobre o trabalho.}
 {373}{}{Eu não quero dever nada a vocês dois. Tchau.}
 {374}{}{Eu encontrei um monte de partes de insetos nesse pequeno barraco. Sabe me dizer pra que são?}
 
