@@ -53,7 +53,7 @@
 {222}{}{Está tudo bem se forem mulheres.} #Women suit me just fine.
 {223}{}{Poxa, eu queria muito um atendente homem.} #Gee, I was really looking for a male attendant.
 {224}{}{Acho que não era isso que eu estava procurando.} #I don't think this is what I was looking for.
-{225}{}{Me desculpe por não podermos te ajudar, mas volte depois entretanto.} #I'm sorry that we couldn't help you out. Come on back later, though.
+{225}{}{Me desculpe por não podermos te ajudar, mas volte depois.} #I'm sorry that we couldn't help you out. Come on back later, though.
 
 {230}{}{Se você só quer tomar banho, tente ir no Gecko Dourado, ou na Bukner House. Mas duvido que vá gostar tanto como gostaria aqui.} #If you just want an unattended bath, you might try the Golden Gecko or the Buckner House. But I
  doubt that you'll find that as enjoyable.
@@ -66,12 +66,15 @@
 {242}{}{Acho que não estou pronto pra isso; é melhor eu ir.} #I don't think I'm ready for this; I better go.
 {243}{}{Acho melhor que a aparência da atendente conte no preço também.} #I think that the appearance of the attendant better figure into the cost, too.
 
-{250}{}{Os banhos que temos disponíveis são: Um banho com as mãos e com roupa, Um breve banho de corpo todo, e, por ultimo, Um banho bem gostosinho ao redor do mundo, oferecido pela bela e talentosa Jenny, Recentemente treinada na melhor casa do refúgio.} #The baths that we have available are: a Wash Cloth Hand Wipe, a brief Full Body Wash, and,
- lastly, the Round-the-World Full Squeaky Clean Servicing, offered by the beautiful and talented Jenny,
- recently trained at the finest house in the Den.
+{250}{}{Os banhos que temos disponíveis são: Um banho com as mãos e com roupa, um breve banho no corpo todo, e por último,
+ um banho bem gostosinho ao redor de todo o corpo, oferecido pela bela e talentosa Jenny,
+ recentemente treinada na melhor casa do refúgio.} 
+# The baths that we have available are: a Wash Cloth Hand Wipe, a brief Full Body Wash, and,
+# lastly, the Round-the-World Full Squeaky Clean Servicing, offered by the beautiful and talented Jenny,
+# recently trained at the finest house in the Den.
 {251}{}{Acho que só o banho com as mãos serve, quanto que é?} #I think I can get by with the Hand Wipe; how much is that?
 {252}{}{Eu gosto da ideia de um banho de corpo todo, quanto custa?} #I like the idea of a Full Body Wash; what's that going to cost?
-{253}{}{Bela e talentosa? Tenho que ouvir mais sobre o banho gostosinho ao redor do mundo.} #Beautiful and talented? I've got to hear more about the Round-the-World Full Squeaky Clean Wash.
+{253}{}{Bela e talentosa? Tenho que ouvir mais sobre o banho gostosinho.} #Beautiful and talented? I've got to hear more about the Round-the-World Full Squeaky Clean Wash.
 {254}{}{Acho que não estou pronto pra tomar um banho com alguém olhando; vou embora.} #I don't think I'm ready to take a bath with someone else watching; I'm going to leave.
 {255}{}{Posso misturar diferentes tipos de banho?} #Can I mix and match the different types of baths?
 {256}{}{O que você acha de um desconto nos banhos?} #What about getting a discount on those baths?
@@ -92,8 +95,9 @@
 {283}{}{Obrigado, mas acho que vou procurar outro lugar.} #Thanks, but I think I'll look elsewhere.
 {284}{}{$35 é meio caro, tem algum brahmin bonitinho ao invés?} #$35 seems kind of expensive; got any cute brahmin, instead?
 
-{290}{}{Acho que qualquer uma das garotas ficaria feliz de te dar um banho no corpo todo; mas preciso olhar o tempo pra ter certeza de que é um breve(gordinho). O banho breve de corpo todo lhe custará $55} #I think any of our girls would be happy to give you a full body wash; I just better watch the
- time to make sure it's a brief one (chuckle). The Brief Full Body Wash will cost you $55.
+{290}{}{Acho que qualquer uma das garotas ficaria feliz de te dar um banho no corpo todo; mas preciso olhar o tempo pra ter certeza de que é um breve(gordinho). O banho breve de corpo todo lhe custará $55} 
+#I think any of our girls would be happy to give you a full body wash; I just better watch the
+# time to make sure it's a brief one (chuckle). The Brief Full Body Wash will cost you $55.
 {291}{}{Parece divertido. Aqui estão meus $55} #That sounds like fun. Here's my $55.
 {292}{}{Hm, Qual as outras escolhas mesmo?} #Hmm, what are the other choices again?
 {293}{}{Valeu, mas acho que vou guardar meu dinheiro.} #Thanks, but I think that I'll save my money for now.
@@ -116,7 +120,7 @@
 
 {320}{}{Hmm, eu não sei se Jenny vai mesmo levá-lo na condição em que você está. Você vai precisar
  de uma profunda limpeza. (Para si mesmo: Eu me pergunto se Gerda esta livre para isso?)
- O custo da lavagem, o de volta ao mundo sibilante e toda sua assistência é seu por apenas $185 dólares.}
+ O custo da lavagem e toda sua assistência é seu por apenas $185 dólares.}
 {321}{}{Eu recebo tanto da Gerda e Jenny? Que negócio! Aqui está meus $185.}
 {322}{}{É Gerda, a mulher de bigode? É melhor ouvir as outras opções de novo.}
 {323}{}{Eu não acho que eu posso pagar isso agora. Eu acho que estou indo embora.}
@@ -139,8 +143,8 @@
 {363}{}{Estou certo de que um de meus filhos ficaria feliz em ajudá-lo. Mas você pode querer voltar
  aqui depois; e a maioria das moças que passam um tempo com os meus filhos tem que ser uma verdadeira deusa para banhar-se...}
 
-{370}{}{Voltou de novo, hein? Muitas pessoas apenas não conseguem ficarem limpos o suficiente.}
-{371}{}{Eu estou apenas olhando; Eu não preciso de um banho.}
+{370}{}{Voltou de novo, hein? Muitas pessoas não conseguem ficarem limpas tempo suficiente.}
+{371}{}{Estou apenas olhando; Não preciso de um banho.}
 {372}{}{Fale de novo dos tipos de banhos que você tem.}
 {373}{}{Eu recebo um desconto pelas próximas vezes em que vier?}
 
