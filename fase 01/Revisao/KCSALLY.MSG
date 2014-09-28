@@ -104,21 +104,24 @@
 {302}{}{Qual são as outras opções de banho?} #What were the other bathing options?
 {303}{}{Eu acho que não quero mais o banho} #I don't think that I want to pay for a bath after all.
 
-{310}{}{Well I'm sure that your Round-the?World trip Servicing with beautiful Jenny will be an
- experience that you'll savor for quite a while. A real bargain at only $125.}
-{311}{}{Eu não posso esperar para desfrutar dos talentos especiais de Jenny. Aqui está meus $125.}
+#Well I'm sure that your Round-the?World trip Servicing with beautiful Jenny will be an
+#experience that you'll savor for quite a while. A real bargain at only $125. 
+{310}{}{Bem, tem certeza de que você não precisa de uma bela assistência antes de continuar sua viagem? Com a bela Jenny será uma 
+ experiência que você vai saborear por um bom tempo. Uma verdadeira pechincha por apenas $125 dólares.}
+
+{311}{}{Eu mau posso esperar para desfrutar dos talentos especiais de Jenny. Aqui está seus $125.}
 {312}{}{Talvez eu devesse ouvir sobre as outras opções de banho novamente.}
-{313}{}{Eu não acho que eu nunca vou precisar de 125 dólares para se limpar. Eu vou sair antes que eu
+{313}{}{Eu não acho que vou precisar de $125 dólares para se limpar. Vou sair antes que eu
  me meta em encrenca.}
 
 {320}{}{Hmm, eu não sei se Jenny vai mesmo levá-lo na condição em que você está. Você vai precisar
- de uma profunda, no-nonsense, esfregando primeiro. (Para si mesmo: Eu me pergunto se Gerda é livre para isso?) With
- the cost of the pre-scrubbing, the Round-the-World Full Squeaky Clean Servicing is yours for only $185.}
+ de uma profunda limpeza. (Para si mesmo: Eu me pergunto se Gerda esta livre para isso?)
+ O custo da lavagem, o de volta ao mundo sibilante e toda sua assistência é seu por apenas $185 dólares.}
 {321}{}{Eu recebo tanto da Gerda e Jenny? Que negócio! Aqui está meus $185.}
-{322}{}{Is Gerda that larger, mustachioed woman? I better hear the other choices again.}
+{322}{}{É Gerda, a mulher de bigode? É melhor ouvir as outras opções de novo.}
 {323}{}{Eu não acho que eu posso pagar isso agora. Eu acho que estou indo embora.}
-{324}{}{Gerda não é realmente uma mulher em tudo, não é? I don't want to be scrubbed down by a burly
- drag-queen. Eu sou daqui.}
+{324}{}{Gerda não é realmente uma mulher em tudo, não é? Eu não quero ser limpo nas partes íntimas por um robusto drag-queen.
+ Eu vou sair daqui.}
 
 {330}{}{É uma excelente opção se você não tiver muito tempo ou dinheiro.} #That's a great choice, if you don't have a lot of time or money.
 
@@ -134,20 +137,21 @@
  #here afterwards; most gals that spend any time with my boys get a hankerin' to bathe themselves real
  #good. 
 {363}{}{Estou certo de que um de meus filhos ficaria feliz em ajudá-lo. Mas você pode querer voltar
-aqui depois; e a maioria das moças que passam um tempo com os meus filhos ter que ser uma verdadeira deusa para banhar-se...} #ficou estranho Saibot Ajuda aew
+ aqui depois; e a maioria das moças que passam um tempo com os meus filhos tem que ser uma verdadeira deusa para banhar-se...}
 
-{370}{}{Voltar de novo, hein? Um monte de gente apenas não pode parecer ficar limpo o suficiente.}
-{371}{}{Eu estou olhando apenas por esta altura; Eu não preciso de um banho.}
-{372}{}{Diga-me de novo os tipos de banhos que você tem.}
-{373}{}{Eu recebo um desconto ao cliente na volta?}
+{370}{}{Voltou de novo, hein? Muitas pessoas apenas não conseguem ficarem limpos o suficiente.}
+{371}{}{Eu estou apenas olhando; Eu não preciso de um banho.}
+{372}{}{Fale de novo dos tipos de banhos que você tem.}
+{373}{}{Eu recebo um desconto pelas próximas vezes em que vier?}
 
 #Well now, it wouldn't be fair to discount any of our services. My gals are well worth what they charge.
 {380}{}{Bem, agora, não seria justo descontar qualquer um dos nossos serviços. Meus galões valem o que eles cobram.}
 {381}{}{Bem, se eu não posso obter um desconto, eu vou embora.}
 {382}{}{Eu acho que é justo. Me diga os banho que você tem disponível.}
 
-{390}{}{Antes de prosseguirmos, você tem que saber que os banhos são individuais, não para grupos. Vocês podem se acertar, então seus amigos podem fazer o que quiserem.} #Before we go any further, you've gotta know that the baths are for individuals, not groups. You
- can make your own arrangements, and then your friends can do as they please on their own.
+{390}{}{Antes de prosseguirmos, você tem que saber que os banhos são individuais, não para grupos. Vocês podem se acertar, então seus amigos podem fazer o que quiserem.} 
+#Before we go any further, you've gotta know that the baths are for individuals, not groups. You
+# can make your own arrangements, and then your friends can do as they please on their own.
 {391}{}{Ok.} #Ok.
 
 {400}{}{Não queremos gente como você por aqui.} #We don't want your kind around here.
