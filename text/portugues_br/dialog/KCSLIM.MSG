@@ -1,4 +1,4 @@
-{100}{}{Você vê um trapper alto e magricela.}
+{100}{}{Você vê um trapper alto e magricelo.}
 {101}{}{Você vê o Slim Picket, o cabeça de Trapper Town.}
 
 {110}{}{Bem, senhor, parece que você não foi mastigado por esses ratos ainda -- mas vai ser se continuar
@@ -43,15 +43,15 @@
 {173}{}{Eu gostaria de te perguntar algumas coisas.}
 {174}{}{Acho que não preciso de nada. Tchau.}
 
-{180}{}{Bem, essa parte da cidade é onde todos nós trappers vivemo quando não estamos caçando
+{180}{}{Bem, essa parte da cidade é onde todos nós trappers vivemos quando não estamos caçando
  geckos. O único problema são os ratos no norte da cidade. Mas nós temos a maioria das
  entradas pra lá muito bem barricadas.}
 {181}{}{O que você quer saber?}
 {182}{}{Você já foi pro norte da cidade?}
-{183}{}{Fale-me sobre caçar geckos.}
+{183}{}{Me conte sobre caçar geckos.}
 {184}{}{Você sabe alguma coisa sobre o Garden of Eden Creation Kit?}
 {185}{}{Vocês tem um monte de carros aqui, hein?}
-{186}{}{Ratos? Fale-me sobre esses ratos.}
+{186}{}{Ratos? Me conte sobre esses ratos.}
 {187}{}{É só isso. Até mais.}
 
 {190}{}{Ah, você está falando do GECK, hein? Bem, eu vi um anúncio numa dessas revistas velhas. Mas eu não
@@ -95,7 +95,7 @@
 
 {250}{}{Nós bloqueamos todas as entradas para o norte da cidade, com excessão de uma. Eu tenho a chave para essa
  entrada -- apenas para o caso de alguém precisar ir pra lá por algum motivo. Não consigo imaginar por que alguém iria
- querer, no entendo; eu realmente não consigo.}
+ querer ir lá.}
 {251}{}{Interessante; eu tenho outras perguntas.}
 {252}{}{Estou interessado em pegar essa chave de você.}
 {253}{}{É tudo o que eu queria saber agora. Tchau.}
@@ -106,7 +106,7 @@
 {270}{}{Eu não faria isso se fosse você. Você ficaria com as mãos sujas e cheias de calos.
  (heh, hee, hee) Mais alguma coisa que gostaria de saber?}
 {271}{}{Bem, eu realmente não quero minhas mãos sujas. Conte-me outra coisa.}
-{272}{}{Eu gostaria muito de ser tão habilidoso como você na arte das armadilhas. Acho que você podeia me ensinar muito.}
+{272}{}{Eu gostaria muito de ser tão habilidoso como você na arte das armadilhas. Acho que você poderia me ensinar muito.}
 {273}{}{É tudo o que eu gostaria de saber agora. Tchau.}
 
 {280}{}{Bem, agora você parece estar interessado. Os Geckos vêm em dois tipos -— normais e
@@ -131,7 +131,7 @@
 {312}{}{É tudo o que eu queria saber. Tchau.}
 
 {320}{}{Nós temos um estoque repleto de carros. Todos prontos pros seus donos voltarem das compras. A questão
- é: ele nunca voltam. Nenhum deles anda mais. Tem um belo de um Chrysalis Motors
+ é: eles nunca voltam. Nenhum deles anda mais. Tem um belo de um Chrysalis Motors
  Highwayman a leste daqui, mas não sei como chegar lá, ainda.}
 {321}{}{Um Highwayman? Interessante. Conte-me outra coisa.}
 {322}{}{É tudo o que eu queria saber. Tchau.}
@@ -154,10 +154,10 @@
 {337}{}{Em casa, mamãe costumava fritá-los com um pouco de manteiga. Mas, conte-me mais sobre os ataques
  de ratos.}
 
-{340}{}{As pessoas estão desaparecendo. Just them as are slow and sickly, for now. Claro, eles
+{340}{}{As pessoas estão desaparecendo. Por enquanto somente os que são lentos e doentes. Claro, eles
  não param pra cozinhar sua comida como nós. Eles apenas roem até que reste sangue, chumaços de cabelo e
  trapos. Pelo menos é o que encontramos de manhã. Ouvi falar que há um tipo de
- deus-rato gigante que os diz o que fazer.}#Just them as are slow and sickly, for now => ???
+ deus-rato gigante que os diz o que fazer.}
 {341}{}{Interessante. Talvez eu possa fazer algo sobre isso. E aí, você tem a chave pro
  norte de Trapper Town?}
 {342}{}{Interessante. Conte-me outra coisa.}
