@@ -1,9 +1,3 @@
-##############################################################
-#   Whiskey Bob                                              #
-#   Traduzido por Ricardo S. Alvarenga                       #
-##############################################################
-
-
 {100}{}{Você vê um homem velho com uma barba rala e um grande nariz vermelho.}
 {101}{}{Você vê Whiskey Bob.}
 {110}{}{Olá, meu nome é Whiskey Bob. Qual é o seu, cara?}
@@ -83,7 +77,15 @@
 {282}{}{Sim, diga-me o que está acontecendo na cidade ultimamente.}
 {283}{}{Não, muito obrigado, Bob. Acredito que já tenho tudo que preciso.}
 
-{290}{}{Nesses últimos dias tem ocorrido todo tipo de coisa. Mutilações de brahmins, espíritos andantes, ratos gigantes e desaparecimento de pessoas. Alguns até dizem que Den esteja envolvido.}
+{290}{}{Nesses últimos dias tem ocorrido todo tipo de coisa.}
+
+{2900}{}{As coisas estão paradas recentemente. Nada tão importante a te dizer.}
+{2901}{}{ Mutilações de brahmins}
+{2902}{}{espíritos andantes}
+{2903}{}{ratos gigantes}
+{2904}{}{e desaparecimento de pessoas.}
+{2905}{}{ Alguns até dizem que Den esteja envolvido.}
+
 {291}{}{Fale sobre as mutilações de brahmins.}
 {292}{}{Fale sobre os espíritos andantes.}
 {293}{}{Ratos gigantes!? Fale mais sobre eles.}
