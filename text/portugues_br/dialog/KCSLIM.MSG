@@ -1,4 +1,4 @@
-{100}{}{Você vê um trapper alto e magricelo.}
+{100}{}{Você vê um caçador alto e magricelo.}
 {101}{}{Você vê o Slim Picket, o cabeça de Trapper Town.}
 
 {110}{}{Bem, senhor, parece que você não foi mastigado por esses ratos ainda -- mas vai ser se continuar
@@ -43,7 +43,7 @@
 {173}{}{Eu gostaria de te perguntar algumas coisas.}
 {174}{}{Acho que não preciso de nada. Tchau.}
 
-{180}{}{Bem, essa parte da cidade é onde todos nós trappers vivemos quando não estamos caçando
+{180}{}{Bem, essa parte da cidade é onde todos nós caçadores vivemos quando não estamos caçando
  geckos. O único problema são os ratos no norte da cidade. Mas nós temos a maioria das
  entradas pra lá muito bem barricadas.}
 {181}{}{O que você quer saber?}
