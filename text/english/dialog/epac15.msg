@@ -1,4 +1,4 @@
-{100}{}{You see a tribal.}
+{100}{}{Você vê um tribal.}
 {101}{}{You see a captive tribal of the Doctor.}
 {102}{}{A sad-looking prisoner, belonging to the Doctor.}
 {103}{}{HELP!}

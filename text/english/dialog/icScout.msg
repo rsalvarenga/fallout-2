@@ -1,5 +1,5 @@
 # 0. QUICK LOOK
-{100}{}{You see a tribal.}
+{100}{}{Você vê um tribal.}
 {101}{}{You see Shadow-Who-Walks.}
 
 # 0. LOOK
