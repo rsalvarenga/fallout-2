@@ -1,4 +1,4 @@
-{100}{}{You see a tribal woman.}
+{100}{}{Você vê uma mulher tribal.}
 {101}{}{You see Kurisu, Sulik's sister.}
 {102}{}{You see a young, full figured tribal woman with several piercings and tattoos.}
 
