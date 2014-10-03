@@ -24,9 +24,9 @@
 #
 # Klamath
 {220}{}{Centro da cidade} #Downtown
-{221}{}{Bairro dos caçadores} #Trapper Town
+{221}{}{Bairro dos cacadores} #Trapper Town
 {222}{}{Caverna de ratos} #Rat Caves
-{223}{}{Campo de armadilhas} #rapping Grounds
+{223}{}{Campo de armadilhas} #Trapping Grounds
 {224}{}{Area de pastagem} #Grazing Area
 {225}{}{Desfiladeiro} #Canyon
 #
