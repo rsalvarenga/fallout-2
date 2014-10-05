@@ -882,61 +882,61 @@
 # #
 # series 5900 - Centaurs #
 # #
-{5900}{}{} #. Pushed like a bad habit, the centaur falls over and is stunned
-{5901}{}{} # as the blow strikes a critical spot
-{5902}{}{} #, causing massive neurological failure
-{5903}{}{} #, stunning it with your violent attack
-{5904}{}{} #, crippling the arm
-{5905}{}{} #, striking a critical spot. The arm is crippled
-{5906}{}{} #, knocking the creature over and crippling the leg
-{5907}{}{} #, stunning the centaur as it is knocked over with a crippled leg
-{5908}{}{} #, blinding a head
-{5909}{}{} #, surprising the centaur. It blindly stumbles for a moment
-{5910}{}{} #, surprising the centaur. It collapses in a heap
-{5911}{}{} #, surprising the centaur. It collapses in a pile of goo
-{5912}{}{} #. The attack was not as effective as it could have been
+{5900}{}{. O centauro cai e fica atordoado} #. Pushed like a bad habit, the centaur falls over and is stunned
+{5901}{}{ o golpe atingiu um ponto crítico} # as the blow strikes a critical spot
+{5902}{}{, causa uma grande insuficiência neurológica} #, causing massive neurological failure
+{5903}{}{, atordoando com o seu ataque violento} #, stunning it with your violent attack
+{5904}{}{, braço paralisado} #, crippling the arm
+{5905}{}{, atingindo em um ponto crítico. O braço foi aleijado} #, striking a critical spot. The arm is crippled
+{5906}{}{, derrubando a criatura e aleijando a perna} #, knocking the creature over and crippling the leg
+{5907}{}{, centauro atordoado e derrubado com uma perna aleijada} #, stunning the centaur as it is knocked over with a crippled leg
+{5908}{}{, deixando tonto} #, blinding a head
+{5909}{}{, surpreendendo o centauro. Ele tropeça cegamente por um momento} #, surprising the centaur. It blindly stumbles for a moment
+{5910}{}{, surpreendendo o centauro. Ele cai num monte} #, surprising the centaur. It collapses in a heap
+{5911}{}{, surpreendendo o centauro. Ele cai em uma pilha de gosma} #, surprising the centaur. It collapses in a pile of goo
+{5912}{}{. O ataque não foi tão eficaz como poderia ter sido} #. The attack was not as effective as it could have been
 # #
 # series 6000 - Robots #
 # #
-{6000}{}{} #, inflicting some structural damage
-{6001}{}{} #. Sparks fly and the robot goes momentarily out of control
-{6002}{}{} #, hitting a critical component and forcing the robot out of control
-{6003}{}{} #, hitting a critical component and causing a massive malfunction
-{6004}{}{} #. The robot attempts to compensate
-{6005}{}{} #. The robot strains to compensate
-{6006}{}{} #, hitting some key part and causing heavy damage
-{6007}{}{} #, inflicting heavy structural damage
-{6008}{}{} #, hitting a critical component and causing severe damage
-{6009}{}{} #. The robot shudders under this intense attack
-{6010}{}{} #, dismantling the robot
-{6011}{}{} #. The robot attempts to compensate, but fails, falling to the ground
-{6012}{}{} #. The robot strains under the pressure, falling to the ground
-{6013}{}{} #, breaking the sensor lenses
+{6000}{}{, causando alguns danos estruturais} #, inflicting some structural damage
+{6001}{}{. faíscas voam e o robô fica momentaneamente fora de controle} #. Sparks fly and the robot goes momentarily out of control
+{6002}{}{, atingindo um componente crítico e o robô fica fora de controle} #, hitting a critical component and forcing the robot out of control
+{6003}{}{, atingindo um componente crítico causando um mau funcionamento} #, hitting a critical component and causing a massive malfunction
+{6004}{}{. o robô tenta compensar} #. The robot attempts to compensate
+{6005}{}{. as tensões dos robôs tentam compensar} #. The robot strains to compensate
+{6006}{}{, atingindo uma parte chave e causando danos pesados} #, hitting some key part and causing heavy damage
+{6007}{}{, causando um forte dano estrutural} #, inflicting heavy structural damage
+{6008}{}{, atingindo um componente crítico e causando graves danos} #, hitting a critical component and causing severe damage
+{6009}{}{. Os tremores do robô indicam que esta debaixo de um ataque intenso} #. The robot shudders under this intense attack
+{6010}{}{, desmontagem do robô} #, dismantling the robot
+{6011}{}{. O robô tenta compensar, mas não consegue, caindo no chão} #. The robot attempts to compensate, but fails, falling to the ground
+{6012}{}{. O robô esta sobre pressão, caindo no chão} #. The robot strains under the pressure, falling to the ground
+{6013}{}{, Quebrando as lentes do sensor} #, breaking the sensor lenses
 # #
 # series 6100 - Dogs #
 # #
-{6100}{}{} #, knocking the pooch to the ground
-{6101}{}{} #, right across the snout
-{6102}{}{} #. The dog falls over, but it is still breathing
-{6103}{}{} #. The animal coughs up a spurt of blood
-{6104}{}{} #, crippling the leg
-{6105}{}{} #, crippling the leg. The animal tries to remain standing, but fails
-{6106}{}{} #. The blinded animal howls in pain
-{6107}{}{} #, neutering the poor animal
+{6100}{}{, derrubando o cão no chão} #, knocking the pooch to the ground
+{6101}{}{, mesmo em frente do focinho} #, right across the snout
+{6102}{}{. O cão cai, mas ainda está respirando} #. The dog falls over, but it is still breathing
+{6103}{}{. O animal cospe um jato de sangue} #. The animal coughs up a spurt of blood
+{6104}{}{, quebrando a perna} #, crippling the leg
+{6105}{}{, quebrando a perna. O animal tenta se manter em pé, mas não consegue} #, crippling the leg. The animal tries to remain standing, but fails
+{6106}{}{. Os uivos de animais cegos em dor} #. The blinded animal howls in pain
+{6107}{}{, neutralizando o pobre animal} #, neutering the poor animal
 # #
 # series 6200 - Manti #
 # #
-{6200}{}{} #, knocking down this mutated insect
-{6201}{}{} #. It collapses
-{6202}{}{} #. The manti ponders whether or not to continue living
-{6203}{}{} #, crippling the limb
-{6204}{}{} #, causing the manti to lick its wounds. It holds the limb oddly
-{6205}{}{} #, bypassing the chitinous armor
-{6206}{}{} #. The manti shrieks and shivers most inhuman like
-{6207}{}{} #, which causes the manti to fall over. A limb is bent at an odd angle
-{6208}{}{} #, shredding the wings
-{6209}{}{} #, bypassing the chitinous armor and throwing the manti around
-{6210}{}{} #, blinding the insect with an accurate blow
+{6200}{}{, Derrubando esse inseto mutante} #, knocking down this mutated insect
+{6201}{}{. ele entra em colapso} #. It collapses
+{6202}{}{. O manti pondera se deve ou não continuar a viver} #. The manti ponders whether or not to continue living
+{6203}{}{, sangrando o membro} #, crippling the limb
+{6204}{}{, fazendo o manti lamber suas feridas.} #, causing the manti to lick its wounds. It holds the limb oddly
+{6205}{}{, ignorando a armadura de carapaça quitinosa} #, bypassing the chitinous armor
+{6206}{}{. Os gritos do manti e arrepios são mais cruéis} #. The manti shrieks and shivers most inhuman like
+{6207}{}{, o que faz com o manti cair. Um membro é curvado em um ângulo estranho} #, which causes the manti to fall over. A limb is bent at an odd angle
+{6208}{}{, rasgando as asas} #, shredding the wings
+{6209}{}{, ignorando a armadura de carapaça quitinosa e jogando a manti de volta} #, bypassing the chitinous armor and throwing the manti around
+{6210}{}{, cegando o inseto com um golpe preciso} #, blinding the insect with an accurate blow
 # #
 # series 6300 - Deathclaw #
 # #
