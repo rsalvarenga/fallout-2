@@ -21,8 +21,8 @@
 #  glanced and and examined.                                #
 #############################################################
 
-{100}{}{Você vê uma das Crianças de Klamath.} #You see one of Klamath's Children.
-{101}{}{Você vê uma das Crianças de Klamath.} #You see one of Klamath's Children.
+{100}{}{Você vê uma das crianças de Klamath.} #You see one of Klamath's Children.
+{101}{}{Você vê uma das crianças de Klamath.} #You see one of Klamath's Children.
 
 #############################################################
 #  The following lines are floaters for children            #
