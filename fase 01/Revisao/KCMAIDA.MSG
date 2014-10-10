@@ -1,28 +1,28 @@
 #You see a plain looking, sturdily built young woman with a scowl on her face.
-{100}{}{VocÃª vÃª uma moÃ§a de constituiÃ§Ã£o forte e aparÃªncia simples com um olhar severo.} 
+{100}{}{Você vê uma moça de constituição forte e aparência simples com um olhar severo.} 
 
 #You see Maida Buckner, Mrs. Buckner's daughter.
-{101}{}{VocÃª vÃª Maida Buckner, filha da senhora Buckner.} 
+{101}{}{Você vê Maida Buckner, filha da senhora Buckner.} 
 
 #You see a plain looking, sturdily built young woman. She's looking back at you with a scowl on
  her face.
-{102}{}{VocÃª vÃª uma moÃ§a de constituiÃ§Ã£o forte e aparÃªncia simples. Ela fica te encarando com um olhar severo.} 
+{102}{}{Você vê uma moça de constituição forte e aparência simples. Ela fica te encarando com um olhar severo.} 
 
 
 #You've really made me angry. I don't want anything further to do with you. Now just get out. Tribals, humph! (mutter, mutter) ...shiftless, worthless, lazy...
-{200}{}{VocÃª me deixou com muita raiva. Eu nÃ£o quero mais nada com vocÃª. Agora cai fora.
- Ã­ndÃ­genas, humph! (resmunga, resmunga) ... imbecil, inÃºtil, vagabun...}
+{200}{}{Você me deixou com muita raiva. Eu não quero mais nada com você. Agora cai fora.
+ índígenas, humph! (resmunga, resmunga) ... imbecil, inútil, vagabun...}
 
 #You are even more infuriating than Sulik! I don't have time to talk to you. Go away.
-{201}{}{VocÃª consegue ser mais irritante que o Sulik! Eu nÃ£o tenho tempo para falar com vocÃª. VÃ¡ embora.}
+{201}{}{Você consegue ser mais irritante que o Sulik! Eu não tenho tempo para falar com você. Vá embora.}
 
 #I don't want to have anything to do with you either. Goodbye.
-{202}{}{Eu tambÃ©m nÃ£o quero mais nada com vocÃª. Adeus.}
+{202}{}{Eu também não quero mais nada com você. Adeus.}
 
 # I'm very sorry that I upset you. I'm just ignorant of your ways here. I was trying to show you
  respect in the manner of my tribe.
-{203}{}{Sinto muito por te magoar. Eu nÃ£o conheÃ§o sobre seus costumes. Eu sÃ³ estava tentando te mostrar
- respeito de acordo com as tradiÃ§Ãµes da minha tribo.}
+{203}{}{Sinto muito por te magoar. Eu não conheço sobre seus costumes. Eu só estava tentando te mostrar
+ respeito de acordo com as tradições da minha tribo.}
  
 # Gosh, I'm really, really sorry. I'm just an ignorant tribal, after all. Can you possibly forgive
  me?
@@ -30,16 +30,16 @@
   
 # I just didn't know what to say to someone as attractive as yourself. I always get nervous when
  I'm near a beautiful woman. Please accept my apologies.
-{205}{}{Ã‰ que eu nÃ£o sabia o que dizer para alguÃ©m tÃ£o atraente quanto vocÃª. Eu sempre fico nervoso quando
+{205}{}{É que eu não sabia o que dizer para alguém tão atraente quanto você. Eu sempre fico nervoso quando
  estou perto de uma mulher bonita. Por favor, aceite minhas desculpas.}
  
 # It's just that you seem so civilized and so beautiful. I was jealous of you. Please forgive me.
  I have so much to learn from women like you.
-{206}{}{Ã‰ que vocÃª parece tÃ£o civilizada e bonita. Eu tive inveja de vocÃª. Por favor me perdoe.}
+{206}{}{É que você parece tão civilizada e bonita. Eu tive inveja de você. Por favor me perdoe.}
 
 
 # Hello there, my name's Maida Buckner. I help my mother run Buckner house. Can I help you?
-{210}{}{OlÃ¡, meu nome Ã© Maida Buckner. Eu ajudo minha mÃ£e a cuidar do nosso negÃ³cio. Deseja um drink?
+{210}{}{Olá, meu nome é Maida Buckner. Eu ajudo minha mãe a cuidar do nosso negócio. Deseja um drink?
 Recomendo nuka-cola.}
 
 # Ungh?
@@ -53,17 +53,17 @@ Recomendo nuka-cola.}
 
 # Hmm - seems as though your elevator doesn't rise all the way to the top floor. Why don't you
  talk to my brother, Torr? He's a little closer to your speed. Goodbye.
-{220}{}{Hmm - Parece que vocÃª funciona na mesma velocidade do Internet Explorer. Por que
-vocÃª nÃ£o conversa com meu irmÃ£o, Torr? Ele tem o raciocÃ­nio tÃ£o rÃ¡pido quanto o seu. Adeus.}
+{220}{}{Hmm - Parece que você funciona na mesma velocidade do Internet Explorer. Por que
+você não conversa com meu irmão, Torr? Ele tem o raciocínio tão rápido quanto o seu. Adeus.}
 
 # My name's Maida Buckner; I take care of trading and drinks here. I don't tolerate any tribals
  messing our family's place up. So you just better watch your step here, or you'll end up like Sulik.
  What do you want?
-{230}{}{Meu nome Ã© Maida Buckner; Eu cuido das vendas e das bebidas aqui. E nÃ£o tolero tribais mexendo com o lar da minha famÃ­lia.
-EntÃ£o cuidado com o que faz, ou vai acabar igual o Sulik.}
+{230}{}{Meu nome é Maida Buckner; Eu cuido das vendas e das bebidas aqui. E não tolero tribais mexendo com o lar da minha família.
+Então cuidado com o que faz, ou vai acabar igual o Sulik.}
 
 # My name's Maida Buckner; I take care of trading and drinks here. What will it be for you, friend?
-{231}{}{Meu nome Ã© Maida Buckner; Eu cuido das vendas e das bebidas aqui. O que vocÃª vai querer, colega?}
+{231}{}{Meu nome é Maida Buckner; Eu cuido das vendas e das bebidas aqui. O que você vai querer, colega?}
 
 # Hello there, my good friend.
 {232}{}{Como vai, colega?}
@@ -73,7 +73,7 @@ EntÃ£o cuidado com o que faz, ou vai acabar igual o Sulik.}
 
 # Well, you just better be more civil from now on. Just what do you want anyway? What can I help
  you with here?
-{234}{}{Bem, vocÃª sÃ³ precisa agir mais civilizadamente. Afinal, o que vocÃª quer? Em que posso te ajudar?}
+{234}{}{Bem, você só precisa agir mais civilizadamente. Afinal, o que você quer? Em que posso te ajudar?}
 
 # I have some questions for you.
 {235}{}{Eu tenho algumas perguntas para te fazer.}
@@ -88,17 +88,17 @@ EntÃ£o cuidado com o que faz, ou vai acabar igual o Sulik.}
 {238}{}{Eu quero uma bebida.}
 
 # I guess I don't need anything right now. Goodbye.
-{239}{}{Acho que nÃ£o preciso de nada agora. Adeus.}
+{239}{}{Acho que não preciso de nada agora. Adeus.}
 
 # Questions, huh? Well get on with it, then. Talking to you doesn't get my work any closer to
  being finished.
-{240}{}{Perguntas, huh? VÃ¡ em frente e seja rÃ¡pido. Conversar com vocÃª nÃ£o irÃ¡ fazer meu trabalho ir mais rÃ¡pido.}
+{240}{}{Perguntas, huh? Vá em frente e seja rápido. Conversar com você não irá fazer meu trabalho ir mais rápido.}
 
 # More questions? Well go on, then, and be quick about it.
-{241}{}{Mais perguntas? Bem, vai logo entÃ£o.}
+{241}{}{Mais perguntas? Bem, vai logo então.}
 
 # Have you ever heard of something called a Garden of Eden Creation Kit?
-{242}{}{VocÃª jÃ¡ ouviu falar de uma coisa chamada Garden of Eden Creation Kit?}
+{242}{}{Você já ouviu falar de uma coisa chamada Garden of Eden Creation Kit?}
 
 # Tell me about Sulik.
 {243}{}{Me fale sobre o Sulik.}
@@ -107,61 +107,61 @@ EntÃ£o cuidado com o que faz, ou vai acabar igual o Sulik.}
 {244}{}{Me diga o que rola aqui em Klamath.}
 
 # What other towns are nearby?
-{245}{}{Quais sÃ£o as cidades mais prÃ³ximas?}
+{245}{}{Quais são as cidades mais próximas?}
 
 # I think that's all I need to know for now. Goodbye.
-{246}{}{Acho que Ã© tudo que eu precisava saber. Adeus.}
+{246}{}{Acho que é tudo que eu precisava saber. Adeus.}
 
 # My mother takes care of the rooms. You should talk to her about that.
-{250}{}{Minha mÃ£e que cuida dos quartos. Pergunte pra ela.}
+{250}{}{Minha mãe que cuida dos quartos. Pergunte pra ela.}
 
 # Ok, thanks. There's something else that I wanted to know, though.
 {251}{}{Ok, valeu. Mas tem outra coisa que eu preciso saber.}
 
 # I'll talk to her about that then. Goodbye.
-{252}{}{Eu vou conversar com ela entÃ£o. AtÃ©.}
+{252}{}{Eu vou conversar com ela então. Até.}
 
 # You want to barter? I'm always looking for good quality gecko pelts, and I pay a fair price
  for them, too.
-{260}{}{Quer negociar? Eu sempre procuro por peles de gecko de alta qualidade, e pago um bom preÃ§o por elas.}
+{260}{}{Quer negociar? Eu sempre procuro por peles de gecko de alta qualidade, e pago um bom preço por elas.}
 
 # You want to buy something? I hope you have something other than gecko pelts to pay with; we're
  overstocked on pelts right now.
-{261}{}{Quer comprar algo? Eu espero que vocÃª tenha algo alÃ©m de peles de gecko para me pagar; nosso estoque
- estÃ¡ cheio no momento.}
+{261}{}{Quer comprar algo? Eu espero que você tenha algo além de peles de gecko para me pagar; nosso estoque
+ está cheio no momento.}
  
 # Yes, I'd like to trade with you.
-{262}{}{Sim, eu quero negociar com vocÃª.}
+{262}{}{Sim, eu quero negociar com você.}
 
 # I'm more interested in something else at the moment.
 {263}{}{Eu estou mais interessado em outra coisa.}
 
 # I guess I don't need to trade right now. Goodbye.
-{264}{}{NÃ£o quero negociar nada agora. Adeus.}
+{264}{}{Não quero negociar nada agora. Adeus.}
 
 # The only way I know to create a Garden of Eden is through plain old hard work. That's something
  you tribals just don't seem to understand. But I guess that's the difference between us civilized folk
  and yourselves.
-{270}{}{A Ãºnica forma que conheÃ§o de criar um Garden of Eden Ã© atravÃ©s do bom e velho trabalho duro. 
- Isso Ã© algo que vocÃªs Ã­ndios simplesmente nÃ£o entendem. Mas acho que Ã© essa a diferenÃ§a entre nÃ³s, o 
- povo civilizado e vocÃªs.}
+{270}{}{A única forma que conheço de criar um Garden of Eden é através do bom e velho trabalho duro. 
+ Isso é algo que vocês índios simplesmente não entendem. Mas acho que é essa a diferença entre nós, o 
+ povo civilizado e vocês.}
  
 # Uh, I guess. Tell me about something else then.
-{271}{}{Ok, eu acho. EntÃ£o me fale sobre outra coisa.}
+{271}{}{Ok, eu acho. Então me fale sobre outra coisa.}
 
 # Gee, I guess I have a lot to learn from you folks. I'd like to be civilized, too, someday.
-{272}{}{Poxa, acho que tenho muito o que aprender com sua gente. Eu quero me civilizar tambÃ©m, algum dia.}
+{272}{}{Poxa, acho que tenho muito o que aprender com sua gente. Eu quero me civilizar também, algum dia.}
 
 # Civilized? You think you're civilized because you live in the burnt-out ruins of a beforetime
  town? Tell me something else.
-{273}{}{Civilizados? VocÃªs se acham civilizados por viverem em ruinas queimadas de uma cidade esquecida?
+{273}{}{Civilizados? Vocês se acham civilizados por viverem em ruinas queimadas de uma cidade esquecida?
  Me conte mais.}
  
 # I think I've heard just about enough. Goodbye.
-{274}{}{Eu acho que jÃ¡ ouvi o bastante. Adeus.}
+{274}{}{Eu acho que já ouvi o bastante. Adeus.}
 
 # Well now, anything else that I can do for you?
-{280}{}{Bem, posso fazer mais alguma coisa por vocÃª?}
+{280}{}{Bem, posso fazer mais alguma coisa por você?}
 
 # I've got enough gecko pelts to last me for a while. Anything else I can do for you?
 {281}{}{Eu tenho pele de gecko o bastante por um bom tempo. Mais alguma coisa?}
@@ -170,43 +170,43 @@ EntÃ£o cuidado com o que faz, ou vai acabar igual o Sulik.}
 {282}{}{Na verdade, tem outra coisa que quero negociar.}
 
 # I was hoping for better prices. You sure aren't cheap. Tell me about something else.
-{283}{}{Eu esperava preÃ§os melhores. VocÃª nÃ£o dÃ¡ desconto. Vamos falar sobre outra coisa.}
+{283}{}{Eu esperava preços melhores. Você não dá desconto. Vamos falar sobre outra coisa.}
  
 # You're a tough bargainer, but fair. Tell me about something else.
-{284}{}{VocÃª Ã© duro na barganha, mas justo. Vamos falar sobre outra coisa.}
+{284}{}{Você é duro na barganha, mas justo. Vamos falar sobre outra coisa.}
 
 # That's all I need for now. Goodbye.
-{285}{}{Ã‰ tudo que preciso por enquanto. Adeus.}
+{285}{}{É tudo que preciso por enquanto. Adeus.}
 
 # There are only a couple of other towns nearby. There's Redding far to the southeast, and the Den
  a few days south. But I wouldn't go to the Den.
-{290}{}{SÃ³ existem algumas cidades por perto. Tem Redding, lÃ¡ longe no sudeste, e Den a alguns dias pro
- sul. Mas eu nÃ£o iria para Den.}
+{290}{}{Só existem algumas cidades por perto. Tem Redding, lá longe no sudeste, e Den a alguns dias pro
+ sul. Mas eu não iria para Den.}
  
 # Why wouldn't you go to the Den?
-{291}{}{Por que voce nÃ£o iria atÃ© Den?}
+{291}{}{Por que voce não iria até Den?}
 
 # What about tribes in the area?
-{292}{}{E tribos na regiÃ£o?}
+{292}{}{E tribos na região?}
 
 # Thanks for the advice. Tell me something else though.
 {293}{}{Obrigado pelo aviso. Me fale mais.}
 
 # That's all I need to know about for now. Goodbye.
-{294}{}{Ã‰ tudo que eu queria saber. Adeus.}
+{294}{}{É tudo que eu queria saber. Adeus.}
 
 # Well, I didn't count tribes when you asked about civilized towns. But I guess there's a group of
  savages somewhere to the northwest -- and then Sulik's tribe, far to the southwest.
-{300}{}{Bom, eu nÃ£o contei as tribos quando me perguntou de cidades civilizadas. Mas acho que tem um grupo
- de selvagens em algum lugar do noroeste -- e tem a tribo do Sulik, lÃ¡ longe ao sudoeste.}
+{300}{}{Bom, eu não contei as tribos quando me perguntou de cidades civilizadas. Mas acho que tem um grupo
+ de selvagens em algum lugar do noroeste -- e tem a tribo do Sulik, lá longe ao sudoeste.}
  
 # That's funny, my tribe doesn't count pre-war towns when we talk about civilized places. Tell me
  something else.
-{301}{}{EngraÃ§ado, minha tribo nÃ£o conta cidades de antes da guerra como lugares civilizados. EntÃ£o me fale sobre outra coisa.}
+{301}{}{Engraçado, minha tribo não conta cidades de antes da guerra como lugares civilizados. Então me fale sobre outra coisa.}
 
 # Oh, you're civilized all right...and I don't think I want any part of it. Tell me
  something else.
-{302}{}{Oh, vocÃªs sÃ£o civilizados, claro... E acho que nÃ£o quero participar disso. EntÃ£o me fale sobre outra coisa.}
+{302}{}{Oh, vocês são civilizados, claro... E acho que não quero participar disso. Então me fale sobre outra coisa.}
 
 # Tell me about Sulik.
 {303}{}{Me fale sobre o Sulik.}
@@ -219,39 +219,39 @@ EntÃ£o cuidado com o que faz, ou vai acabar igual o Sulik.}
 
 # The Den is a bad place to go. They even enslave ignorant tribals like yourself. It's a week or
  so south of here, but most folks that've gone there don't come back.
-{310}{}{O Den Ã© um pÃ©ssimo lugar para ir. Eles atÃ© escravizam Ã­ndigenas ignorantes como vocÃª. Ã‰ mais 
-ou menos uma semana ao sul daqui, mas a maioria dos que vÃ£o para lÃ¡, nunca mais volta.}
+{310}{}{O Den é um péssimo lugar para ir. Eles até escravizam índigenas ignorantes como você. É mais 
+ou menos uma semana ao sul daqui, mas a maioria dos que vão para lá, nunca mais volta.}
 
 # Tell me about the local tribes.
 {311}{}{Me fale sobre as tribos locais.}
 
 # Isn't Sulik your slave? Or do you just treat him like one?
-{312}{}{O Sulik Ã© seu escravo? Ou vocÃª apenas o trata como um?}
+{312}{}{O Sulik é seu escravo? Ou você apenas o trata como um?}
 
 # Interesting. Let me ask you something else, though.
 {313}{}{Interessante. Deixa eu perguntar outra coisa.}
 
 # Sulik's a tribal that's working here to pay off a debt he foolishly incurred. He is not a
  slave. We don't have slaves here in Klamath.
-{320}{}{Sulik Ã© um Ã­ndio que esta trabalhando para pagar a dÃ­vida estÃºpida que ele mesmo fez. Ele nÃ£o Ã© um escravo.
- NÃ£o temos escravos aqui em Klamath.}
+{320}{}{Sulik é um índio que esta trabalhando para pagar a dívida estúpida que ele mesmo fez. Ele não é um escravo.
+ Não temos escravos aqui em Klamath.}
  
 # Paying off a debt? What do you mean?
-{321}{}{Pagando uma dÃ­vida? O que quer dizer?}
+{321}{}{Pagando uma dívida? O que quer dizer?}
 
 # Well, you see, Sulik got real upset one night and had too much booze. Then, when he was good
  and drunk, he busted up the place. He did nearly $500 worth of damage. Just now getting the place
  repaired.
-{330}{}{Sabe, o Sulik ficou muito nervoso uma noite e encheu a cara. EntÃ£o quando estava completamente
- bebado ele quebrou tudo aqui. Ele causou um prejuÃ­zo no valor de $500. SÃ³ estamos consertando agora.}
+{330}{}{Sabe, o Sulik ficou muito nervoso uma noite e encheu a cara. Então quando estava completamente
+ bebado ele quebrou tudo aqui. Ele causou um prejuízo no valor de $500. Só estamos consertando agora.}
  
 # Why'd he get so upset?
-{331}{}{Por que ele ficou tÃ£o nervoso?}
+{331}{}{Por que ele ficou tão nervoso?}
 
 # He said he found out that his sister had been kidnapped by slavers. But you'd have to ask him
  more about that. He's here until he can pay off the rest of the damage he did while he was drunk.
-{340}{}{Ele disse que descobriu que sua irmÃ£ havia sido sequestrada por escravistas. VocÃª precisaria
- perguntar para ele sobre isso. Ele vai ficar aqui atÃ© pagar todo o resto dos danos que ele causou 
+{340}{}{Ele disse que descobriu que sua irmã havia sido sequestrada por escravistas. Você precisaria
+ perguntar para ele sobre isso. Ele vai ficar aqui até pagar todo o resto dos danos que ele causou 
  enquanto estava bebado.}
  
 # How much does he have to work off?
@@ -259,108 +259,108 @@ ou menos uma semana ao sul daqui, mas a maioria dos que vÃ£o para lÃ¡, nunca mai
 
 # He still has to pay off $350. If he weren't so lazy and shiftless it would go quicker for him.
  He's not leaving here until his debt is paid in full.
-{350}{}{Ele ainda tem que pagar $350. Se ele nÃ£o fosse tÃ£o preguiÃ§oso e desatento seria mais rÃ¡pido.
- Ele nÃ£o vai embora enquanto nÃ£o pagar toda a dÃ­vida.}
+{350}{}{Ele ainda tem que pagar $350. Se ele não fosse tão preguiçoso e desatento seria mais rápido.
+ Ele não vai embora enquanto não pagar toda a dívida.}
  
 # That's a lot of money. I think he's going to be here for a long time.
-{351}{}{Isso Ã© muita grana. Acho que ele vai ficar aqui um bom tempo.}
+{351}{}{Isso é muita grana. Acho que ele vai ficar aqui um bom tempo.}
 
 # Well, he may be slow, but he does sort of grow on you after a while. (looks away wistfully)...
 (flustered) Now that's enough jaw flapping; do you need anything else?
-{360}{}{Bem, ele pode ser lento, mas dÃ¡ para se apegar a ele com o tempo. (Olha para o outro lado escondendo tristeza)...
-(Fica afobada) Acho que jÃ¡ jogamos bastante conversa fora; mais alguma coisa?}
+{360}{}{Bem, ele pode ser lento, mas dá para se apegar a ele com o tempo. (Olha para o outro lado escondendo tristeza)...
+(Fica afobada) Acho que já jogamos bastante conversa fora; mais alguma coisa?}
 
 # I was curious about something else.
 {361}{}{Eu tenho curiosidade em outra coisa.}
 
 # What if someone else paid Sulik's damages?
-{362}{}{E se outra pessoa pagar a dÃ­vida do Sulik?}
+{362}{}{E se outra pessoa pagar a dívida do Sulik?}
 
 # That's all I need for now. Goodbye.
-{363}{}{Isso Ã© tudo que preciso por enquanto. Adeus.}
+{363}{}{Isso é tudo que preciso por enquanto. Adeus.}
 
 # I don't know why anyone would want to pay off his debt, but they could. His bill comes to $350.
  But you wouldn't want to do that -- he'd only get into trouble again.
-{370}{}{Eu nÃ£o sei por que alguÃ©m iria querer pagar a dÃ­vida dele, mas pode. A conta dele fica em $350.
- Mas vocÃª nÃ£o faria isso -- ele se meteria em problemas de novo.}
+{370}{}{Eu não sei por que alguém iria querer pagar a dívida dele, mas pode. A conta dele fica em $350.
+ Mas você não faria isso -- ele se meteria em problemas de novo.}
  
 # I don't like him having to stay here with a bigot like you. I want to pay for his damages.
-{371}{}{Eu nÃ£o gosto dele sendo forÃ§ado a ficar com uma mandona como vocÃª. Eu quero pagar pelos danos que ele fez.}
+{371}{}{Eu não gosto dele sendo forçado a ficar com uma mandona como você. Eu quero pagar pelos danos que ele fez.}
 
 # Well, I'm sure he must be happy working for you folks, but I still want to pay his damages. I
  don't think anyone should be trapped the way he is.
 {372}{}{Bem, tenho certeza que ele esta feliz em trabalhar para sua gente, mas ainda quero pagar pelos seus danos.
- Eu acredito que ninguÃ©m deve ficar preso como ele estÃ¡.}
+ Eu acredito que ninguém deve ficar preso como ele está.}
  
 # I guess you're right. I don't have that much money to spare, anyway. Goodbye.
-{373}{}{Acho que tem razÃ£o. Eu nÃ£o tenho tanto dinheiro para gastar mesmo. Adeus.}
+{373}{}{Acho que tem razão. Eu não tenho tanto dinheiro para gastar mesmo. Adeus.}
 
 # Well, okay then. If you really want to pay for the damage he caused...I guess all of you tribals
  really stick together.
-{380}{}{TÃ¡ bom entÃ£o. Se vocÃª realmente quer pagar pelos danos que ele causou... Acho que vocÃªs Ã­ndios 
- realmente sÃ£o unidos.}
+{380}{}{Tá bom então. Se você realmente quer pagar pelos danos que ele causou... Acho que vocês índios 
+ realmente são unidos.}
  
 # Yes, I do. I have enough to pay for the damages that he caused.
-{381}{}{Sim, eu quero. Eu tenho o suficiente para pagar pelo prejuÃ­zo.}
+{381}{}{Sim, eu quero. Eu tenho o suficiente para pagar pelo prejuízo.}
 
 # Maybe that is too much money. I don't think I want to pay for his damages after all. Goodbye.
-{382}{}{Isso Ã© dinheiro demais. Afinal, acho que nÃ£o quero pagar a dÃ­vida dele. Adeus.} 
+{382}{}{Isso é dinheiro demais. Afinal, acho que não quero pagar a dívida dele. Adeus.} 
 
 # You must be crazy. I'll sure be glad to have that damn (sob) tribal (sob) away (sob, sob) from
  here. (sob)
-{390}{}{VocÃª nÃ£o deve bater direito. Eu vou ficar feliz em me livrar desse (soluÃ§a) maldito (soluÃ§a) Ã­ndio (soluÃ§a, soluÃ§a). (chora)}
+{390}{}{Você não deve bater direito. Eu vou ficar feliz em me livrar desse (soluça) maldito (soluça) índio (soluça, soluça). (chora)}
 
 # (sob) I suppose that's a fair trade, one idiot brother for one idiot (sob) savage. I won't miss
  him a bit.
-{391}{}{(soluÃ§a) Eu suponho que seja uma troca justa, um irmÃ£o idiota por um (soluÃ§a) selvagem idiota. Eu 
- nÃ£o vou sentir nem um pouco a falta dele.}
+{391}{}{(soluça) Eu suponho que seja uma troca justa, um irmão idiota por um (soluça) selvagem idiota. Eu 
+ não vou sentir nem um pouco a falta dele.}
  
 # Well, somehow, I think Sulik might actually miss being here. But we'll be back to visit
  sometime, I'm sure. Right now, though, I need something.
-{392}{}{Bem, por algum motivo, parece que o Sulik sente falta de ficar aqui. Mas nÃ³s vamos vir visitar
+{392}{}{Bem, por algum motivo, parece que o Sulik sente falta de ficar aqui. Mas nós vamos vir visitar
  de vez em quando, tenho certeza. Agora, eu preciso de algo.}
  
 # I think Sulik's going to be a lot better off away from you.
-{393}{}{Acho que o Sulik vai ficar bem melhor longe de vocÃª.}
+{393}{}{Acho que o Sulik vai ficar bem melhor longe de você.}
 
 # Thanks; I guess maybe I should be going now.
 {394}{}{Valeu; Acho que vamos indo agora.}
 
 # You're back, huh? I hope you're taking care of Sulik. I'm sure he's lost without me telling
  him what to do.
-{400}{}{EntÃ£o vocÃª voltou, huh? Espero que esteja tomando conta do Sulik. Tenho certeza que ele estÃ¡ perdido
+{400}{}{Então você voltou, huh? Espero que esteja tomando conta do Sulik. Tenho certeza que ele está perdido
  sem me ter por perto para lhe dizer o que fazer.}
  
 # I'm back because I need something.
 {401}{}{Eu voltei porque preciso de uma coisa.}
 
 # Well, I'm sure I can't do as good a job of taking care of him as you did, but I'll sure try.
-{402}{}{Tenho certeza que nÃ£o cuido tÃ£o bem dele quanto vocÃª, mas eu me esforÃ§o bastante.}
+{402}{}{Tenho certeza que não cuido tão bem dele quanto você, mas eu me esforço bastante.}
 
 # A trapper named Smiley has gone missing. Momma sure is upset about that. I'm sure she would be grateful if
  someone found him.
-{420}{}{Um caÃ§ador chamado Smiley desapareceu. MamÃ£e estÃ¡ perturbada com isso. Certamente ela ficaria grata se
- alguÃ©m o encontrar.} 
+{420}{}{Um caçador chamado Smiley desapareceu. Mamãe está perturbada com isso. Certamente ela ficaria grata se
+ alguém o encontrar.} 
  
 # Well, have you seen Torr anywhere? It seems as though he's run off, and we're sure worried.
-{421}{}{Ei, vocÃª viu o Torr por aÃ­? Parece que ele fugiu, e estamos preocupadas.}
+{421}{}{Ei, você viu o Torr por aí? Parece que ele fugiu, e estamos preocupadas.}
 
 # OK, I'll talk to Mrs. Buckner about that then. Let me ask you something else though.
 {422}{}{OK, vou tratar isso com a senhora Buckner. Deixa eu perguntar outra coisa.}
 
 # No, I haven't seen Torr anywhere. I'll let you know if I do. Let me ask you something else,
  though.
-{423}{}{NÃ£o, eu nÃ£o vi o Torr. Eu te aviso se encontrar ele. Deixa eu perguntar outra coisa.}
+{423}{}{Não, eu não vi o Torr. Eu te aviso se encontrar ele. Deixa eu perguntar outra coisa.}
 
 # Well, Torr has been complaining about "Bug Men" scaring the brahmin. Not sure if I really believe all his stories,
  but someone or something has been rustling cattle here in town.
-{424}{}{Bem, o Torr estava reclamando que "Homens-Inseto" estavam assustando os brahmin. NÃ£o sei se acredito nas
- histÃ³rias dele, mas alguÃ©m anda rondando o gado por aqui.}
+{424}{}{Bem, o Torr estava reclamando que "Homens-Inseto" estavam assustando os brahmin. Não sei se acredito nas
+ histórias dele, mas alguém anda rondando o gado por aqui.}
  
 # I'll admit I haven't been paying too much attention to all the gossip around town. Head over to the Golden Gecko,
  I'm sure someone there might know a thing or two.
-{425}{}{Eu confesso que nÃ£o estava dando muita atenÃ§Ã£o aos boatos na cidade. VÃ¡ ao Golden Gecko, com certeza 
- alguÃ©m lÃ¡ deve saber uma coisa ou outra.}
+{425}{}{Eu confesso que não estava dando muita atenção aos boatos na cidade. Vá ao Golden Gecko, com certeza 
+ alguém lá deve saber uma coisa ou outra.}
  
 # Cattle rustling, huh? I'll look into this. Let me ask you something else, though.
 {426}{}{Rondando o gado, huh? Vou ver isso. Deixa eu perguntar outra coisa.}
@@ -372,36 +372,36 @@ ou menos uma semana ao sul daqui, mas a maioria dos que vÃ£o para lÃ¡, nunca mai
 {428}{}{Obrigado pela dica. Deixa eu perguntar outra coisa.}
 
 # Thanks for finding my brother, Torr. Ma and I were so worried. What can I do for you?
-{430}{}{Obrigado por encontrar meu irmÃ£o. MamÃ£e e eu estavamos preocupadas. O que posso fazer por vocÃª?}
+{430}{}{Obrigado por encontrar meu irmão. Mamãe e eu estavamos preocupadas. O que posso fazer por você?}
 
 # Thanks again for finding Torr. What can I do for you?
-{431}{}{Obrigado de novo por encontrar o Torr. O que posso fazer com vocÃª?}
+{431}{}{Obrigado de novo por encontrar o Torr. O que posso fazer com você?}
  
 # I was happy to help Torr.
 {432}{}{Eu fico feliz em ajudar o Torr.}
 
 # Happy to find Torr, but I don't think I need anything right now. Goodbye.
-{433}{}{Fico feliz por encontrar o Torr, mas acho que nÃ£o preciso de nada agora. Adeus.}
+{433}{}{Fico feliz por encontrar o Torr, mas acho que não preciso de nada agora. Adeus.}
 
 # Happy to help you out. Maybe you could do me a favor and free Sulik in return for my finding
  your brother?
-{434}{}{Fico feliz em ajudar. VocÃª poderia me fazer um favor e libertar o Sulik em troca de eu ter
-achado seu irmÃ£o?)}
+{434}{}{Fico feliz em ajudar. Você poderia me fazer um favor e libertar o Sulik em troca de eu ter
+achado seu irmão?)}
 
 # Have you seen my brother Torr anywhere? He lost some more brahmin and ma yelled at him. He must
  have run off after that.
-{440}{}{VocÃª viu meu irmÃ£o Torr em algum lugar? Ele perdeu mais alguns brahmin e mamÃ£e brigou com ele.
+{440}{}{Você viu meu irmão Torr em algum lugar? Ele perdeu mais alguns brahmin e mamãe brigou com ele.
  Ele deve ter fugido por isso.}
  
 # Uh-oh, where do you think he might have gone?
-{441}{}{Vish, pra onde vocÃª acha que ele foi?}
+{441}{}{Vish, pra onde você acha que ele foi?}
 
 # I'm sorry to hear that, but I need information about something else.
-{442}{}{Sinto muito por vocÃª, mas eu preciso de informaÃ§Ãµes sobre uma outra coisa.}
+{442}{}{Sinto muito por você, mas eu preciso de informações sobre uma outra coisa.}
 
 # I don't know where he went for certain, but I think that he might have run off to that canyon
  he was always talking about.
-{450}{}{Eu nÃ£o tenho certeza, mas acho que ele fugiu para o desfiladeiro que ele vive falando.}
+{450}{}{Eu não tenho certeza, mas acho que ele fugiu para o desfiladeiro que ele vive falando.}
 
 # A canyon? What canyon?
 {451}{}{Um desfiladeiro? Qual desfiladeiro?}
@@ -410,53 +410,53 @@ achado seu irmÃ£o?)}
  stories about bugmen coming from there. He said that it was bugmen that mutilated our brahmin. Scared
  himself silly with those fool stories.
 {460}{}{Tem um desfiladeiro logo ao leste de onde pastoreamos os brahmin. O Torr sempre me vinha com 
- histÃ³rias estranhas sobre homens-inseto que viviam por lÃ¡. Ele disse que os homens-inseto que mutilavam
- nossos brahmin. Ele morria de medo dessas histÃ³rias.}
+ histórias estranhas sobre homens-inseto que viviam por lá. Ele disse que os homens-inseto que mutilavam
+ nossos brahmin. Ele morria de medo dessas histórias.}
  
 # Sounds as though it would scare just about anybody.
 {461}{}{Parece que assustariam qualquer um.}
 
 # I think he might have taken off to the canyon to prove his bravery or something. I sure hope
  someone can find him before he hurts himself.
-{470}{}{Talvez ele tenha ido atÃ© o desfiladeiro para provar sua coragem ou algo assim. Eu espero 
- que alguÃ©m possa encontrÃ¡-lo antes que ele se machuque.}
+{470}{}{Talvez ele tenha ido até o desfiladeiro para provar sua coragem ou algo assim. Eu espero 
+ que alguém possa encontrá-lo antes que ele se machuque.}
  
 # Maybe I should try to find him.
-{471}{}{Eu posso tentar encontrÃ¡-lo.}
+{471}{}{Eu posso tentar encontrá-lo.}
 
 # I'm really sorry you can't find him. I'm sure he's fine. I need some information.
-{472}{}{Eu sinto muito por vocÃª nÃ£o conseguir encontrÃ¡-lo. Tenho certeza de que ele esta bem. Eu preciso de uma informaÃ§Ã£o.}
+{472}{}{Eu sinto muito por você não conseguir encontrá-lo. Tenho certeza de que ele esta bem. Eu preciso de uma informação.}
 
 # Who knows where your idiot brother went to -- and who cares? I need some information.
-{473}{}{Quem liga para onde seu irmÃ£o idiota foi? Eu preciso de uma informaÃ§Ã£o.}
+{473}{}{Quem liga para onde seu irmão idiota foi? Eu preciso de uma informação.}
 
 # I'd be so grateful if you could find my brother for mom and me.
-{480}{}{Eu ficaria muito grata se vocÃª encontrar meu irmÃ£o para mamÃ£e e eu.}
+{480}{}{Eu ficaria muito grata se você encontrar meu irmão para mamãe e eu.}
 
 # I'd be happy to look for him.
-{481}{}{Eu ficaria feliz em procurÃ¡-lo.}
+{481}{}{Eu ficaria feliz em procurá-lo.}
 
 # I'm sorry, but I don't think I really have time for that right now. Goodbye.
 {482}{}{Me desculpe, mas estou sem tempo agora. Adeus.}
 
 # Thanks so much. I take back all those things I said about tribals. Please find my brother for
  me.
-{500}{}{Valeu mesmo. Eu retiro tudo que disse sobre os Ã­ndigenas. Por favor, encontre meu irmÃ£o.}
+{500}{}{Valeu mesmo. Eu retiro tudo que disse sobre os índigenas. Por favor, encontre meu irmão.}
 
 # I will; you can count on me.
-{501}{}{Eu vou encontrÃ¡-lo; pode contar com isso.}
+{501}{}{Eu vou encontrá-lo; pode contar com isso.}
 
 # Have you found my brother yet? I sure hope he's alright.
-{510}{}{JÃ¡ achou meu irmÃ£o? Eu espero que ele esteja bem.}
+{510}{}{Já achou meu irmão? Eu espero que ele esteja bem.}
 
 # No, not yet. I got some other questions though.
-{511}{}{Ainda nÃ£o. Mas tenho outras perguntas para fazer.}
+{511}{}{Ainda não. Mas tenho outras perguntas para fazer.}
 
 # Not yet, I am still looking.
-{512}{}{Ainda nÃ£o, mas estou procurando.}
+{512}{}{Ainda não, mas estou procurando.}
 
 # You want a drink? That'll be $5 for a glass of Buckner's Best Brew.
-{520}{}{VocÃª quer uma bebida? SÃ£o $5 cada copo da Buckner's Best Brew.}
+{520}{}{Você quer uma bebida? São $5 cada copo da Buckner's Best Brew.}
 
 # I'd love a nice beer. Fill 'er up.
 {521}{}{Eu adoraria uma boa cerveja. Enche o copo.}
@@ -468,41 +468,41 @@ achado seu irmÃ£o?)}
 {523}{}{ de Arroyo.}
 
 # I don't think I need a beer after all. Maybe just some information will do.
-{524}{}{Acho que nÃ£o preciso de uma cerveja. Mas talvez precise de uma informaÃ§Ã£o.}
+{524}{}{Acho que não preciso de uma cerveja. Mas talvez precise de uma informação.}
 
 # A round for everyone. My, my - aren't you a generous one? That'll be $30.
-{530}{}{Uma rodada para todo mundo. Meu Deus - vocÃª Ã© generoso hein? SÃ£o $30.}
+{530}{}{Uma rodada para todo mundo. Meu Deus - você é generoso hein? São $30.}
 
 # Have one on me, folks. Now, how about some information as well?
-{531}{}{Bebam por minha conta, amigos. Agora, que tal algumas informaÃ§Ãµes para acompanhar?}
+{531}{}{Bebam por minha conta, amigos. Agora, que tal algumas informações para acompanhar?}
 
 # I guess I'd rather just have a drink for myself after all.
 {532}{}{Acho que vou pedir uma bebida para mim.}
 
 # I think maybe I'll just settle for some information for now.
-{533}{}{Acho que sÃ³ umas informaÃ§Ãµes servem por agora.}
+{533}{}{Acho que só umas informações servem por agora.}
 
 # Looks as though you don't have enough money for that. 
-{540}{}{Parece que vocÃª nÃ£o tem como pagar tudo isso.}
+{540}{}{Parece que você não tem como pagar tudo isso.}
 
 # Uh, well, I guess I'll settle for some information then.
-{541}{}{Uh, bem, acho que ficarei satisfeito sÃ³ com algumas informaÃ§Ãµes entÃ£o.}
+{541}{}{Uh, bem, acho que ficarei satisfeito só com algumas informações então.}
 
 # Oh, maybe I'll come back when I have more. Goodbye.
 {542}{}{Oh, talvez eu volte quando eu tiver mais. Adeus.}
 
 # I'll sure be glad to have that damn (sob) tribal (sob) away (sob, sob) from
  here. (sob)
-{550}{}{Eu vou ficar feliz em me livrar desse (soluÃ§a) maldito (soluÃ§a) Ã­ndio (soluÃ§a, soluÃ§a). (chora)}
+{550}{}{Eu vou ficar feliz em me livrar desse (soluça) maldito (soluça) índio (soluça, soluça). (chora)}
 
 # [MORE]
 {600}{}{[MAIS]}
 
 # I found out what's been happening to your brahmin.
-{700}{}{Eu descobri o que estÃ¡ acontecendo com seus brahmin.}
+{700}{}{Eu descobri o que está acontecendo com seus brahmin.}
 
 # You have? That's great, but mom's the one you'll want to talk to about that.
-{701}{}{Tem certeza? Isso Ã© Ã³timo, conte para minha mÃ£e o que descobriu.}
+{701}{}{Tem certeza? Isso é ótimo, conte para minha mãe o que descobriu.}
 
 # Sure, I'll go talk to her then.
 {702}{}{Ok, vou falar para ela.}
@@ -511,7 +511,7 @@ achado seu irmÃ£o?)}
 {710}{}{Sobre quem anda rondando o gado? Alguma pista?}
 
 # Not really. I'm not even sure if there's a connection between this and the brahmin mutilations.
-{711}{}{Nenhuma. Nem tenho certeza se existe alguma conexÃ£o entre isso e as mutilaÃ§Ãµes de brahmin.}
+{711}{}{Nenhuma. Nem tenho certeza se existe alguma conexão entre isso e as mutilações de brahmin.}
 
 # Interesting. Any other local news I should know about?
-{712}{}{Interessante. Alguma outra notÃ­cia local que eu devo saber?}
+{712}{}{Interessante. Alguma outra notícia local que eu devo saber?}

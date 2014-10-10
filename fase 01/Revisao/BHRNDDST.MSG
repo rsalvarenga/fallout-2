@@ -2,276 +2,276 @@
 
 # Brok Encounter Table
 #You encounter rogues and wolves.
-{100}{}{VocÃª encontrou alguns bandidos e lobos.}
+{100}{}{Você encontrou alguns bandidos e lobos.}
 #You encounter rogues.
-{101}{}{VocÃª encontrou alguns bandidos.}
-{102}{}{VocÃª encontrou alguns lobos.} # You encounter wolves.
+{101}{}{Você encontrou alguns bandidos.}
+{102}{}{Você encontrou alguns lobos.} # You encounter wolves.
 #You encounter radscorpions.
-{103}{}{VocÃª encontrou alguns radscorpions.}
+{103}{}{Você encontrou alguns radscorpions.}
 #You encounter spore plants.
-{104}{}{VocÃª encontrou algumas spore plants.}
+{104}{}{Você encontrou algumas spore plants.}
 #You encounter a Unity Patrol fighting rogues.
-{105}{}{VocÃª encontrou uma Unidade de Patrulha lutando com bandidos.}
+{105}{}{Você encontrou uma Unidade de Patrulha lutando com bandidos.}
 #You encounter a Unity Patrol fighting wolves.
-{106}{}{VocÃª encontrou uma Unidade de Patrulha lutando com lobos.}
+{106}{}{Você encontrou uma Unidade de Patrulha lutando com lobos.}
 #You encounter a Unity Patrol.
-{107}{}{VocÃª encontrou uma Unidade de Patrulha}
+{107}{}{Você encontrou uma Unidade de Patrulha}
 
 # VPat Encounter Table
 #You encounter slavers and dogs.
-{150}{}{VocÃª encontrou alguns slavers e cÃ£es.}
+{150}{}{Você encontrou alguns slavers e cães.}
 #You encounter slavers.
-{151}{}{VocÃª encontrou alguns slavers.}
+{151}{}{Você encontrou alguns slavers.}
 #You encounter golden geckos.
-{152}{}{VocÃª encontrou alguns geckos dourados.}
+{152}{}{Você encontrou alguns geckos dourados.}
 #You encounter wild dogs.
-{153}{}{VocÃª encontrou alguns cÃ£es selvagens.}
+{153}{}{Você encontrou alguns cães selvagens.}
 #You encounter a patrol and dogs fighting slavers.
-{154}{}{VocÃª encontrou uma patrulha e cÃ£es lutando com slavers.}
+{154}{}{Você encontrou uma patrulha e cães lutando com slavers.}
 #You encounter slavers fighting golden geckos.
-{155}{}{VocÃª encontrou slavers lutando geckos dourados.}
+{155}{}{Você encontrou slavers lutando geckos dourados.}
 #You encounter a patrol fighting slavers.
-{156}{}{VocÃª encontrou uma patrulha lutando com escravistas.}
+{156}{}{Você encontrou uma patrulha lutando com escravistas.}
 #You encounter a patrol fighting golden geckos.
-{157}{}{VocÃª encontrou uma patrulha lutando com geckos dourados.}
+{157}{}{Você encontrou uma patrulha lutando com geckos dourados.}
 #You encounter a patrol fighting wild dogs.
-{158}{}{VocÃª encontrou uma patrulha lutando com cÃ£es selvagens.}
+{158}{}{Você encontrou uma patrulha lutando com cães selvagens.}
 #You encounter a patrol.
-{159}{}{VocÃª encontrou uma patrulha.}
+{159}{}{Você encontrou uma patrulha.}
 
 # RDRC Encounter Table
 #You are ambushed by raiders.
-{200}{}{VocÃª foi emboscado por raiders}
+{200}{}{Você foi emboscado por raiders}
 #You encounter wolves.
-{201}{}{VocÃª encontrou lobos.}
+{201}{}{Você encontrou lobos.}
 #You encounter a caravan fending off raiders.
-{202}{}{VocÃª encontrou uma caravana enfrentando alguns raiders.}
+{202}{}{Você encontrou uma caravana enfrentando alguns raiders.}
 #You encounter a caravan fending off raiders.
-{203}{}{VocÃª encontrou uma caravana enfrentando alguns raiders.}
+{203}{}{Você encontrou uma caravana enfrentando alguns raiders.}
 #You encounter a caravan fending off raiders.
-{204}{}{VocÃª encontrou uma caravana enfrentando alguns raiders.}
+{204}{}{Você encontrou uma caravana enfrentando alguns raiders.}
 #You encounter a caravan fending off raiders.
-{205}{}{VocÃª encontrou uma caravana enfrentando alguns raiders.}
+{205}{}{Você encontrou uma caravana enfrentando alguns raiders.}
 #You encounter a caravan.
-{206}{}{VocÃª encontrou uma caravana.}
+{206}{}{Você encontrou uma caravana.}
 #You encounter a caravan.
-{207}{}{VocÃª encontrou uma caravana.}
+{207}{}{Você encontrou uma caravana.}
 #You encounter a caravan.
-{208}{}{VocÃª encontrou uma caravana.}
+{208}{}{Você encontrou uma caravana.}
 #You encounter a caravan.
-{209}{}{VocÃª encontrou uma caravana.}
+{209}{}{Você encontrou uma caravana.}
 
 # VNNB Encounter Table
 #You encounter marauders.
-{250}{}{VocÃª encontrou alguns saqueadores.}
+{250}{}{Você encontrou alguns saqueadores.}
 #You encounter wolves.
-{251}{}{VocÃª encontrou alguns lobos.}
+{251}{}{Você encontrou alguns lobos.}
 #You encounter radscorpions.
-{252}{}{VocÃª encontrou alguns radscorpions.}
+{252}{}{Você encontrou alguns radscorpions.}
 #You encounter a caravan fending off marauders.
-{253}{}{VocÃª encontrou uma caravana enfrentando alguns saqueadores.}
+{253}{}{Você encontrou uma caravana enfrentando alguns saqueadores.}
 #You encounter a caravan fending off marauders.
-{254}{}{VocÃª encontrou uma caravana enfrentando alguns saqueadores.}
+{254}{}{Você encontrou uma caravana enfrentando alguns saqueadores.}
 #You encounter a caravan fending off wolves.
-{255}{}{VocÃª encontrou uma caravana enfrentando alguns lobos.}
-{256}{}{VocÃª encontrou uma caravana enfrentando alguns radscorpions.}
+{255}{}{Você encontrou uma caravana enfrentando alguns lobos.}
+{256}{}{Você encontrou uma caravana enfrentando alguns radscorpions.}
 #You encounter a caravan.
-{257}{}{VocÃª encontrou uma caravana.}
+{257}{}{Você encontrou uma caravana.}
 #You encounter a caravan.
-{258}{}{VocÃª encontrou uma caravana.}
+{258}{}{Você encontrou uma caravana.}
 #You encounter a caravan.
-{259}{}{VocÃª encontrou uma caravana.}
+{259}{}{Você encontrou uma caravana.}
 #You encounter a caravan.
-{260}{}{VocÃª encontrou uma caravana.}
+{260}{}{Você encontrou uma caravana.}
 #You encounter a traveler.
-{261}{}{VocÃª encontrou um viajante.}
+{261}{}{Você encontrou um viajante.}
 
 # NCR Encounter Table
 #You encounter remnants of the Master's army.
-{300}{}{VocÃª encontrou alguns sobreviventes do antigo exÃ©rcito do Master.}
+{300}{}{Você encontrou alguns sobreviventes do antigo exército do Master.}
 #You encounter marauders.
-{301}{}{VocÃª encontrou saqueadores.}
+{301}{}{Você encontrou saqueadores.}
 #You encounter NCR Rangers battling remnants of the Master's army.
-{302}{}{VocÃª encontrou alguns Rangers da NCR enfrentando sobreviventes do exÃ©rcito do Master.}
-{303}{}{VocÃª encontrou alguns Rangers da NCR lutando contra saqueadores.}
-{304}{}{VocÃª encontrou alguns fazendeiros enfrentando sobreviventes do exÃ©rcito do Master.}
-{305}{}{VocÃª encontrou alguns fazendeiros enfrentando saqueadores.}
-{306}{}{VocÃª encontrou alguns Rangers da NCR.}
+{302}{}{Você encontrou alguns Rangers da NCR enfrentando sobreviventes do exército do Master.}
+{303}{}{Você encontrou alguns Rangers da NCR lutando contra saqueadores.}
+{304}{}{Você encontrou alguns fazendeiros enfrentando sobreviventes do exército do Master.}
+{305}{}{Você encontrou alguns fazendeiros enfrentando saqueadores.}
+{306}{}{Você encontrou alguns Rangers da NCR.}
 #You encounter farmers.
-{307}{}{VocÃª encontrou alguns fazendeiros.}
+{307}{}{Você encontrou alguns fazendeiros.}
 
 # DNRV Encounter Table
 #You encounter a slaver caravan.
-{350}{}{VocÃª encontrou uma caravana de Slavers.}
+{350}{}{Você encontrou uma caravana de Slavers.}
 #You encounter highwaymen and robbers.
-{351}{}{VocÃª encontrou alguns assaltantes e ladrÃµes.}
+{351}{}{Você encontrou alguns assaltantes e ladrões.}
 #You encounter highwaymen.
-{352}{}{VocÃª encontrou alguns assaltantes}
+{352}{}{Você encontrou alguns assaltantes}
 #You encounter robbers.
-{353}{}{VocÃª encontrou alguns ladrÃµes.}
+{353}{}{Você encontrou alguns ladrões.}
 #You encounter a caravan fending off highwaymen.
-{354}{}{VocÃª encontrou uma caravana enfrentando alguns assaltantes.)
+{354}{}{Você encontrou uma caravana enfrentando alguns assaltantes.)
 #You encounter a caravan fighting robbers.
-{355}{}{VocÃª encontrou uma caravana enfrentando alguns ladrÃµes.}
+{355}{}{Você encontrou uma caravana enfrentando alguns ladrões.}
 #You encounter a caravan fighting highwaymen.
-{356}{}{VocÃª encontrou uma caravana enfrentando alguns assaltantes.}
+{356}{}{Você encontrou uma caravana enfrentando alguns assaltantes.}
 #You encounter a caravan besieged by robbers.
-{357}{}{VocÃª encontrou uma caravana enfrentando alguns ladrÃµes.}
+{357}{}{Você encontrou uma caravana enfrentando alguns ladrões.}
 #You encounter a slave caravan fighting a caravan.
-{358}{}{VocÃª encontrou uma caravana de slavers enfrentando uma caravana.}
+{358}{}{Você encontrou uma caravana de slavers enfrentando uma caravana.}
 #You encounter highwaymen fighting robbers.
-{359}{}{VocÃª encontrou alguns assaltantes lutando com ladrÃµes.}
-{360}{}{VocÃª encontrou uma caravana.}
-{361}{}{VocÃª encontrou uma caravana.}
+{359}{}{Você encontrou alguns assaltantes lutando com ladrões.}
+{360}{}{Você encontrou uma caravana.}
+{361}{}{Você encontrou uma caravana.}
 
 # DMRV Encounter Table
 #You encounter highwaymen.
-{400}{}{VocÃª encontrou alguns assaltantes.}
+{400}{}{Você encontrou alguns assaltantes.}
 #You encounter robbers.
-{401}{}{VocÃª encontrou alguns ladrÃµes.}
+{401}{}{Você encontrou alguns ladrões.}
 #You encounter robbers and highwaymen.
-{402}{}{VocÃª encontrou alguns ladrÃµes e assaltantes.}
+{402}{}{Você encontrou alguns ladrões e assaltantes.}
 #You encounter golden geckos and radscorpions.
-{403}{}{VocÃª encontrou alguns geckos dourados e radscorpions.}
+{403}{}{Você encontrou alguns geckos dourados e radscorpions.}
 #You encounter golden geckos.
-{404}{}{VocÃª encontrou alguns geckos dourados.}
+{404}{}{Você encontrou alguns geckos dourados.}
 #You encounter mole rats and pig rats.
-{405}{}{VocÃª encontrou alguns mole rats e pig rats.}
+{405}{}{Você encontrou alguns mole rats e pig rats.}
 #You encounter radscorpions.
-{406}{}{VocÃª encontrou alguns radscorpions.}
+{406}{}{Você encontrou alguns radscorpions.}
 You encounter spore plants.
-{407}{}{VocÃª encontrou algumas spore plants.}
+{407}{}{Você encontrou algumas spore plants.}
 #You encounter robbers fighting highwaymen.
-{408}{}{VocÃª encontrou alguns ladrÃµes lutando com assaltantes.}
+{408}{}{Você encontrou alguns ladrões lutando com assaltantes.}
 #You encounter a caravan fending off highwaymen.
-{409}{}{VocÃª encontrou uma caravana enfrentando alguns assaltantes.}
+{409}{}{Você encontrou uma caravana enfrentando alguns assaltantes.}
 #You encounter a caravan fending off robbers.
-{410}{}{VocÃª encontrou uma caravana enfrentando alguns ladrÃµes.}
+{410}{}{Você encontrou uma caravana enfrentando alguns ladrões.}
 #You encounter a caravan fending off radscorpions.
-{411}{}{VocÃª encontrou uma caravana enfrentando alguns radscorpions.}
+{411}{}{Você encontrou uma caravana enfrentando alguns radscorpions.}
 #You encounter geckos fighting radscorpions.
-{412}{}{VocÃª encontrou geckos lutando contra radscorpions.}
-{413}{}{VocÃª encontrou uma caravana.}
+{412}{}{Você encontrou geckos lutando contra radscorpions.}
+{413}{}{Você encontrou uma caravana.}
 
 # Band Encounter Table
 #You encounter highwaymen and robbers.
-{450}{}{VocÃª encontrou alguns assaltantes e ladrÃµes.}
+{450}{}{Você encontrou alguns assaltantes e ladrões.}
 #You encounter highwaymen and geckos.
-{451}{}{VocÃª encontrou alguns assaltantes e geckos.}
+{451}{}{Você encontrou alguns assaltantes e geckos.}
 #You encounter golden geckos.
-{452}{}{VocÃª encontrou alguns geckos dourados.}
+{452}{}{Você encontrou alguns geckos dourados.}
 #You encounter radscorpions and spore plants.
-{453}{}{VocÃª encontrou alguns radscorpions e spore plants.}
+{453}{}{Você encontrou alguns radscorpions e spore plants.}
 #You encounter robbers fighting radscorpions.
-{454}{}{VocÃª encontrou alguns ladrÃµes lutando contra radscorpions.}
+{454}{}{Você encontrou alguns ladrões lutando contra radscorpions.}
 #You encounter radscorpions fighting robbers.
-{455}{}{VocÃª encontrou alguns radscorpions lutando contra ladrÃµes.}
+{455}{}{Você encontrou alguns radscorpions lutando contra ladrões.}
 #You encounter a caravan fending off highwaymen.
-{456}{}{VocÃª encontrou uma caravana enfrentando alguns assaltantes.}
+{456}{}{Você encontrou uma caravana enfrentando alguns assaltantes.}
 #You encounter a caravan fending off robbers.
-{457}{}{VocÃª encontrou uma caravana enfrentando alguns ladrÃµes.}
+{457}{}{Você encontrou uma caravana enfrentando alguns ladrões.}
 #You encounter some highwaymen weeding out some spore plants.
-{458}{}{VocÃª encontrou alguns assaltantes enfrentando algumas spore plants.}
-{459}{}{VocÃª encontrou uma caravana.}
+{458}{}{Você encontrou alguns assaltantes enfrentando algumas spore plants.}
+{459}{}{Você encontrou uma caravana.}
 
 # DVMV Encounter Table
 #You encounter highwaymen and wild dogs.
-{500}{}{VocÃª encontrou alguns assaltantes e cÃ£es selvagens.}
+{500}{}{Você encontrou alguns assaltantes e cães selvagens.}
 #You encounter robbers and wild dogs.
-{501}{}{VocÃª encontrou alguns ladrÃµes e cÃ£es selvagens.}
+{501}{}{Você encontrou alguns ladrões e cães selvagens.}
 #You encounter robbers.
-{502}{}{VocÃª encontrou alguns ladrÃµes.}
+{502}{}{Você encontrou alguns ladrões.}
 #You encounter highwaymen.
-{503}{}{VocÃª encontrou alguns assaltantes.}
-{504}{}{VocÃª encontrou um bando de mantis e algumas spore plants.}
-{505}{}{VocÃª encontrou alguns cÃ£es e spore plants.}
-{506}{}{VocÃª encontrou um bando de mantis.}
-{507}{}{VoCÃª encontrou alguns cÃ£es selvagens.}
-{508}{}{VocÃª encontrou alguns ladrÃµes lutando com cÃ£es.}
-{509}{}{VocÃª encontrou uma caravana enfrentando alguns cÃ£es selvagens.}
-{510}{}{VocÃª encontrou uma caravana enfrentando alguns ladrÃµes}
-{511}{}{VocÃª encontrou uma caravana enfrentando alguns assaltantes.}
-{512}{}{VocÃª encontrou uma caravana.}
+{503}{}{Você encontrou alguns assaltantes.}
+{504}{}{Você encontrou um bando de mantis e algumas spore plants.}
+{505}{}{Você encontrou alguns cães e spore plants.}
+{506}{}{Você encontrou um bando de mantis.}
+{507}{}{VoCê encontrou alguns cães selvagens.}
+{508}{}{Você encontrou alguns ladrões lutando com cães.}
+{509}{}{Você encontrou uma caravana enfrentando alguns cães selvagens.}
+{510}{}{Você encontrou uma caravana enfrentando alguns ladrões}
+{511}{}{Você encontrou uma caravana enfrentando alguns assaltantes.}
+{512}{}{Você encontrou uma caravana.}
 
 # Red Encounter Table
 #You encounter geckos and wolves.
-{550}{}{VocÃª encontrou alguns geckos e lobos.}
+{550}{}{Você encontrou alguns geckos e lobos.}
 #You encounter claim jumpers.
-{551}{}{VocÃª encontrou alguns golpistas.}
+{551}{}{Você encontrou alguns golpistas.}
 #You encounter wolves.
-{552}{}{VocÃª encontrou alguns lobos.}
+{552}{}{Você encontrou alguns lobos.}
 #You encounter golden geckos.
-{553}{}{VocÃª encontrou alguns geckos dourados.}
-{554}{}{VocÃª encontrou alguns garimpeiros enfrentando golpistas.} # prospectors
-{555}{}{VocÃª encontrou alguns trappers caÃ§ando geckos.}
-{556}{}{VocÃª encontrou alguns contrabantistas enfrentando lobos.}
-{557}{}{VocÃª encontrou alguns sem terra lutando com golpistas.}
-{558}{}{VocÃª encontrou alguns sem terra lutando com lobos}
+{553}{}{Você encontrou alguns geckos dourados.}
+{554}{}{Você encontrou alguns garimpeiros enfrentando golpistas.} # prospectors
+{555}{}{Você encontrou alguns trappers caçando geckos.}
+{556}{}{Você encontrou alguns contrabantistas enfrentando lobos.}
+{557}{}{Você encontrou alguns sem terra lutando com golpistas.}
+{558}{}{Você encontrou alguns sem terra lutando com lobos}
 #You encounter bootleggers.
-{559}{}{VocÃª encontrou alguns contrabandistas.}
+{559}{}{Você encontrou alguns contrabandistas.}
 #You encounter trappers.
-{560}{}{VocÃª encontrou alguns trappers.}
+{560}{}{Você encontrou alguns trappers.}
 #You encounter prospectors.
-{561}{}{VocÃª encontrou alguns garimpeiros.}
+{561}{}{Você encontrou alguns garimpeiros.}
 
 # SRNRRN Encounter Table
 #You encounter deathclaws.
-{600}{}{VocÃª encontrou alguns deathclaws.}
+{600}{}{Você encontrou alguns deathclaws.}
 #You encounter fire geckos.
-{601}{}{VocÃª encontrou alguns geckos de fogo.}
+{601}{}{Você encontrou alguns geckos de fogo.}
 #You encounter a caravan fleeing from deathclaws.
-{602}{}{VocÃª encontrou uma caravana fugindo de deathclaws.}
+{602}{}{Você encontrou uma caravana fugindo de deathclaws.}
 #You encounter a caravan fighting deathclaws.
-{603}{}{VocÃª encontrou uma caravana enfrentando alguns deathclaws.}
+{603}{}{Você encontrou uma caravana enfrentando alguns deathclaws.}
 #You encounter a caravan fighting fire geckos.
-{604}{}{VocÃª encontrou uma caravana enfrentando geckos de fogo.}
+{604}{}{Você encontrou uma caravana enfrentando geckos de fogo.}
 #You encounter a caravan fighting fire geckos.
-{605}{}{VocÃª encontrou uma caravana enfrentando geckos de fogo.}
-{606}{}{VocÃª encontrou uma caravana.}
-{607}{}{VocÃª encontrou uma caravana.}
-{608}{}{VocÃª encontrou uma caravana.}
-{609}{}{VocÃª encontrou uma caravana.}
+{605}{}{Você encontrou uma caravana enfrentando geckos de fogo.}
+{606}{}{Você encontrou uma caravana.}
+{607}{}{Você encontrou uma caravana.}
+{608}{}{Você encontrou uma caravana.}
+{609}{}{Você encontrou uma caravana.}
 
 # EPA Encounter Table
 #You encounter aliens and deathclaws.
-{650}{}{VocÃª encontrou alguns aliens e deathclaws.}
+{650}{}{Você encontrou alguns aliens e deathclaws.}
 #You encounter centaurs and floaters.
-{651}{}{VocÃª encontrou alguns centaurs e floaters.}
+{651}{}{Você encontrou alguns centaurs e floaters.}
 #You encounter fire geckos.
-{652}{}{VocÃª encontrou alguns geckos de fogo.}
+{652}{}{Você encontrou alguns geckos de fogo.}
 #You encounter aliens.
-{653}{}{VocÃª encontrou alguns aliens.}
+{653}{}{Você encontrou alguns aliens.}
 #You encounter deathclaws.
-{654}{}{VocÃª encontrou alguns deathclaws.}
+{654}{}{Você encontrou alguns deathclaws.}
 #You encounter fire geckos.
-{655}{}{VocÃª encontrou alguns geckos de fogo.}
+{655}{}{Você encontrou alguns geckos de fogo.}
 #You encounter aliens.
-{656}{}{VocÃª encontrou alguns aliens.}
+{656}{}{Você encontrou alguns aliens.}
 #You encounter centaurs.
-{657}{}{VocÃª encontrou alguns centaurs.}
+{657}{}{Você encontrou alguns centaurs.}
 #You encounter floaters.
-{658}{}{VocÃª encontrou alguns floaters.}
+{658}{}{Você encontrou alguns floaters.}
 
 # New Encounter Table
 #You encounter some Yakuza.
-{700}{}{VocÃª encontrou alguns membros da Yakuza.}
+{700}{}{Você encontrou alguns membros da Yakuza.}
 #You encounter a gang.
-{701}{}{VocÃª encontrou uma gangue.}
+{701}{}{Você encontrou uma gangue.}
 #You encounter some wolves.
-{702}{}{VocÃª encontrou alguns lobos}
+{702}{}{Você encontrou alguns lobos}
 #You encounter some mobsters fighting some Yakuza.
-{703}{}{VocÃª encontrou alguns mafiosos lutando com membros da Yakuza.}
+{703}{}{Você encontrou alguns mafiosos lutando com membros da Yakuza.}
 #You encounter some mobsters fighting a gang.
-{704}{}{VocÃª encontrou alguns mafiosos lutando com uma gangue.}
+{704}{}{Você encontrou alguns mafiosos lutando com uma gangue.}
 #You encounter some mobsters.
-{705}{}{VocÃª encontrou alguns mafiosos.}
+{705}{}{Você encontrou alguns mafiosos.}
 #You encounter a traveler.
-{706}{}{VocÃª encontrou um viajante.}
+{706}{}{Você encontrou um viajante.}
 
 # NRNR Encounter Table
-{750}{}{VocÃª encontra uma caravana e alguns sobreviventes do exÃ©rcito do Mestre.}
-{751}{}{VocÃª encontrar um caravana enfrentando sobreviventes do exÃ©rcito do mestre.}
-{752}{}{VocÃª encontrou uma caravana enfrentando alguns deathclaws.}
-{753}{}{VocÃª encontrou uma caravana.}
-{754}{}{VocÃª encontrou uma caravana.}
-{755}{}{VocÃª encontrou uma caravana.}
+{750}{}{Você encontra uma caravana e alguns sobreviventes do exército do Mestre.}
+{751}{}{Você encontrar um caravana enfrentando sobreviventes do exército do mestre.}
+{752}{}{Você encontrou uma caravana enfrentando alguns deathclaws.}
+{753}{}{Você encontrou uma caravana.}
+{754}{}{Você encontrou uma caravana.}
+{755}{}{Você encontrou uma caravana.}
