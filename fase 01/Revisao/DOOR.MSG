@@ -149,7 +149,7 @@
 # Unlock Door
 {170}{}{Você abre a fechadura da porta com habilidade.}
 {171}{}{Sua falta de habilidade emperrou a fechadura da porta.}
-{172}{}{Não, você consegue abrir a fechadura da porta.}
+{172}{}{Você não consegue abrir a fechadura da porta.}
 
 # Lock Door
 {189}{}{Você abre a porta com habilidade.}

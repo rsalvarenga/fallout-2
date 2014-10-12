@@ -1,0 +1,24 @@
+#You see a child shouting corny slogans.
+{100}{}{Você vê uma criança gritando palavras de lema brega.}
+#This dirty child appears to be employed to advertise a tourist attraction of some sort.
+{101}{}{Esta criança suja parece ser empregada para anunciar uma atração turística de algum tipo.}
+
+#Hawking floats
+#See the Mysterious Mummy!
+{500}{}{Veja a Múmia Misteriosa!}
+#See the Ancient Wonder!
+{501}{}{Veja a Antiga Maravilha!}
+#A Jan-u-wine Mummy, here now!
+{502}{}{A Múmia Jan-u-wine, aqui e agora!}
+#See the Egyptian Prince!
+{503}{}{Veja o Príncipe Egípcio!}
+#See the Queen of the Nile!
+{504}{}{Veja a Rainha do Nilo!}
+#Enter the Jan-u-wine haunted house!
+{505}{}{Entre na casa mal-assombrada Jan-u-wine!}
+#Mysteries of the Netherworld revealed!
+{506}{}{Mistérios do Netherworld revelado!}
+#Come one, come all!
+{507}{}{Venham, venham todos!}
+#The educational opportunity of a lifetime!
+{508}{}{A oportunidade educacional de uma vida inteira!}
