@@ -1,0 +1,135 @@
+# Este arquivo foi revisado por Noob-Saibot.
+
+#############################################################
+#  Message File: kchild.msg                                 #
+#                                                           #
+#       Body Type: CHILD                                    #
+#       Combat AI: Flee                                     #
+#       Weapons: None                                       #
+#       HP: 20                                              #
+#       Skills to note: None                                #
+#                                                           #
+#  Log:                                                     #
+#                                                           #
+#  Created: January 13, 1998                                #
+#                                                           #
+#  Updated:                                                 #
+#############################################################
+
+#############################################################
+#  The following lines are for describing the NPC when      #
+#  glanced and and examined.                                #
+#############################################################
+
+{100}{}{Você vê uma das crianças de Klamath.} #You see one of Klamath's Children.
+{101}{}{Você vê uma das crianças de Klamath.} #You see one of Klamath's Children.
+
+#############################################################
+#  The following lines are floaters for children            #
+#############################################################
+
+{150}{}{Por favor, não me devore!} #Don't eat me!
+{151}{}{Ecaaa! O monstro catarrento!} #Eeeee! The boogy-monster!
+{152}{}{O papai me disse que você é uma pessoa ruim.} #Daddy says you're a bad person.
+{153}{}{Aieeee! Corra!} #Aieeee! Run away!
+{154}{}{Você tá me assustando.} #You're scaring me.
+{155}{}{Para de olhar para mim.} #Stop looking at me.
+{156}{}{Eu não posso falar com tribais.} #I'm not supposed to talk to tribals.
+{157}{}{Você é igual aos Duntons.} #You're just like the Duntons.
+{158}{}{Minha mãe disse que você vai me comer se eu não me comportar.} #My mom said you'll eat me if I'm bad.
+{159}{}{Eu não tenho medo de você!} #I'm not afraid of you!
+{160}{}{Me ajudeem!} #Help meee!
+{161}{}{Elee es atrás de mim!!!} #It's after me!
+{162}{}{Por favor não me machuque!} #Please don't hurt me!
+{163}{}{Fica longe de mim!} #Stay away from me!
+{164}{}{Ecaaaaaaa!} #Eeeeeeeee!
+{165}{}{Eu te odeio!} #I hate you!
+{166}{}{Mamãe, mamãe, mamãe!} #Mommy, mommy, mommy!
+{167}{}{Me deixa em paz!} #Leave me alone!
+{168}{}{Você fede!} #You stink!
+
+{170}{}{Oi!} #Hello there.
+{171}{}{Quer brincar de casinha?} #Want to play house?
+{172}{}{Vocês realmente atravessam ossos no nariz?} #Do you really poke a bone through your nose?
+{173}{}{Como é que você consegue ter uma cara tão engraçada?} #How come you're so funny looking?
+{174}{}{Minha mãe diz que você vem das cavernas.} #My mom says you're primitive.
+# Aqui eu coloquei desta maneira porque além de achar mais infantil, fica mais "assexuado".
+{175}{}{Sua tribo já parou de comer pessoas?} #Has your tribe stopped eating people?
+{176}{}{Quem te vestiu assim tão engraçacado?} #Who dressed you so funny?
+{177}{}{Eu vou apostar que você é mais legal do que parece.} #I'll bet you're nicer than you look.
+{178}{}{Vamos brincar de pega-pega. Tá com você!} #Let's play tag. You're it.
+{179}{}{Você não cheira tão mal assim.} #You don't smell that bad.
+{180}{}{Você viu meu amigo invisível por aí?} #Have you seen my invisible friend?
+{181}{}{Eu quero viajar pelo mundo quando eu tiver sua idade.} #I want to travel the world when I'm as old as you.
+{182}{}{Você até que é legal, não é igual aos outros tribais.} #You're a nice tribal, not like the others.
+{183}{}{Eu aposto que você até toma banho... de vez em quando.} #I bet you do to bathe.
+{184}{}{Você é mais esperto do que o Torr.} #You're smarter than Torr.
+{185}{}{Essa lâmina que você tem é realmente afiada?} #Is that blade you have really sharp?
+{186}{}{Eu quero ser igual a você quando eu crescer!} #I want to be just like you when I grow up.
+{187}{}{Meu cachorro adora carne seca.} #My dog loves drymeat.
+{188}{}{Eu tenho uma pedra brilhante.} #I've got a shiny pebble.
+{189}{}{Você já viu meu amigo invisível?} #Have you seen my invisible friend?
+
+{190}{}{Posso me juntar à sua tribo?} #Can I join your tribe?
+{191}{}{Você é legal.} #You're nice.
+{192}{}{Você tem um jeito engraçado.} #You look funny.
+{193}{}{O que 'cê tá vestindo?} #Whatcha wearing?
+{194}{}{Eu quero um passeio de brahmin!} #I want a brahmin ride!
+{195}{}{Você é de muito longe?} #Are you from far away?
+{196}{}{Weeee! Ha Ha Ha!}
+{197}{}{Não vai embora!} #Don't leave!
+{198}{}{Você tem alguma comida?} #Do you have some food?
+{199}{}{Eu estou te incomodando?} #Am I bothering you?
+{200}{}{Para onde você está indo?} #Where ya going?
+{201}{}{Posso ir com você?} #Can I come with you?
+{202}{}{Quantos anos você tem?} #How old are you?
+{203}{}{Qual é o seu nome?} #What's your name?
+{204}{}{Você gosta de crianças?} #Do you like kids?
+{205}{}{O que é isso?} #What is that?
+{206}{}{Você quer jogar um jogo?} #Do you wanna play a game?
+{207}{}{O que você está fazendo?} #Whatcha doing?
+{208}{}{Você viu algum inseto por aí?} #Have you seen any bugs?
+{209}{}{Onde você conseguiu isso?} #Where did you get that?
+{210}{}{Posso ficar com isso?} #Can I have that?
+{211}{}{O que você faz?} #What do you do?
+{212}{}{Eu posso correr muito rápido. Quer ver?} #I can run fast. Wanna see?
+{213}{}{Olha para mim! Olha para mim!} #Watch me! Watch me!
+{214}{}{Mamãe diz que eu falo demais.} #Mommy says I talk too much.
+{215}{}{Onde é sua casa?} #Where is your home?
+{216}{}{Heeee! Heeee!}
+{217}{}{Você vai ficar aqui?} #Are you gonna stay here?
+{218}{}{Você tem filhos?} #Do you have kids?
+{219}{}{Por que você veio aqui?} #Why did you come here?
+{220}{}{Eu gosto de você.} #I like you.
+{221}{}{Você gosta de mim?} #Do you like me?
+{222}{}{Você é casado?} #Are you married?
+{223}{}{Um, dois, três - weee!} #One, two, three - weee!
+
+#############################################################
+#  TELL ME ABOUTS WILL BE REMOVED                           #
+#############################################################
+{1000}{}{Anciã}
+{1001}{}{Fundador} #Founder
+{1002}{}{Vault Dweller}
+{1003}{}{Arroyo}
+{1004}{}{Klamath}
+{1005}{}{Vault}
+{1006}{}{O Escolhido} #Chosen One
+{1007}{}{Xamã}
+{1008}{}{Hakunin}
+{1009}{}{Healing Powder}
+{1010}{}{Ponte} #Bridge
+{1011}{}{Mynoc}
+
+{1100}{}{A anciã é a sua mãe e nossa lider.} # The Elder is your mother and our leader
+{1101}{}{Nosso grande ancestral, que nos deu conhecimento.} # Our great ancestor who gave us knowledge.
+{1102}{}{O primeiro a lutar e vencer o caos.} # The first to fight and win over chaos.
+{1103}{}{Essa seria a nossa bela aldeia.} # That would be our beautiful village.
+{1104}{}{É um posto avançado de troca que fica a alguns dias a leste daqui.} # That's trading outpost a few days east of here.
+{1105}{}{O Vault é o céu.} # The Vault is heaven.
+{1106}{}{Você é O Escolhido.} # You are the Chosen One.
+{1107}{}{Ele nos cura com suas ervas e magia. Ele está localizado ao norte da nossa aldeia.} # He heals us with his herbs and magic. He is in the north part of our village.
+{1108}{}{Ele nos cura com suas ervas e magia. Ele está localizado ao norte da nossa aldeia.} # He heals us with his herbs and magic. He is in the north part of our village.
+{1109}{}{É um pó mágico que vai curá-lo, mas vai te deixar sonolento.} # It is a magic powder which will heal you, but will make you sleepy.
+{1110}{}{A Grande Ponte fica ao sul de nossa aldeia.} # The Great Bridge exits our village in the south.
+{1111}{}{Ele protege a ponte que dá acesso à nossa aldeia.} # He guards the bridge leading into our village.

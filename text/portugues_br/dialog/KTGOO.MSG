@@ -1,0 +1,33 @@
+#############################################################
+#  Message File: ktgoo.msg                                  #
+#                                                           #
+#  Log:                                                     #
+#                                                           #
+#  Created: March 1, 1998                                   #
+#                                                           #
+#  Updated:                                                 #
+#############################################################
+
+#############################################################
+#  The following lines are for describing the NPC when      #
+#  glanced and and examined.                                #
+#############################################################
+#You see Toxic Goo.
+{100}{}{Você vê uma Gosma Toxica.}
+#You see Toxic Goo.
+{101}{}{Você vê uma Gosma Toxica.}
+
+#############################################################
+#  The following lines are floaters for citizens            #
+#############################################################
+
+#Ouch - that goo burns.
+{110}{}{Ouch - Essa gosma queima.}
+#These old rubber boots sure keep that nasty looking slime out.
+{120}{}{Essas velhas botas de borracha concerteza manterão esse lodo nojento longe.}
+#Your boots just melted.
+{130}{}{Suas botas simplismente derreteram.}
+#Your feet start to burn and itch.
+{140}{}{Seus pés começam a queimar e coçar.}
+#Your feet burn and itch for a little while, but then they feel better.
+{150}{}{Seus pés queimam e coçam por algum tempo, Mas então eles ficam melhores.}
