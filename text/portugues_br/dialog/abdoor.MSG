@@ -1,0 +1,284 @@
+#############################################################
+#  Message File: Door.msg                                   #
+#                                                           #
+#  Note: Characters within curly braces (like line 100)     #
+#        will be read in as a message string. Caution       #
+#        should be used when making comments. All comments  #
+#        should be prepended with a pound symbol for        #
+#        visual ease. This does not comment out the line    #
+#        though.                                            #
+#                                                           #
+#  Purpose: This message file contains the information      #
+#           concerning doors in a locked state, trapped     #
+#           state, locked and trapped state.                #
+#                                                           #
+#  Log: Please note any changes that have been made to this #
+#       file and comment which lines have changed.          #
+#       April 19,1998 nbk: added message line to be used    #
+#                          for doors opened with keys.      #
+#                                                           #
+#  Created: September 26, 1997                              #
+#                                                           #
+#  Updated:                                                 #
+#############################################################
+
+#############################################################
+#  The following lines are for description of the door. The #
+#  first lines, line 100-1, are for the look_at_proc. The   #
+#  remainder until the next block are for description_proc  #
+#  based one skill and perception success.                  #
+#############################################################
+
+# look_at_proc
+{100}{}{Você vê uma porta de madeira.}
+{101}{}{Você vê uma porta de metal.}
+
+# description_proc
+
+# Perception Check Critical Success
+{102}{}{Você vê uma porta robusta com tranca e uma armadilha com explosivos no batente, você pode conseguir arrombar.}
+{103}{}{Você vê uma porta robusta com tranca e uma armadilha com explosivos no batente, você pode conseguir arrombar.}
+{104}{}{Você vê uma porta robusta sem tranca aparente e uma armadilha com explosivos no batente, você pode conseguir arrombar.}
+{105}{}{Você vê uma porta robusta com uma tranca velha e enferrujada e uma armadilha com explosivos no batente, você pode conseguir arrombar.}
+
+{106}{}{Você vê uma porta robusta com tranca e uma armadilha no batente, você pode conseguir arrombar.}
+{107}{}{Você vê uma porta robusta com tranca e uma armadilha no batente, você pode conseguir arrombar.}
+{108}{}{Você vê uma porta robusta sem tranca aparente e uma armadilha no batente, você pode conseguir arrombar.}
+{109}{}{Você vê uma porta robusta com uma tranca velha e enferrujada e uma armadilha no batente, você pode conseguir arrombar.}
+
+{110}{}{Você vê uma porta robusta com tranca e um fio solto no batente, você pode conseguir arrombar.}
+{111}{}{Você vê uma porta robusta com tranca e um fio descascado no batente, você pode conseguir arrombar.}
+{112}{}{Você vê uma porta robusta sem tranca aparente e um fio descascado no batente, você pode conseguir arrombar.}
+{113}{}{Você vê uma porta robusta com uma tranca velha e enferrujada e um fio solto no batente, você pode conseguir arrombar.}
+
+{114}{}{Você vê uma porta robusta com tranca, você pode conseguir arrombar.}
+{115}{}{Você vê uma porta robusta com tranca, você pode conseguir arrombar.}
+{116}{}{Você vê uma porta robusta sem tranca aparente, você pode conseguir arrombar.}
+{117}{}{Você vê uma porta robusta com uma tranca velha e enferrujada, você pode conseguir arrombar.}
+
+# Perception Check Success
+
+{118}{}{Você vê uma porta robusta com tranca e uma armadilha com explosivos no batente.}
+{119}{}{Você vê uma porta robusta com tranca e uma armadilha com explosivos no batente.}
+{120}{}{Você vê uma porta robusta sem tranca aparente e uma armadilha com explosivos no batente.}
+{121}{}{Você vê uma porta robusta com uma tranca velha e enferrujada e uma armadilha com explosivos no batente.}
+
+{122}{}{Você vê uma porta robusta com tranca e uma armadilha no batente.}
+{123}{}{Você vê uma porta robusta com tranca e uma armadilha no batente.}
+{124}{}{Você vê uma porta robusta sem tranca aparente e uma armadilha no batente.}
+{125}{}{Você vê uma porta robusta com uma tranca velha e enferrujada e uma armadilha no batente.}
+
+{126}{}{Você vê uma porta robusta com tranca e um fio solto no batente.}
+{127}{}{Você vê uma porta robusta com tranca e um fio descascado no batente.}
+{128}{}{Você vê uma porta robusta sem tranca aparente e um fio descascado no batente.}
+{129}{}{Você vê uma porta robusta com uma tranca velha e enferrujada e um fio solto no batente.}
+
+{130}{}{Você vê uma porta robusta com tranca .}
+{131}{}{Você vê uma porta robusta com tranca.}
+{132}{}{Você vê uma porta robusta sem tranca aparente.}
+{133}{}{Você vê uma porta robusta com uma tranca velha e enferrujada.}
+
+# Perception Check Critical falhouure
+
+{134}{}{Você vê uma porta danificada com tranca e uma armadilha com explosivos no batente.}
+{135}{}{Você vê uma porta danificada com tranca e uma armadilha com explosivos no batente.}
+{136}{}{Você vê uma porta danificada sem tranca aparente e uma armadilha com explosivos no batente.}
+{137}{}{Você vê uma porta danificada com uma tranca velha e enferrujada e uma armadilha com explosivos no batente.}
+
+{138}{}{Você vê uma porta danificada com tranca e uma armadilha no batente.}
+{139}{}{Você vê uma porta danificada com tranca e uma armadilha no batente.}
+{140}{}{Você vê uma porta danificada sem tranca aparente e uma armadilha no batente.}
+{141}{}{Você vê uma porta danificada com uma tranca velha e enferrujada e uma armadilha no batente.}
+
+{142}{}{Você vê uma porta danificada com tranca e um fio solto no batente.}
+{143}{}{Você vê uma porta danificada com tranca e um fio descascado no batente.}
+{144}{}{Você vê uma porta danificada sem tranca aparente e um fio descascado no batente.}
+{145}{}{Você vê uma porta danificada com uma tranca velha e enferrujada e um fio solto no batente.}
+
+{146}{}{Você vê uma porta danificada com tranca.}
+{147}{}{Você vê uma porta danificada com tranca.}
+{148}{}{Você vê uma porta danificada sem tranca aparente.}
+{149}{}{Você vê uma porta danificada com uma tranca velha e enferrujada.}
+
+# Perception Check falhouure
+
+{150}{}{Você vê uma porta antiga com tranca e uma armadilha com explosivos no batente.}
+{151}{}{Você vê uma porta antiga com tranca e uma armadilha com explosivos no batente.}
+{152}{}{Você vê uma porta antiga sem tranca aparente e uma armadilha com explosivos no batente.}
+{153}{}{Você vê uma porta antiga com uma tranca velha e enferrujada e uma armadilha com explosivos no batente.}
+
+{154}{}{Você vê uma porta antiga com tranca e uma armadilha no batente.}
+{155}{}{Você vê uma porta antiga com tranca e uma armadilha no batente.}
+{156}{}{Você vê uma porta antiga sem tranca aparente e uma armadilha no batente.}
+{157}{}{Você vê uma porta antiga com uma tranca velha e enferrujada e uma armadilha no batente.}
+
+{158}{}{Você vê uma porta antiga com tranca e um fio solto no batente.}
+{159}{}{Você vê uma porta antiga com tranca e um fio descascado no batente.}
+{160}{}{Você vê uma porta antiga sem tranca aparente e um fio descascado no batente.}
+{161}{}{Você vê uma porta antiga com uma tranca velha e enferrujada e um fio solto no batente.}
+
+{162}{}{Você vê uma porta antiga com tranca.}
+{163}{}{Você vê uma porta antiga com tranca.}
+{164}{}{Você vê uma porta antiga sem tranca aparente.}
+{165}{}{Você vê uma porta antiga com uma tranca velha e enferrujada.}
+
+#############################################################
+#  The following lines are for damage done to the player or #
+#  critter who tried to open the door, or falhoued uma armadilhas    #
+#  roll.                                                    #
+#############################################################
+
+# The following sets of lines are to be translated as:
+# Você set off the trap e were hit for [x] pontos de dano.
+# NPC sets of the trap e was hit for [x] pontos de dano.
+
+# Player sets off the trap
+{166}{}{Você ativou a armadilha e foi atingido por }
+{167}{}{ pontos de dano.}
+
+# NPC sets off the trap
+{168}{}{ ativou a armadilha e foi atingido por }
+{169}{}{ pontos de dano.}
+
+#############################################################
+#  The following lines are for when the player uses skills  #
+#  na porta.                                             #
+#############################################################
+
+# Player uses a skill na porta
+# Unlock Door
+{170}{}{Você habilmente arromba a tranca na porta.}
+{171}{}{Sua falta de habilidade emperrou a tranca nessa porta.}
+{172}{}{Você falhou em arrombar a tranca nessa porta.}
+
+# Lock Door
+{189}{}{Você habilmente tranca a porta.}
+{190}{}{Você falhou em trancar a porta.}
+
+# Find Trap na porta
+{194}{}{Você encontrou uma armadilha na porta.}
+{195}{}{Você falhou em encontrar qualquer armadilha na porta.}
+
+# desarmar a armadilha na porta
+{196}{}{Você habilmente desarma a armadilha.}
+{198}{}{Você falhou em desarmar a armadilha.}
+
+# NPC uses a skill na porta
+# The following lines are prepended by the NPC's name
+
+# Unlock Door
+{173}{}{ habilmente arromba a tranca na porta.}
+{174}{}{ em sua falta de habilidade emperrou a tranca nessa porta.}
+{175}{}{ falhou em arrombar a tranca nessa porta.}
+
+# Lock Door
+{191}{}{ habilmente tranca a porta.}
+{192}{}{ falhou em trancar a porta.}
+
+# Find Trap na porta
+{199}{}{ encontrou uma armadilha na porta.}
+{200}{}{ falhou em encontrar qualquer armadilha na porta.}
+
+# desarmar a armadilha na porta
+{201}{}{ habilmente desarma a armadilha.}
+{202}{}{ falhou wm desarmar a armadilha.}
+
+#############################################################
+#  The following lines are for when the player tries to     #
+#  use items na porta que are not lockpicks.           #
+#############################################################
+
+# Player uses an item na porta
+{176}{}{Você estoura a tranca da porta.}
+{177}{}{Você distende suas costas enquanto tenta estourar a tranca e sofre um ponto de dano.}
+
+# The following set of lines is to be translated as:
+# Você distende suas costas enquanto tenta estourar a tranca e
+# take [x] pontos de dano.
+
+{178}{}{Você distende suas costas enquanto tenta estourar a tranca e sofre }
+{179}{}{ pontos de dano.}
+{180}{}{Você é muito fraco para estourar a tranca.}
+
+# NPC uses an item na porta
+# The following lines are prepended by the NPC's name
+{181}{}{ estoura a tranca da porta.}
+{182}{}{ distende suas costas enquanto tenta estourar a tranca e sofre um ponto de dano.}
+
+# The following line set of lines is to be translated as:
+# NPC distendes his costas enquanto tenta estourar a tranca e
+# sofre [x] pontos de dano
+
+{183}{}{ distende suas costas enquanto tenta estourar a tranca e sofre }
+{184}{}{ pontos de dano.}
+
+{185}{}{ é muito fraco para estourar a tranca.}
+{186}{}{ distende suas costas enquanto tenta estourar a tranca e sofre um ponto de dano.}
+
+# The following line set of lines is to be translated as:
+# NPC distendes her costas enquanto tenta estourar a tranca e
+# sofre [x] pontos de dano
+
+{187}{}{ distende suas costas enquanto tenta estourar a tranca e sofre }
+{188}{}{ pontos de dano.}
+
+#############################################################
+#  Damage done to the door due to explosives.               #
+#############################################################
+
+{193}{}{A porta não sofreu nem um arranhão.}
+
+#############################################################
+#  Reporting Door Status should it be used.                 #
+#############################################################
+
+{203}{}{A porta aparenta estar trancada.}
+{204}{}{Você percebe uma armadilha na maçaneta da porta.}
+
+# NPC finds trap
+# The following line is to be translated as:
+# NPC notices uma armadilha na moldura da porta.
+
+{205}{}{ percebe uma armadilha na maçaneta da porta.}
+
+#############################################################
+#  Setting traps on a door e whether the door is open or  #
+#  closed to set the trap.                                  #
+#############################################################
+
+# Player tries to set uma armadilha on an open door
+{206}{}{Você é incapaz de armar uma armadilha nessa porta, porque a porta está aberta.}
+
+# NPC tries to set uma armadilha on an open door
+{207}{}{ é incapaz de armar uma armadilha nessa porta, porque a porta está aberta.}
+
+# Player tries to set uma armadilha on a closed door
+{208}{}{Você habilmente arma uma armadilha na moldura da porta.}
+{209}{}{Você falhou em armar corretamente uma armadilha na moldura da porta.}
+
+# NPC tries to set uma armadilha on a closed door
+{210}{}{ habilmente arma uma armadilha na moldura da porta.}
+{211}{}{ falhou em armar corretamente uma armadilha na moldura da porta.}
+
+{300}{}{Você destranca a porta.}
+{301}{}{Você tranca a porta.}
+{302}{}{Você é incapaz de trancar essa porta enquanto ela está aberta.}
+{303}{}{Essa chave não entra nessa fechadura.}
+
+# for broken doors
+{320}{}{Não há como trancar essa porta.}
+{330}{}{Essa porta esta emperrada aberta.}
+
+# Using a key na porta. (YES THIS IS A DUPLICATE BUT PLEASE DO NOT REMOVE..
+# IT MOST LIKELY IS BEING USED BY A DOOR SCRIPT SOMEWHERE)
+{400}{}{Você destranca a porta.}
+
+{414}{}{Você vê uma porta robusta com tranca, você pode conseguir arrombar.}
+{415}{}{Você vê uma porta robusta com tranca, você pode conseguir arrombar.}
+{416}{}{Você vê uma porta robusta sem tranca aparente, você pode conseguir arrombar.}
+{417}{}{Você vê uma porta robusta que você pode conseguir arrombar.}
+
+{500}{}{Essa porta é muito pesada para forçar a entrada.}
+{501}{}{Parece que você tem que ligar o gerador antes.}
+{502}{}{Você vê: a porta do elevador.}
+{503}{}{Parece que você precisa de um dispositivo eletrônico para abrir essa porta.}

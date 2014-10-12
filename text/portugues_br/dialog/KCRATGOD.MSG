@@ -1,0 +1,13 @@
+# Matheus Reis Traduzido
+#Noob-Saibot revisou este arquivo.
+
+# You see large white mole-rat
+{100}{}{Você vê um grande mole-rat branco}
+# Não traduzi mole-rat porque ainda não decidimos se vamos traduzir os nomes das criaturas.
+# You see the Keeng Ra'at.
+{101}{}{Você vê o Rei Rato.}
+# You see a large albino mole-rat with an enlarged braincase. He's frothing at
+# the mouth.
+{102}{}{Você ve um grande mole-rat albino com um crânio alargado. Ele está espumando pela boca.}
+# You have killed Keeng Ra'at!
+{103}{}{Você matou o Rei Rato!}
