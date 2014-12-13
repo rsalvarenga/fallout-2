@@ -1,5 +1,5 @@
 #############################################################
-#  Message File: diStill.msg                                #
+#  Message File: diBones.msg                                #
 #                                                           #
 #  Note: Characters within curly braces (like line 100)     #
 #        will be read in as a message string. Caution       #
@@ -17,7 +17,7 @@
 #  Log: Please note any changes that have been made to this #
 #       file and comment which lines have changed.          #
 #                                                           #
-#  Created: January 13,1998                                 #
+#  Created: January 15, 1998                                #
 #                                                           #
 #  Updated:                                                 #
 #############################################################
@@ -27,7 +27,4 @@
 #  glanced and and examined.                                #
 #############################################################
 
-{100}{}{You see a still.}
-{101}{}{Ahhh, so Becky has a still. I'd better get this information to Frankie.}
-{102}{}{You see a demolished still.}
-{103}{}{The still has been destroyed.}
+{100}{}{Você vê alguns ossos.}

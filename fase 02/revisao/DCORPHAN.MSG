@@ -1,0 +1,120 @@
+#You see a child.
+{100}{}{Você vê uma criança.}
+
+#You see a small orphan child.
+{150}{}{Você vê uma pequena criança órfã.}
+
+#Spare change?
+{200}{}{Tem alguns trocados?}
+#What?
+{201}{}{O quê?}
+#I'm not doin' anythin'!
+{202}{}{Não estou fazendo nada!}
+
+#This is Tubby's place.
+{210}{}{Esta é a barraca de Tubby.}
+#Tubby sells bad things.
+{211}{}{Tubby vende coisas ruins.}
+#Tubby's not very nice.
+{212}{}{Tubby não é muito simpático.}
+#Tubby smells funny.
+{213}{}{Tubby tem um cheiro estranho.}
+
+#This is Flick's shop.
+{220}{}{Este é o comércio de Flick.}
+#Flick is nice.
+{221}{}{Flick é legal.}
+#Flick sells a lot of different stuff.
+{222}{}{Flick vende um monte de coisas diferentes.}
+#Don't forget to say hi to Flick.
+{223}{}{Não se esqueça de dizer oi para Flick.}
+
+#This is Frankie's place.
+{230}{}{Este é o local de Frankie.}
+#You a friend of Frankie?
+{231}{}{Você é amigo de Frankie?}
+#This place smells yucky.
+{232}{}{Este lugar tem um cheiro muito nojento.}
+#Frankie's drinks are expensive… so I hear.
+{233}{}{As bebidas de Frankie são caras… é o que ouvi por aí.}
+
+#Becky's so nice.
+{240}{}{Lá no Becky é tão legal.}
+#This is Rebecca's place.
+{241}{}{Este é o local de Rebecca.}
+#Becky has the best prices on drinks… so I've heard.
+{242}{}{Becky tem os melhores preços de bebidas… foi o que ouvi por aí.}
+#Rebecca won't let me play her games.
+{243}{}{Rebecca não vai me deixar jogar seus jogos.}
+#Becky's so pretty.
+{244}{}{Becky é tão bonita.}
+#Have you met Rebecca? I wish she was my mom.
+{245}{}{Você conheceu Rebecca? Gostaria que ela fosse minha mãe.}
+
+#Hey, lady, got any spare change?
+{250}{}{Ei, senhora, tem alguns trocados?}
+#Hey, mister, got any spare change?
+{251}{}{Ei, senhor, tem alguns trocados?}
+
+#You just gonna stand there or go in?
+{270}{}{Você vai ficar aí ou vai entrar?}
+#Hi.
+{271}{}{Oi.}
+#I'm hungry.
+{272}{}{Estou com fome.}
+#Hey, you! Tubby's is always open. Come on over.
+{273}{}{Ei, você! Tubby está sempre aberto. Venha até aqui.}
+
+#You goin' in or what??
+{280}{}{Vai entrar ou o quê??}
+#Come check Flicks' place out.
+{281}{}{Venha conferir tudo na barraca Flick.}
+#Hi.
+{282}{}{Oi.}
+#Hey, you over there! Check out Flick's shop.
+{283}{}{Ei, você aeh! Venha conferir o comércio do Flick.}
+
+#Well, you goin' in?
+{290}{}{Bem, vai entrar?}
+#Hi.
+{291}{}{Oi.}
+#Don't do that.
+{292}{}{Não faça isso.}
+#Hey! Frankie's got great stuff.
+{293}{}{Ei! Frankie tem coisas ótimas.}
+
+#You should go in, Beck's very nice.
+{300}{}{Você deveria entrar, Beck é um local muito bom.}
+#I'm keepin' watch.
+{301}{}{Só vou ficar olhando.}
+#Wow, you're pretty.
+{302}{}{Uau, como você é bonita!}
+#Hi.
+{303}{}{Oi.}
+#What's your name?
+{304}{}{Como se chama?}
+#Becky would like you.
+{305}{}{Becky iria gostar de você.}
+#Ei! Come check out Becky's.
+{306}{}{Ei! Venha conferir o local de Becky.}
+
+#Ahhhh! Leave me alone.
+{310}{}{Ahhhh! Me deixe em paz.}
+#Help, I'm being repressed!
+{311}{}{Socorro, me estão reprimindo!}
+#Now we see the violence inherent in the system.
+{312}{}{Agora sim percebo a violência natural no sistema.}
+#I didn't do nuthin'.
+{313}{}{Não fiz nada.}
+#Ahhhh!
+{314}{}{Ahhhh!}
+#Missed me.
+{315}{}{Finja que não existo.}
+#You're it.
+{316}{}{Se liga otário.}
+#Don't!
+{317}{}{Não!}
+#Stop it.
+{318}{}{Pare com isso!}
+#I didn't do anythin' to you!
+{319}{}{Não fiz nada para você!}

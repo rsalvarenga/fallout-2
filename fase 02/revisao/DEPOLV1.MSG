@@ -1,0 +1,34 @@
+#Bio-storage malfunction!
+{100}{}{Mau funcionamento no Armazém Biológico!}
+#Level 4 Containment breach.
+{101}{}{Nível 4 com ruptura na contenção.}
+#Level 4 contaminated.
+{102}{}{Nível 4 contaminado.}
+#Biohazard seals Level 3 compromised.
+{103}{}{Proteções biológicas do Nível 3 comprometidas.}
+#Level 3 Containment breach.
+{104}{}{Nível 3 com ruptura de contenção.}
+#Level 3 contaminated.
+{105}{}{Nível 3 contaminado.}
+#Biohazard seals Level 2 compromised.
+{106}{}{Proteções biológicas do Nível 2 comprometidas.}
+#Level 2 Containment breach.
+{107}{}{Nível 2 com ruptura de contenção.}
+#Level 2 contaminated.
+{108}{}{Nível 2 contaminado.}
+#Biohazard seals Level 1 compromised.
+{109}{}{Proteções biológicas do Nível 1 comprometidas.}
+#Level 1 Containment breach.
+{110}{}{Nível 1 com ruptura de contenção.}
+#Level 1 Contaminated.
+{111}{}{Nível 1 contaminado.}
+
+# X minutes and Y seconds to evacuate.
+# minutes and !
+{112}{}{ minutos e !}
+# seconds to evacuate.
+{113}{}{ segundos para evacuar.}
+# minute and !
+{114}{}{ minuto e !}
+# second to evacuate.
+{115}{}{ segundo para evacuar.}

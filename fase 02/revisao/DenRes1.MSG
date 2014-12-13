@@ -1,5 +1,5 @@
 #############################################################
-#  Message File: diLocket.msg                               #
+#  Message File: DenRes1.msg                                #
 #                                                           #
 #  Note: Characters within curly braces (like line 100)     #
 #        will be read in as a message string. Caution       #
@@ -17,15 +17,15 @@
 #  Log: Please note any changes that have been made to this #
 #       file and comment which lines have changed.          #
 #                                                           #
-#  Created: January 13,1998                                 #
+#  Created: January 15, 1998                                #
 #                                                           #
 #  Updated:                                                 #
 #############################################################
 
 #############################################################
-#  The following lines are for describing the item when     #
-#  glanced and and examined.                                #
+#  The following lines are for the map script in describing #
+#  what is happening when you first enter the map.          #
 #############################################################
 
-{100}{}{You see an old locket.}
-{101}{}{This is most likely the locket that the ghost was looking for.}
+#You have entered the residential end of The Den.
+{100}{}{Você entrou no final de Den residencial.}

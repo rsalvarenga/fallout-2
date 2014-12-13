@@ -1,5 +1,5 @@
 #############################################################
-#  Message File: diDiary.msg                                #
+#  Message File: diStill.msg                                #
 #                                                           #
 #  Note: Characters within curly braces (like line 100)     #
 #        will be read in as a message string. Caution       #
@@ -27,8 +27,11 @@
 #  glanced and and examined.                                #
 #############################################################
 
-{100}{}{You see an old diary.}
-{101}{}{It appears to be a diary which belonged to a young girl. The writing on the inside cover says: "Property of Anna"
- Most of the pages are either torn or faded, but one is still readable. "Day 271: Today my mother gave me a gold locket.
- It is the most beautiful thing I have ever owned. I will never part with it."}
-{102}{}{The old diary is too frail to keep handling.}
+#You see a still.}
+{100}{}{Você vê uma destilaria.}
+#Ahhh, so Becky has a still. I'd better get this information to Frankie.
+{101}{}{Ahhh, então Becky tem uma destilaria. Acho melhor passar esta informação ao Frankie.}
+#You see a demolished still.
+{102}{}{Você vê uma destilaria demolida.}
+#The still has been destroyed.
+{103}{}{A destilaria foi destruída.}

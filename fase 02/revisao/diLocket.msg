@@ -1,5 +1,5 @@
 #############################################################
-#  Message File: DenBus2.msg                               #
+#  Message File: diLocket.msg                               #
 #                                                           #
 #  Note: Characters within curly braces (like line 100)     #
 #        will be read in as a message string. Caution       #
@@ -17,14 +17,17 @@
 #  Log: Please note any changes that have been made to this #
 #       file and comment which lines have changed.          #
 #                                                           #
-#  Created: January 15, 1998                                #
+#  Created: January 13,1998                                 #
 #                                                           #
 #  Updated:                                                 #
 #############################################################
 
 #############################################################
-#  The following lines are for the map script in describing #
-#  what is happening when you first enter the map.          #
+#  The following lines are for describing the item when     #
+#  glanced and and examined.                                #
 #############################################################
 
-{100}{}{*** THIS IS WHERE THE TOWN ENTERANCE MESSAGE SHOULD BE ***.}
+#You see an old locket.
+{100}{}{Você vê um velho medalhão.}
+#This is most likely the locket that the ghost was looking for.
+{101}{}{Isso é provávelemte o medalhão que a fantasma estava procurando.}

@@ -1,0 +1,28 @@
+#This town looks like one mean place. A good place to own a gun.
+{100}{}{Esta cidade parece um lugar malvado. Um bom lugar para se portar uma arma.}
+#You helped Lara's gang to win the battle.
+{200}{}{Você ajudou a gangue de Lara vencer a batalha.}
+#You've successfully ambushed Lara's gang.
+{300}{}{Você emboscou com sucesso a gangue de Lara.}
+#You've found Becky's still for Frankie.
+{400}{}{Você encontrou a destilaria de Becky para Frankie.}
+#You've destroyed Becky's still.
+{500}{}{Você destruiu a destilaria de Becky.}
+#You convinced Frankie to buy from Becky.
+{600}{}{Você convenceu Frankie comprar de Becky.}
+#You finished your first slave run.
+{700}{}{Você concluiu sua primeira caravana com escravos.}
+#You paid Fred's debt off to Rebecca.
+{800}{}{Você pagou a dívida de Fred para Rebecca.}
+#You returned Rebecca's book.
+{900}{}{Você devolveu o livro de Rebecca.}
+#You returned Anna's locket.
+{1000}{}{Você devolveu o medalhão de Anna.}
+#You managed to fast talk your way inside the church.
+{1100}{}{Você conseguiu convencer para te deixarem entrar na igreja.}
+#You delivered Smitty's meal.
+{1200}{}{Você entregou a refeição de Smitty.}
+#You have found a weakness in Tyler's gang.
+{1300}{}{Você encontrou um ponto fraco na gangue de Tyler.}
+#You have gotten permission for Lara's gang to attack.
+{1400}{}{Você obteve permissão para a gangue de Lara atacar.}

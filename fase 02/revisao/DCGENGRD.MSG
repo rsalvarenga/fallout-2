@@ -1,0 +1,25 @@
+#You see an intimidating ruffian.
+{100}{}{Você vê um briguento ameaçador.}
+#You see a guard of the Den.
+{101}{}{Você vê um guarda do Esconderijo.}
+
+#Not now; I’m on duty.
+{102}{}{Agora não; Estou de serviço.}
+#I cannot speak to you.
+{103}{}{Não posso falar com você.}
+#Please go away.
+{104}{}{Por favor, vá embora.}
+#Do not bother me.
+{105}{}{Não me incomode.}
+#Please see my boss.
+{106}{}{Por favor, fale com meu patrão.}
+#I am not allowed to answer your questions.
+{107}{}{Não estou autorizado a responder suas perguntas.}
+#You must cease bothering me.
+{108}{}{Você tem que parar de me incomodar.}
+#I just work here.
+{109}{}{Eu só trabalho aqui.}
+#I know nothing.
+{110}{}{Não sei de nada.}
+#I speak only to my boss.
+{111}{}{Só falo com meu patrão.}
