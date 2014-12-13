@@ -1,5 +1,5 @@
 #############################################################
-#  Message File: DenRes1.msg                                #
+#  Message File: DenBus2.msg                               #
 #                                                           #
 #  Note: Characters within curly braces (like line 100)     #
 #        will be read in as a message string. Caution       #
@@ -27,4 +27,5 @@
 #  what is happening when you first enter the map.          #
 #############################################################
 
-{100}{}{You have entered the residential end of The Den.}
+#*** THIS IS WHERE THE TOWN ENTERANCE MESSAGE SHOULD BE ***.
+{100}{}{AQUI É ONDE A MENSAGEM DE ENTRADA DA CIDADE DEVE FICAR ***.}
