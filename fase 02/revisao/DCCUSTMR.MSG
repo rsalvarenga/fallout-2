@@ -1,0 +1,225 @@
+#0. Look
+#You see a customer.
+{100}{}{Você vê um cliente.}
+#You see a townsperson.
+{101}{}{Você vê um cidadão.}
+
+#He looks like he's headed somewhere.
+{150}{}{Parece que ele está indo para algum lugar.}
+#She looks like she's headed somewhere.
+{151}{}{Parece que ela está indo para algum lugar.}
+#He's busy drinking and talking to other customers.
+{152}{}{Ele está ocupado bebendo e conversando com outros clientes.}
+#She seems to be busy talking.
+{153}{}{Ela parece estar ocupada conversando.}
+#He's looking over Tubby's shelves.
+{154}{}{Ele está olhando nas prateleiras de Tubby.}
+#She seems to be looking around Tubby's store.
+{155}{}{Ela parece estar dando uma olhada na loja de Tubby.}
+#You don't see anything unusual about him.
+{156}{}{Não se vê nada de anormal nele.}
+#You don't see anything unusual about her.
+{157}{}{Não se vê nada de anormlal nela.}
+
+#1. Hostile
+#Get away from me!
+{200}{}{Fique longe de mim!}
+#Leave me alone!
+{201}{}{Me deixe em paz!}
+#Don't touch me!
+{202}{}{Não me toque!}
+#Stop it!
+{203}{}{Pare com isso!}
+#What are you doing?
+{204}{}{O que está fazendo?}
+
+#2. Else
+#Sorry, can't talk now.
+{300}{}{Desculpe, não posso falar agora.}
+#Where was I going again?
+{301}{}{Onde eu estava indo de novo?}
+#Hello.
+{302}{}{Olá.}
+#Excuse me.
+{303}{}{Desculpe.}
+#Hi.
+{304}{}{Oi.}
+
+# 3. Becky's
+#Becky's place is the best, and not just cuz of the prices.
+{305}{}{O local Becky é o melhor, e não apenas por causa dos preços.}
+#You here for the drinks or the tables?
+{306}{}{Você aqui para beber ou jogar?}
+#All we need now are some troubadours.
+{307}{}{Tudo que precisamos agora são alguns trovadores.}
+#Hello.
+{308}{}{Olá.}
+#You a gambler?
+{309}{}{Você é um jogador?}
+#How's the outside world?
+{310}{}{Como é o mundo lá fora?}
+#Frankie's a scum bag. He's mean to Becky for no reason.
+{311}{}{Frankie é um saco de escórias. Ele é mal para Becky sem motivo.}
+#You a friend of Becky?
+{312}{}{Você é amigo de Becky?}
+#Grab a drink, friend!
+{313}{}{Pegue uma bebida, amigo!}
+#Drink up! Drinks are cheap!
+{314}{}{Beba bastante! As bebidas são baratas!}
+#There's no way these are watered down.
+{315}{}{Não tem como estarem falsificadas.}
+#That Dyer sure knows her stuff.
+{316}{}{Aquele Tintureiro com certeza conhece as mercadorias dela.}
+#Nothing like good drinks and good company.
+{317}{}{Nada como boas bebidas e boa companhia.}
+#Only trouble with Becky's drinks is you tend to drink to many!
+{318}{}{O único problema com as bebidas de Becky é que você tende a beber muito!}
+#Becky… I mean Rebecca sure is a sweetheart.
+{319}{}{Becky... Quero dizer Rebecca com certeza é um amor de pessoa.}
+#If anyone ever lays a finger on her, they'll regret it.
+{320}{}{Se alguém por um dedo nela, vai se arrepender.}
+#This is some good stuff.
+{321}{}{Isto é uma mercadoria de primeira.}
+
+#We should kill you for what you did.
+{340}{}{Deveríamos te matar pelo que fez.}
+#I don't know what she did to you but she didn't deserve to die.
+{341}{}{Não sei o que ela fez para você, mas ela não merecia morrer.}
+#Maybe we should head to New Reno, since Becky's is closed.
+{342}{}{Talvez devêssemos ir para Novo Reno, já que Becky está fechado.}
+#I miss Becky's smile.
+{343}{}{Sinto falta do sorriso de Becky.}
+#No more cheap booze.
+{344}{}{Não vai ter mais bebida barata.}
+#The Den isn't the same without Becky's.
+{345}{}{A Caverna não é a mesma sem Becky.}
+
+# 4. Frankie's
+#Frankie's is truly a hole… in the wall, that is.
+{360}{}{Frankie é um buraco real... na parede, é isso.}
+#I like the Hole better than Becky's.
+{361}{}{Gosto mais do Buraco do que do local Becky.}
+#We call this place the Hole.
+{362}{}{Chamamos este lugar de Buraco.}
+#Take a seat. Oh, wait. Maybe not.
+{363}{}{Sente-se. Oh, espere. Talvez não.}
+#Frankie's has action. Becky's is just a money pit.
+{364}{}{No Frankie tem agitação. No Becky apenas um poço de dinheiro.}
+#Frankie sure doesn't like Becky.
+{365}{}{Frankie com certeza não gosta de Becky.}
+#Frankie says Becky's drinks are watered down.
+{366}{}{Frankie diz que as bebidas de Becky são falsificadas.}
+#How's it going?
+{367}{}{Como tá indo?}
+#Frankie knows how to party.
+{368}{}{Frankie sabe como fazer uma festa.}
+#Becky's tables are rigged! Well, that's what Frankie says.
+{369}{}{As mesas de Becky são viciadas! Bem, isso é o que Frankie diz.}
+#Bottoms up!
+{370}{}{Saúde!}
+
+#Damn, I warned Frankie about how he treated people.
+{390}{}{Porra, avisei Frankie de como ele tratava as pessoas.}
+#Frankie should have watched his temper.
+{391}{}{Frankie deveria ter cuidado de seu temperamento.}
+#Now where we going to hang out?
+{392}{}{Agora onde vamos sair?}
+#Too bad Frankie's gone. He knew how to party.
+{393}{}{Que pena que Frankie se foi. Ele sabia como fazer uma festa.}
+#You got quite a temper. What'd Frankie do to you?
+{394}{}{Você tem um temperamento e tanto. O que foi que Frankie fez para você?}
+#Frankie insult your mom or something?
+{395}{}{Frankie insultou sua mãe ou algo assim?}
+
+# 5. Tubby's
+#I'm just looking around.
+{410}{}{Estou só dando uma olhada.}
+#I'm not sure what I'm looking for.
+{411}{}{Não tenho certeza do que estou procurando.}
+#Tubby sure goes through a lot of Jet.
+{412}{}{No local Tubby com certeza passa uma série de Canos de Descarga.}
+#You see anything good?
+{413}{}{Você vê alguma coisa boa?}
+#Not much here.
+{414}{}{Não muito aqui.}
+#Tubby needs to get some better suppliers.
+{415}{}{Tubby precisa conseguir alguns fornecedores melhores.}
+#You need drugs? Tubby is normally well stocked.
+{416}{}{Você precisa de drogas? Tubby normalmente é bem abastecido.}
+
+#What did you kill Tubby for?
+{430}{}{Porque você matou Tubby?}
+#No great loss, but Tubby was the only real shop in town.
+{431}{}{Nenhuma grande perda, mas Tubby era a única loja real na cidade.}
+#What'd Tubby do to piss you off?
+{432}{}{O que foi que Tubby fez para te deixar com raiva?}
+#Tubby sold you some bad shit, didn't he?
+{433}{}{Tubby te vendeu algum bagulho que não prestava, foi?}
+#The rumor is you whacked Tubby because of a bad deal or something.
+{434}{}{Ouve se dizer que você acabou com Tubby por causa de desacerto em algum negócio ou algo assim.}
+#Not surprised really. A lot of people have been sore with Tubby lately.
+{435}{}{Nada que surpreenda realmente. Um monte de pessoas têm sido lesada por Tubby recentemente.}
+
+# 6. Flick
+#Nothing I'm interested in today…!
+{440}{}{Não estou interessado em nada... hoje!}
+#Oh, hi. Just talking to my good friend Flick.
+{441}{}{Oh, oi. Só estou falando com meu bom amigo Flick.}
+#What are you doing in here?
+{442}{}{O que está fazendo aqui?}
+#You a friend of Flick's, too?
+{443}{}{Você e amigo do Flick, também?}
+#I didn't do anything.
+{444}{}{Não fiz nada.}
+#What are you staring at?
+{445}{}{O que está olhando?}
+#Just pretend you don't see me.
+{446}{}{Só finja que não me vê.}
+#Don't mind me.
+{447}{}{Não me importo.}
+
+#Damn. You killed Flick.
+{460}{}{Porra. Você matou Flick.}
+#Flick rip you off?
+{461}{}{Flick te enganou?}
+#Flick's been into some dangerous work.
+{462}{}{Flick estava com algum trabalho perigoso.}
+#That sucks about Flick.
+{463}{}{Isso é péssimo sobre Flick.}
+#Wonder what all those kids are going to do now that Flick is dead.
+{464}{}{Queria saber o que todas aquelas caras vão fazer agora que Flick está morto.}
+#Surprised Flick lasted this long.
+{465}{}{Fico surpreso de Flick durar tanto tempo.}
+
+# 7. Mom
+#We call this home.
+{480}{}{Chamamos isso de casa.}
+#Most of us grew up on Mom's cooking.
+{481}{}{A maioria de nós crescemos na cozinha da Mamãe.}
+#I've known Mom since I was a kid.
+{482}{}{Conheço Mamãe desde que era criança.}
+#Mom takes care of everyone in the Den.
+{483}{}{Mãe cuida de todos na Caverna.}
+#Mom can make a sandwich out of anything.
+{484}{}{Mamãe consegue fazer um sanduíche de qualquer coisa.}
+#I hope you get to know Mom as well as us.
+{485}{}{Espero que você conheça Mamãe, tão bem como nós.}
+#Great company, great food. What else could you ask for?
+{486}{}{Ótima companhia, comida excelente. O que mais você poderia querer?}
+#Cheers!
+{487}{}{Saúde!}
+#Hello.
+{488}{}{Olá.}
+
+#How could you have hurt poor old Mom?
+{500}{}{Como você pode ferir a pobre velha Mamãe?}
+#I've known, I mean, knew Mom all my life.
+{501}{}{Conheço, quero dizer, conhecia mamãe toda minha vida.}
+#What did she ever do to you?
+{502}{}{O que ela já fez para você?}
+#Murderer! Poor Mom…!
+{503}{}{Assassinato! Pobre Mamãe...!}
+#Why did you have to do that?
+{504}{}{Por que você teve que fazer isso?}
+#You heartless monster!
+{505}{}{Seu monstro desalmado!}
