@@ -6,8 +6,8 @@ Atualizado em: 13.12.2014
 
 FASE 01 = 58
 FASE 02 = 67
- - REVISADOS = 43
- - (falta na fase 2 = 24)
+ - REVISADOS/TRADUZIDOS = 56
+ - (falta na fase 2 = 11)
 
 TRADUZIDOS OFICIAL = 284 (JA COM INCLUSÃO DA FASE 01)
 NÃO TRADUZIDOS = 853 (english)
