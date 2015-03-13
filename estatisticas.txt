@@ -1,23 +1,36 @@
-Atualizado em: 13.12.2014
+Atualizado em: 13.03.2015
 # Arquivos para tradução: 1.204
-# Arquivos traduzidos: 327
-# Arquivos restantes: 877
+# Arquivos traduzidos: 350
+# Arquivos restantes: 854
 
 
-FASE 01 = 58
+FASE 01 = 58 -> OK
 FASE 02 = 67
- - REVISADOS/TRADUZIDOS = 56
- - (falta na fase 2 = 11)
+ - REVISADOS/TRADUZIDOS = 66
+ - (falta na fase 2 = 1)
+FASE 03 = 98
 
-TRADUZIDOS OFICIAL = 284 (JA COM INCLUSÃO DA FASE 01)
-NÃO TRADUZIDOS = 853 (english)
 
-totais
-284
-853
+TRADUZIDOS OFICIAL / PORTUGUES BR = (Ja com inclusao das fases: 01)
+ - CUTS = 21
+ - DIALOG = 240
+ - GAME = 23
+ = 284 
+
+
+NÃO TRADUZIDOS / (english) =
+ - CUTS = 118
+ - DIALOG = 628
+ - GAME = 9
+ = 755
+
+TOTAIS
+284 - TRADUZIDOS
+755 - NAO TRADUZIDOS
 ----
-1137
+1039
 +67 (fase 02)
++98 (fase 03)
 ----
 1204
 
