@@ -5,7 +5,7 @@
 # Truly Generic strings (no need for gender/number issues)
 #
 {100}{}{Você precisa de %d pontos de ação.} #You need %d action points.
-{101}{}{Sem munições.} #Out of ammo.
+{101}{}{Sem munição.} #Out of ammo.
 {102}{}{Alvo fora do alcance.} #Target out of range.
 {103}{}{Não é possível finalizar o combate com criaturas hostis nas proximidades.} #Combat cannot end with nearby hostile creatures.
 {104}{}{Linha de fogo bloqueada.} #Your aim is blocked.
@@ -23,7 +23,7 @@
 {204}{}{braço esquerdo quebrado} #crippled your left arm
 {205}{}{braço direito quebrado} #crippled your right arm
 {206}{}{cego} #blinded
-{207}{}{você morre} #were killed
+{207}{}{você morreu} #were killed
 {208}{}{te deixa ferido} #hit
 {209}{}{criticamente}
 {210}{}{em chamas} #on fire
@@ -129,11 +129,11 @@
 #          where the second %s is the name of another creature
 {506}{}{Você}
 {509}{}{Oops! %s foi atingido, em vez de %s!} #were hit instead of
-{511}{}{%s foi gravemente atingido %s, perdeu %d pontos de vida} #%s were críticoly hit in %s for %d hit points
+{511}{}{%s foi gravemente atingido %s, perdendo %d pontos de vida} #%s were críticoly hit in %s for %d hit points
 {512}{}{%s foi atingido %s perdendo %d pontos de vida}
 {513}{}{%s foi atingido perdendo %d pontos de vida}
-{514}{}{%s erro critico} #críticoly missed
-{515}{}{%s perdido} #missed
+{514}{}{%s errou criticamente} #críticoly missed
+{515}{}{%s errou} #missed
 {520}{}{%s foi gravemente atingido, perdeu %d pontos de vida} #were críticoly hit for
 {521}{}{%s foi gravemente atingido %s perdendo 1 ponto de vida}
 {522}{}{%s foi atingido %s e perdeu 1 ponto de vida}
@@ -160,8 +160,8 @@
 {561}{}{%s foi gravemente atingida %s, perdeu %d pontos de vida}
 {562}{}{%s foi atingida %s perdendo %d pontos de vida}
 {563}{}{%s foi atingida perdendo %d pontos de vida}
-{564}{}{%s erro critico}
-{565}{}{%s perdido}
+{564}{}{%s errou criticamente}
+{565}{}{%s errou}
 {570}{}{%s foi gravemente atingida, perdeu %d pontos de vida}
 {571}{}{%s foi gravemente atingida %s perdendo 1 ponto de vida}
 {572}{}{%s foi atingida %s e perdeu 1 ponto de vida}
@@ -186,8 +186,8 @@
 {611}{}{%s é gravemente atingido %s, perdendo %d pontos de vida}
 {612}{}{%s é atingido %s, perdendo %d pontos de vida}
 {613}{}{%s é atingido, perdendo %d pontos de vida}
-{614}{}{%s erro critico}
-{615}{}{%s perdido}
+{614}{}{%s errou criticamente}
+{615}{}{%s errou}
 {620}{}{%s é gravemente atingido, perdendo %d pontos de vida}
 {621}{}{%s é gravemente atingido %s, perdendo 1 ponto de vida}
 {622}{}{%s é atingido %s, perdendo 1 ponto de vida}
