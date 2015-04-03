@@ -18,9 +18,9 @@
 {204}{}{Interior do Templo} #Temple Interior
 #
 # Den
-{210}{}{West Side}
-{211}{}{East Side}
-{212}{}{Den Residential}
+{210}{}{Zona Oeste} #West Side
+{211}{}{Zona Leste} #East Side
+{212}{}{Residencial Den} #Den Residential
 #
 # Klamath
 {220}{}{Centro da cidade} #Downtown
