@@ -5,23 +5,21 @@ Atualizado em: 13.03.2015
 
 
 FASE 01 = 58 -> OK
-FASE 02 = 67
- - REVISADOS/TRADUZIDOS = 66
- - (falta na fase 2 = 1)
+FASE 02 = 67 -> OK
 FASE 03 = 98
 
 
-TRADUZIDOS OFICIAL / PORTUGUES BR = (Ja com inclusao das fases: 01)
- - CUTS = 21
+TRADUZIDOS OFICIAL / PORTUGUES BR (Ja com inclusao das fases: 01)
+ - CUTS   = 21
  - DIALOG = 240
- - GAME = 23
+ - GAME   = 23
  = 284 
 
 
 NÃO TRADUZIDOS / (english) =
- - CUTS = 118
+ - CUTS   = 118
  - DIALOG = 628
- - GAME = 9
+ - GAME   = 9
  = 755
 
 TOTAIS
