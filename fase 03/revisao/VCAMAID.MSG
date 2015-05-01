@@ -1,0 +1,16 @@
+#You see a Citizen.
+{100}{}{Você vê um Cidadão.}
+You see the Amenities aide.
+{101}{}{Você vê o auxiliar de Equipamentos.}
+#Talk to Randal if you need help.
+{102}{}{Converse com o Randal se precisar de ajuda.}
+#This is where we share goods for use by the Citizens.
+{103}{}{Aqui é onde distribuímos bens para o uso dos Cidadãos.}
+#Keep your hands off the stuff if you don't have approval.
+{104}{}{Tire as mãos dos materiais se você não tem a autorização.}
+#It's a job.
+{105}{}{Isso é um trabalho.}
+#Randal can help you with what you need.
+{106}{}{Randal pode ajudar com o que você precisa.}
+#The Vault's machines make a lot of this stuff.
+{107}{}{As máquinas do Vault fazem um monte dessas coisas.}
