@@ -1,0 +1,18 @@
+# You see a prisoner.
+{100}{}{Você vê um preso.}
+# You see an outsider prisoner.
+{101}{}{Você vê um preso forasteiro.}
+# Well, that's the last time *I* skip curfew.
+{102}{}{Bem, esta é a última vez que *eu* ignoro o toque de recolher.}
+# Another week and it's back to the Allocation Center...
+{103}{}{Mais outra semana e está de volta ao Centro de Alocação...}
+# Better keep on moving, friend. They see us talking, we'll both
+# catch hell.
+{104}{}{Melhor continuar andando, amigo. Eles nos vêem conversando, nós dois
+ estamos ferrados.}
+# Damn Barkus, sticking me here. When I get my hands on him...
+{105}{}{Maldito Barkus, me segurando nesse lugar. Quando eu colocar minhas mãos nele...}
+# Wish I'd never come to Vault City. "Free" city... what a joke
+{106}{}{Queria nunca ter vindo pra Vault City. Cidade "livre"... que piada.}
+# At least the food ain't bad.
+{107}{}{Ao menos a comida não é ruim.}

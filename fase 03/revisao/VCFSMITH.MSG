@@ -1,0 +1,16 @@
+# You see a tired-looking woman.
+{100}{}{Você vê uma mulher com aparência cansada.}
+# You see Mrs. Smith.
+{101}{}{Você vê a senhora Smith.}
+# You'll be wanting to talk to my husband.
+{102}{}{Você irá querer falar com meu marido.}
+# Me and my husband thank you.
+{103}{}{Eu e meu marido te agradecemos.}
+# Thank you... my husband has something for you, for your troubles.
+{104}{}{Obrigado... meu marido tem algo para você, para seus problemas.}
+# We’ll be needin' that plow soon...
+{105}{}{Nós vamos precisar daquele arado em breve...}
+# Get away from here before I call the guards!
+{106}{}{Dê o fora daqui antes que eu chame os guardas!}
+# You look like a nice enough sort. Could you help us with a problem?
+{107}{}{Você parece um tipo bom o suficiente. Você poderia nos ajudar com um problema?}
