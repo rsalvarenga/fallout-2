@@ -1,6 +1,6 @@
-{100}{}{You see an elderly man with deep wrinkles along his face. If he notices you looking at him, he gives no sign.}
-{101}{}{You see Cassidy.}
-{102}{}{You see an elderly man with deep wrinkles along his face. He nods at you.}
+{100}{}{Você vê um homem mais velho, com profundas rugas em seu rosto. Se ele percebeu que você está olhando pra ele, ele não demonstra.} # You see an elderly man with deep wrinkles along his face. If he notices you looking at him, he gives no sign.
+{101}{}{Você vê Cassidy.} # You see Cassidy.
+{102}{}{Você vê um homem mais velho, com profundas rugas em seu rosto. Ele acena pra você.} # You see an elderly man with deep wrinkles along his face. He nods at you.
 {103}{Cas0103}{Well, now. I ain't seen you around before, stranger. Name's Cassidy. I run this place. What can I do for you?}
 {104}{Cas0104}{Well now, if it ain't the mysterious stranger. What can I do for you today?}
 {105}{}{Ug Nog?}
