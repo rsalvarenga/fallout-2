@@ -1,12 +1,13 @@
-Atualizado em: 13.03.2015
+Atualizado em: 16.07.2015
 # Arquivos para tradução: 1.204
-# Arquivos traduzidos: 350 (Fase 1,2)
-# Arquivos restantes: 854
+# Arquivos traduzidos: 388 (Fase 1,2) + parcial fase 3
+# Arquivos restantes: 816
+# 32%
 
 
 FASE 01 = 58 -> OK
 FASE 02 = 67 -> OK
-FASE 03 = 98
+FASE 03 = 98 -> Parcial(Traduz. 61 ) - falta 37
 
 
 TRADUZIDOS OFICIAL / PORTUGUES BR (Ja com inclusao das fases: 01)
